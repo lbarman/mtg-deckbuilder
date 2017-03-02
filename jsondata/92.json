@@ -1,0 +1,5382 @@
+[
+  {
+    "name": "Minotaur Explorer",
+    "id": "minotaur-explorer",
+    "url": "https://api.deckbrew.com/mtg/cards/minotaur-explorer",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/minotaur-explorer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur",
+      "scout"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "Dave Dorman",
+        "multiverse_id": 31786,
+        "flavor": "After the invasion devastated the Talruum and Hurloon tribes, the survivors began to search for other minotaurs.",
+        "number": "206",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=31786",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/31786.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/minotaur-explorer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/31786"
+      }
+    ]
+  },
+  {
+    "name": "Minotaur Illusionist",
+    "id": "minotaur-illusionist",
+    "url": "https://api.deckbrew.com/mtg/cards/minotaur-illusionist",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/minotaur-illusionist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur",
+      "wizard"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{R}",
+    "text": "{1}{U}: Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "uncommon",
+        "artist": "Mark Zug",
+        "multiverse_id": 28008,
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=28008",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/28008.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/minotaur-illusionist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/28008"
+      }
+    ]
+  },
+  {
+    "name": "Minotaur Skullcleaver",
+    "id": "minotaur-skullcleaver",
+    "url": "https://api.deckbrew.com/mtg/cards/minotaur-skullcleaver",
+    "store_url": "http://store.tcgplayer.com/magic/theros/minotaur-skullcleaver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "minotaur"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Haste\nWhen Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Phill Simmer",
+        "multiverse_id": 373698,
+        "flavor": "\"Their only dreams are of full stomachs.\"\n—Kleon the Iron-Booted",
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373698",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373698.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/minotaur-skullcleaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373698"
+      }
+    ]
+  },
+  {
+    "name": "Minotaur Tactician",
+    "id": "minotaur-tactician",
+    "url": "https://api.deckbrew.com/mtg/cards/minotaur-tactician",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/minotaur-tactician?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Haste\nMinotaur Tactician gets +1/+1 as long as you control a white creature.\nMinotaur Tactician gets +1/+1 as long as you control a blue creature.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 26849,
+        "number": "65",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26849",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26849.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/minotaur-tactician?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26849"
+      }
+    ]
+  },
+  {
+    "name": "Minotaur Warrior",
+    "id": "minotaur-warrior",
+    "url": "https://api.deckbrew.com/mtg/cards/minotaur-warrior",
+    "store_url": "http://store.tcgplayer.com/magic/portal/minotaur-warrior?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "common",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 4351,
+        "flavor": "The herd's patience, the stampede's fury.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4351",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4351.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/minotaur-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4351"
+      }
+    ]
+  },
+  {
+    "name": "Miracle Worker",
+    "id": "miracle-worker",
+    "url": "https://api.deckbrew.com/mtg/cards/miracle-worker",
+    "store_url": "http://store.tcgplayer.com/magic/the-dark/miracle-worker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "{T}: Destroy target Aura attached to a creature you control.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "The Dark",
+        "set_id": "DRK",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 1813,
+        "flavor": "\"Those blessed hands could bring surcease to even the most tainted soul.\" —Sister Betje, Miracles of the Saints",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1813",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1813.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DRK",
+        "store_url": "http://store.tcgplayer.com/magic/the-dark/miracle-worker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1813"
+      }
+    ]
+  },
+  {
+    "name": "Miraculous Recovery",
+    "id": "miraculous-recovery",
+    "url": "https://api.deckbrew.com/mtg/cards/miraculous-recovery",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=miraculous-recovery",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Heroes vs. Monsters",
+        "set_id": "DDL",
+        "rarity": "uncommon",
+        "artist": "Mark Winters",
+        "multiverse_id": 373370,
+        "flavor": "\"I am the rock of the polis. Death only strengthens me.\"",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373370",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373370.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/miraculous-recovery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373370"
+      },
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Brian Horton",
+        "multiverse_id": 3720,
+        "flavor": "\"You stop breathing for just a few minutes and everyone jumps to conclusions.\"\n—Zarkuu, necrosavant",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3720",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3720.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/miraculous-recovery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3720"
+      }
+    ]
+  },
+  {
+    "name": "Mirari",
+    "id": "mirari",
+    "url": "https://api.deckbrew.com/mtg/cards/mirari",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirari",
+    "types": [
+      "artifact"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Donato Giancola",
+        "multiverse_id": 31801,
+        "flavor": "\"It offers you what you want, not what you need.\"\n—Braids, dementia summoner",
+        "number": "303",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=31801",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/31801.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/mirari?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/31801"
+      },
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "Donato Giancola",
+        "multiverse_id": 109724,
+        "flavor": "\"It offers you what you want, not what you need.\"\n—Braids, dementia summoner",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=109724",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/109724.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/mirari?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/109724"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Donato Giancola",
+        "multiverse_id": 376408,
+        "flavor": "\"It offers you what you want, not what you need.\"\n—Braids, dementia summoner",
+        "number": "246",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376408",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376408.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/mirari?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376408"
+      },
+      {
+        "set": "From the Vault: Relics",
+        "set_id": "V10",
+        "rarity": "mythic",
+        "artist": "Donato Giancola",
+        "multiverse_id": 212635,
+        "flavor": "\"It offers you what you want, not what you need.\"\n—Braids, dementia summoner",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=212635",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/212635.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V10",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-relics/mirari?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/212635"
+      }
+    ]
+  },
+  {
+    "name": "Mirari's Wake",
+    "id": "miraris-wake",
+    "url": "https://api.deckbrew.com/mtg/cards/miraris-wake",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=miraris-wake",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{W}",
+    "text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "mythic",
+        "artist": "Volkan Baga",
+        "multiverse_id": 382308,
+        "flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+        "number": "189",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382308",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382308.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382308"
+      },
+      {
+        "set": "Pro Tour",
+        "set_id": "pPRO",
+        "rarity": "special",
+        "artist": "Volkan Baga",
+        "multiverse_id": 0,
+        "flavor": "Even after a false god tore magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+        "store_url": "http://store.tcgplayer.com/magic/pro-tour/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 338455,
+        "flavor": "Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338455",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338455.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338455"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 35057,
+        "flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=35057",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/35057.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/35057"
+      }
+    ]
+  },
+  {
+    "name": "Mire Blight",
+    "id": "mire-blight",
+    "url": "https://api.deckbrew.com/mtg/cards/mire-blight",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/mire-blight?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Enchant creature\nWhen enchanted creature is dealt damage, destroy it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Dave Kendall",
+        "multiverse_id": 190401,
+        "flavor": "\"Is there anything in Guul Draz that doesn't suck the life out of you?\"\n—Tarsa, Sea Gate sell-sword",
+        "number": "104",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190401",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190401.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/mire-blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190401"
+      }
+    ]
+  },
+  {
+    "name": "Mire Boa",
+    "id": "mire-boa",
+    "url": "https://api.deckbrew.com/mtg/cards/mire-boa",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/mire-boa?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{G}: Regenerate Mire Boa.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "common",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 122420,
+        "flavor": "Mire slime courses through its veins in place of blood. No sooner does it bleed than it opens its mouth to replace the loss.",
+        "number": "135",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122420",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122420.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/mire-boa?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122420"
+      }
+    ]
+  },
+  {
+    "name": "Mire Kavu",
+    "id": "mire-kavu",
+    "url": "https://api.deckbrew.com/mtg/cards/mire-kavu",
+    "store_url": "http://store.tcgplayer.com/magic/planeshift/mire-kavu?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kavu"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Mire Kavu gets +1/+1 as long as you control a Swamp.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planeshift",
+        "set_id": "PLS",
+        "rarity": "common",
+        "artist": "Wayne England",
+        "multiverse_id": 26363,
+        "flavor": "\"At this rate,\" said Sisay, \"the next kavu we see will have wings.\"",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26363",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26363.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+        "store_url": "http://store.tcgplayer.com/magic/planeshift/mire-kavu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26363"
+      }
+    ]
+  },
+  {
+    "name": "Miren, the Moaning Well",
+    "id": "miren-the-moaning-well",
+    "url": "https://api.deckbrew.com/mtg/cards/miren-the-moaning-well",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/miren-the-moaning-well?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 88807,
+        "number": "163",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=88807",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/88807.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/miren-the-moaning-well?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/88807"
+      }
+    ]
+  },
+  {
+    "name": "Mire Shade",
+    "id": "mire-shade",
+    "url": "https://api.deckbrew.com/mtg/cards/mire-shade",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/mire-shade?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shade"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 3300,
+        "flavor": "\"We realized the bog had not given up a soul but had come to claim a new one.\"\n—Scout Ekemet, final journal",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3300",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3300.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/mire-shade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3300"
+      }
+    ]
+  },
+  {
+    "name": "Mire's Malice",
+    "id": "mires-malice",
+    "url": "https://api.deckbrew.com/mtg/cards/mires-malice",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/mires-malice?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Target opponent discards two cards.\nAwaken 3—{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Jakub Kasper",
+        "multiverse_id": 401949,
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401949",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401949.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/mires-malice?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401949"
+      }
+    ]
+  },
+  {
+    "name": "Mire's Toll",
+    "id": "mires-toll",
+    "url": "https://api.deckbrew.com/mtg/cards/mires-toll",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mires-toll",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "common",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 194002,
+        "flavor": "As the bridge snapped, Berko was sure he heard the swamp laughing at him.",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194002",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194002.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/mires-toll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194002"
+      },
+      {
+        "set": "Duel Decks: Nissa vs. Ob Nixilis",
+        "set_id": "DDR",
+        "rarity": "common",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 417478,
+        "flavor": "As the bridge snapped, Berko was sure he heard the swamp laughing at him.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417478",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417478.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDR",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-nissa-vs-ob-nixilis/mires-toll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417478"
+      }
+    ]
+  },
+  {
+    "name": "Mirko Vosk, Mind Drinker",
+    "id": "mirko-vosk-mind-drinker",
+    "url": "https://api.deckbrew.com/mtg/cards/mirko-vosk-mind-drinker",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/mirko-vosk-mind-drinker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{B}",
+    "text": "Flying\nWhenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Dimir",
+        "rarity": "rare",
+        "artist": "Chase Stone",
+        "multiverse_id": 369026,
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=369026",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/369026.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/mirko-vosk-mind-drinker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/369026"
+      }
+    ]
+  },
+  {
+    "name": "Mirozel",
+    "id": "mirozel",
+    "url": "https://api.deckbrew.com/mtg/cards/mirozel",
+    "store_url": "http://store.tcgplayer.com/magic/exodus/mirozel?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\nWhen Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "uncommon",
+        "artist": "Jim Nelson",
+        "multiverse_id": 5189,
+        "flavor": "The mirozels are the only stars in Rath's opaque skies.",
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5189",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5189.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/mirozel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5189"
+      }
+    ]
+  },
+  {
+    "name": "Mirran Crusader",
+    "id": "mirran-crusader",
+    "url": "https://api.deckbrew.com/mtg/cards/mirran-crusader",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirran-crusader",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "Double strike, protection from black and from green",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 213802,
+        "flavor": "A symbol of what Mirrodin once was and hope for what it will be again.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213802",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213802.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirran-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213802"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "rare",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 397737,
+        "flavor": "A symbol of what Mirrodin once was and hope for what it will be again.",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/mirran-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397737"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 0,
+        "flavor": "A symbol of what Mirrodin once was and hope for what it will be again.",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/mirran-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Mirran Mettle",
+    "id": "mirran-mettle",
+    "url": "https://api.deckbrew.com/mtg/cards/mirran-mettle",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirran-mettle?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Target creature gets +2/+2 until end of turn.\nMetalcraft — That creature gets +4/+4 until end of turn instead if you control three or more artifacts.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 213819,
+        "flavor": "\"Our land will not yield to Phyrexian corruption!\"",
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213819",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213819.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirran-mettle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213819"
+      }
+    ]
+  },
+  {
+    "name": "Mirran Spy",
+    "id": "mirran-spy",
+    "url": "https://api.deckbrew.com/mtg/cards/mirran-spy",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirran-spy?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drone"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Flying\nWhenever you cast an artifact spell, you may untap target creature.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Dave Kendall",
+        "multiverse_id": 213779,
+        "flavor": "Accurate information is a precious commodity in times of war.",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213779",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213779.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirran-spy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213779"
+      }
+    ]
+  },
+  {
+    "name": "Mirri",
+    "id": "mirri",
+    "url": "https://api.deckbrew.com/mtg/cards/mirri",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/mirri?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 4965,
+        "flavor": "Mirri and Gerrard have been the best of friends since they trained together under the maro-sorcerer Multani. A fierce and agile warrior, she rejoined Gerrard aboard the Weatherlight as his unofficial first mate shortly after he assumed command of the flying ship.",
+        "number": "",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4965",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4965.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/mirri?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4965"
+      }
+    ]
+  },
+  {
+    "name": "Mirri, Cat Warrior",
+    "id": "mirri-cat-warrior",
+    "url": "https://api.deckbrew.com/mtg/cards/mirri-cat-warrior",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirri-cat-warrior",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "cat",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 397392,
+        "flavor": "\"Full of beauty and grace, with a predator's instincts . . . Although she wanders, I have always thought Mirri belongs in Llanowar most of all.\"\n—Rofellos, Llanowar emissary",
+        "number": "180",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397392",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397392.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/mirri-cat-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397392"
+      },
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 6155,
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6155",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6155.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/mirri-cat-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6155"
+      },
+      {
+        "set": "Anthologies",
+        "set_id": "ATH",
+        "rarity": "special",
+        "artist": "Daren Bader",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+        "store_url": "http://store.tcgplayer.com/magic/anthologies/mirri-cat-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 106405,
+        "flavor": "\"Full of beauty and grace, with a predator's instincts . . . Although she wanders, I have always thought Mirri belongs in Llanowar most of all.\"\n—Rofellos, Llanowar emissary",
+        "number": "279",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106405",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106405.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/mirri-cat-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106405"
+      }
+    ]
+  },
+  {
+    "name": "Mirri's Guile",
+    "id": "mirris-guile",
+    "url": "https://api.deckbrew.com/mtg/cards/mirris-guile",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/mirris-guile?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "At the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Brom",
+        "multiverse_id": 4770,
+        "flavor": "Hanna was astounded. Mirri read every leaf and wisp of breeze like a book of ancient lore.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4770",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4770.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/mirris-guile?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4770"
+      }
+    ]
+  },
+  {
+    "name": "Mirri the Cursed",
+    "id": "mirri-the-cursed",
+    "url": "https://api.deckbrew.com/mtg/cards/mirri-the-cursed",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/mirri-the-cursed?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "cat",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Flying, first strike, haste\nWhenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 122406,
+        "flavor": "A hero fails, a martyr falls. Time twists and destinies interchange.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122406",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122406.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/mirri-the-cursed?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122406"
+      }
+    ]
+  },
+  {
+    "name": "Mirri the Cursed Avatar",
+    "id": "mirri-the-cursed-avatar",
+    "url": "https://api.deckbrew.com/mtg/cards/mirri-the-cursed-avatar",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/mirri-the-cursed-avatar?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Creatures you control have \"{T}: Another target creature gets -1/-1 until end of turn. Put a +1/+1 counter on this creature.\"",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "UDON",
+        "multiverse_id": 182279,
+        "flavor": "PLC Prize Avatar",
+        "number": "67",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=182279",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/182279.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/mirri-the-cursed-avatar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/182279"
+      }
+    ]
+  },
+  {
+    "name": "Mirrodin's Core",
+    "id": "mirrodins-core",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrodins-core",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirrodins-core",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{T}: Put a charge counter on Mirrodin's Core.\n{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 382309,
+        "number": "208",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382309",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382309.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/mirrodins-core?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382309"
+      },
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 39421,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39421",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39421.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/mirrodins-core?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39421"
+      }
+    ]
+  },
+  {
+    "name": "Mirrored Depths",
+    "id": "mirrored-depths",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrored-depths",
+    "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/mirrored-depths?partner=DECKBREW",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "karsus"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Whenever a player casts a spell, that player flips a coin. If he or she loses the flip, counter that spell.\nWhenever you roll {CHAOS}, target player reveals the top card of his or her library. If it's a nonland card, you may cast it without paying its mana cost.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Chippy",
+        "multiverse_id": 423632,
+        "number": "51",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423632",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423632.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/mirrored-depths?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423632"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Entity",
+    "id": "mirror-entity",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-entity",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirror-entity",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shapeshifter"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Changeling (This card is every creature type.)\n{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 141818,
+        "flavor": "Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand times over.",
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141818",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141818.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/mirror-entity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141818"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 420687,
+        "flavor": "Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand times over.",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420687",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420687.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/mirror-entity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420687"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 397806,
+        "flavor": "Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand times over.",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397806",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397806.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/mirror-entity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397806"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 376409,
+        "flavor": "Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand times over.",
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376409",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376409.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/mirror-entity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376409"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Entity Avatar",
+    "id": "mirror-entity-avatar",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-entity-avatar",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/mirror-entity-avatar?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{X}: Choose a creature type. Until end of turn, creatures you control of the chosen type have base power and toughness X/X and gain all creature types.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "UDON",
+        "multiverse_id": 182284,
+        "flavor": "LRW Prize Avatar",
+        "number": "74",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=182284",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/182284.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/mirror-entity-avatar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/182284"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Gallery",
+    "id": "mirror-gallery",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-gallery",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/mirror-gallery?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "The \"legend rule\" doesn't apply.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 74555,
+        "flavor": "Only in mirrors do heroes find their equal.",
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74555",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74555.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/mirror-gallery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74555"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Golem",
+    "id": "mirror-golem",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-golem",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/mirror-golem?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "golem"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "Imprint — When Mirror Golem enters the battlefield, you may exile target card from a graveyard.\nMirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 48210,
+        "number": "208",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48210",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48210.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/mirror-golem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48210"
+      }
+    ]
+  },
+  {
+    "name": "Mirror-Mad Phantasm",
+    "id": "mirror-mad-phantasm",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-mad-phantasm",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/mirror-mad-phantasm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Flying\n{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.",
+    "power": "5",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "mythic",
+        "artist": "Howard Lyon",
+        "multiverse_id": 227297,
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=227297",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/227297.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/mirror-mad-phantasm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/227297"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Match",
+    "id": "mirror-match",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-match",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2015/mirror-match?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{4}{U}{U}",
+    "text": "Cast Mirror Match only during the declare blockers step.\nFor each creature attacking you or a planeswalker you control, create a token that's a copy of that creature and that's blocking that creature. Exile those tokens at end of combat.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "uncommon",
+        "artist": "Steve Prescott",
+        "multiverse_id": 405301,
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405301",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405301.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/mirror-match?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405301"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Mirror",
+    "id": "mirror-mirror",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-mirror",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/mirror-mirror?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 7,
+    "cost": "{7}",
+    "text": "Mirror Mirror comes into play tapped.\n{7}, {T}, Sacrifice Mirror Mirror: At end of turn, exchange life totals with target player and exchange all cards in play that you control, and all cards in your hand, library, and graveyard, with that player until end of game.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 9765,
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9765",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9765.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/mirror-mirror?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9765"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Mockery",
+    "id": "mirror-mockery",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-mockery",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/mirror-mockery?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Enchant creature\nWhenever enchanted creature attacks, you may create a token that's a copy of that creature. Exile that token at end of combat.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "rare",
+        "artist": "Ryan Alexander Lee",
+        "multiverse_id": 394625,
+        "flavor": "Who you are constantly runs toward who you will be.",
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394625",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394625.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/mirror-mockery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394625"
+      }
+    ]
+  },
+  {
+    "name": "Mirror of Fate",
+    "id": "mirror-of-fate",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-of-fate",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/mirror-of-fate?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "{T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "rare",
+        "artist": "Alan Pollack",
+        "multiverse_id": 193878,
+        "flavor": "As the glass shattered, forgotten realities and dead memories came flooding back.",
+        "number": "215",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193878",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193878.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/mirror-of-fate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193878"
+      }
+    ]
+  },
+  {
+    "name": "Mirrorpool",
+    "id": "mirrorpool",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrorpool",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/mirrorpool?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Mirrorpool enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n{4}{C}, {T}, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "mythic",
+        "artist": "Cliff Childs",
+        "multiverse_id": 407684,
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407684",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407684.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/mirrorpool?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407684"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Sheen",
+    "id": "mirror-sheen",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-sheen",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/mirror-sheen?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U/R}{U/R}",
+    "text": "{1}{U/R}{U/R}: Copy target instant or sorcery spell that targets you. You may choose new targets for the copy.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "rare",
+        "artist": "John Avon",
+        "multiverse_id": 152106,
+        "flavor": "Even treefolk witches steer clear of the unpredictable woods near Glen Elendra. Spells refract off the glamer-polished trees and the eyes of lurking pucas.",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152106",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152106.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/mirror-sheen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152106"
+      }
+    ]
+  },
+  {
+    "name": "Mirror-Sigil Sergeant",
+    "id": "mirror-sigil-sergeant",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-sigil-sergeant",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/mirror-sigil-sergeant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rhino",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{5}{W}",
+    "text": "Trample\nAt the beginning of your upkeep, if you control a blue permanent, you may create a token that's a copy of Mirror-Sigil Sergeant.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "mythic",
+        "artist": "Chris Rahn",
+        "multiverse_id": 158598,
+        "flavor": "\"If I had many lives, I would give them all for Bant.\"",
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158598",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158598.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/mirror-sigil-sergeant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/158598"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Strike",
+    "id": "mirror-strike",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-strike",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/mirror-strike?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "uncommon",
+        "artist": "Dave Dorman",
+        "multiverse_id": 24554,
+        "flavor": "\"Enemies can be your weapons or your shields. Simply show them which they are.\"\n—The Teachings of Zho",
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24554",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24554.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/mirror-strike?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24554"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Universe",
+    "id": "mirror-universe",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-universe",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirror-universe",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "{T}, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Phil Foglio",
+        "multiverse_id": 159307,
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159307",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159307.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/mirror-universe?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159307"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Phil Foglio",
+        "multiverse_id": 1414,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1414",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1414.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/mirror-universe?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1414"
+      }
+    ]
+  },
+  {
+    "name": "Mirror Wall",
+    "id": "mirror-wall",
+    "url": "https://api.deckbrew.com/mtg/cards/mirror-wall",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/mirror-wall?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wall"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Defender (This creature can't attack.)\n{W}: Mirror Wall can attack this turn as though it didn't have defender.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "common",
+        "artist": "Mark Brill",
+        "multiverse_id": 36413,
+        "flavor": "\"Breaking it would be about four hundred years bad luck.\"\n—Nomad sentry",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=36413",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/36413.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/mirror-wall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/36413"
+      }
+    ]
+  },
+  {
+    "name": "Mirrorweave",
+    "id": "mirrorweave",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrorweave",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mirrorweave",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W/U}{W/U}",
+    "text": "Each other creature becomes a copy of target nonlegendary creature until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Jim Pavelec",
+        "multiverse_id": 420851,
+        "flavor": "\"Those who are different are untrustworthy, unpredictable. Put your safety in the hands of your own kind.\"\n—Bowen, Barrenton guardcaptain",
+        "number": "234",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420851",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420851.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/mirrorweave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420851"
+      },
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "rare",
+        "artist": "Jim Pavelec",
+        "multiverse_id": 153973,
+        "flavor": "\"Those who are different are untrustworthy, unpredictable. Put your safety in the hands of your own kind.\"\n—Bowen, Barrenton guardcaptain",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153973",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153973.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/mirrorweave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153973"
+      }
+    ]
+  },
+  {
+    "name": "Mirrorwing Dragon",
+    "id": "mirrorwing-dragon",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrorwing-dragon",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/mirrorwing-dragon?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "Flying\nWhenever a player casts an instant or sorcery spell that targets only Mirrorwing Dragon, that player copies that spell for each other creature he or she controls that the spell could target. Each copy targets a different one of those creatures.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "mythic",
+        "artist": "Min Yum",
+        "multiverse_id": 414435,
+        "number": "136",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414435",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414435.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/mirrorwing-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414435"
+      }
+    ]
+  },
+  {
+    "name": "Mirrorwood Treefolk",
+    "id": "mirrorwood-treefolk",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrorwood-treefolk",
+    "store_url": "http://store.tcgplayer.com/magic/planeshift/mirrorwood-treefolk?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "treefolk"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planeshift",
+        "set_id": "PLS",
+        "rarity": "uncommon",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 26839,
+        "flavor": "It doesn't need a bite. The bark works just fine.",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26839",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26839.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+        "store_url": "http://store.tcgplayer.com/magic/planeshift/mirrorwood-treefolk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26839"
+      }
+    ]
+  },
+  {
+    "name": "Mirrorworks",
+    "id": "mirrorworks",
+    "url": "https://api.deckbrew.com/mtg/cards/mirrorworks",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirrorworks?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "Whenever another nontoken artifact enters the battlefield under your control, you may pay {2}. If you do, put a token that's a copy of that artifact onto the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Phyrexian",
+        "rarity": "rare",
+        "artist": "John Avon",
+        "multiverse_id": 214068,
+        "flavor": "The faces of Geth's corpse-dredgers are disturbingly similar.",
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214068",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214068.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/mirrorworks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/214068"
+      }
+    ]
+  },
+  {
+    "name": "Miscalculation",
+    "id": "miscalculation",
+    "url": "https://api.deckbrew.com/mtg/cards/miscalculation",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/miscalculation?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Counter target spell unless its controller pays {2}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Legacy",
+        "set_id": "ULG",
+        "rarity": "common",
+        "artist": "Jeff Laubenstein",
+        "multiverse_id": 12376,
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12376",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12376.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/miscalculation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12376"
+      }
+    ]
+  },
+  {
+    "name": "Mischief and Mayhem",
+    "id": "mischief-and-mayhem",
+    "url": "https://api.deckbrew.com/mtg/cards/mischief-and-mayhem",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/mischief-and-mayhem?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Up to two target creatures each get +4/+4 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "uncommon",
+        "artist": "Zack Stella",
+        "multiverse_id": 378498,
+        "flavor": "\"The false god Xenagos treats the whole world as his rollick site. If his whims are left unchecked, Theros will be reduced to rubble and ashes.\"\n—Elspeth",
+        "number": "126",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378498",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378498.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/mischief-and-mayhem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378498"
+      }
+    ]
+  },
+  {
+    "name": "Mischievous Poltergeist",
+    "id": "mischievous-poltergeist",
+    "url": "https://api.deckbrew.com/mtg/cards/mischievous-poltergeist",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mischievous-poltergeist",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Flying\nPay 1 life: Regenerate Mischievous Poltergeist.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "uncommon",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 15398,
+        "flavor": "\"The past is a ghost that haunts you from the moment it exists until the moment you don't.\"\n—Gerrard of the Weatherlight",
+        "number": "144",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15398",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15398.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/mischievous-poltergeist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15398"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 4462,
+        "flavor": "\"The past is a ghost that haunts you from the moment it exists until the moment you don't.\"\n—Gerrard of the Weatherlight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4462",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4462.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/mischievous-poltergeist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4462"
+      }
+    ]
+  },
+  {
+    "name": "Mischievous Quanar",
+    "id": "mischievous-quanar",
+    "url": "https://api.deckbrew.com/mtg/cards/mischievous-quanar",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/mischievous-quanar?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "{3}{U}{U}: Turn Mischievous Quanar face down.\nMorph {1}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 44403,
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44403",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44403.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/mischievous-quanar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44403"
+      }
+    ]
+  },
+  {
+    "name": "Misdirection",
+    "id": "misdirection",
+    "url": "https://api.deckbrew.com/mtg/cards/misdirection",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=misdirection",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "You may exile a blue card from your hand rather than pay Misdirection's mana cost.\nChange the target of target spell with a single target.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Mathias Kollros",
+        "multiverse_id": 382310,
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382310",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382310.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/misdirection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382310"
+      },
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 19681,
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19681",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19681.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/misdirection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19681"
+      }
+    ]
+  },
+  {
+    "name": "Mise",
+    "id": "mise",
+    "url": "https://api.deckbrew.com/mtg/cards/mise",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mise",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Arena League",
+        "set_id": "pARL",
+        "rarity": "special",
+        "artist": "Mark Zug",
+        "multiverse_id": 0,
+        "flavor": "Statistically mind-staggering as it might seem, the term \"mise\" was in fact coined simultaneously by over one thousand Magic players.",
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pARL",
+        "store_url": "http://store.tcgplayer.com/magic/arena-league/mise?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "uncommon",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 74304,
+        "flavor": "mise 'miz v alter. of might as well (1997) 1: to win when you don't deserve to 2: to top-deck the \"tings\" you need 3: to be rewarded by an opponent's bad luck 4: to coin a phrase that spreads through the tournament scene like wildfire 5: to fling a monkey 6: to split firewood using a sharp instrument 7: To burn",
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74304",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74304.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/mise?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74304"
+      }
+    ]
+  },
+  {
+    "name": "Misers' Cage",
+    "id": "misers-cage",
+    "url": "https://api.deckbrew.com/mtg/cards/misers-cage",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/misers-cage?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 3259,
+        "flavor": "\"Let him be imprisoned while his possessions wander free.\"\n—Suq'Ata legal decree",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3259",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3259.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/misers-cage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3259"
+      }
+    ]
+  },
+  {
+    "name": "Misery Charm",
+    "id": "misery-charm",
+    "url": "https://api.deckbrew.com/mtg/cards/misery-charm",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/misery-charm?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Choose one —\n• Destroy target Cleric.\n• Return target Cleric card from your graveyard to your hand.\n• Target player loses 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "David Martin",
+        "multiverse_id": 39466,
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39466",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39466.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/misery-charm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39466"
+      }
+    ]
+  },
+  {
+    "name": "Misfortune",
+    "id": "misfortune",
+    "url": "https://api.deckbrew.com/mtg/cards/misfortune",
+    "store_url": "http://store.tcgplayer.com/magic/alliances/misfortune?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black",
+      "green",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{1}{B}{R}{G}",
+    "text": "An opponent chooses one —\n• You put a +1/+1 counter on each creature you control and gain 4 life.\n• You put a -1/-1 counter on each creature that player controls and Misfortune deals 4 damage to him or her.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "rare",
+        "artist": "Ron Spencer",
+        "multiverse_id": 3225,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3225",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3225.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/misfortune?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3225"
+      }
+    ]
+  },
+  {
+    "name": "Misfortune's Gain",
+    "id": "misfortunes-gain",
+    "url": "https://api.deckbrew.com/mtg/cards/misfortunes-gain",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=misfortunes-gain",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Destroy target creature. Its owner gains 4 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "common",
+        "artist": "Jiaming",
+        "multiverse_id": 201288,
+        "flavor": "The mourning families of commanders and generals were often given land, valuables, or money to compensate for their losses.",
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201288",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201288.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/misfortunes-gain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201288"
+      },
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "common",
+        "artist": "Jiaming",
+        "multiverse_id": 10579,
+        "flavor": "The mourning families of commanders and generals were often given land, valuables, or money to compensate for their losses.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10579",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10579.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/misfortunes-gain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10579"
+      }
+    ]
+  },
+  {
+    "name": "Misguided Rage",
+    "id": "misguided-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/misguided-rage",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/misguided-rage?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Target player sacrifices a permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "common",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 43555,
+        "flavor": "Only when the anger passed did Varv realize he had burned down his home, destroyed his weapons, and killed his friend Furt.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43555",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43555.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/misguided-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43555"
+      }
+    ]
+  },
+  {
+    "name": "Mishra",
+    "id": "mishra",
+    "url": "https://api.deckbrew.com/mtg/cards/mishra",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/mishra?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "If a creature you control would deal damage, it deals double that damage instead.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 12327,
+        "flavor": "Both complement and antithesis to his older brother Urza, Mishra also mastered the intricacies of artifice. It was Mishra's strength that first gave rise to the massive Phyrexian war engines on Dominaria, and it was his weakness that pushed him, Urza, and Dominaria itself to the point of annihilation.",
+        "number": "",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12327",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12327.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/mishra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12327"
+      }
+    ]
+  },
+  {
+    "name": "Mishra, Artificer Prodigy",
+    "id": "mishra-artificer-prodigy",
+    "url": "https://api.deckbrew.com/mtg/cards/mishra-artificer-prodigy",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/mishra-artificer-prodigy?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "artificer",
+      "human"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{1}{U}{B}{R}",
+    "text": "Whenever you cast an artifact spell, you may search your graveyard, hand, and/or library for a card with the same name as that spell and put it onto the battlefield. If you search your library this way, shuffle it.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 113539,
+        "flavor": "A sojourn through time gave dark inspiration to one gifted young mind.",
+        "number": "243",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=113539",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/113539.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/mishra-artificer-prodigy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/113539"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Bauble",
+    "id": "mishras-bauble",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-bauble",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/mishras-bauble?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 0,
+    "cost": "{0}",
+    "text": "{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "uncommon",
+        "artist": "Chippy",
+        "multiverse_id": 122122,
+        "flavor": "\"Arcum is a babbling fool Phyrexian technology is our greatest blessing. Take this delightful trinket for instance . . .\"\n—Heidar, Rimewind master",
+        "number": "138",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122122",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122122.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/mishras-bauble?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122122"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Factory",
+    "id": "mishras-factory",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-factory",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mishras-factory",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 2387,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2387",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2387.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/mishras-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2387"
+      },
+      {
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
+        "rarity": "uncommon",
+        "artist": "Scott Chou",
+        "multiverse_id": 218340,
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=218340",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/218340.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/mishras-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/218340"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 1071,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1071",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1071.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-factory-(fall)?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1071"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 1072,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1072",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1072.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-factory-(spring)?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1072"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 1073,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1073",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1073.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-factory-(summer)?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1073"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "uncommon",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 1074,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1074",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1074.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-factory-(winter)?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1074"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "uncommon",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 159114,
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159114",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159114.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/mishras-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159114"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Scott Chou",
+        "multiverse_id": 413784,
+        "number": "242",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413784",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413784.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/mishras-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413784"
+      },
+      {
+        "set": "Judge Gift Program",
+        "set_id": "pJGP",
+        "rarity": "special",
+        "artist": "Kaja \u0026 Phil Foglio",
+        "multiverse_id": 0,
+        "number": "23",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/mishras-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Groundbreaker",
+    "id": "mishras-groundbreaker",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-groundbreaker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mishras-groundbreaker",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. (This effect lasts indefinitely.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "uncommon",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 184560,
+        "flavor": "The very ground yielded to Mishra's wishes.",
+        "number": "215",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184560",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184560.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/mishras-groundbreaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184560"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "uncommon",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 3049,
+        "flavor": "The very ground yielded to Mishra's wishes.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3049",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3049.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/mishras-groundbreaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3049"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Helix",
+    "id": "mishras-helix",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-helix",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/mishras-helix?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "{X}, {T}: Tap X target lands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "rare",
+        "artist": "Berry",
+        "multiverse_id": 10650,
+        "flavor": "The helix was the finest example of Mishra's campaign strategy: if he couldn't have Argoth, no one could.",
+        "number": "302",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10650",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10650.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/mishras-helix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10650"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Toy Workshop",
+    "id": "mishras-toy-workshop",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-toy-workshop",
+    "store_url": "http://store.tcgplayer.com/magic/happy-holidays/mishras-toy-workshop?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C}{C}{C} to your mana pool. Spend this mana only on spells and abilities that put tokens onto the battlefield. Use toys to represent the tokens.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Happy Holidays",
+        "set_id": "pHHO",
+        "rarity": "special",
+        "artist": "Jung Park",
+        "multiverse_id": 0,
+        "flavor": "Even though Urza tried to apologize, Mishra continued to bear a grudge.",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+        "store_url": "http://store.tcgplayer.com/magic/happy-holidays/mishras-toy-workshop?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's War Machine",
+    "id": "mishras-war-machine",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-war-machine",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mishras-war-machine",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "juggernaut"
+    ],
+    "cmc": 7,
+    "cost": "{7}",
+    "text": "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nAt the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 2060,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2060",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2060.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/mishras-war-machine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2060"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 1013,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1013",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1013.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-war-machine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1013"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 1127,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1127",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1127.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/mishras-war-machine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1127"
+      }
+    ]
+  },
+  {
+    "name": "Mishra's Workshop",
+    "id": "mishras-workshop",
+    "url": "https://api.deckbrew.com/mtg/cards/mishras-workshop",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mishras-workshop",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C}{C}{C} to your mana pool. Spend this mana only to cast artifact spells.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "banned",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "mythic",
+        "artist": "Sam Burley",
+        "multiverse_id": 383015,
+        "flavor": "Though he eventually came to despise Tocasia, Mishra listened well to her lessons on clarity of purpose. Unlike his brother, he focused his mind on a single goal.",
+        "number": "305",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/mishras-workshop?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383015"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 1075,
+        "flavor": "Though he eventually came to despise Tocasia, Mishra listened well to her lessons on clarity of purpose. Unlike his brother, he focused his mind on a single goal.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1075",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1075.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/mishras-workshop?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1075"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 202578,
+        "flavor": "Though he eventually came to despise Tocasia, Mishra listened well to her lessons on clarity of purpose. Unlike his brother, he focused his mind on a single goal.",
+        "number": "247",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202578",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202578.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/mishras-workshop?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202578"
+      }
+    ]
+  },
+  {
+    "name": "Misinformation",
+    "id": "misinformation",
+    "url": "https://api.deckbrew.com/mtg/cards/misinformation",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=misinformation",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Put up to three target cards from an opponent's graveyard on top of his or her library in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "uncommon",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 184698,
+        "flavor": "\"When you cannot rely on your sources, trust your own senses. When you cannot trust those, you must follow your instincts.\"\n—Lovisa Coldeyes, Balduvian chieftain",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184698",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184698.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/misinformation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184698"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "uncommon",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 3084,
+        "flavor": "\"When you cannot rely on your sources, trust your own senses. When you cannot trust those, you must follow your instincts.\" —Lovisa Coldeyes, Balduvian Chieftain",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3084",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3084.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/misinformation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3084"
+      }
+    ]
+  },
+  {
+    "name": "Miss Demeanor",
+    "id": "miss-demeanor",
+    "url": "https://api.deckbrew.com/mtg/cards/miss-demeanor",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/miss-demeanor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "etiquette",
+      "lady",
+      "of",
+      "proper"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flying, first strike\nDuring each other player's turn, compliment that player on his or her game play or sacrifice Miss Demeanor.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 9745,
+        "flavor": "Even war can be civil.",
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9745",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9745.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/miss-demeanor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9745"
+      }
+    ]
+  },
+  {
+    "name": "Misshapen Fiend",
+    "id": "misshapen-fiend",
+    "url": "https://api.deckbrew.com/mtg/cards/misshapen-fiend",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/misshapen-fiend?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "mercenary"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Flying",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Adam Rex",
+        "multiverse_id": 19581,
+        "flavor": "You'd scarcely believe they could fly until they drop out of the sky onto you.",
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19581",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19581.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/misshapen-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19581"
+      }
+    ]
+  },
+  {
+    "name": "Misstep",
+    "id": "misstep",
+    "url": "https://api.deckbrew.com/mtg/cards/misstep",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/misstep?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Creatures target player controls don't untap during that player's next untap step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 19568,
+        "flavor": "The feet have no eyes.\n—Saprazzan saying",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19568",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19568.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/misstep?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19568"
+      }
+    ]
+  },
+  {
+    "name": "Mistbind Clique",
+    "id": "mistbind-clique",
+    "url": "https://api.deckbrew.com/mtg/cards/mistbind-clique",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/mistbind-clique?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "faerie",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flash\nFlying\nChampion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhen a Faerie is championed with Mistbind Clique, tap all lands target player controls.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Ben Thompson",
+        "multiverse_id": 141825,
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141825",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141825.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/mistbind-clique?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141825"
+      }
+    ]
+  },
+  {
+    "name": "Mistblade Shinobi",
+    "id": "mistblade-shinobi",
+    "url": "https://api.deckbrew.com/mtg/cards/mistblade-shinobi",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistblade-shinobi",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "ninja"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 423445,
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423445",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423445.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/mistblade-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423445"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 271183,
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271183",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271183.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/mistblade-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271183"
+      },
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 74084,
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74084",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74084.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/mistblade-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74084"
+      }
+    ]
+  },
+  {
+    "name": "Mistcutter Hydra",
+    "id": "mistcutter-hydra",
+    "url": "https://api.deckbrew.com/mtg/cards/mistcutter-hydra",
+    "store_url": "http://store.tcgplayer.com/magic/theros/mistcutter-hydra?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hydra"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{X}{G}",
+    "text": "Mistcutter Hydra can't be countered.\nHaste, protection from blue\nMistcutter Hydra enters the battlefield with X +1/+1 counters on it.",
+    "power": "0",
+    "toughness": "0",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 373727,
+        "number": "162",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373727",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373727.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/mistcutter-hydra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373727"
+      }
+    ]
+  },
+  {
+    "name": "Mist Dragon",
+    "id": "mist-dragon",
+    "url": "https://api.deckbrew.com/mtg/cards/mist-dragon",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/mist-dragon?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{4}{U}{U}",
+    "text": "{0}: Mist Dragon gains flying. (This effect lasts indefinitely.)\n{0}: Mist Dragon loses flying. (This effect lasts indefinitely.)\n{3}{U}{U}: Mist Dragon phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Al Davidson",
+        "multiverse_id": 3350,
+        "flavor": "\"Across the plains, farmers who braved the mists began to vanish. Most blamed the goblins; none guessed the truth.\"\n—Hakim, Loreweaver",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3350",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3350.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/mist-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3350"
+      }
+    ]
+  },
+  {
+    "name": "Mistfire Adept",
+    "id": "mistfire-adept",
+    "url": "https://api.deckbrew.com/mtg/cards/mistfire-adept",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/mistfire-adept?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "monk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, target creature gains flying until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Jeskai",
+        "rarity": "uncommon",
+        "artist": "Clint Cearley",
+        "multiverse_id": 391881,
+        "flavor": "\"The quieter the skies, the calmer the mind.\"",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391881",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391881.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/mistfire-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391881"
+      }
+    ]
+  },
+  {
+    "name": "Mistfire Weaver",
+    "id": "mistfire-weaver",
+    "url": "https://api.deckbrew.com/mtg/cards/mistfire-weaver",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/mistfire-weaver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "djinn",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Jeskai",
+        "rarity": "uncommon",
+        "artist": "Chris Rahn",
+        "multiverse_id": 386605,
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386605",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386605.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/mistfire-weaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386605"
+      }
+    ]
+  },
+  {
+    "name": "Mistfolk",
+    "id": "mistfolk",
+    "url": "https://api.deckbrew.com/mtg/cards/mistfolk",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistfolk",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{U}{U}",
+    "text": "{U}: Counter target spell that targets Mistfolk.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap Theme Decks",
+        "set_id": "CST",
+        "rarity": "special",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 0,
+        "flavor": "\"Although my official log will state there is no evidence pointing to the existence of the Mistfolk, my certainty is lessened by the cursed consistency of the expedition's eyewitness accounts.\"\n—Disa the Restless, journal entry",
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CST",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/mistfolk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 2520,
+        "flavor": "\"Although my official log will state there is no evidence pointing to the existence of the Mistfolk, my certainty is lessened by the cursed consistency of the expedition's eyewitness accounts.\"\n—Disa the Restless, journal entry",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2520",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2520.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/mistfolk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2520"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Dreamer",
+    "id": "mistform-dreamer",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-dreamer",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-dreamer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Flying\n{1}: Mistform Dreamer becomes the creature type of your choice until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Matthew Mitchell",
+        "multiverse_id": 39436,
+        "flavor": "Devotion, the second myth of reality: The faithful are most hurt by the objects of their faith.",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39436",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39436.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-dreamer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39436"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Mask",
+    "id": "mistform-mask",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-mask",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-mask?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Enchant creature\n{1}: Enchanted creature becomes the creature type of your choice until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Monte Michael Moore",
+        "multiverse_id": 39449,
+        "flavor": "Trust, the fifth myth of reality: Every truth holds the seed of betrayal.",
+        "number": "94",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39449",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39449.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-mask?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39449"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Mutant",
+    "id": "mistform-mutant",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-mutant",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-mutant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion",
+      "mutant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{4}{U}{U}",
+    "text": "{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 39529,
+        "flavor": "Familiarity, the first myth of reality: What you know the best, you observe the least.",
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39529",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39529.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-mutant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39529"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Seaswift",
+    "id": "mistform-seaswift",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-seaswift",
+    "store_url": "http://store.tcgplayer.com/magic/legions/mistform-seaswift?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\n{1}: Mistform Seaswift becomes the creature type of your choice until end of turn.\nMorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "common",
+        "artist": "Dany Orizio",
+        "multiverse_id": 43721,
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43721",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43721.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/mistform-seaswift?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43721"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Shrieker",
+    "id": "mistform-shrieker",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-shrieker",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-shrieker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Flying\n{1}: Mistform Shrieker becomes the creature type of your choice until end of turn.\nMorph {3}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "Glen Angus",
+        "multiverse_id": 39525,
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39525",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39525.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-shrieker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39525"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Skyreaver",
+    "id": "mistform-skyreaver",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-skyreaver",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-skyreaver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 7,
+    "cost": "{5}{U}{U}",
+    "text": "Flying\n{1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 39619,
+        "flavor": "Conviction, the third myth of reality: Only those who seek the truth can be deceived.",
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39619",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39619.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-skyreaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39619"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Sliver",
+    "id": "mistform-sliver",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-sliver",
+    "store_url": "http://store.tcgplayer.com/magic/legions/mistform-sliver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion",
+      "sliver"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "All Slivers have \"{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn.\"",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "common",
+        "artist": "Ben Thompson",
+        "multiverse_id": 42037,
+        "flavor": "Taking the form of a junior researcher, the first sliver slipped out of Riptide.",
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=42037",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/42037.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/mistform-sliver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/42037"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Stalker",
+    "id": "mistform-stalker",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-stalker",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-stalker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "{1}: Mistform Stalker becomes the creature type of your choice until end of turn.\n{2}{U}{U}: Mistform Stalker gets +2/+2 and gains flying until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 39441,
+        "number": "98",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39441",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39441.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-stalker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39441"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Ultimus",
+    "id": "mistform-ultimus",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-ultimus",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistform-ultimus",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Mistform Ultimus is every creature type (even if this card isn't on the battlefield).",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 111062,
+        "flavor": "It may wear your face, but its mind is its own.",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=111062",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/111062.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/mistform-ultimus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/111062"
+      },
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 45840,
+        "flavor": "It may wear your face, but its mind is its own.",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45840",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45840.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/mistform-ultimus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45840"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Wakecaster",
+    "id": "mistform-wakecaster",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-wakecaster",
+    "store_url": "http://store.tcgplayer.com/magic/legions/mistform-wakecaster?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "Flying\n{1}: Mistform Wakecaster becomes the creature type of your choice until end of turn.\n{2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "uncommon",
+        "artist": "Glen Angus",
+        "multiverse_id": 42165,
+        "number": "48",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=42165",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/42165.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/mistform-wakecaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/42165"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Wall",
+    "id": "mistform-wall",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-wall",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-wall?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion",
+      "wall"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Mistform Wall has defender as long as it's a Wall.\n{1}: Mistform Wall becomes the creature type of your choice until end of turn.",
+    "power": "1",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 39526,
+        "flavor": "Fellowship, the fourth myth of reality: As the tides of war shift, so do loyalties.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39526",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39526.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/mistform-wall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39526"
+      }
+    ]
+  },
+  {
+    "name": "Mistform Warchief",
+    "id": "mistform-warchief",
+    "url": "https://api.deckbrew.com/mtg/cards/mistform-warchief",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/mistform-warchief?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Creature spells you cast that share a creature type with Mistform Warchief cost {1} less to cast.\n{T}: Mistform Warchief becomes the creature type of your choice until end of turn.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 47218,
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=47218",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/47218.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/mistform-warchief?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/47218"
+      }
+    ]
+  },
+  {
+    "name": "Misthollow Griffin",
+    "id": "misthollow-griffin",
+    "url": "https://api.deckbrew.com/mtg/cards/misthollow-griffin",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/misthollow-griffin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "griffin"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Flying\nYou may cast Misthollow Griffin from exile.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "mythic",
+        "artist": "Jaime Jones",
+        "multiverse_id": 276504,
+        "flavor": "For some creatures, existing is only a whim.",
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=276504",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/276504.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/misthollow-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/276504"
+      }
+    ]
+  },
+  {
+    "name": "Misthoof Kirin",
+    "id": "misthoof-kirin",
+    "url": "https://api.deckbrew.com/mtg/cards/misthoof-kirin",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/misthoof-kirin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kirin"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Flying, vigilance\nMegamorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "common",
+        "artist": "Ryan Barger",
+        "multiverse_id": 394626,
+        "flavor": "It heralded Sarkhan's return to Tarkir's present.",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394626",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394626.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/misthoof-kirin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394626"
+      }
+    ]
+  },
+  {
+    "name": "Mist Intruder",
+    "id": "mist-intruder",
+    "url": "https://api.deckbrew.com/mtg/cards/mist-intruder",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/mist-intruder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drone",
+      "eldrazi"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Devoid (This card has no color.)\nFlying\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Jason Rainville",
+        "multiverse_id": 401950,
+        "flavor": "The wastes spread as quickly as the wind.",
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401950",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401950.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/mist-intruder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401950"
+      }
+    ]
+  },
+  {
+    "name": "Mist Leopard",
+    "id": "mist-leopard",
+    "url": "https://api.deckbrew.com/mtg/cards/mist-leopard",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/mist-leopard?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Shroud (This creature can't be the target of spells or abilities.)",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "common",
+        "artist": "John Matson",
+        "multiverse_id": 189921,
+        "flavor": "\"I can't claim to hunt all creatures. There are some things in the jungle that simply can't be hunted.\"\n—Garruk Wildspeaker",
+        "number": "193",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189921",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189921.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/mist-leopard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189921"
+      }
+    ]
+  },
+  {
+    "name": "Mistmeadow Skulk",
+    "id": "mistmeadow-skulk",
+    "url": "https://api.deckbrew.com/mtg/cards/mistmeadow-skulk",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistmeadow-skulk",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kithkin",
+      "rogue"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Lifelink, protection from converted mana cost 3 or greater",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 130346,
+        "flavor": "Doyo suspected the boggarts of brewing a plot against his crop, so he scythed away his grain to clear the sightlines.",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130346",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130346.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/mistmeadow-skulk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130346"
+      },
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 158690,
+        "flavor": "Doyo suspected the boggarts of brewing a plot against his crop, so he scythed away his grain to clear the sightlines.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158690",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158690.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/mistmeadow-skulk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/158690"
+      }
+    ]
+  },
+  {
+    "name": "Mistmeadow Witch",
+    "id": "mistmeadow-witch",
+    "url": "https://api.deckbrew.com/mtg/cards/mistmeadow-witch",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistmeadow-witch",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kithkin",
+      "wizard"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W/U}",
+    "text": "{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 282603,
+        "flavor": "Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=282603",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/282603.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/mistmeadow-witch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/282603"
+      },
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 157881,
+        "flavor": "Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",
+        "number": "144",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157881",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157881.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/mistmeadow-witch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157881"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 376410,
+        "flavor": "Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376410",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376410.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/mistmeadow-witch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376410"
+      }
+    ]
+  },
+  {
+    "name": "Mistmoon Griffin",
+    "id": "mistmoon-griffin",
+    "url": "https://api.deckbrew.com/mtg/cards/mistmoon-griffin",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistmoon-griffin",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "griffin"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flying\nWhen Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "David A. Cherry",
+        "multiverse_id": 383016,
+        "number": "34",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383016",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383016.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/mistmoon-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383016"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "David A. Cherry",
+        "multiverse_id": 4583,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4583",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4583.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/mistmoon-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4583"
+      }
+    ]
+  },
+  {
+    "name": "Mist of Stagnation",
+    "id": "mist-of-stagnation",
+    "url": "https://api.deckbrew.com/mtg/cards/mist-of-stagnation",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/mist-of-stagnation?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Permanents don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "rare",
+        "artist": "Mike Ploog",
+        "multiverse_id": 34777,
+        "number": "48",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=34777",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/34777.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/mist-of-stagnation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/34777"
+      }
+    ]
+  },
+  {
+    "name": "Mistral Charger",
+    "id": "mistral-charger",
+    "url": "https://api.deckbrew.com/mtg/cards/mistral-charger",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mistral-charger",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "pegasus"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Flying",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 107260,
+        "flavor": "Some sky steeds break from the thundering herd to ride free on the open winds.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107260",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107260.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/mistral-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107260"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 413562,
+        "flavor": "Some sky steeds break from the thundering herd to ride free on the open winds.",
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413562",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413562.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/mistral-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413562"
+      }
+    ]
+  },
+  {
+    "name": "Mist Raven",
+    "id": "mist-raven",
+    "url": "https://api.deckbrew.com/mtg/cards/mist-raven",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mist-raven",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Flying\nWhen Mist Raven enters the battlefield, return target creature to its owner's hand.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Blessed vs. Cursed",
+        "set_id": "DDQ",
+        "rarity": "common",
+        "artist": "John Avon",
+        "multiverse_id": 409602,
+        "flavor": "\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\"\n—Sved, fisherman of Nephalia",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409602",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409602.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/mist-raven?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409602"
+      },
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "John Avon",
+        "multiverse_id": 271121,
+        "flavor": "\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\"\n—Sved, fisherman of Nephalia",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271121",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271121.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/mist-raven?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271121"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5688 @@
+[
+  {
+    "name": "Reservoir Walker",
+    "id": "reservoir-walker",
+    "url": "https://api.deckbrew.com/mtg/cards/reservoir-walker",
+    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/reservoir-walker?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "construct"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).",
+    "power": "3",
+    "toughness": "3",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Aether Revolt",
+        "set_id": "AER",
+        "rarity": "common",
+        "artist": "Johann Bodin",
+        "multiverse_id": 423841,
+        "flavor": "Renegade supply lines are, by necessity, mobile and difficult to disrupt.",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423841",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423841.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
+        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/reservoir-walker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423841"
+      }
+    ]
+  },
+  {
+    "name": "Reset",
+    "id": "reset",
+    "url": "https://api.deckbrew.com/mtg/cards/reset",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reset",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{U}{U}",
+    "text": "Cast Reset only during an opponent's turn after his or her upkeep step.\nUntap all lands you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "rare",
+        "artist": "Nicola Leonard",
+        "multiverse_id": 201163,
+        "number": "48",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201163",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201163.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/reset?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201163"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Nicola Leonard",
+        "multiverse_id": 1499,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1499",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1499.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/reset?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1499"
+      }
+    ]
+  },
+  {
+    "name": "Reshape",
+    "id": "reshape",
+    "url": "https://api.deckbrew.com/mtg/cards/reshape",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/reshape?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{X}{U}{U}",
+    "text": "As an additional cost to cast Reshape, sacrifice an artifact.\nSearch your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "rare",
+        "artist": "Jon Foster",
+        "multiverse_id": 48147,
+        "flavor": "\"Today's paperweight, tomorrow's leveler.\"\n—Bruenna, Neurok leader",
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48147",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48147.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/reshape?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48147"
+      }
+    ]
+  },
+  {
+    "name": "Resilient Wanderer",
+    "id": "resilient-wanderer",
+    "url": "https://api.deckbrew.com/mtg/cards/resilient-wanderer",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/resilient-wanderer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "nomad"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "First strike\nDiscard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "Clyde Caldwell",
+        "multiverse_id": 29804,
+        "flavor": "Nomads understand many cultures and therefore travel without fear.",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29804",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29804.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/resilient-wanderer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29804"
+      }
+    ]
+  },
+  {
+    "name": "Resistance Fighter",
+    "id": "resistance-fighter",
+    "url": "https://api.deckbrew.com/mtg/cards/resistance-fighter",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=resistance-fighter",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Cecil Fernando",
+        "multiverse_id": 15362,
+        "flavor": "\"My soldiers fought without hesitation, died without doubt.\"\n—Sidar Jabari",
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15362",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15362.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/resistance-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15362"
+      },
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "common",
+        "artist": "Cecil Fernando",
+        "multiverse_id": 3725,
+        "flavor": "\"My soldiers fought without hesitation, died without doubt.\"\n—Sidar Jabari",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3725",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3725.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/resistance-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3725"
+      }
+    ]
+  },
+  {
+    "name": "Resize",
+    "id": "resize",
+    "url": "https://api.deckbrew.com/mtg/cards/resize",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/resize?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target creature gets +3/+3 until end of turn.\nRecover {1}{G} (When a creature is put into your graveyard from the battlefield, you may pay {1}{G}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 121223,
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121223",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121223.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/resize?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121223"
+      }
+    ]
+  },
+  {
+    "name": "Resolute Archangel",
+    "id": "resolute-archangel",
+    "url": "https://api.deckbrew.com/mtg/cards/resolute-archangel",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=resolute-archangel",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{5}{W}{W}",
+    "text": "Flying\nWhen Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "rare",
+        "artist": "Anthony Palumbo",
+        "multiverse_id": 383361,
+        "flavor": "Cut it down, bury it in snow, put it to the torch. The rose will still bloom again.",
+        "number": "28",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383361",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383361.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/resolute-archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383361"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Winona Nelson",
+        "multiverse_id": 0,
+        "flavor": "Cut it down, bury it in snow, put it to the torch. The rose will still bloom again.",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/resolute-archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Resolute Blademaster",
+    "id": "resolute-blademaster",
+    "url": "https://api.deckbrew.com/mtg/cards/resolute-blademaster",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/resolute-blademaster?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "red",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{W}",
+    "text": "Rally — Whenever Resolute Blademaster or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Joseph Meehan",
+        "multiverse_id": 402005,
+        "flavor": "\"Great steel is born in the hottest forges. Great soldiers are born in war.\"",
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402005",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402005.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/resolute-blademaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402005"
+      }
+    ]
+  },
+  {
+    "name": "Resounding Roar",
+    "id": "resounding-roar",
+    "url": "https://api.deckbrew.com/mtg/cards/resounding-roar",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-roar?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target creature gets +3/+3 until end of turn.\nCycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.)\nWhen you cycle Resounding Roar, target creature gets +6/+6 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 174901,
+        "number": "144",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174901",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174901.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-roar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174901"
+      }
+    ]
+  },
+  {
+    "name": "Resounding Scream",
+    "id": "resounding-scream",
+    "url": "https://api.deckbrew.com/mtg/cards/resounding-scream",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-scream?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Target player discards a card at random.\nCycling {5}{U}{B}{R} ({5}{U}{B}{R}, Discard this card: Draw a card.)\nWhen you cycle Resounding Scream, target player discards two cards at random.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 176444,
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=176444",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/176444.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-scream?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/176444"
+      }
+    ]
+  },
+  {
+    "name": "Resounding Silence",
+    "id": "resounding-silence",
+    "url": "https://api.deckbrew.com/mtg/cards/resounding-silence",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-silence?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Exile target attacking creature.\nCycling {5}{G}{W}{U} ({5}{G}{W}{U}, Discard this card: Draw a card.)\nWhen you cycle Resounding Silence, exile up to two target attacking creatures.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 174985,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174985",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174985.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-silence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174985"
+      }
+    ]
+  },
+  {
+    "name": "Resounding Thunder",
+    "id": "resounding-thunder",
+    "url": "https://api.deckbrew.com/mtg/cards/resounding-thunder",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-thunder?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Resounding Thunder deals 3 damage to target creature or player.\nCycling {5}{B}{R}{G} ({5}{B}{R}{G}, Discard this card: Draw a card.)\nWhen you cycle Resounding Thunder, it deals 6 damage to target creature or player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Jon Foster",
+        "multiverse_id": 175043,
+        "number": "110",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=175043",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/175043.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-thunder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/175043"
+      }
+    ]
+  },
+  {
+    "name": "Resounding Wave",
+    "id": "resounding-wave",
+    "url": "https://api.deckbrew.com/mtg/cards/resounding-wave",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-wave?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Return target permanent to its owner's hand.\nCycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.)\nWhen you cycle Resounding Wave, return two target permanents to their owners' hands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Izzy",
+        "multiverse_id": 175098,
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=175098",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/175098.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/resounding-wave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/175098"
+      }
+    ]
+  },
+  {
+    "name": "Resourceful Return",
+    "id": "resourceful-return",
+    "url": "https://api.deckbrew.com/mtg/cards/resourceful-return",
+    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/resourceful-return?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Return target creature card from your graveyard to your hand. If you control an artifact, draw a card.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Aether Revolt",
+        "set_id": "AER",
+        "rarity": "common",
+        "artist": "Titus Lunter",
+        "multiverse_id": 423737,
+        "flavor": "When the salvage team brought in the shattered gearhulk, a wave of excitement swept through the renegade foundry.",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
+        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/resourceful-return?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423737"
+      }
+    ]
+  },
+  {
+    "name": "Respite",
+    "id": "respite",
+    "url": "https://api.deckbrew.com/mtg/cards/respite",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=respite",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 382346,
+        "flavor": "\"If they board us we're finished,\" warned Orim. Crovax nodded. \"And if they don't . . . what then?\"",
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382346",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382346.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/respite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382346"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 4783,
+        "flavor": "\"If they board us we're finished,\" warned Orim. Crovax nodded. \"And if they don't . . . what then?\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4783",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4783.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/respite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4783"
+      }
+    ]
+  },
+  {
+    "name": "Resplendent Mentor",
+    "id": "resplendent-mentor",
+    "url": "https://api.deckbrew.com/mtg/cards/resplendent-mentor",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/resplendent-mentor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "kithkin"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "White creatures you control have \"{T}: You gain 1 life.\"",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 141930,
+        "flavor": "Thoughtweft gives new meaning to the phrase \"common knowledge.\"",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141930",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141930.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/resplendent-mentor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141930"
+      }
+    ]
+  },
+  {
+    "name": "Rest for the Weary",
+    "id": "rest-for-the-weary",
+    "url": "https://api.deckbrew.com/mtg/cards/rest-for-the-weary",
+    "store_url": "http://store.tcgplayer.com/magic/worldwake/rest-for-the-weary?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Target player gains 4 life.\nLandfall — If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "common",
+        "artist": "James Paick",
+        "multiverse_id": 189180,
+        "flavor": "Zendikar is a brutal taskmaster, but sometimes it offers unexpected solace.",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189180",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189180.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/rest-for-the-weary?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189180"
+      }
+    ]
+  },
+  {
+    "name": "Rest in Peace",
+    "id": "rest-in-peace",
+    "url": "https://api.deckbrew.com/mtg/cards/rest-in-peace",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/rest-in-peace?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "When Rest in Peace enters the battlefield, exile all cards from all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 277995,
+        "flavor": "Some corpses the Golgari cannot claim. Some souls the Orzhov cannot shackle.",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=277995",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/277995.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/rest-in-peace?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/277995"
+      }
+    ]
+  },
+  {
+    "name": "Restless Apparition",
+    "id": "restless-apparition",
+    "url": "https://api.deckbrew.com/mtg/cards/restless-apparition",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=restless-apparition",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{W/B}{W/B}{W/B}",
+    "text": "{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "uncommon",
+        "artist": "Jeff Easley",
+        "multiverse_id": 157291,
+        "number": "94",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157291",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157291.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/restless-apparition?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157291"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "Jeff Easley",
+        "multiverse_id": 397774,
+        "number": "196",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397774",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397774.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/restless-apparition?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397774"
+      }
+    ]
+  },
+  {
+    "name": "Restless Bones",
+    "id": "restless-bones",
+    "url": "https://api.deckbrew.com/mtg/cards/restless-bones",
+    "store_url": "http://store.tcgplayer.com/magic/guildpact/restless-bones?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "skeleton"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "{3}{B}, {T}: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)\n{1}{B}: Regenerate Restless Bones.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "rarity": "common",
+        "artist": "Glenn Fabry",
+        "multiverse_id": 96855,
+        "flavor": "\"We mourn our dead. We shroud our dead. We bury our dead. Too often, it seems, we must kill our dead again.\"\n—Grazda, veteran armorer",
+        "number": "58",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96855",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96855.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/restless-bones?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96855"
+      }
+    ]
+  },
+  {
+    "name": "Restless Dead",
+    "id": "restless-dead",
+    "url": "https://api.deckbrew.com/mtg/cards/restless-dead",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/restless-dead?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "skeleton"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{B}: Regenerate Restless Dead.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Ian Miller",
+        "multiverse_id": 3307,
+        "flavor": "The rich's heirs often thank them after death . . . but preferably not in person.\n—Suq'Ata epigram",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3307",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3307.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/restless-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3307"
+      }
+    ]
+  },
+  {
+    "name": "Restless Dreams",
+    "id": "restless-dreams",
+    "url": "https://api.deckbrew.com/mtg/cards/restless-dreams",
+    "store_url": "http://store.tcgplayer.com/magic/torment/restless-dreams?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "As an additional cost to cast Restless Dreams, discard X cards.\nReturn X target creature cards from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "common",
+        "artist": "John Matson",
+        "multiverse_id": 29908,
+        "flavor": "Braids dreams of dark rebirth.",
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29908",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29908.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/restless-dreams?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29908"
+      }
+    ]
+  },
+  {
+    "name": "Restock",
+    "id": "restock",
+    "url": "https://api.deckbrew.com/mtg/cards/restock",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=restock",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "Return two target cards from your graveyard to your hand. Exile Restock.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 383362,
+        "flavor": "What looked like a retreat was actually a replenishing.",
+        "number": "195",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383362",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383362.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/restock?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383362"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 23145,
+        "flavor": "\"We hid such stockpiles all over Rath. We should continue that practice here.\"\n—Lin Sivvi",
+        "number": "206",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23145",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23145.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/restock?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23145"
+      }
+    ]
+  },
+  {
+    "name": "Restoration Angel",
+    "id": "restoration-angel",
+    "url": "https://api.deckbrew.com/mtg/cards/restoration-angel",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=restoration-angel",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "rare",
+        "artist": "Johannes Voss",
+        "multiverse_id": 240096,
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240096",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240096.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/restoration-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240096"
+      },
+      {
+        "set": "Launch Parties",
+        "set_id": "pLPA",
+        "rarity": "special",
+        "artist": "Wesley Burt",
+        "multiverse_id": 0,
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+        "store_url": "http://store.tcgplayer.com/magic/launch-parties/restoration-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Restoration Gearsmith",
+    "id": "restoration-gearsmith",
+    "url": "https://api.deckbrew.com/mtg/cards/restoration-gearsmith",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/restoration-gearsmith?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "artificer",
+      "human"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{B}",
+    "text": "When Restoration Gearsmith enters the battlefield, return target artifact or creature card from your graveyard to your hand.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "uncommon",
+        "artist": "John Severin Brassell",
+        "multiverse_id": 417758,
+        "flavor": "All she touches turns to well-oiled, delicately calibrated, perfectly balanced gold.",
+        "number": "185",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417758",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417758.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/restoration-gearsmith?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417758"
+      }
+    ]
+  },
+  {
+    "name": "Restoration Specialist",
+    "id": "restoration-specialist",
+    "url": "https://api.deckbrew.com/mtg/cards/restoration-specialist",
+    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/restoration-specialist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "artificer",
+      "dwarf"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "{W}, Sacrifice Restoration Specialist: Return up to one target artifact card and up to one target enchantment card from your graveyard to your hand.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Aether Revolt",
+        "set_id": "AER",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 423688,
+        "flavor": "Dwarves' tools are priceless heirlooms handed down through generations.",
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423688",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423688.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
+        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/restoration-specialist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423688"
+      }
+    ]
+  },
+  {
+    "name": "Restore",
+    "id": "restore",
+    "url": "https://api.deckbrew.com/mtg/cards/restore",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2013/restore?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Put target land card from a graveyard onto the battlefield under your control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 376473,
+        "flavor": "\"See, the land itself raises an altar to the ascendancy of nature.\"\n—Mayael the Anima",
+        "number": "167",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376473",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376473.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/restore?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376473"
+      }
+    ]
+  },
+  {
+    "name": "Restore Balance",
+    "id": "restore-balance",
+    "url": "https://api.deckbrew.com/mtg/cards/restore-balance",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/restore-balance?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Suspend 6—{W} (Rather than cast this card from your hand, pay {W} and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\nEach player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 113520,
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=113520",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/113520.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/restore-balance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/113520"
+      }
+    ]
+  },
+  {
+    "name": "Restore the Peace",
+    "id": "restore-the-peace",
+    "url": "https://api.deckbrew.com/mtg/cards/restore-the-peace",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/restore-the-peace?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{U}",
+    "text": "Return each creature that dealt damage this turn to its owner's hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Azorius",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 368978,
+        "flavor": "\"You can always count on the Azorius to ruin a party.\"\n—Massacre Girl",
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368978",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368978.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/restore-the-peace?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368978"
+      }
+    ]
+  },
+  {
+    "name": "Restrain",
+    "id": "restrain",
+    "url": "https://api.deckbrew.com/mtg/cards/restrain",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/restrain?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Prevent all combat damage that would be dealt by target attacking creature this turn.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "common",
+        "artist": "Dave Dorman",
+        "multiverse_id": 22943,
+        "flavor": "\"Hanna would give up her own life before she'd abandon the Weatherlight.\"\n—Sisay",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22943",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22943.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/restrain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22943"
+      }
+    ]
+  },
+  {
+    "name": "Resupply",
+    "id": "resupply",
+    "url": "https://api.deckbrew.com/mtg/cards/resupply",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/resupply?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{5}{W}",
+    "text": "You gain 6 life.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "common",
+        "artist": "Filip Burburan",
+        "multiverse_id": 394664,
+        "flavor": "\"If the scalelords are the brains of Dromoka's army, the supply caravans are its beating heart.\"\n—Baihir, Dromoka mage",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394664",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394664.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/resupply?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394664"
+      }
+    ]
+  },
+  {
+    "name": "Resurrection",
+    "id": "resurrection",
+    "url": "https://api.deckbrew.com/mtg/cards/resurrection",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=resurrection",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Return target creature card from your graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Michael Komarck",
+        "multiverse_id": 0,
+        "flavor": "\"Think of this new life not as a gift from the angels but as a command to fight for their cause once more.\" —War blessing of Serra",
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "Dan Frazier",
+        "multiverse_id": 108885,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=108885",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/108885.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/108885"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 863,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=863",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/863.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/863"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 1360,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1360",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1360.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1360"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 265,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=265",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/265.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/265"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 561,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=561",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/561.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/resurrection?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/561"
+      }
+    ]
+  },
+  {
+    "name": "Resuscitate",
+    "id": "resuscitate",
+    "url": "https://api.deckbrew.com/mtg/cards/resuscitate",
+    "store_url": "http://store.tcgplayer.com/magic/exodus/resuscitate?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Until end of turn, creatures you control gain \"{1}: Regenerate this creature.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "uncommon",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 6140,
+        "flavor": "\"It is the art of convincing someone to live.\"\n—Orim, Samite healer",
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6140",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6140.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/resuscitate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6140"
+      }
+    ]
+  },
+  {
+    "name": "Retaliate",
+    "id": "retaliate",
+    "url": "https://api.deckbrew.com/mtg/cards/retaliate",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/retaliate?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Destroy all creatures that dealt damage to you this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "rare",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 50213,
+        "flavor": "The Auriok learned perseverance from their forebears. They learned justice from the leonin.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50213",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50213.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/retaliate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50213"
+      }
+    ]
+  },
+  {
+    "name": "Retaliation",
+    "id": "retaliation",
+    "url": "https://api.deckbrew.com/mtg/cards/retaliation",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/retaliation?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Creatures you control have \"Whenever this creature becomes blocked by a creature, this creature gets +1/+1 until end of turn.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Tom Fleming",
+        "multiverse_id": 10408,
+        "flavor": "A foul, metallic stench clogged Urza's senses. It was then he knew his brother was no more.",
+        "number": "272",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10408",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10408.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/retaliation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10408"
+      }
+    ]
+  },
+  {
+    "name": "Retaliator Griffin",
+    "id": "retaliator-griffin",
+    "url": "https://api.deckbrew.com/mtg/cards/retaliator-griffin",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=retaliator-griffin",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "griffin"
+    ],
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{1}{R}{G}{W}",
+    "text": "Flying\nWhenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "rare",
+        "artist": "Jesper Ejsing",
+        "multiverse_id": 147530,
+        "flavor": "For every eye, an eye. For every tooth, a tooth. Griffins are nothing if not fair.",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=147530",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/147530.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/retaliator-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/147530"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Jesper Ejsing",
+        "multiverse_id": 0,
+        "flavor": "For every eye, an eye. For every tooth, a tooth. Griffins are nothing if not fair.",
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/retaliator-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Retether",
+    "id": "retether",
+    "url": "https://api.deckbrew.com/mtg/cards/retether",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/retether?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Return each Aura card from your graveyard to the battlefield. Only creatures can be enchanted this way. (Aura cards that can't enchant a creature on the battlefield remain in your graveyard.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "rare",
+        "artist": "Dan Scott",
+        "multiverse_id": 131007,
+        "flavor": "The rifts reach into infinite time streams, bringing the divergent products of alternate pasts into the present.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=131007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/131007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/retether?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/131007"
+      }
+    ]
+  },
+  {
+    "name": "Rethink",
+    "id": "rethink",
+    "url": "https://api.deckbrew.com/mtg/cards/rethink",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/rethink?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Counter target spell unless its controller pays {X}, where X is its converted mana cost.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "common",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 24588,
+        "flavor": "\"Are you sure you want to do that?\"",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24588",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24588.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/rethink?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24588"
+      }
+    ]
+  },
+  {
+    "name": "Retraced Image",
+    "id": "retraced-image",
+    "url": "https://api.deckbrew.com/mtg/cards/retraced-image",
+    "store_url": "http://store.tcgplayer.com/magic/torment/retraced-image?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 33698,
+        "flavor": "An army from a soldier, a flock from a bird, a school from a fish . . . a profit from an atrocity.",
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=33698",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/33698.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/retraced-image?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/33698"
+      }
+    ]
+  },
+  {
+    "name": "Retract",
+    "id": "retract",
+    "url": "https://api.deckbrew.com/mtg/cards/retract",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/retract?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Return all artifacts you control to their owner's hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 48573,
+        "flavor": "\"Secrets are meant to remain secret.\"\n—Memnarch",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48573",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48573.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/retract?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48573"
+      }
+    ]
+  },
+  {
+    "name": "Retraction Helix",
+    "id": "retraction-helix",
+    "url": "https://api.deckbrew.com/mtg/cards/retraction-helix",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/retraction-helix?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Until end of turn, target creature gains \"{T}: Return target nonland permanent to its owner's hand.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "common",
+        "artist": "Phill Simmer",
+        "multiverse_id": 378421,
+        "flavor": "Where the geometries of the world collapse, a master of the Æther can harvest power beyond comprehending.",
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378421",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378421.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/retraction-helix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378421"
+      }
+    ]
+  },
+  {
+    "name": "Retreat to Coralhelm",
+    "id": "retreat-to-coralhelm",
+    "url": "https://api.deckbrew.com/mtg/cards/retreat-to-coralhelm",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-coralhelm?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• You may tap or untap target creature.\n• Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 402006,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402006",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402006.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-coralhelm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402006"
+      }
+    ]
+  },
+  {
+    "name": "Retreat to Emeria",
+    "id": "retreat-to-emeria",
+    "url": "https://api.deckbrew.com/mtg/cards/retreat-to-emeria",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-emeria?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Create a 1/1 white Kor Ally creature token.\n• Creatures you control get +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 402007,
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-emeria?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402007"
+      }
+    ]
+  },
+  {
+    "name": "Retreat to Hagra",
+    "id": "retreat-to-hagra",
+    "url": "https://api.deckbrew.com/mtg/cards/retreat-to-hagra",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-hagra?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Target creature gets +1/+0 and gains deathtouch until end of turn.\n• Each opponent loses 1 life and you gain 1 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 402008,
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402008",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402008.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-hagra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402008"
+      }
+    ]
+  },
+  {
+    "name": "Retreat to Kazandu",
+    "id": "retreat-to-kazandu",
+    "url": "https://api.deckbrew.com/mtg/cards/retreat-to-kazandu",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=retreat-to-kazandu",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Put a +1/+1 counter on target creature.\n• You gain 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Zendikar vs. Eldrazi",
+        "set_id": "DDP",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 401663,
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401663",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401663.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/retreat-to-kazandu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401663"
+      },
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 402009,
+        "number": "186",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402009",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402009.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-kazandu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402009"
+      }
+    ]
+  },
+  {
+    "name": "Retreat to Valakut",
+    "id": "retreat-to-valakut",
+    "url": "https://api.deckbrew.com/mtg/cards/retreat-to-valakut",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-valakut?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Target creature gets +2/+0 until end of turn.\n• Target creature can't block this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 402010,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402010",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402010.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/retreat-to-valakut?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402010"
+      }
+    ]
+  },
+  {
+    "name": "Retribution",
+    "id": "retribution",
+    "url": "https://api.deckbrew.com/mtg/cards/retribution",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=retribution",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 3008,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3008",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3008.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/retribution?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3008"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 184595,
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184595",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184595.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/retribution?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184595"
+      }
+    ]
+  },
+  {
+    "name": "Retribution of the Ancients",
+    "id": "retribution-of-the-ancients",
+    "url": "https://api.deckbrew.com/mtg/cards/retribution-of-the-ancients",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/retribution-of-the-ancients?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Abzan",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 386635,
+        "flavor": "Abzan ancestors died to protect their Houses, and they protect them still.",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386635",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386635.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/retribution-of-the-ancients?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386635"
+      }
+    ]
+  },
+  {
+    "name": "Retribution of the Meek",
+    "id": "retribution-of-the-meek",
+    "url": "https://api.deckbrew.com/mtg/cards/retribution-of-the-meek",
+    "store_url": "http://store.tcgplayer.com/magic/visions/retribution-of-the-meek?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Destroy all creatures with power 4 or greater. They can't be regenerated.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "rare",
+        "artist": "Nathalie Hertz",
+        "multiverse_id": 3726,
+        "flavor": "\"Tread upon the meek, and they shall wound your feet and make you crawl.\"\n—Asmira, Holy Avenger",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3726",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3726.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/retribution-of-the-meek?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3726"
+      }
+    ]
+  },
+  {
+    "name": "Retromancer",
+    "id": "retromancer",
+    "url": "https://api.deckbrew.com/mtg/cards/retromancer",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/retromancer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shaman",
+      "viashino"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Robh Ruppel",
+        "multiverse_id": 5826,
+        "flavor": "\"If one harm us, strike them in return. So sayeth the bey.\"",
+        "number": "209",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5826",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5826.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/retromancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5826"
+      }
+    ]
+  },
+  {
+    "name": "Returned Centaur",
+    "id": "returned-centaur",
+    "url": "https://api.deckbrew.com/mtg/cards/returned-centaur",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=returned-centaur",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Lucas Graciano",
+        "multiverse_id": 373644,
+        "flavor": "Driven away by his living kin, he wanders mourning through the wilderness, seeking the dead city of Asphodel.",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373644",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373644.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/returned-centaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373644"
+      },
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "Lucas Graciano",
+        "multiverse_id": 398468,
+        "flavor": "Driven away by his living kin, he wanders mourning through the wilderness, seeking the dead city of Asphodel.",
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398468",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398468.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/returned-centaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398468"
+      }
+    ]
+  },
+  {
+    "name": "Returned Phalanx",
+    "id": "returned-phalanx",
+    "url": "https://api.deckbrew.com/mtg/cards/returned-phalanx",
+    "store_url": "http://store.tcgplayer.com/magic/theros/returned-phalanx?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "soldier",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Defender\n{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 373508,
+        "flavor": "They lived in different nations and fought in different eras, but as the Returned, they link arms as one.",
+        "number": "104",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373508",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373508.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/returned-phalanx?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373508"
+      }
+    ]
+  },
+  {
+    "name": "Returned Reveler",
+    "id": "returned-reveler",
+    "url": "https://api.deckbrew.com/mtg/cards/returned-reveler",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/returned-reveler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Allen Williams",
+        "multiverse_id": 380481,
+        "flavor": "The flesh is dead and the life forgotten, but old habits persist.",
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380481",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380481.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/returned-reveler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380481"
+      }
+    ]
+  },
+  {
+    "name": "Return of the Nightstalkers",
+    "id": "return-of-the-nightstalkers",
+    "url": "https://api.deckbrew.com/mtg/cards/return-of-the-nightstalkers",
+    "store_url": "http://store.tcgplayer.com/magic/portal-second-age/return-of-the-nightstalkers?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 7,
+    "cost": "{5}{B}{B}",
+    "text": "Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "rare",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 6578,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6578",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6578.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/return-of-the-nightstalkers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6578"
+      }
+    ]
+  },
+  {
+    "name": "Return to Battle",
+    "id": "return-to-battle",
+    "url": "https://api.deckbrew.com/mtg/cards/return-to-battle",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/return-to-battle?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Return target creature card from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "common",
+        "artist": "Ding Songjian",
+        "multiverse_id": 10588,
+        "flavor": "\"Swallowing his eye, the valiant Xiahou Dun fought on; / But Cao Cao's vanguard, its commander wounded, could not hold out for long.\"",
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10588",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10588.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/return-to-battle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10588"
+      }
+    ]
+  },
+  {
+    "name": "Return to Dust",
+    "id": "return-to-dust",
+    "url": "https://api.deckbrew.com/mtg/cards/return-to-dust",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=return-to-dust",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 389656,
+        "flavor": "Some timelines forever fray, branch, and intermingle. Others end abruptly.",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389656",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389656.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/return-to-dust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389656"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "uncommon",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 247517,
+        "flavor": "Some timelines forever fray, branch, and intermingle. Others end abruptly.",
+        "number": "28",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247517",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247517.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/return-to-dust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247517"
+      },
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 109709,
+        "flavor": "Some timelines forever fray, branch, and intermingle. Others end abruptly.",
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=109709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/109709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/return-to-dust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/109709"
+      }
+    ]
+  },
+  {
+    "name": "Return to the Earth",
+    "id": "return-to-the-earth",
+    "url": "https://api.deckbrew.com/mtg/cards/return-to-the-earth",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/return-to-the-earth?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Destroy target artifact, enchantment, or creature with flying.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "rarity": "common",
+        "artist": "Mark Winters",
+        "multiverse_id": 391906,
+        "flavor": "\"Dragons are feared for their breath and their bite, but it is their wings that make them unconquerable. Bring them to earth, and they die like any other beast.\"\n—Kassur, Sultai hunter",
+        "number": "135",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391906",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391906.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/return-to-the-earth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391906"
+      }
+    ]
+  },
+  {
+    "name": "Return to the Ranks",
+    "id": "return-to-the-ranks",
+    "url": "https://api.deckbrew.com/mtg/cards/return-to-the-ranks",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/return-to-the-ranks?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{X}{W}{W}",
+    "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nReturn X target creature cards with converted mana cost 2 or less from your graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "rare",
+        "artist": "Michael Komarck",
+        "multiverse_id": 383363,
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383363",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383363.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/return-to-the-ranks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383363"
+      }
+    ]
+  },
+  {
+    "name": "Revealing Wind",
+    "id": "revealing-wind",
+    "url": "https://api.deckbrew.com/mtg/cards/revealing-wind",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/revealing-wind?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Prevent all combat damage that would be dealt this turn. You may look at each face-down creature that's attacking or blocking.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "common",
+        "artist": "Phill Simmer",
+        "multiverse_id": 394665,
+        "flavor": "\"The sands obscure the vision of others, but clarify ours.\"\n—Faiso, Dromoka commander",
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394665",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394665.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/revealing-wind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394665"
+      }
+    ]
+  },
+  {
+    "name": "Reveillark",
+    "id": "reveillark",
+    "url": "https://api.deckbrew.com/mtg/cards/reveillark",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reveillark",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "Flying\nWhen Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.\nEvoke {5}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Jim Murray",
+        "multiverse_id": 420691,
+        "number": "74",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420691",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420691.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/reveillark?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420691"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "rare",
+        "artist": "Jim Murray",
+        "multiverse_id": 370493,
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/reveillark?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370493"
+      },
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "rare",
+        "artist": "Jim Murray",
+        "multiverse_id": 152716,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152716",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152716.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/reveillark?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152716"
+      }
+    ]
+  },
+  {
+    "name": "Reveille Squad",
+    "id": "reveille-squad",
+    "url": "https://api.deckbrew.com/mtg/cards/reveille-squad",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/reveille-squad?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rebel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Whenever one or more creatures attack you, if Reveille Squad is untapped, you may untap all creatures you control.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "uncommon",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 24559,
+        "flavor": "\"To arms! To arms! The Lion roars!\"",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24559",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24559.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/reveille-squad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24559"
+      }
+    ]
+  },
+  {
+    "name": "Reveka, Wizard Savant",
+    "id": "reveka-wizard-savant",
+    "url": "https://api.deckbrew.com/mtg/cards/reveka-wizard-savant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reveka-wizard-savant",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "dwarf",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "{T}: Reveka, Wizard Savant deals 2 damage to target creature or player and doesn't untap during your next untap step.",
+    "power": "0",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "rare",
+        "artist": "Susan Van Camp",
+        "multiverse_id": 2956,
+        "flavor": "\"It's nice to see a sister Dwarf in a position of such power, but why'd it have to be one of those seafaring muleheads?\"\n—Halina, Dwarven Trader",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2956",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2956.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/reveka-wizard-savant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2956"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "uncommon",
+        "artist": "Susan Van Camp",
+        "multiverse_id": 201309,
+        "flavor": "\"It's nice to see a sister Dwarf in a position of such power, but why'd it have to be one of those seafaring muleheads?\"\n—Halina, Dwarven Trader",
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201309",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201309.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/reveka-wizard-savant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201309"
+      }
+    ]
+  },
+  {
+    "name": "Revelation",
+    "id": "revelation",
+    "url": "https://api.deckbrew.com/mtg/cards/revelation",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=revelation",
+    "types": [
+      "enchantment"
+    ],
+    "supertypes": [
+      "world"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Players play with their hands revealed.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Chronicles",
+        "set_id": "CHR",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 2835,
+        "flavor": "\"Many are in high place, and of renown: but mysteries are revealed unto the meek.\" —Ecclesiasticus 3:19",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2835",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2835.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+        "store_url": "http://store.tcgplayer.com/magic/chronicles/revelation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2835"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 1542,
+        "flavor": "\"Many are in high place, and of renown: but mysteries are revealed unto the meek.\" —Ecclesiastes 3:19",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1542",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1542.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/revelation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1542"
+      }
+    ]
+  },
+  {
+    "name": "Revel of the Fallen God",
+    "id": "revel-of-the-fallen-god",
+    "url": "https://api.deckbrew.com/mtg/cards/revel-of-the-fallen-god",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/revel-of-the-fallen-god?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 7,
+    "cost": "{3}{R}{R}{G}{G}",
+    "text": "Create four 2/2 red and green Satyr creature tokens with haste.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "rare",
+        "artist": "Adam Paquette",
+        "multiverse_id": 380482,
+        "flavor": "\"Xenagos has fallen, and the world grows dark without him. What can ever fill that darkness but our rage?\"\n—Guruthes, disciple of Xenagos",
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380482",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380482.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/revel-of-the-fallen-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380482"
+      }
+    ]
+  },
+  {
+    "name": "Revelsong Horn",
+    "id": "revelsong-horn",
+    "url": "https://api.deckbrew.com/mtg/cards/revelsong-horn",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/revelsong-horn?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{1}, {T}, Tap an untapped creature you control: Target creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 146047,
+        "flavor": "A deflated sigh breathed into the horn emerges as an inspiring melody.",
+        "number": "261",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146047",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146047.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/revelsong-horn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/146047"
+      }
+    ]
+  },
+  {
+    "name": "Revenant",
+    "id": "revenant",
+    "url": "https://api.deckbrew.com/mtg/cards/revenant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=revenant",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{4}{B}",
+    "text": "Flying\nRevenant's power and toughness are each equal to the number of creature cards in your graveyard.",
+    "power": "*",
+    "toughness": "*",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 397475,
+        "flavor": "\"Not again.\"\n—Hans",
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397475",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397475.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/revenant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397475"
+      },
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 5211,
+        "flavor": "\"Not again.\"\n—Hans",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5211",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5211.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/revenant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5211"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Andrew Goldhawk",
+        "multiverse_id": 13088,
+        "flavor": "It eats death and drinks pain.",
+        "number": "160",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13088",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13088.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/revenant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/13088"
+      },
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 398575,
+        "flavor": "Born from the slaughter of an entire army, it bears the wrath of a hundred souls.",
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398575",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398575.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/revenant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398575"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 0,
+        "flavor": "\"Not again.\"\n—Hans",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/revenant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Revenant Patriarch",
+    "id": "revenant-patriarch",
+    "url": "https://api.deckbrew.com/mtg/cards/revenant-patriarch",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=revenant-patriarch",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{4}{B}",
+    "text": "When Revenant Patriarch enters the battlefield, if {W} was spent to cast it, target player skips his or her next combat phase.\nRevenant Patriarch can't block.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Orzhov",
+        "rarity": "uncommon",
+        "artist": "Nick Percival",
+        "multiverse_id": 96972,
+        "flavor": "\"The Golgari raise the bodies of their dead to serve. We raise the spirits of our dead to lead.\"",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96972",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96972.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/revenant-patriarch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96972"
+      },
+      {
+        "set": "Duel Decks: Sorin vs. Tibalt",
+        "set_id": "DDK",
+        "rarity": "uncommon",
+        "artist": "Nick Percival",
+        "multiverse_id": 368532,
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368532",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368532.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/revenant-patriarch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368532"
+      }
+    ]
+  },
+  {
+    "name": "Revenge of the Hunted",
+    "id": "revenge-of-the-hunted",
+    "url": "https://api.deckbrew.com/mtg/cards/revenge-of-the-hunted",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/revenge-of-the-hunted?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{4}{G}{G}",
+    "text": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "rare",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 275712,
+        "number": "191",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=275712",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/275712.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/revenge-of-the-hunted?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/275712"
+      }
+    ]
+  },
+  {
+    "name": "Reverberate",
+    "id": "reverberate",
+    "url": "https://api.deckbrew.com/mtg/cards/reverberate",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reverberate",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{R}{R}",
+    "text": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Premium Deck Series: Fire and Lightning",
+        "set_id": "PD2",
+        "rarity": "rare",
+        "artist": "jD",
+        "multiverse_id": 234705,
+        "flavor": "\"I'm not indecisive. I just don't like to limit my options.\"\n—Maxti, pyromancer",
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=234705",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/234705.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PD2",
+        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/reverberate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/234705"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "rare",
+        "artist": "jD",
+        "multiverse_id": 290289,
+        "flavor": "\"Not bad, but I can think of a better use for that.\"",
+        "number": "145",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=290289",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/290289.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/reverberate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/290289"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "rare",
+        "artist": "jD",
+        "multiverse_id": 205038,
+        "flavor": "\"I'm not indecisive. I just don't like to limit my options.\"\n—Maxti, pyromancer",
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205038",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205038.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/reverberate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205038"
+      },
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "rare",
+        "artist": "jD",
+        "multiverse_id": 233722,
+        "flavor": "For every action, there is a swifter and more violent reaction.",
+        "number": "152",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233722",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233722.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/reverberate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/233722"
+      }
+    ]
+  },
+  {
+    "name": "Reverberation",
+    "id": "reverberation",
+    "url": "https://api.deckbrew.com/mtg/cards/reverberation",
+    "store_url": "http://store.tcgplayer.com/magic/legends/reverberation?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "All damage that would be dealt this turn by target sorcery spell is dealt to that spell's controller instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Justin Hampton",
+        "multiverse_id": 1500,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1500",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1500.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/reverberation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1500"
+      }
+    ]
+  },
+  {
+    "name": "Revered Dead",
+    "id": "revered-dead",
+    "url": "https://api.deckbrew.com/mtg/cards/revered-dead",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/revered-dead?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "soldier",
+      "spirit"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "{W}: Regenerate Revered Dead.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "common",
+        "artist": "Ron Spears",
+        "multiverse_id": 122282,
+        "flavor": "\"The mists coalesced into silent warriors. We charged them and broke through their lines, only to see them swirl and re-form behind us.\"\n—Golas Mahr, black knight",
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122282",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122282.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/revered-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122282"
+      }
+    ]
+  },
+  {
+    "name": "Revered Elder",
+    "id": "revered-elder",
+    "url": "https://api.deckbrew.com/mtg/cards/revered-elder",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/revered-elder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "{1}: Prevent the next 1 damage that would be dealt to Revered Elder this turn.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Donato Giancola",
+        "multiverse_id": 19538,
+        "flavor": "The Cho-Arrim worship life and revere those who've experienced it longest.",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19538",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19538.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/revered-elder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19538"
+      }
+    ]
+  },
+  {
+    "name": "Revered Unicorn",
+    "id": "revered-unicorn",
+    "url": "https://api.deckbrew.com/mtg/cards/revered-unicorn",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/revered-unicorn?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "unicorn"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "David A. Cherry",
+        "multiverse_id": 4585,
+        "flavor": "\"I felt unworthy even to dream of it.\"\n—Hanna, Weatherlight navigator",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4585",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4585.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/revered-unicorn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4585"
+      }
+    ]
+  },
+  {
+    "name": "Reverence",
+    "id": "reverence",
+    "url": "https://api.deckbrew.com/mtg/cards/reverence",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/reverence?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Creatures with power 2 or less can't attack you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Ittoku",
+        "multiverse_id": 84371,
+        "flavor": "\"Despite the massive forces that allied against him, Konda never once believed he would lose the Kami War.\"\n—Masako the Humorless",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/reverence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84371"
+      }
+    ]
+  },
+  {
+    "name": "Reverent Hunter",
+    "id": "reverent-hunter",
+    "url": "https://api.deckbrew.com/mtg/cards/reverent-hunter",
+    "store_url": "http://store.tcgplayer.com/magic/theros/reverent-hunter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "archer",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Wesley Burt",
+        "multiverse_id": 373601,
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373601",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373601.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/reverent-hunter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373601"
+      }
+    ]
+  },
+  {
+    "name": "Reverent Mantra",
+    "id": "reverent-mantra",
+    "url": "https://api.deckbrew.com/mtg/cards/reverent-mantra",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/reverent-mantra?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "You may exile a white card from your hand rather than pay Reverent Mantra's mana cost.\nChoose a color. All creatures gain protection from the chosen color until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 19653,
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19653",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19653.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/reverent-mantra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19653"
+      }
+    ]
+  },
+  {
+    "name": "Reverent Silence",
+    "id": "reverent-silence",
+    "url": "https://api.deckbrew.com/mtg/cards/reverent-silence",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/reverent-silence?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "If you control a Forest, rather than pay Reverent Silence's mana cost, you may have each other player gain 6 life.\nDestroy all enchantments.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Don Hazeltine",
+        "multiverse_id": 22316,
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22316",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22316.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/reverent-silence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22316"
+      }
+    ]
+  },
+  {
+    "name": "Reversal of Fortune",
+    "id": "reversal-of-fortune",
+    "url": "https://api.deckbrew.com/mtg/cards/reversal-of-fortune",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/reversal-of-fortune?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "rare",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 73564,
+        "flavor": "\"Why learn hundreds of spells when you can learn only one and use it to steal hundreds?\"",
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=73564",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/73564.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/reversal-of-fortune?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/73564"
+      }
+    ]
+  },
+  {
+    "name": "Reverse Damage",
+    "id": "reverse-damage",
+    "url": "https://api.deckbrew.com/mtg/cards/reverse-damage",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reverse-damage",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Thomas Gianni",
+        "multiverse_id": 83132,
+        "flavor": "\"My enemy's hatred is his weakness. My enemy's anger is my strength.\"\n—Remin, venerable monk",
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83132",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83132.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83132"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Thomas Gianni",
+        "multiverse_id": 11472,
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11472",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11472.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/11472"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 2360,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2360",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2360.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2360"
+      },
+      {
+        "set": "Introductory Two-Player Set",
+        "set_id": "ITP",
+        "rarity": "special",
+        "artist": "Dameon Willich",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ITP",
+        "store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "Thomas Gianni",
+        "multiverse_id": 4152,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4152",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4152.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4152"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Eric Peterson",
+        "multiverse_id": 15799,
+        "flavor": "\"Weapons usually bring death. Today, mine will bring life.\"",
+        "number": "34",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15799",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15799.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15799"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 864,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=864",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/864.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/864"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 1361,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1361",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1361.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1361"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 266,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=266",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/266.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/266"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Dameon Willich",
+        "multiverse_id": 562,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=562",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/562.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/reverse-damage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/562"
+      }
+    ]
+  },
+  {
+    "name": "Reverse Engineer",
+    "id": "reverse-engineer",
+    "url": "https://api.deckbrew.com/mtg/cards/reverse-engineer",
+    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/reverse-engineer?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nDraw three cards.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Aether Revolt",
+        "set_id": "AER",
+        "rarity": "uncommon",
+        "artist": "Chase Stone",
+        "multiverse_id": 423709,
+        "flavor": "The Hold, an illegal research facility in a derelict merchant ship, became a wellspring of renegade intelligence.",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
+        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/reverse-engineer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423709"
+      }
+    ]
+  },
+  {
+    "name": "Reverse Polarity",
+    "id": "reverse-polarity",
+    "url": "https://api.deckbrew.com/mtg/cards/reverse-polarity",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reverse-polarity",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{W}{W}",
+    "text": "You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "common",
+        "artist": "Justin Hampton",
+        "multiverse_id": 1070,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1070",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1070.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/reverse-polarity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1070"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "uncommon",
+        "artist": "Justin Hampton",
+        "multiverse_id": 1362,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1362",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1362.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/reverse-polarity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1362"
+      }
+    ]
+  },
+  {
+    "name": "Reverse the Sands",
+    "id": "reverse-the-sands",
+    "url": "https://api.deckbrew.com/mtg/cards/reverse-the-sands",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reverse-the-sands",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 8,
+    "cost": "{6}{W}{W}",
+    "text": "Redistribute any number of players' life totals. (Each of those players gets one life total back.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 79125,
+        "flavor": "Worse than the years of aging was the burden of memory. The young monk lost his youth and gained a vicarious lifetime of hardship and woe.",
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=79125",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/79125.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/reverse-the-sands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/79125"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 420692,
+        "flavor": "Worse than the years of aging was the burden of memory. The young monk lost his youth and gained a vicarious lifetime of hardship and woe.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420692",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420692.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/reverse-the-sands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420692"
+      }
+    ]
+  },
+  {
+    "name": "Revive",
+    "id": "revive",
+    "url": "https://api.deckbrew.com/mtg/cards/revive",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=revive",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Return target green card from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 19641,
+        "flavor": "Gerrard's heart ached, recalling the living wreath Mirri laid for her dead kin. No such memorial was left for her in Rath.",
+        "number": "262",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19641",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19641.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/revive?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19641"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 276223,
+        "flavor": "Even what is lost beyond recall returns when coaxed by a dryad's hand.",
+        "number": "187",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=276223",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/276223.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/revive?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/276223"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 45433,
+        "flavor": "Even what is lost beyond recall returns when coaxed by a dryad's hand.",
+        "number": "276",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45433",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45433.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/revive?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45433"
+      }
+    ]
+  },
+  {
+    "name": "Revive the Fallen",
+    "id": "revive-the-fallen",
+    "url": "https://api.deckbrew.com/mtg/cards/revive-the-fallen",
+    "store_url": "http://store.tcgplayer.com/magic/morningtide/revive-the-fallen?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "uncommon",
+        "artist": "Steven Belledin",
+        "multiverse_id": 152836,
+        "number": "76",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152836",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152836.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/revive-the-fallen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152836"
+      }
+    ]
+  },
+  {
+    "name": "Reviving Dose",
+    "id": "reviving-dose",
+    "url": "https://api.deckbrew.com/mtg/cards/reviving-dose",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reviving-dose",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "You gain 3 life.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "common",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 22941,
+        "flavor": "As healers battled each plague, they learned more about the next.",
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22941",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22941.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/reviving-dose?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22941"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "common",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 132089,
+        "flavor": "Samite healers never mix their pungent elixir with sweetener or tea. The threat of a second dose is enough to get most warriors back on their feet.",
+        "number": "34",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=132089",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/132089.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/reviving-dose?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/132089"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "common",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 416854,
+        "flavor": "Samite healers never mix their pungent elixir with sweetener or tea. The threat of a second dose is enough to get most warriors back on their feet.",
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416854",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416854.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/reviving-dose?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416854"
+      }
+    ]
+  },
+  {
+    "name": "Reviving Melody",
+    "id": "reviving-melody",
+    "url": "https://api.deckbrew.com/mtg/cards/reviving-melody",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/reviving-melody?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target enchantment card from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 380483,
+        "flavor": "\"Listen to my song, and you need never forge a golden mask to return to me.\"",
+        "number": "138",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380483",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380483.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/reviving-melody?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380483"
+      }
+    ]
+  },
+  {
+    "name": "Reviving Vapors",
+    "id": "reviving-vapors",
+    "url": "https://api.deckbrew.com/mtg/cards/reviving-vapors",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reviving-vapors",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{U}",
+    "text": "Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 383069,
+        "number": "259",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383069",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383069.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/reviving-vapors?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383069"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 23196,
+        "number": "265",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23196",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23196.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/reviving-vapors?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23196"
+      }
+    ]
+  },
+  {
+    "name": "Revoke Existence",
+    "id": "revoke-existence",
+    "url": "https://api.deckbrew.com/mtg/cards/revoke-existence",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=revoke-existence",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Exile target artifact or enchantment.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Allen Williams",
+        "multiverse_id": 194123,
+        "flavor": "\"No half measures, no regrets. We'll tell no stories of this day. It will be as if it never existed at all.\"\n—Ganedor, loxodon mystic",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194123",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194123.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/revoke-existence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194123"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "common",
+        "artist": "Allen Williams",
+        "multiverse_id": 284488,
+        "flavor": "\"No half measures, no regrets. We'll tell no stories of this day. It will be as if it never existed at all.\"\n—Ganedor, loxodon mystic",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=284488",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/284488.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/revoke-existence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/284488"
+      },
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 378397,
+        "flavor": "\"There will come a time when the gods will look at mortals and shudder.\"\n—Uremides the philosopher",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378397",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378397.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/revoke-existence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378397"
+      }
+    ]
+  },
+  {
+    "name": "Revoke Privileges",
+    "id": "revoke-privileges",
+    "url": "https://api.deckbrew.com/mtg/cards/revoke-privileges",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/revoke-privileges?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Enchant creature\nEnchanted creature can't attack, block, or crew Vehicles.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "common",
+        "artist": "James Ryman",
+        "multiverse_id": 417599,
+        "flavor": "\"By order of Consulate Mandate 482, I am required to detain you, citizen.\"",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417599",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417599.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/revoke-privileges?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417599"
+      }
+    ]
+  },
+  {
+    "name": "Revolutionary Rebuff",
+    "id": "revolutionary-rebuff",
+    "url": "https://api.deckbrew.com/mtg/cards/revolutionary-rebuff",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/revolutionary-rebuff?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Counter target nonartifact spell unless its controller pays {2}.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "common",
+        "artist": "Zack Stella",
+        "multiverse_id": 417634,
+        "flavor": "By the time a Consulate sanction becomes official, the renegade quicksmiths have already found a way to circumvent it.",
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417634",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417634.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/revolutionary-rebuff?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417634"
+      }
+    ]
+  },
+  {
+    "name": "Rewards of Diversity",
+    "id": "rewards-of-diversity",
+    "url": "https://api.deckbrew.com/mtg/cards/rewards-of-diversity",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/rewards-of-diversity?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Whenever an opponent casts a multicolored spell, you gain 4 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "Darrell Riche",
+        "multiverse_id": 25323,
+        "flavor": "\"Everything is in place. Nothing can happen that isn't part of my plan.\"\n—Urza",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25323",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25323.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/rewards-of-diversity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25323"
+      }
+    ]
+  },
+  {
+    "name": "Reward the Faithful",
+    "id": "reward-the-faithful",
+    "url": "https://api.deckbrew.com/mtg/cards/reward-the-faithful",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/reward-the-faithful?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Any number of target players each gain life equal to the highest converted mana cost among permanents you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 44401,
+        "flavor": "\"When you have drunk your fill, pass the cup to others who thirst.\"",
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44401",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44401.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/reward-the-faithful?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44401"
+      }
+    ]
+  },
+  {
+    "name": "Reweave",
+    "id": "reweave",
+    "url": "https://api.deckbrew.com/mtg/cards/reweave",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/reweave?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "subtypes": [
+      "arcane"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{5}{U}",
+    "text": "Target permanent's controller sacrifices it. If he or she does, that player reveals cards from the top of his or her library until he or she reveals a permanent card that shares a card type with the sacrificed permanent, puts that card onto the battlefield, then shuffles his or her library.\nSplice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 79863,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=79863",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/79863.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/reweave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/79863"
+      }
+    ]
+  },
+  {
+    "name": "Rewind",
+    "id": "rewind",
+    "url": "https://api.deckbrew.com/mtg/cards/rewind",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rewind",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Counter target spell. Untap up to four lands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Dermot Power",
+        "multiverse_id": 83230,
+        "flavor": "\"Let's go over this one more time. . . .\"",
+        "number": "94",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83230",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83230.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/rewind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83230"
+      },
+      {
+        "set": "Arena League",
+        "set_id": "pARL",
+        "rarity": "special",
+        "artist": "Dermot Power",
+        "multiverse_id": 0,
+        "flavor": "\"Time flows like a river. In Tolaria we practice the art of building dams.\"\n—Barrin, master wizard",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pARL",
+        "store_url": "http://store.tcgplayer.com/magic/arena-league/rewind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "uncommon",
+        "artist": "Dermot Power",
+        "multiverse_id": 280222,
+        "flavor": "\"The best denials are simply that: a beginning and end unchanged, a dream with no memory.\"",
+        "number": "65",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=280222",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/280222.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/rewind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/280222"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Dermot Power",
+        "multiverse_id": 45264,
+        "flavor": "\"Let's go over this one more time. . . .\"",
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45264",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45264.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/rewind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45264"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Dermot Power",
+        "multiverse_id": 5670,
+        "flavor": "\"Time flows like a river. In Tolaria we practice the art of building dams.\"\n—Barrin, master wizard",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5670",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5670.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/rewind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5670"
+      }
+    ]
+  },
+  {
+    "name": "Reya Dawnbringer",
+    "id": "reya-dawnbringer",
+    "url": "https://api.deckbrew.com/mtg/cards/reya-dawnbringer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reya-dawnbringer",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 9,
+    "cost": "{6}{W}{W}{W}",
+    "text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+    "power": "4",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 382347,
+        "flavor": "\"You have not died until I consent.\"",
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382347",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382347.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382347"
+      },
+      {
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
+        "rarity": "rare",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 394047,
+        "flavor": "\"You have not died until I consent.\"",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394047",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394047.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394047"
+      },
+      {
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
+        "rarity": "rare",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 196998,
+        "flavor": "\"You have not died until I consent.\"",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=196998",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/196998.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/196998"
+      },
+      {
+        "set": "Magic Game Day",
+        "set_id": "pMGD",
+        "rarity": "special",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 0,
+        "flavor": "\"You have not died until I consent.\"",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+        "store_url": "http://store.tcgplayer.com/magic/magic-game-day/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 22965,
+        "flavor": "A beacon of hope for a battered army.",
+        "number": "33",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22965",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22965.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22965"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 106384,
+        "flavor": "\"You have not died until I consent.\"",
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106384",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106384.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/reya-dawnbringer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106384"
+      }
+    ]
+  },
+  {
+    "name": "Reyhan, Last of the Abzan",
+    "id": "reyhan-last-of-the-abzan",
+    "url": "https://api.deckbrew.com/mtg/cards/reyhan-last-of-the-abzan",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2016/reyhan-last-of-the-abzan?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{G}",
+    "text": "Reyhan, Last of the Abzan enters the battlefield with three +1/+1 counters on it.\nWhenever a creature you control dies or is put into the command zone, if it had one or more +1/+1 counters on it, you may put that many +1/+1 counters on target creature.\nPartner (You can have two commanders if both have partner.)",
+    "power": "0",
+    "toughness": "0",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Chris Rallis",
+        "multiverse_id": 420657,
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420657",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420657.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/reyhan-last-of-the-abzan?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420657"
+      }
+    ]
+  },
+  {
+    "name": "Rhox",
+    "id": "rhox",
+    "url": "https://api.deckbrew.com/mtg/cards/rhox",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rhox",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "rhino"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{4}{G}{G}",
+    "text": "You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Starter 2000",
+        "set_id": "S00",
+        "rarity": "rare",
+        "artist": "Mark Zug",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S00",
+        "store_url": "http://store.tcgplayer.com/magic/starter-2000/rhox?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 24687,
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24687",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24687.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/rhox?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24687"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 49038,
+        "number": "277",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=49038",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/49038.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/rhox?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/49038"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Mark Zug",
+        "multiverse_id": 106504,
+        "flavor": "It's as solid as the club in its hand—and about as subtle.",
+        "number": "291",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106504",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106504.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/rhox?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106504"
+      }
+    ]
+  },
+  {
+    "name": "Rhox Bodyguard",
+    "id": "rhox-bodyguard",
+    "url": "https://api.deckbrew.com/mtg/cards/rhox-bodyguard",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/rhox-bodyguard?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "monk",
+      "rhino",
+      "soldier"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{W}",
+    "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhen Rhox Bodyguard enters the battlefield, you gain 3 life.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "common",
+        "artist": "Sal Villagran",
+        "multiverse_id": 177924,
+        "flavor": "An enlightened soul caged in a body made for battle.",
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=177924",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/177924.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/rhox-bodyguard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/177924"
+      }
+    ]
+  },
+  {
+    "name": "Rhox Brute",
+    "id": "rhox-brute",
+    "url": "https://api.deckbrew.com/mtg/cards/rhox-brute",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/rhox-brute?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rhino",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{G}",
+    "text": "",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 189650,
+        "flavor": "\"In this new world, I have seen the once-devout rhoxes take up arms with the savages of Jund. I would be offended, but I see the wisdom in their choice.\"\n—Gernan, Dawnray archer",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189650",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189650.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/rhox-brute?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189650"
+      }
+    ]
+  },
+  {
+    "name": "Rhox Charger",
+    "id": "rhox-charger",
+    "url": "https://api.deckbrew.com/mtg/cards/rhox-charger",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/rhox-charger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rhino",
+      "soldier"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Trample\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "uncommon",
+        "artist": "Chris Rahn",
+        "multiverse_id": 174959,
+        "flavor": "\"Momentum is a great ally.\"",
+        "number": "145",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174959",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174959.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/rhox-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174959"
+      }
+    ]
+  }
+]

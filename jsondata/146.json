@@ -1,0 +1,5413 @@
+[
+  {
+    "name": "Talisman of Unity",
+    "id": "talisman-of-unity",
+    "url": "https://api.deckbrew.com/mtg/cards/talisman-of-unity",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/talisman-of-unity?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Talisman of Unity deals 1 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Mike Dringenberg",
+        "multiverse_id": 39601,
+        "number": "257",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39601",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39601.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/talisman-of-unity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39601"
+      }
+    ]
+  },
+  {
+    "name": "Tallowisp",
+    "id": "tallowisp",
+    "url": "https://api.deckbrew.com/mtg/cards/tallowisp",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/tallowisp?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "uncommon",
+        "artist": "Ron Spears",
+        "multiverse_id": 74412,
+        "flavor": "Isolated on its little candlewick, the kami never heard of the crime that drove its comrades to war.",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74412",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74412.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/tallowisp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74412"
+      }
+    ]
+  },
+  {
+    "name": "Talon Gates",
+    "id": "talon-gates",
+    "url": "https://api.deckbrew.com/mtg/cards/talon-gates",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=talon-gates",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "dominaria"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Any time you could cast a sorcery, you may exile a nonland card from your hand with X time counters on it, where X is its converted mana cost. If the exiled card doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, he or she removes a time counter. When the last is removed, the player casts it without paying its mana cost. If it's a creature, it has haste.)\nWhenever you roll {CHAOS}, remove two time counters from each suspended card you own.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Chippy",
+        "multiverse_id": 423658,
+        "number": "77",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423658",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423658.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/talon-gates?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423658"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Chippy",
+        "multiverse_id": 226525,
+        "number": "36",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226525",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226525.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/talon-gates?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226525"
+      }
+    ]
+  },
+  {
+    "name": "Talon of Pain",
+    "id": "talon-of-pain",
+    "url": "https://api.deckbrew.com/mtg/cards/talon-of-pain",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/talon-of-pain?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.\n{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 46111,
+        "number": "150",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46111",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46111.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/talon-of-pain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46111"
+      }
+    ]
+  },
+  {
+    "name": "Talonrend",
+    "id": "talonrend",
+    "url": "https://api.deckbrew.com/mtg/cards/talonrend",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/talonrend?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "Flying\n{U/R}: Talonrend gets +1/-1 until end of turn.",
+    "power": "0",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "uncommon",
+        "artist": "Nils Hamm",
+        "multiverse_id": 153430,
+        "flavor": "Change is a denizen of Shadowmoor as much as ouphes and noggles are.",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153430",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153430.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/talonrend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153430"
+      }
+    ]
+  },
+  {
+    "name": "Talon Sliver",
+    "id": "talon-sliver",
+    "url": "https://api.deckbrew.com/mtg/cards/talon-sliver",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/talon-sliver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "sliver"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "All Sliver creatures have first strike.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Mike Raabe",
+        "multiverse_id": 4908,
+        "flavor": "\"Keep them at sword's length!\" Gerrard's order fell flat as each sliver's talon suddenly grew longer. \"Hold on—break out the polearms!\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4908",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4908.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/talon-sliver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4908"
+      }
+    ]
+  },
+  {
+    "name": "Talons of Falkenrath",
+    "id": "talons-of-falkenrath",
+    "url": "https://api.deckbrew.com/mtg/cards/talons-of-falkenrath",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/talons-of-falkenrath?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "common",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 262855,
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=262855",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/262855.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/talons-of-falkenrath?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/262855"
+      }
+    ]
+  },
+  {
+    "name": "Talon Trooper",
+    "id": "talon-trooper",
+    "url": "https://api.deckbrew.com/mtg/cards/talon-trooper",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/talon-trooper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird",
+      "scout"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{U}",
+    "text": "Flying",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Matt Stewart",
+        "multiverse_id": 179537,
+        "flavor": "\"The volcanic winds make a maze of the skies of Jund. If we mean to invade, we must first learn their invisible paths.\"",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179537",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179537.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/talon-trooper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179537"
+      }
+    ]
+  },
+  {
+    "name": "Talrand's Invocation",
+    "id": "talrands-invocation",
+    "url": "https://api.deckbrew.com/mtg/cards/talrands-invocation",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/talrands-invocation?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Create two 2/2 blue Drake creature tokens with flying.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "uncommon",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 254117,
+        "flavor": "After Talrand conquered the depths of Shandalar, his ambitions drove him skyward, joined by servants whose drive and curiosity equaled his own.",
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=254117",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/254117.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/talrands-invocation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/254117"
+      }
+    ]
+  },
+  {
+    "name": "Talrand, Sky Summoner",
+    "id": "talrand-sky-summoner",
+    "url": "https://api.deckbrew.com/mtg/cards/talrand-sky-summoner",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=talrand-sky-summoner",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "merfolk",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 253701,
+        "flavor": "\"The seas are vast, but the skies are even more so. Why be content with one kingdom when I can rule them both?\"",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253701",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253701.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/talrand-sky-summoner?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253701"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 405412,
+        "flavor": "\"The seas are vast, but the skies are even more so. Why be content with one kingdom when I can rule them both?\"",
+        "number": "109",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405412",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405412.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/talrand-sky-summoner?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405412"
+      }
+    ]
+  },
+  {
+    "name": "Talruum Champion",
+    "id": "talruum-champion",
+    "url": "https://api.deckbrew.com/mtg/cards/talruum-champion",
+    "store_url": "http://store.tcgplayer.com/magic/visions/talruum-champion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "First strike\nWhenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "common",
+        "artist": "Pete Venters",
+        "multiverse_id": 3704,
+        "flavor": "In the Talruum language, there is no word for \"surprised.\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3704",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3704.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/talruum-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3704"
+      }
+    ]
+  },
+  {
+    "name": "Talruum Minotaur",
+    "id": "talruum-minotaur",
+    "url": "https://api.deckbrew.com/mtg/cards/talruum-minotaur",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=talruum-minotaur",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "minotaur"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Haste",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "common",
+        "artist": "Pete Venters",
+        "multiverse_id": 26646,
+        "flavor": "Don't insult a Talruum unless your mount is swift.\n—Suq'Ata saying",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26646",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26646.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/talruum-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26646"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Pete Venters",
+        "multiverse_id": 14624,
+        "flavor": "Don't insult a Talruum unless your mount is swift.\n—Suq'Ata saying",
+        "number": "210",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14624",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14624.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/talruum-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/14624"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Pete Venters",
+        "multiverse_id": 3467,
+        "flavor": "Don't insult a Talruum unless your mount is swift.\n—Suq'Ata saying",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3467",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3467.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/talruum-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3467"
+      }
+    ]
+  },
+  {
+    "name": "Talruum Piper",
+    "id": "talruum-piper",
+    "url": "https://api.deckbrew.com/mtg/cards/talruum-piper",
+    "store_url": "http://store.tcgplayer.com/magic/visions/talruum-piper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "All creatures with flying able to block Talruum Piper do so.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 3705,
+        "flavor": "When the Talruum began to play, the dragons fell from the sky to squash the obnoxious noise.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3705",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3705.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/talruum-piper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3705"
+      }
+    ]
+  },
+  {
+    "name": "Talus Paladin",
+    "id": "talus-paladin",
+    "url": "https://api.deckbrew.com/mtg/cards/talus-paladin",
+    "store_url": "http://store.tcgplayer.com/magic/worldwake/talus-paladin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 194672,
+        "flavor": "\"Why fill pockets with gold when you can fill hearts with conviction?\"",
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194672",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194672.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/talus-paladin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194672"
+      }
+    ]
+  },
+  {
+    "name": "Tamanoa",
+    "id": "tamanoa",
+    "url": "https://api.deckbrew.com/mtg/cards/tamanoa",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/tamanoa?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{R}{G}{W}",
+    "text": "Whenever a noncreature source you control deals damage, you gain that much life.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "rare",
+        "artist": "rk post",
+        "multiverse_id": 121262,
+        "flavor": "When Freyalise spoke the World Spell, the tamanoa rose to bring a new morning to Terisiare.",
+        "number": "132",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121262",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121262.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/tamanoa?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121262"
+      }
+    ]
+  },
+  {
+    "name": "Tamiyo, Field Researcher",
+    "id": "tamiyo-field-researcher",
+    "url": "https://api.deckbrew.com/mtg/cards/tamiyo-field-researcher",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tamiyo-field-researcher?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "tamiyo"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{1}{G}{W}{U}",
+    "text": "+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.\n−2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.\n−7: Draw three cards. You get an emblem with \"You may cast nonland cards from your hand without paying their mana costs.\"",
+    "loyalty": 4,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "mythic",
+        "artist": "Tianhua X",
+        "multiverse_id": 414495,
+        "number": "190",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414495",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414495.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tamiyo-field-researcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414495"
+      }
+    ]
+  },
+  {
+    "name": "Tamiyo's Journal",
+    "id": "tamiyos-journal",
+    "url": "https://api.deckbrew.com/mtg/cards/tamiyos-journal",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/tamiyos-journal?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\n{T}, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "rare",
+        "artist": "Chase Stone",
+        "multiverse_id": 410032,
+        "flavor": "Entry 434: There's more to Avacyn's madness . . .",
+        "number": "265",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=410032",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/410032.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/tamiyos-journal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/410032"
+      }
+    ]
+  },
+  {
+    "name": "Tamiyo, the Moon Sage",
+    "id": "tamiyo-the-moon-sage",
+    "url": "https://api.deckbrew.com/mtg/cards/tamiyo-the-moon-sage",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/tamiyo-the-moon-sage?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "tamiyo"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n−2: Draw a card for each tapped creature target player controls.\n−8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
+    "loyalty": 4,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "mythic",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 240070,
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240070",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240070.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/tamiyo-the-moon-sage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240070"
+      }
+    ]
+  },
+  {
+    "name": "Tana, the Bloodsower",
+    "id": "tana-the-bloodsower",
+    "url": "https://api.deckbrew.com/mtg/cards/tana-the-bloodsower",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2016/tana-the-bloodsower?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "druid",
+      "elf"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{G}",
+    "text": "Trample\nWhenever Tana, the Bloodsower deals combat damage to a player, create that many 1/1 green Saproling creature tokens.\nPartner (You can have two commanders if both have partner.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "mythic",
+        "artist": "Magali Villeneuve",
+        "multiverse_id": 420662,
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420662",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420662.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/tana-the-bloodsower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420662"
+      }
+    ]
+  },
+  {
+    "name": "Tandem Lookout",
+    "id": "tandem-lookout",
+    "url": "https://api.deckbrew.com/mtg/cards/tandem-lookout",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tandem-lookout",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "scout"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Blessed vs. Cursed",
+        "set_id": "DDQ",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 409605,
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409605",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409605.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/tandem-lookout?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409605"
+      },
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 240203,
+        "number": "80",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240203",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240203.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/tandem-lookout?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240203"
+      }
+    ]
+  },
+  {
+    "name": "Tandem Tactics",
+    "id": "tandem-tactics",
+    "url": "https://api.deckbrew.com/mtg/cards/tandem-tactics",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/tandem-tactics?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "David Gaillet",
+        "multiverse_id": 402069,
+        "flavor": "In times of infestation and war, Zendikar favors the blades that strike in unison.",
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402069",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402069.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/tandem-tactics?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402069"
+      }
+    ]
+  },
+  {
+    "name": "Tangle",
+    "id": "tangle",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tangle",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Prevent all combat damage that would be dealt this turn.\nEach attacking creature doesn't untap during its controller's next untap step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "John Avon",
+        "multiverse_id": 383123,
+        "flavor": "Gaea battles rampant death with abundant life.",
+        "number": "237",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383123",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383123.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/tangle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383123"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 23115,
+        "flavor": "Gaea battles rampant death with abundant life.",
+        "number": "213",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23115",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23115.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/tangle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23115"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Angler",
+    "id": "tangle-angler",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-angler",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tangle-angler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{G}: Target creature blocks Tangle Angler this turn if able.",
+    "power": "1",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Phyrexian",
+        "rarity": "uncommon",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 205485,
+        "flavor": "A plague on the curious.",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205485",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205485.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tangle-angler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205485"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Asp",
+    "id": "tangle-asp",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-asp",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tangle-asp?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "common",
+        "artist": "Daren Bader",
+        "multiverse_id": 50203,
+        "flavor": "\"I have no fangs, yet I constantly bite. I have no scales, yet I slither through you. What am I?\"\n—Riddle of the viper's venom",
+        "number": "94",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50203",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50203.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tangle-asp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50203"
+      }
+    ]
+  },
+  {
+    "name": "Tanglebloom",
+    "id": "tanglebloom",
+    "url": "https://api.deckbrew.com/mtg/cards/tanglebloom",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tanglebloom",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 1,
+    "cost": "{1}",
+    "text": "{1}, {T}: You gain 1 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Val Mayerik",
+        "multiverse_id": 95221,
+        "flavor": "The bloom contains no seeds. It's meant only to nourish the forest's inhabitants.",
+        "number": "311",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=95221",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/95221.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/tanglebloom?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/95221"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Val Mayerik",
+        "multiverse_id": 48913,
+        "flavor": "Druids converted swaths of the Tangle into tanglebloom orchards. Though heavy tools are needed to cut a leaf in the Tangle, tanglebloom fruit is easily plucked by hand.",
+        "number": "258",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48913",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48913.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tanglebloom?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48913"
+      }
+    ]
+  },
+  {
+    "name": "Tangleclaw Werewolf",
+    "id": "tangleclaw-werewolf",
+    "url": "https://api.deckbrew.com/mtg/cards/tangleclaw-werewolf",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tangleclaw-werewolf?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "werewolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "Tangleclaw Werewolf can block an additional creature each combat.\n{6}{G}: Transform Tangleclaw Werewolf.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "uncommon",
+        "artist": "Steven Belledin",
+        "multiverse_id": 414477,
+        "flavor": "\"What has long, flesh-rending claws and enormous, bone-crushing teeth?\"\n—Halana, Kessig ranger",
+        "number": "174a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414477",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414477.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tangleclaw-werewolf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414477"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Golem",
+    "id": "tangle-golem",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-golem",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/tangle-golem?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "golem"
+    ],
+    "cmc": 7,
+    "cost": "{7}",
+    "text": "Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)",
+    "power": "5",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "common",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 46171,
+        "flavor": "The longer it weaves through the twisted vines of the Tangle, the more it adopts their hidden strength.",
+        "number": "151",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46171",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46171.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tangle-golem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46171"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Hulk",
+    "id": "tangle-hulk",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-hulk",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/tangle-hulk?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "{2}{G}: Regenerate Tangle Hulk.",
+    "power": "5",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 214041,
+        "flavor": "\"A true Phyrexian predator. It will never know death, just as nature intended.\"\n—Vorinclex, Voice of Hunger",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214041",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214041.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/tangle-hulk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/214041"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Kelp",
+    "id": "tangle-kelp",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-kelp",
+    "store_url": "http://store.tcgplayer.com/magic/the-dark/tangle-kelp?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Enchant creature\nWhen Tangle Kelp enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step if it attacked during its controller's last turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "The Dark",
+        "set_id": "DRK",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 1763,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1763",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1763.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DRK",
+        "store_url": "http://store.tcgplayer.com/magic/the-dark/tangle-kelp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1763"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Mantis",
+    "id": "tangle-mantis",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-mantis",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/tangle-mantis?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "insect"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "Trample",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Chris Rahn",
+        "multiverse_id": 222862,
+        "flavor": "The fiercest hunters in the Tangle don't seek out the mantises. They are the mantises.",
+        "number": "91",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222862",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222862.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/tangle-mantis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222862"
+      }
+    ]
+  },
+  {
+    "name": "Tangleroot",
+    "id": "tangleroot",
+    "url": "https://api.deckbrew.com/mtg/cards/tangleroot",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/tangleroot?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Whenever a player casts a creature spell, that player adds {G} to his or her mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "rare",
+        "artist": "Dana Knutson",
+        "multiverse_id": 49767,
+        "flavor": "As if there's glitch in the system, the Tangle sometimes folds in on itself, throwing off sparks of mana in a mystifying display.",
+        "number": "259",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=49767",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/49767.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tangleroot?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/49767"
+      }
+    ]
+  },
+  {
+    "name": "Tanglesap",
+    "id": "tanglesap",
+    "url": "https://api.deckbrew.com/mtg/cards/tanglesap",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/tanglesap?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Prevent all combat damage that would be dealt this turn by creatures without trample.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 191355,
+        "flavor": "\"The blood of the forest is beholden to no one.\"\n—Nissa Revane",
+        "number": "186",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191355",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191355.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/tanglesap?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/191355"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Spider",
+    "id": "tangle-spider",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-spider",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tangle-spider",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spider"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{4}{G}{G}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach (This creature can block creatures with flying.)",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "common",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 46548,
+        "flavor": "They're considered good luck by the elves they don't eat.",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46548",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46548.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tangle-spider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46548"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 135231,
+        "flavor": "Only rumors have ever escaped its web.",
+        "number": "303",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=135231",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/135231.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/tangle-spider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/135231"
+      }
+    ]
+  },
+  {
+    "name": "Tanglewalker",
+    "id": "tanglewalker",
+    "url": "https://api.deckbrew.com/mtg/cards/tanglewalker",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/tanglewalker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dryad"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Each creature you control can't be blocked as long as defending player controls an artifact land.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 43547,
+        "flavor": "In bringing life to Mirrodin, Memnarch was more successful than he knew—for Mirrodin began to take on a life of its own.",
+        "number": "86",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43547",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43547.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tanglewalker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43547"
+      }
+    ]
+  },
+  {
+    "name": "Tangle Wire",
+    "id": "tangle-wire",
+    "url": "https://api.deckbrew.com/mtg/cards/tangle-wire",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tangle-wire",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "From the Vault: Twenty",
+        "set_id": "V13",
+        "rarity": "mythic",
+        "artist": "Marco Nelor",
+        "multiverse_id": 373322,
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373322",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373322.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/tangle-wire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373322"
+      },
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Glen Angus",
+        "multiverse_id": 21399,
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21399",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21399.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/tangle-wire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21399"
+      }
+    ]
+  },
+  {
+    "name": "Taniwha",
+    "id": "taniwha",
+    "url": "https://api.deckbrew.com/mtg/cards/taniwha",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/taniwha?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "serpent"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Trample\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nAt the beginning of your upkeep, all lands you control phase out. (They phase in before you untap during your next untap step.)",
+    "power": "7",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Ian Miller",
+        "multiverse_id": 3366,
+        "flavor": "\"Taniwha rolls in its sleep, and the land is awash with the waves.\"\n—Poetics of Hanan",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3366",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3366.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/taniwha?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3366"
+      }
+    ]
+  },
+  {
+    "name": "Taoist Hermit",
+    "id": "taoist-hermit",
+    "url": "https://api.deckbrew.com/mtg/cards/taoist-hermit",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taoist-hermit?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "mystic"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "uncommon",
+        "artist": "Wang Yuqun",
+        "multiverse_id": 10569,
+        "flavor": "Taoists chose to be hermits for many reasons, but all shared one unchanging goal: to follow the Tao.",
+        "number": "150",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10569",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10569.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taoist-hermit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10569"
+      }
+    ]
+  },
+  {
+    "name": "Taoist Mystic",
+    "id": "taoist-mystic",
+    "url": "https://api.deckbrew.com/mtg/cards/taoist-mystic",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taoist-mystic?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "mystic"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Taoist Mystic can't be blocked by creatures with horsemanship.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Qu Xin",
+        "multiverse_id": 10733,
+        "flavor": "By appearing in places miles apart at the same time, Zuo Ci exhibited the mystic's ability to \"shrink the land.\"",
+        "number": "151",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10733",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10733.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taoist-mystic?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10733"
+      }
+    ]
+  },
+  {
+    "name": "Tapestry of the Ages",
+    "id": "tapestry-of-the-ages",
+    "url": "https://api.deckbrew.com/mtg/cards/tapestry-of-the-ages",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/tapestry-of-the-ages?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "{2}, {T}: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "uncommon",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 394728,
+        "flavor": "\"Abzan, Jeskai, Sultai, Mardu, Temur—names lost to history, yet worthy of further study.\"\n—Narset",
+        "number": "246",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394728",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394728.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/tapestry-of-the-ages?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394728"
+      }
+    ]
+  },
+  {
+    "name": "Tar Fiend",
+    "id": "tar-fiend",
+    "url": "https://api.deckbrew.com/mtg/cards/tar-fiend",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/tar-fiend?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{5}{B}",
+    "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\nWhen Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 175101,
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=175101",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/175101.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/tar-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/175101"
+      }
+    ]
+  },
+  {
+    "name": "Tarfire",
+    "id": "tarfire",
+    "url": "https://api.deckbrew.com/mtg/cards/tarfire",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tarfire",
+    "types": [
+      "instant",
+      "tribal"
+    ],
+    "subtypes": [
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Tarfire deals 2 damage to target creature or player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 139476,
+        "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n—A tale of Auntie Grub",
+        "number": "194",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139476",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139476.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/tarfire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139476"
+      },
+      {
+        "set": "Duel Decks: Elves vs. Goblins",
+        "set_id": "EVG",
+        "rarity": "common",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 157921,
+        "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n—A tale of Auntie Grub",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157921",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157921.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/tarfire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157921"
+      },
+      {
+        "set": "Duel Decks Anthology, Elves vs. Goblins",
+        "set_id": "DD3_EVG",
+        "rarity": "common",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 393992,
+        "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n—A tale of Auntie Grub",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393992",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393992.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/tarfire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393992"
+      }
+    ]
+  },
+  {
+    "name": "Tariel, Reckoner of Souls",
+    "id": "tariel-reckoner-of-souls",
+    "url": "https://api.deckbrew.com/mtg/cards/tariel-reckoner-of-souls",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tariel-reckoner-of-souls",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{4}{W}{B}{R}",
+    "text": "Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.",
+    "power": "4",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "mythic",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 236995,
+        "flavor": "\"After death you face paradise, damnation, or Tariel.\"\n—Priest's teaching",
+        "number": "229",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=236995",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/236995.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/tariel-reckoner-of-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/236995"
+      },
+      {
+        "set": "From the Vault: Angels",
+        "set_id": "V15",
+        "rarity": "mythic",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 401642,
+        "flavor": "\"After death you face paradise, damnation, or Tariel.\"\n—Priest's teaching",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401642",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401642.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V15",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/tariel-reckoner-of-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401642"
+      }
+    ]
+  },
+  {
+    "name": "Tariff",
+    "id": "tariff",
+    "url": "https://api.deckbrew.com/mtg/cards/tariff",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tariff",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 15361,
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15361",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15361.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/tariff?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15361"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 4590,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4590",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4590.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/tariff?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4590"
+      }
+    ]
+  },
+  {
+    "name": "Tarmogoyf",
+    "id": "tarmogoyf",
+    "url": "https://api.deckbrew.com/mtg/cards/tarmogoyf",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tarmogoyf",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "lhurgoyf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+    "power": "*",
+    "toughness": "1+*",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "rare",
+        "artist": "Justin Murray",
+        "multiverse_id": 136142,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=136142",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/136142.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/tarmogoyf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/136142"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "mythic",
+        "artist": "Ryan Barger",
+        "multiverse_id": 397682,
+        "flavor": "What doesn't grow, dies. And what dies grows the tarmogoyf.",
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397682",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397682.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/tarmogoyf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397682"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "mythic",
+        "artist": "Ryan Barger",
+        "multiverse_id": 370404,
+        "flavor": "What doesn't grow, dies. And what dies grows the tarmogoyf.",
+        "number": "166",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370404",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370404.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/tarmogoyf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370404"
+      }
+    ]
+  },
+  {
+    "name": "Tarnished Citadel",
+    "id": "tarnished-citadel",
+    "url": "https://api.deckbrew.com/mtg/cards/tarnished-citadel",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/tarnished-citadel?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 30015,
+        "number": "329",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=30015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/30015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/tarnished-citadel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/30015"
+      }
+    ]
+  },
+  {
+    "name": "Tarox Bladewing",
+    "id": "tarox-bladewing",
+    "url": "https://api.deckbrew.com/mtg/cards/tarox-bladewing",
+    "store_url": "http://store.tcgplayer.com/magic/future-sight/tarox-bladewing?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{2}{R}{R}{R}",
+    "text": "Flying, haste\nGrandeur — Discard another card named Tarox Bladewing: Tarox Bladewing gets +X/+X until end of turn, where X is its power.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "rare",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 136139,
+        "flavor": "Despising his siblings as insults to his line, he finds and devours each in turn.",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=136139",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/136139.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/tarox-bladewing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/136139"
+      }
+    ]
+  },
+  {
+    "name": "Tarpan",
+    "id": "tarpan",
+    "url": "https://api.deckbrew.com/mtg/cards/tarpan",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tarpan",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horse"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "When Tarpan dies, you gain 1 life.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Margaret Organ-Kean",
+        "multiverse_id": 4013,
+        "flavor": "\"A good tarpan will serve you, faithful and true. A bad one will kick you in the head.\"\n—General Jarkeld, the Arctic Fox",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4013",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4013.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/tarpan?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4013"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Margaret Organ-Kean",
+        "multiverse_id": 2591,
+        "flavor": "\"A good Tarpan will serve you, faithful and true. A bad one will kick you in the head.\"\n—General Jarkeld, the Arctic Fox",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2591",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2591.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/tarpan?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2591"
+      }
+    ]
+  },
+  {
+    "name": "Tar Pitcher",
+    "id": "tar-pitcher",
+    "url": "https://api.deckbrew.com/mtg/cards/tar-pitcher",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tar-pitcher",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 139470,
+        "flavor": "\"Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . .\"\n—A tale of Auntie Grub",
+        "number": "193",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139470",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139470.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/tar-pitcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139470"
+      },
+      {
+        "set": "Duel Decks: Elves vs. Goblins",
+        "set_id": "EVG",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 157920,
+        "flavor": "\"Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . .\"\n—A tale of Auntie Grub",
+        "number": "53",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157920",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157920.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/tar-pitcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157920"
+      },
+      {
+        "set": "Duel Decks Anthology, Elves vs. Goblins",
+        "set_id": "DD3_EVG",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 393991,
+        "flavor": "\"Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . .\"\n—A tale of Auntie Grub",
+        "number": "53",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393991",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393991.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/tar-pitcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393991"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "uncommon",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 370467,
+        "flavor": "\"Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . .\"\n—A tale of Auntie Grub",
+        "number": "134",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370467",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370467.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/tar-pitcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370467"
+      }
+    ]
+  },
+  {
+    "name": "Tar Pit Warrior",
+    "id": "tar-pit-warrior",
+    "url": "https://api.deckbrew.com/mtg/cards/tar-pit-warrior",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tar-pit-warrior",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cyclops",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "common",
+        "artist": "George Pratt",
+        "multiverse_id": 26615,
+        "flavor": "\"The cyclops shrugged off savage blows, but casual insults made him weep.\"\n—Azeworai, \"The Cyclops who Couldn't\"",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26615",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26615.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/tar-pit-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26615"
+      },
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "common",
+        "artist": "George Pratt",
+        "multiverse_id": 3627,
+        "flavor": "\"The cyclops shrugged off savage blows, but casual insults made him weep.\"\n—Azeworai, \"The Cyclops who Couldn't\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3627",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3627.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/tar-pit-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3627"
+      }
+    ]
+  },
+  {
+    "name": "Tar Snare",
+    "id": "tar-snare",
+    "url": "https://api.deckbrew.com/mtg/cards/tar-snare",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/tar-snare?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Target creature gets -3/-2 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "common",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 407600,
+        "flavor": "The amorphous, magically animated residue known as the Fathom Sludge lurks in the Hagra Cistern, attacking its prey with pseudopods and dragging it down to be digested.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407600",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407600.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/tar-snare?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407600"
+      }
+    ]
+  },
+  {
+    "name": "Tasigur's Cruelty",
+    "id": "tasigurs-cruelty",
+    "url": "https://api.deckbrew.com/mtg/cards/tasigurs-cruelty",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/tasigurs-cruelty?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{5}{B}",
+    "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nEach opponent discards two cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Sultai",
+        "rarity": "common",
+        "artist": "Chris Rahn",
+        "multiverse_id": 391938,
+        "flavor": "The cruelest tortures leave no mark upon the flesh.",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391938",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391938.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/tasigurs-cruelty?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391938"
+      }
+    ]
+  },
+  {
+    "name": "Tasigur, the Golden Fang",
+    "id": "tasigur-the-golden-fang",
+    "url": "https://api.deckbrew.com/mtg/cards/tasigur-the-golden-fang",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tasigur-the-golden-fang",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{5}{B}",
+    "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\n{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Sultai",
+        "rarity": "rare",
+        "artist": "Chris Rahn",
+        "multiverse_id": 391937,
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391937",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391937.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/tasigur-the-golden-fang?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391937"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Chris Rahn",
+        "multiverse_id": 0,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/tasigur-the-golden-fang?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Task Force",
+    "id": "task-force",
+    "url": "https://api.deckbrew.com/mtg/cards/task-force",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/task-force?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rebel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Whenever Task Force becomes the target of a spell or ability, it gets +0/+3 until end of turn.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Gary Ruddell",
+        "multiverse_id": 19545,
+        "flavor": "They are the reflection of Rushwood's glow on the edge of a wooden sword.",
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19545",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19545.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/task-force?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19545"
+      }
+    ]
+  },
+  {
+    "name": "Task Mage Assembly",
+    "id": "task-mage-assembly",
+    "url": "https://api.deckbrew.com/mtg/cards/task-mage-assembly",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/task-mage-assembly?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "When there are no creatures on the battlefield, sacrifice Task Mage Assembly.\n{2}: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only any time he or she could cast a sorcery.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "rare",
+        "artist": "Val Mayerik",
+        "multiverse_id": 24651,
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24651",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24651.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/task-mage-assembly?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24651"
+      }
+    ]
+  },
+  {
+    "name": "Tasseled Dromedary",
+    "id": "tasseled-dromedary",
+    "url": "https://api.deckbrew.com/mtg/cards/tasseled-dromedary",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/tasseled-dromedary?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "camel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "",
+    "power": "0",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "common",
+        "artist": "Raoul Vitale",
+        "multiverse_id": 417603,
+        "flavor": "There is no dress code for the Inventors' Fair, but you'll be hard-pressed to find anyone or anything not done up in their finest.",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417603",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417603.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/tasseled-dromedary?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417603"
+      }
+    ]
+  },
+  {
+    "name": "Taste for Mayhem",
+    "id": "taste-for-mayhem",
+    "url": "https://api.deckbrew.com/mtg/cards/taste-for-mayhem",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/taste-for-mayhem?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Enchant creature\nEnchanted creature gets +2/+0.\nHellbent — Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Rakdos",
+        "rarity": "common",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 107597,
+        "flavor": "The taste of blood breaks down what little self-control the Rakdos possess.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/taste-for-mayhem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107597"
+      }
+    ]
+  },
+  {
+    "name": "Taste of Blood",
+    "id": "taste-of-blood",
+    "url": "https://api.deckbrew.com/mtg/cards/taste-of-blood",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/taste-of-blood?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Taste of Blood deals 1 damage to target player and you gain 1 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "common",
+        "artist": "Howard Lyon",
+        "multiverse_id": 226561,
+        "flavor": "\"How blessed are some people, whose lives have no fears, no dreads, to whom sleep is a blessing that comes nightly, and brings nothing but sweet dreams.\"\n—Bram Stoker, Dracula",
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226561",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226561.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/taste-of-blood?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226561"
+      }
+    ]
+  },
+  {
+    "name": "Taste of Paradise",
+    "id": "taste-of-paradise",
+    "url": "https://api.deckbrew.com/mtg/cards/taste-of-paradise",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=taste-of-paradise",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "As an additional cost to cast Taste of Paradise, you may pay {1}{G} any number of times.\nYou gain 3 life plus an additional 3 life for each additional {1}{G} you paid.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "common",
+        "artist": "Lawrence Snelly",
+        "multiverse_id": 3149,
+        "flavor": "\"There is, in each of us, the potential to heal and the gift of renewed life.\"\n—Kaysa, Elder Druid of the Juniper Order",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3149",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3149.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/taste-of-paradise?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3149"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "common",
+        "artist": "Lawrence Snelly",
+        "multiverse_id": 3150,
+        "flavor": "\"Any who drink of Freyalise's bounty drink the mead of rebirth.\"\n—Kaysa, Elder Druid of the Juniper Order",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3150",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3150.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/taste-of-paradise?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3150"
+      }
+    ]
+  },
+  {
+    "name": "Tatsumasa, the Dragon's Fang",
+    "id": "tatsumasa-the-dragons-fang",
+    "url": "https://api.deckbrew.com/mtg/cards/tatsumasa-the-dragons-fang",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/tatsumasa-the-dragons-fang?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa, the Dragon's Fang: Create a 5/5 blue Dragon Spirit creature token with flying. Return Tatsumasa to the battlefield under its owner's control when that token dies.\nEquip {3}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Martina Pilcerova",
+        "multiverse_id": 75291,
+        "number": "270",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=75291",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/75291.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/tatsumasa-the-dragons-fang?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/75291"
+      }
+    ]
+  },
+  {
+    "name": "Tattered Drake",
+    "id": "tattered-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/tattered-drake",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/tattered-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake",
+      "zombie"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "Flying\n{B}: Regenerate Tattered Drake.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "watermark": "Dimir",
+        "rarity": "common",
+        "artist": "Glenn Fabry",
+        "multiverse_id": 87930,
+        "flavor": "\"Drakes embody the worst of Ravnica: great potential, twisted by selfishness and greed.\"\n—Razia",
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87930",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87930.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/tattered-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87930"
+      }
+    ]
+  },
+  {
+    "name": "Tattered Haunter",
+    "id": "tattered-haunter",
+    "url": "https://api.deckbrew.com/mtg/cards/tattered-haunter",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tattered-haunter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Flying\nTattered Haunter can block only creatures with flying.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 414372,
+        "flavor": "When the Nebelgast recedes, there are often stragglers.",
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414372",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414372.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/tattered-haunter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414372"
+      }
+    ]
+  },
+  {
+    "name": "Tatterkite",
+    "id": "tatterkite",
+    "url": "https://api.deckbrew.com/mtg/cards/tatterkite",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tatterkite?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "scarecrow"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Flying\nTatterkite can't have counters placed on it.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Ron Brown",
+        "multiverse_id": 142030,
+        "flavor": "\"I rigged it together from wicker and scrap, yet somehow I find it unalterably perfect.\"\n—Braenna, cobblesmith",
+        "number": "264",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=142030",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/142030.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tatterkite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/142030"
+      }
+    ]
+  },
+  {
+    "name": "Tattermunge Duo",
+    "id": "tattermunge-duo",
+    "url": "https://api.deckbrew.com/mtg/cards/tattermunge-duo",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-duo?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "shaman",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R/G}",
+    "text": "Whenever you cast a red spell, Tattermunge Duo gets +1/+1 until end of turn.\nWhenever you cast a green spell, Tattermunge Duo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "common",
+        "artist": "Jesper Ejsing",
+        "multiverse_id": 153282,
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153282",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153282.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-duo?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153282"
+      }
+    ]
+  },
+  {
+    "name": "Tattermunge Maniac",
+    "id": "tattermunge-maniac",
+    "url": "https://api.deckbrew.com/mtg/cards/tattermunge-maniac",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-maniac?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R/G}",
+    "text": "Tattermunge Maniac attacks each turn if able.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 142013,
+        "flavor": "It shows up at one meal wearing the carcass of the last.",
+        "number": "219",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=142013",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/142013.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-maniac?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/142013"
+      }
+    ]
+  },
+  {
+    "name": "Tattermunge Witch",
+    "id": "tattermunge-witch",
+    "url": "https://api.deckbrew.com/mtg/cards/tattermunge-witch",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-witch?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "shaman"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R/G}",
+    "text": "{R}{G}: Each blocked creature gets +1/+0 and gains trample until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Warren Mahy",
+        "multiverse_id": 157884,
+        "flavor": "The Tattermunge gang has no words for the spell that whips their instinctual rage into a frenzy. They only know they like it.",
+        "number": "220",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157884",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157884.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/tattermunge-witch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157884"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Ward",
+    "id": "tattoo-ward",
+    "url": "https://api.deckbrew.com/mtg/cards/tattoo-ward",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/tattoo-ward?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Enchant creature\nEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.\nSacrifice Tattoo Ward: Destroy target enchantment.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "Ben Thompson",
+        "multiverse_id": 31873,
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=31873",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/31873.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/tattoo-ward?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/31873"
+      }
+    ]
+  },
+  {
+    "name": "Taunt",
+    "id": "taunt",
+    "url": "https://api.deckbrew.com/mtg/cards/taunt",
+    "store_url": "http://store.tcgplayer.com/magic/portal/taunt?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "During target player's next turn, creatures that player controls attack you if able.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "rare",
+        "artist": "Phil Foglio",
+        "multiverse_id": 4278,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4278",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4278.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/taunt?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4278"
+      }
+    ]
+  },
+  {
+    "name": "Taunting Challenge",
+    "id": "taunting-challenge",
+    "url": "https://api.deckbrew.com/mtg/cards/taunting-challenge",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taunting-challenge?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "All creatures able to block target creature this turn do so.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Gao Yan",
+        "multiverse_id": 10492,
+        "flavor": "Incensed by their opponents' unrelenting taunts, even wise generals were known to rashly lead their troops into battle—often to disastrous defeats.",
+        "number": "152",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10492",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10492.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/taunting-challenge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10492"
+      }
+    ]
+  },
+  {
+    "name": "Taunting Elf",
+    "id": "taunting-elf",
+    "url": "https://api.deckbrew.com/mtg/cards/taunting-elf",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=taunting-elf",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "All creatures able to block Taunting Elf do so.",
+    "power": "0",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "common",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 15221,
+        "flavor": "Much to Multani's chagrin, Rofellos gleefully tutored Yavimaya's elves on the rudest and most vulgar words spoken in Llanowar.",
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15221",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15221.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/taunting-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15221"
+      },
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 39890,
+        "flavor": "The safety of the village depends on the beast thinking with its stomach.",
+        "number": "290",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39890",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39890.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/taunting-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39890"
+      }
+    ]
+  },
+  {
+    "name": "Taurean Mauler",
+    "id": "taurean-mauler",
+    "url": "https://api.deckbrew.com/mtg/cards/taurean-mauler",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=taurean-mauler",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shapeshifter"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 420752,
+        "flavor": "The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.",
+        "number": "135",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420752",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420752.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/taurean-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420752"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "rare",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 220453,
+        "flavor": "The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.",
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220453",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220453.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/taurean-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220453"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 405413,
+        "flavor": "The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.",
+        "number": "167",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405413",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405413.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/taurean-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405413"
+      },
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "rare",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 153452,
+        "flavor": "The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.",
+        "number": "109",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153452",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153452.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/taurean-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153452"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "rare",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 205404,
+        "flavor": "The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205404",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205404.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/taurean-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205404"
+      }
+    ]
+  },
+  {
+    "name": "Tavern Swindler",
+    "id": "tavern-swindler",
+    "url": "https://api.deckbrew.com/mtg/cards/tavern-swindler",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tavern-swindler",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 380195,
+        "flavor": "Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.",
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380195",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380195.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/tavern-swindler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380195"
+      },
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 270353,
+        "flavor": "Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.",
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270353",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270353.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/tavern-swindler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270353"
+      }
+    ]
+  },
+  {
+    "name": "Tawnos",
+    "id": "tawnos",
+    "url": "https://api.deckbrew.com/mtg/cards/tawnos",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/tawnos?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "You may cast artifact, creature, and enchantment spells as though they had flash.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "Donato Giancola",
+        "multiverse_id": 12328,
+        "flavor": "Tawnos brings a childlike wonder and an inherent skill to Urza's studio and bridges the wizardry of the workshop with the grandeur of the royal court. His speed and flexibility quickly earned him promotion from apprentice to master artificer.",
+        "number": "",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12328",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12328.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/tawnos?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12328"
+      }
+    ]
+  },
+  {
+    "name": "Tawnos's Coffin",
+    "id": "tawnoss-coffin",
+    "url": "https://api.deckbrew.com/mtg/cards/tawnoss-coffin",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tawnoss-coffin",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "You may choose not to untap Tawnos's Coffin during your untap step.\n{3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Christopher Rush",
+        "multiverse_id": 1024,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1024",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1024.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/tawnoss-coffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1024"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Christopher Rush",
+        "multiverse_id": 159120,
+        "number": "169",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159120",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159120.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/tawnoss-coffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159120"
+      }
+    ]
+  },
+  {
+    "name": "Tawnos's Wand",
+    "id": "tawnoss-wand",
+    "url": "https://api.deckbrew.com/mtg/cards/tawnoss-wand",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tawnoss-wand",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 2071,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2071",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2071.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/tawnoss-wand?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2071"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "uncommon",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 1025,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1025",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1025.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/tawnoss-wand?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1025"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 221102,
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221102",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221102.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/tawnoss-wand?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221102"
+      }
+    ]
+  },
+  {
+    "name": "Tawnos's Weaponry",
+    "id": "tawnoss-weaponry",
+    "url": "https://api.deckbrew.com/mtg/cards/tawnoss-weaponry",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tawnoss-weaponry",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "You may choose not to untap Tawnos's Weaponry during your untap step.\n{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 2072,
+        "flavor": "When war machines became too costly, Tawnos's Weaponry replaced them.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2072",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2072.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/tawnoss-weaponry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2072"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 1026,
+        "flavor": "When Urza's war machines became too costly, Tawnos's weaponry replaced them.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1026",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1026.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/tawnoss-weaponry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1026"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "John Coulthart",
+        "multiverse_id": 3813,
+        "flavor": "When war machines became too costly, Tawnos's weaponry replaced them.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3813",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3813.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/tawnoss-weaponry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3813"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 221107,
+        "flavor": "When Urza's war machines became too costly, Tawnos's weaponry replaced them.",
+        "number": "232",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221107",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221107.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/tawnoss-weaponry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221107"
+      }
+    ]
+  },
+  {
+    "name": "Tazeem",
+    "id": "tazeem",
+    "url": "https://api.deckbrew.com/mtg/cards/tazeem",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tazeem",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "zendikar"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Creatures can't block.\nWhenever you roll {CHAOS}, draw a card for each land you control.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Vincent Proce",
+        "multiverse_id": 423659,
+        "number": "78",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423659",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423659.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/tazeem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423659"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "special",
+        "artist": "Vincent Proce",
+        "multiverse_id": 198069,
+        "number": "41",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198069",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198069.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/tazeem?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198069"
+      }
+    ]
+  },
+  {
+    "name": "Team Spirit",
+    "id": "team-spirit",
+    "url": "https://api.deckbrew.com/mtg/cards/team-spirit",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/team-spirit?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "All creatures controlled by target player and his or her teammates get +1/+1 until end of turn.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "common",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 9763,
+        "flavor": "Due to some late-night partying, the chicken missed the group photo.",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9763",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9763.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/team-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9763"
+      }
+    ]
+  },
+  {
+    "name": "Tear",
+    "id": "tear",
+    "url": "https://api.deckbrew.com/mtg/cards/tear",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/tear?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Destroy target enchantment.\nFuse (You may cast one or both halves of this card from your hand.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "rarity": "uncommon",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 368950,
+        "number": "135b",
+        "layout": "split",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368950",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368950.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/tear?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368950"
+      }
+    ]
+  },
+  {
+    "name": "Teardrop Kami",
+    "id": "teardrop-kami",
+    "url": "https://api.deckbrew.com/mtg/cards/teardrop-kami",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/teardrop-kami?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Sacrifice Teardrop Kami: You may tap or untap target creature.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 74458,
+        "flavor": "\"Do not fall into the trap of thinking you understand the kami. Cannot a drop of water be dew on the meadow, a glacier's thaw, or the tear of a child?\"\n—Sensei Hisoka",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74458",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74458.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/teardrop-kami?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74458"
+      }
+    ]
+  },
+  {
+    "name": "Tears of Rage",
+    "id": "tears-of-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/tears-of-rage",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/tears-of-rage?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Cast Tears of Rage only during the declare attackers step.\nAttacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 21293,
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21293",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21293.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tears-of-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21293"
+      }
+    ]
+  },
+  {
+    "name": "Tears of Valakut",
+    "id": "tears-of-valakut",
+    "url": "https://api.deckbrew.com/mtg/cards/tears-of-valakut",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/tears-of-valakut?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Tears of Valakut can't be countered by spells or abilities.\nTears of Valakut deals 5 damage to target creature with flying.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "uncommon",
+        "artist": "Noah Bradley",
+        "multiverse_id": 407628,
+        "flavor": "When Kozilek destroyed Sea Gate, distant Valakut could not contain its grief.",
+        "number": "118",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407628",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407628.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/tears-of-valakut?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407628"
+      }
+    ]
+  },
+  {
+    "name": "Tectonic Break",
+    "id": "tectonic-break",
+    "url": "https://api.deckbrew.com/mtg/cards/tectonic-break",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/tectonic-break?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{X}{R}{R}",
+    "text": "Each player sacrifices X lands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 19720,
+        "flavor": "Only the foolish and the rich build their houses where the land is thin and the ocean is near.",
+        "number": "216",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19720",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19720.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/tectonic-break?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19720"
+      }
+    ]
+  },
+  {
+    "name": "Tectonic Edge",
+    "id": "tectonic-edge",
+    "url": "https://api.deckbrew.com/mtg/cards/tectonic-edge",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tectonic-edge",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Vincent Proce",
+        "multiverse_id": 389711,
+        "flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+        "number": "313",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389711",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389711.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/tectonic-edge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389711"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Eytan Zana",
+        "multiverse_id": 0,
+        "flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/tectonic-edge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "uncommon",
+        "artist": "Vincent Proce",
+        "multiverse_id": 197855,
+        "flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+        "number": "145",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197855",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197855.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/tectonic-edge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197855"
+      },
+      {
+        "set": "Zendikar Expeditions",
+        "set_id": "EXP",
+        "rarity": "mythic",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 409575,
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409575",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409575.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/tectonic-edge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409575"
+      }
+    ]
+  },
+  {
+    "name": "Tectonic Fiend",
+    "id": "tectonic-fiend",
+    "url": "https://api.deckbrew.com/mtg/cards/tectonic-fiend",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/tectonic-fiend?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nTectonic Fiend attacks each turn if able.",
+    "power": "7",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 113616,
+        "flavor": "The barbarians of Pardia are long dead, but its mountains still smolder with rage.",
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=113616",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/113616.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/tectonic-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/113616"
+      }
+    ]
+  },
+  {
+    "name": "Tectonic Instability",
+    "id": "tectonic-instability",
+    "url": "https://api.deckbrew.com/mtg/cards/tectonic-instability",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/tectonic-instability?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Whenever a land enters the battlefield, tap all lands its controller controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 23100,
+        "flavor": "\"Think of the problems we'll face if you uproot entire continents,\" said Urza.\n\"I have,\" replied Teferi, \"but the alternative is worse.\"",
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23100",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23100.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/tectonic-instability?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23100"
+      }
+    ]
+  },
+  {
+    "name": "Tectonic Rift",
+    "id": "tectonic-rift",
+    "url": "https://api.deckbrew.com/mtg/cards/tectonic-rift",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/tectonic-rift?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Destroy target land. Creatures without flying can't block this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 234568,
+        "flavor": "\"You will kneel before me, even if I have to split the earth under your feet!\"\n—Ash Kronor, Keldon warlord",
+        "number": "157",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=234568",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/234568.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/tectonic-rift?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/234568"
+      }
+    ]
+  },
+  {
+    "name": "Teeka's Dragon",
+    "id": "teekas-dragon",
+    "url": "https://api.deckbrew.com/mtg/cards/teekas-dragon",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teekas-dragon?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "cmc": 9,
+    "cost": "{9}",
+    "text": "Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 3268,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3268",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3268.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teekas-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3268"
+      }
+    ]
+  },
+  {
+    "name": "Teetering Peaks",
+    "id": "teetering-peaks",
+    "url": "https://api.deckbrew.com/mtg/cards/teetering-peaks",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teetering-peaks",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Teetering Peaks enters the battlefield tapped.\nWhen Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.\n{T}: Add {R} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Premium Deck Series: Fire and Lightning",
+        "set_id": "PD2",
+        "rarity": "common",
+        "artist": "Fred Fields",
+        "multiverse_id": 234715,
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=234715",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/234715.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PD2",
+        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/teetering-peaks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/234715"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Kekai Kotaki",
+        "multiverse_id": 0,
+        "number": "136",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/teetering-peaks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Fred Fields",
+        "multiverse_id": 177549,
+        "number": "226",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=177549",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/177549.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/teetering-peaks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/177549"
+      }
+    ]
+  },
+  {
+    "name": "Teferi, Mage of Zhalfir",
+    "id": "teferi-mage-of-zhalfir",
+    "url": "https://api.deckbrew.com/mtg/cards/teferi-mage-of-zhalfir",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teferi-mage-of-zhalfir",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{2}{U}{U}{U}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nCreature cards you own that aren't on the battlefield have flash.\nEach opponent can cast spells only any time he or she could cast a sorcery.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "rare",
+        "artist": "D. Alexander Gregory \u0026 Jeremy Jarvis",
+        "multiverse_id": 121271,
+        "flavor": "To save this plane, he must forsake all others.",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121271",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121271.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/teferi-mage-of-zhalfir?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121271"
+      },
+      {
+        "set": "From the Vault: Legends",
+        "set_id": "V11",
+        "rarity": "mythic",
+        "artist": "Volkan Baga",
+        "multiverse_id": 244667,
+        "flavor": "To save this plane, he must forsake all others.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244667",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244667.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V11",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/teferi-mage-of-zhalfir?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244667"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Care",
+    "id": "teferis-care",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-care",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/teferis-care?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "{W}, Sacrifice an enchantment: Destroy target enchantment.\n{3}{U}{U}: Counter target enchantment spell.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "Scott Bailey",
+        "multiverse_id": 22959,
+        "flavor": "\"If I do nothing else, I will protect my people.\"\n—Teferi",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22959",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22959.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/teferis-care?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22959"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Curse",
+    "id": "teferis-curse",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-curse",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-curse?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Enchant artifact or creature\nEnchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Robert Bliss",
+        "multiverse_id": 3367,
+        "flavor": "\"Stepping through time is like riding a camel. It may get you where you want to go, but the ride is rarely pleasant.\"\n—Teferi",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3367",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3367.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-curse?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3367"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Drake",
+    "id": "teferis-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-drake",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Kari Johnson",
+        "multiverse_id": 3368,
+        "flavor": "\"We threw dried fruit to the drakes that rode the air, streaming along the Weatherlight's side as we sailed amidst the clouds.\"\n—Sisay, Captain of the Weatherlight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3368",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3368.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3368"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Honor Guard",
+    "id": "teferis-honor-guard",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-honor-guard",
+    "store_url": "http://store.tcgplayer.com/magic/visions/teferis-honor-guard?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Cecil Fernando",
+        "multiverse_id": 3729,
+        "flavor": "\"They may seem ceremonial, but their swords are still sharp.\"\n—Kipkemboi, Kukemssa pirate",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3729",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3729.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/teferis-honor-guard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3729"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Imp",
+    "id": "teferis-imp",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-imp",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-imp?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "imp"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nWhenever Teferi's Imp phases out, discard a card.\nWhenever Teferi's Imp phases in, draw a card.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Una Fricker",
+        "multiverse_id": 3369,
+        "flavor": "Made you look.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3369",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3369.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-imp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3369"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Isle",
+    "id": "teferis-isle",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-isle",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-isle?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nTeferi's Isle enters the battlefield tapped.\n{T}: Add {U}{U} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Gerry Grace",
+        "multiverse_id": 3576,
+        "flavor": "The three wizards knew only that this isle held a great mystery—and that patience alone would solve it.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3576",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3576.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teferis-isle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3576"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Moat",
+    "id": "teferis-moat",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-moat",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teferis-moat",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{U}",
+    "text": "As Teferi's Moat enters the battlefield, choose a color.\nCreatures of the chosen color without flying can't attack you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "rk post",
+        "multiverse_id": 108787,
+        "flavor": "\"Isolation is not the answer.\"\n—Urza, to Teferi",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=108787",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/108787.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/teferis-moat?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/108787"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "rk post",
+        "multiverse_id": 23167,
+        "flavor": "\"Isolation is not the answer.\"\n—Urza, to Teferi.",
+        "number": "279",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23167",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23167.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/teferis-moat?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23167"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Puzzle Box",
+    "id": "teferis-puzzle-box",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-puzzle-box",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teferis-puzzle-box",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "At the beginning of each player's draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Donato Giancola",
+        "multiverse_id": 83294,
+        "number": "312",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83294",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83294.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/teferis-puzzle-box?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83294"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 15410,
+        "number": "314",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15410",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15410.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/teferis-puzzle-box?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15410"
+      },
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 3604,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3604",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3604.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/teferis-puzzle-box?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3604"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Donato Giancola",
+        "multiverse_id": 25662,
+        "number": "321",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25662",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25662.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/teferis-puzzle-box?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25662"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Donato Giancola",
+        "multiverse_id": 45483,
+        "number": "316",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45483",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45483.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/teferis-puzzle-box?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45483"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Realm",
+    "id": "teferis-realm",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-realm",
+    "store_url": "http://store.tcgplayer.com/magic/visions/teferis-realm?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "supertypes": [
+      "world"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{U}",
+    "text": "At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "rare",
+        "artist": "Alan Rabinowitz",
+        "multiverse_id": 3651,
+        "flavor": "\"Fire is dead. Water has killed him.\"\n—From The Stories of Nature",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3651",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3651.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/teferis-realm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3651"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Response",
+    "id": "teferis-response",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-response",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/teferis-response?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.\nDraw two cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Scott Bailey",
+        "multiverse_id": 23015,
+        "number": "78",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/teferis-response?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23015"
+      }
+    ]
+  },
+  {
+    "name": "Teferi's Veil",
+    "id": "teferis-veil",
+    "url": "https://api.deckbrew.com/mtg/cards/teferis-veil",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/teferis-veil?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Whenever a creature you control attacks, it phases out at end of combat. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "Brom",
+        "multiverse_id": 4499,
+        "flavor": "\"I don't like to speak ill of 'walkers . . . but just what did Teferi think he was doing?\"\n—Ertai, wizard adept",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4499",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4499.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/teferis-veil?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4499"
+      }
+    ]
+  }
+]

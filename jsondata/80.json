@@ -1,0 +1,5768 @@
+[
+  {
+    "name": "Krond the Dawn-Clad",
+    "id": "krond-the-dawn-clad",
+    "url": "https://api.deckbrew.com/mtg/cards/krond-the-dawn-clad",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krond-the-dawn-clad",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "archon"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{G}{G}{G}{W}{W}{W}",
+    "text": "Flying, vigilance\nWhenever Krond the Dawn-Clad attacks, if it's enchanted, exile target permanent.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "mythic",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 423524,
+        "flavor": "Krond, the personification of the dawn's light, lives to exact justice on his nemesis Vela.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423524",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423524.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/krond-the-dawn-clad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423524"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "mythic",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 270738,
+        "flavor": "Krond, the personification of the dawn's light, lives to exact justice on his nemesis Vela.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270738",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270738.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/krond-the-dawn-clad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270738"
+      }
+    ]
+  },
+  {
+    "name": "Krosa",
+    "id": "krosa",
+    "url": "https://api.deckbrew.com/mtg/cards/krosa",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosa",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "dominaria"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "All creatures get +2/+2.\nWhenever you roll {CHAOS}, you may add {W}{U}{B}{R}{G} to your mana pool.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Steven Belledin",
+        "multiverse_id": 423626,
+        "number": "45",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423626",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423626.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/krosa?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423626"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "common",
+        "artist": "Steven Belledin",
+        "multiverse_id": 198100,
+        "number": "20",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198100",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198100.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/krosa?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198100"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Archer",
+    "id": "krosan-archer",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-archer",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-archer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "archer",
+      "centaur"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Reach (This creature can block creatures with flying.)\n{G}, Discard a card: Krosan Archer gets +0/+2 until end of turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "common",
+        "artist": "Ron Spears",
+        "multiverse_id": 29780,
+        "number": "246",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29780",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29780.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-archer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29780"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Avenger",
+    "id": "krosan-avenger",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-avenger",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-avenger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Trample\nThreshold — {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "common",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 29775,
+        "flavor": "She'd have a fearsome reputation if she left any survivors.",
+        "number": "247",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29775",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29775.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-avenger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29775"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Beast",
+    "id": "krosan-beast",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-beast",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-beast?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "squirrel"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 30549,
+        "flavor": "Those who see the squirrels go underground in the winter aren't ready for what emerges in the spring.",
+        "number": "248",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=30549",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/30549.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/krosan-beast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/30549"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Cloudscraper",
+    "id": "krosan-cloudscraper",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-cloudscraper",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-cloudscraper",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "mutant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 10,
+    "cost": "{7}{G}{G}{G}",
+    "text": "At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.\nMorph {7}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "13",
+    "toughness": "13",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "Ron Spears",
+        "multiverse_id": 109684,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=109684",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/109684.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/krosan-cloudscraper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/109684"
+      },
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "rare",
+        "artist": "Ron Spears",
+        "multiverse_id": 35166,
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=35166",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/35166.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/krosan-cloudscraper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/35166"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Colossus",
+    "id": "krosan-colossus",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-colossus",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/krosan-colossus?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 9,
+    "cost": "{6}{G}{G}{G}",
+    "text": "Morph {6}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "9",
+    "toughness": "9",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 39669,
+        "flavor": "When it walked, it altered geography. When it bellowed, it changed the weather.",
+        "number": "270",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39669",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39669.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/krosan-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39669"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Constrictor",
+    "id": "krosan-constrictor",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-constrictor",
+    "store_url": "http://store.tcgplayer.com/magic/torment/krosan-constrictor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Target black creature gets -2/-0 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "common",
+        "artist": "Jim Nelson",
+        "multiverse_id": 29715,
+        "flavor": "\"It's a slithering, coldblooded menace. I've gotta respect that.\"\n—Braids, dementia summoner",
+        "number": "129",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29715",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29715.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/krosan-constrictor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29715"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Drover",
+    "id": "krosan-drover",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-drover",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/krosan-drover?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Creature spells you cast with converted mana cost 6 or greater cost {2} less to cast.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "common",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 44320,
+        "flavor": "\"Sit.\"",
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44320",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44320.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/krosan-drover?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44320"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Grip",
+    "id": "krosan-grip",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-grip",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-grip",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nDestroy target artifact or enchantment.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 0,
+        "flavor": "\"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.\"\n—Zyd, Kamahlite druid",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/krosan-grip?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 126274,
+        "flavor": "\"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.\"\n—Zyd, Kamahlite druid",
+        "number": "202",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=126274",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/126274.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/krosan-grip?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/126274"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 376394,
+        "flavor": "\"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.\"\n—Zyd, Kamahlite druid",
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376394",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376394.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/krosan-grip?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376394"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 405283,
+        "flavor": "\"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.\"—Zyd, Kamahlite druid",
+        "number": "189",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405283",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405283.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/krosan-grip?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405283"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 370557,
+        "flavor": "\"Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.\"\n—Zyd, Kamahlite druid",
+        "number": "152",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370557",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370557.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/krosan-grip?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370557"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Groundshaker",
+    "id": "krosan-groundshaker",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-groundshaker",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/krosan-groundshaker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 7,
+    "cost": "{4}{G}{G}{G}",
+    "text": "{G}: Target Beast creature gains trample until end of turn.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 41056,
+        "flavor": "You know it's coming when you hear the distant thunder. You know where it's been when you see the path of broken trees.",
+        "number": "271",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=41056",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/41056.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/krosan-groundshaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/41056"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Reclamation",
+    "id": "krosan-reclamation",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-reclamation",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/krosan-reclamation?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target player shuffles up to two target cards from his or her graveyard into his or her library.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "uncommon",
+        "artist": "Gary Ruddell",
+        "multiverse_id": 36113,
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=36113",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/36113.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/krosan-reclamation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/36113"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Restorer",
+    "id": "krosan-restorer",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-restorer",
+    "store_url": "http://store.tcgplayer.com/magic/torment/krosan-restorer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "{T}: Untap target land.\nThreshold — {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "common",
+        "artist": "Clyde Caldwell",
+        "multiverse_id": 29872,
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29872",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29872.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/krosan-restorer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29872"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Tusker",
+    "id": "krosan-tusker",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-tusker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-tusker",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "boar"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 7,
+    "cost": "{5}{G}{G}",
+    "text": "Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.",
+    "power": "6",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 382992,
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382992",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382992.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382992"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 247348,
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247348",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247348.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247348"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Kev Walker",
+        "multiverse_id": 0,
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Duel Decks: Heroes vs. Monsters",
+        "set_id": "DDL",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 373394,
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373394",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373394.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373394"
+      },
+      {
+        "set": "Duel Decks Anthology, Garruk vs. Liliana",
+        "set_id": "DD3_GVL",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 393906,
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393906",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393906.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_GVL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-garruk-vs-liliana/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393906"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 376395,
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376395",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376395.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376395"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 220491,
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220491",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220491.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220491"
+      },
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 43479,
+        "number": "272",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43479",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43479.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43479"
+      },
+      {
+        "set": "Duel Decks: Garruk vs. Liliana",
+        "set_id": "DDD",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 201829,
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201829",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201829.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/krosan-tusker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201829"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Verge",
+    "id": "krosan-verge",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-verge",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-verge",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Krosan Verge enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "uncommon",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 423548,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423548",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423548.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/krosan-verge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423548"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "uncommon",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 420923,
+        "number": "306",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420923",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420923.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/krosan-verge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420923"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "uncommon",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 30657,
+        "number": "141",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=30657",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/30657.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/krosan-verge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/30657"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "uncommon",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 220544,
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220544",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220544.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/krosan-verge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220544"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "uncommon",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 271177,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271177",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271177.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/krosan-verge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271177"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Vorine",
+    "id": "krosan-vorine",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-vorine",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-vorine",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "cat"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)\nKrosan Vorine can't be blocked by more than one creature.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 382993,
+        "number": "219",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382993",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382993.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/krosan-vorine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382993"
+      },
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 45134,
+        "number": "131",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45134",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45134.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/krosan-vorine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45134"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Warchief",
+    "id": "krosan-warchief",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-warchief",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krosan-warchief",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Beast spells you cast cost {1} less to cast.\n{1}{G}: Regenerate target Beast.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 0,
+        "flavor": "It turns prey into predator.",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/krosan-warchief?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 43535,
+        "flavor": "It turns prey into predator.",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43535",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43535.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/krosan-warchief?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43535"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 376396,
+        "flavor": "It turns prey into predator.",
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376396",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376396.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/krosan-warchief?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376396"
+      }
+    ]
+  },
+  {
+    "name": "Krosan Wayfarer",
+    "id": "krosan-wayfarer",
+    "url": "https://api.deckbrew.com/mtg/cards/krosan-wayfarer",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/krosan-wayfarer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "common",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 35069,
+        "flavor": "\"The Krosan Forest lives, and druids are its seeds.\"\n—Seton, centaur druid",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=35069",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/35069.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/krosan-wayfarer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/35069"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Elementalist",
+    "id": "krovikan-elementalist",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-elementalist",
+    "store_url": "http://store.tcgplayer.com/magic/ice-age/krovikan-elementalist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "{2}{R}: Target creature gets +1/+0 until end of turn.\n{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "uncommon",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 2463,
+        "flavor": "\"The Elementalists' talents could be useful if turned to other purposes.\"\n—Zur the Enchanter",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2463",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2463.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/krovikan-elementalist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2463"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Fetish",
+    "id": "krovikan-fetish",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-fetish",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krovikan-fetish",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Enchant creature\nWhen Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.\nEnchanted creature gets +1/+1.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 3855,
+        "flavor": "Some Krovikans find strength in the ears and eyes of their victims and wear such fetishes into battle.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3855",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3855.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/krovikan-fetish?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3855"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 184737,
+        "flavor": "Some Krovikans find strength in the ears and eyes of their victims and wear such fetishes into battle.",
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/krovikan-fetish?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184737"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 2464,
+        "flavor": "Some Krovikans find strength in the ears and eyes of their victims and wear such fetishes into battle.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2464",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2464.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/krovikan-fetish?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2464"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Horror",
+    "id": "krovikan-horror",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-horror",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krovikan-horror",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.\n{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "rare",
+        "artist": "Christopher Rush",
+        "multiverse_id": 184556,
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184556",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184556.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/krovikan-horror?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184556"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "rare",
+        "artist": "Christopher Rush",
+        "multiverse_id": 3080,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3080",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3080.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/krovikan-horror?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3080"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Mist",
+    "id": "krovikan-mist",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-mist",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krovikan-mist",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Flying\nKrovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.",
+    "power": "*",
+    "toughness": "*",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "common",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 380275,
+        "flavor": "\"It's as strong as you believe it is, and it's very convincing.\"\n—Jace Beleren",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380275",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380275.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/krovikan-mist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380275"
+      },
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "common",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 122047,
+        "flavor": "Plague-induced dreams became real as they swirled above Krov, mingling with the magical residue of the World Spell.",
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122047",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122047.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-mist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122047"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Plague",
+    "id": "krovikan-plague",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-plague",
+    "store_url": "http://store.tcgplayer.com/magic/alliances/krovikan-plague?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Enchant non-Wall creature you control\nWhen Krovikan Plague enters the battlefield, draw a card at the beginning of the next turn's upkeep.\nTap enchanted creature: Krovikan Plague deals 1 damage to target creature or player. Put a -0/-1 counter on enchanted creature. Activate this ability only if enchanted creature is untapped.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "uncommon",
+        "artist": "Liz Danforth",
+        "multiverse_id": 3081,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3081",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3081.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/krovikan-plague?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3081"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Rot",
+    "id": "krovikan-rot",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-rot",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-rot?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Destroy target creature with power 2 or less.\nRecover {1}{B}{B} (When a creature is put into your graveyard from the battlefield, you may pay {1}{B}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "uncommon",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 122050,
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122050",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122050.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-rot?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122050"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Scoundrel",
+    "id": "krovikan-scoundrel",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-scoundrel",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-scoundrel?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "common",
+        "artist": "Ralph Horsley",
+        "multiverse_id": 121226,
+        "flavor": "The few surviving humans of Krov would have welcomed the return of winter and its sterilizing cold. They often peered northward, hoping that the snow's edge had reached their infested city-tomb.",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121226",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121226.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-scoundrel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121226"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Sorcerer",
+    "id": "krovikan-sorcerer",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-sorcerer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krovikan-sorcerer",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "{T}, Discard a nonblack card: Draw a card.\n{T}, Discard a black card: Draw two cards, then discard one of them.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 382994,
+        "flavor": "\"These sorcerers always seem to have another surprise up their sleeves.\"\n—Zur the Enchanter",
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382994",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382994.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/krovikan-sorcerer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382994"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Pat Morrissey",
+        "multiverse_id": 3917,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3917",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3917.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/krovikan-sorcerer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3917"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "common",
+        "artist": "Pat Morrissey",
+        "multiverse_id": 184646,
+        "flavor": "\"These sorcerers always seem to have another surprise up their sleeves.\"\n—Zur the Enchanter",
+        "number": "51",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184646",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184646.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/krovikan-sorcerer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184646"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Pat Morrissey",
+        "multiverse_id": 2517,
+        "flavor": "\"These Sorcerers always seem to have another surprise up their sleeves.\"\n—Zur the Enchanter",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2517",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2517.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/krovikan-sorcerer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2517"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Vampire",
+    "id": "krovikan-vampire",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-vampire",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=krovikan-vampire",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "uncommon",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 184647,
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184647",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184647.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/krovikan-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184647"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "uncommon",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 2465,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2465",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2465.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/krovikan-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2465"
+      }
+    ]
+  },
+  {
+    "name": "Krovikan Whispers",
+    "id": "krovikan-whispers",
+    "url": "https://api.deckbrew.com/mtg/cards/krovikan-whispers",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-whispers?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Enchant creature\nCumulative upkeep {U} or {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nYou control enchanted creature.\nWhen Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "uncommon",
+        "artist": "Nick Percival",
+        "multiverse_id": 121493,
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/krovikan-whispers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121493"
+      }
+    ]
+  },
+  {
+    "name": "Kruin Outlaw",
+    "id": "kruin-outlaw",
+    "url": "https://api.deckbrew.com/mtg/cards/kruin-outlaw",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/kruin-outlaw?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rogue",
+      "werewolf"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{R}{R}",
+    "text": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "rare",
+        "artist": "David Rapoza",
+        "multiverse_id": 227084,
+        "flavor": "\"Hold tight. I've got a surprise for them.\"",
+        "number": "152a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=227084",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/227084.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/kruin-outlaw?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/227084"
+      }
+    ]
+  },
+  {
+    "name": "Kruin Striker",
+    "id": "kruin-striker",
+    "url": "https://api.deckbrew.com/mtg/cards/kruin-striker",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/kruin-striker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 240093,
+        "flavor": "Unhappy with the creation of the wolfir, Rorica broke with her order and led a crusade against the \"reformed werewolves.\"",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240093",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240093.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/kruin-striker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240093"
+      }
+    ]
+  },
+  {
+    "name": "Krumar Bond-Kin",
+    "id": "krumar-bond-kin",
+    "url": "https://api.deckbrew.com/mtg/cards/krumar-bond-kin",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/krumar-bond-kin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "orc",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "5",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Abzan",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 386585,
+        "flavor": "\"The Abzan replaced my savagery with a noble heritage. I would give my life for my House.\"",
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386585",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386585.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/krumar-bond-kin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386585"
+      }
+    ]
+  },
+  {
+    "name": "Kruphix, God of Horizons",
+    "id": "kruphix-god-of-horizons",
+    "url": "https://api.deckbrew.com/mtg/cards/kruphix-god-of-horizons",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/kruphix-god-of-horizons?partner=DECKBREW",
+    "types": [
+      "creature",
+      "enchantment"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "god"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{U}",
+    "text": "Indestructible\nAs long as your devotion to green and blue is less than seven, Kruphix isn't a creature.\nYou have no maximum hand size.\nIf unused mana would empty from your mana pool, that mana becomes colorless instead.",
+    "power": "4",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "mythic",
+        "artist": "Daarken",
+        "multiverse_id": 380446,
+        "number": "152",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380446",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380446.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/kruphix-god-of-horizons?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380446"
+      }
+    ]
+  },
+  {
+    "name": "Kruphix's Insight",
+    "id": "kruphixs-insight",
+    "url": "https://api.deckbrew.com/mtg/cards/kruphixs-insight",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/kruphixs-insight?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 380447,
+        "flavor": "The horizon is tantalizing in both its uncertainty and its potential.",
+        "number": "129",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380447",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380447.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/kruphixs-insight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380447"
+      }
+    ]
+  },
+  {
+    "name": "Kry Shield",
+    "id": "kry-shield",
+    "url": "https://api.deckbrew.com/mtg/cards/kry-shield",
+    "store_url": "http://store.tcgplayer.com/magic/legends/kry-shield?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{2}, {T}: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 1409,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1409",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1409.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/kry-shield?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1409"
+      }
+    ]
+  },
+  {
+    "name": "Kudzu",
+    "id": "kudzu",
+    "url": "https://api.deckbrew.com/mtg/cards/kudzu",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kudzu",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Mark Poole",
+        "multiverse_id": 202601,
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202601",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202601.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202601"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 757,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=757",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/757.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/757"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 1254,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1254",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1254.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1254"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 160,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=160",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/160.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/160"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 455,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=455",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/455.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/kudzu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/455"
+      }
+    ]
+  },
+  {
+    "name": "Kujar Seedsculptor",
+    "id": "kujar-seedsculptor",
+    "url": "https://api.deckbrew.com/mtg/cards/kujar-seedsculptor",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/kujar-seedsculptor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on target creature you control.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "common",
+        "artist": "Anna Steinbauer",
+        "multiverse_id": 417732,
+        "flavor": "Every leaf, tree, and building in Kujar has been placed to achieve maximum harmony, in accordance with the elvish philosophy known as the Great Conduit.",
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417732",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417732.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/kujar-seedsculptor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417732"
+      }
+    ]
+  },
+  {
+    "name": "Kukemssa Pirates",
+    "id": "kukemssa-pirates",
+    "url": "https://api.deckbrew.com/mtg/cards/kukemssa-pirates",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/kukemssa-pirates?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "pirate"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Whenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "JOCK",
+        "multiverse_id": 3342,
+        "flavor": "\". . . pirates gambled with a djinn and lost the thing more dear than gold.\"\n—\"Love Song of Night and Day\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3342",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3342.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/kukemssa-pirates?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3342"
+      }
+    ]
+  },
+  {
+    "name": "Kukemssa Serpent",
+    "id": "kukemssa-serpent",
+    "url": "https://api.deckbrew.com/mtg/cards/kukemssa-serpent",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/kukemssa-serpent?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "serpent"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Kukemssa Serpent can't attack unless defending player controls an Island.\n{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.\nWhen you control no Islands, sacrifice Kukemssa Serpent.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Ian Miller",
+        "multiverse_id": 3343,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3343",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3343.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/kukemssa-serpent?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3343"
+      }
+    ]
+  },
+  {
+    "name": "Kuldotha Flamefiend",
+    "id": "kuldotha-flamefiend",
+    "url": "https://api.deckbrew.com/mtg/cards/kuldotha-flamefiend",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/kuldotha-flamefiend?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "uncommon",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 213810,
+        "number": "69",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213810",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213810.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/kuldotha-flamefiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213810"
+      }
+    ]
+  },
+  {
+    "name": "Kuldotha Forgemaster",
+    "id": "kuldotha-forgemaster",
+    "url": "https://api.deckbrew.com/mtg/cards/kuldotha-forgemaster",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-forgemaster?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "construct"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.",
+    "power": "3",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "jD",
+        "multiverse_id": 215098,
+        "flavor": "The goblins say it used to be larger, before it began to stoke the Great Furnace with pieces of itself.",
+        "number": "169",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=215098",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/215098.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-forgemaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/215098"
+      }
+    ]
+  },
+  {
+    "name": "Kuldotha Phoenix",
+    "id": "kuldotha-phoenix",
+    "url": "https://api.deckbrew.com/mtg/cards/kuldotha-phoenix",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-phoenix?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "phoenix"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{2}{R}{R}{R}",
+    "text": "Flying, haste\nMetalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "Mike Bierek",
+        "multiverse_id": 194326,
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194326",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194326.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-phoenix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194326"
+      }
+    ]
+  },
+  {
+    "name": "Kuldotha Rebirth",
+    "id": "kuldotha-rebirth",
+    "url": "https://api.deckbrew.com/mtg/cards/kuldotha-rebirth",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-rebirth?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.\nCreate three 1/1 red Goblin creature tokens.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Goran Josic",
+        "multiverse_id": 194239,
+        "flavor": "All goblin rituals serve a dual purpose as fertility rites, even the destructive ones. Especially the destructive ones.",
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194239",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194239.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/kuldotha-rebirth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194239"
+      }
+    ]
+  },
+  {
+    "name": "Kuldotha Ringleader",
+    "id": "kuldotha-ringleader",
+    "url": "https://api.deckbrew.com/mtg/cards/kuldotha-ringleader",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/kuldotha-ringleader?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "giant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nKuldotha Ringleader attacks each turn if able.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Greg Staples",
+        "multiverse_id": 213787,
+        "flavor": "Being surrounded by goblins is less objectionable when they're fighting for you.",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213787",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213787.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/kuldotha-ringleader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213787"
+      }
+    ]
+  },
+  {
+    "name": "Kulrath Knight",
+    "id": "kulrath-knight",
+    "url": "https://api.deckbrew.com/mtg/cards/kulrath-knight",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/kulrath-knight?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental",
+      "knight"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B/R}{B/R}",
+    "text": "Flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)\nCreatures your opponents control with counters on them can't attack or block.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Daarken",
+        "multiverse_id": 147423,
+        "flavor": "Mounted cinders circle the blasted peak at Kulrath, hunting the Extinguisher.",
+        "number": "190",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=147423",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/147423.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/kulrath-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/147423"
+      }
+    ]
+  },
+  {
+    "name": "Kumano, Master Yamabushi",
+    "id": "kumano-master-yamabushi",
+    "url": "https://api.deckbrew.com/mtg/cards/kumano-master-yamabushi",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kumano-master-yamabushi?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "{1}{R}: Kumano, Master Yamabushi deals 1 damage to target creature or player.\nIf a creature dealt damage by Kumano this turn would die, exile it instead.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 78964,
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=78964",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/78964.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kumano-master-yamabushi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/78964"
+      }
+    ]
+  },
+  {
+    "name": "Kumano's Blessing",
+    "id": "kumanos-blessing",
+    "url": "https://api.deckbrew.com/mtg/cards/kumanos-blessing",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/kumanos-blessing?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Flash\nEnchant creature\nIf a creature dealt damage by enchanted creature this turn would die, exile it instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Keith Garletts",
+        "multiverse_id": 74573,
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74573",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74573.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/kumanos-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74573"
+      }
+    ]
+  },
+  {
+    "name": "Kumano's Pupils",
+    "id": "kumanos-pupils",
+    "url": "https://api.deckbrew.com/mtg/cards/kumanos-pupils",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kumanos-pupils?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "If a creature dealt damage by Kumano's Pupils this turn would die, exile it instead.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 75267,
+        "flavor": "\"Long before he reluctantly joined the war, stories spread of Kumano's followers winning victories against the kami.\"\n—Observations of the Kami War",
+        "number": "177",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=75267",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/75267.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kumanos-pupils?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/75267"
+      }
+    ]
+  },
+  {
+    "name": "Kuon, Ogre Ascendant",
+    "id": "kuon-ogre-ascendant",
+    "url": "https://api.deckbrew.com/mtg/cards/kuon-ogre-ascendant",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuon-ogre-ascendant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "monk",
+      "ogre"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{B}{B}{B}",
+    "text": "At the beginning of the end step, if three or more creatures died this turn, flip Kuon, Ogre Ascendant.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Hideaki Takamura",
+        "multiverse_id": 87596,
+        "number": "78a",
+        "layout": "flip",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87596",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87596.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuon-ogre-ascendant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87596"
+      }
+    ]
+  },
+  {
+    "name": "Kuon's Essence",
+    "id": "kuons-essence",
+    "url": "https://api.deckbrew.com/mtg/cards/kuons-essence",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuons-essence?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{B}{B}{B}",
+    "text": "At the beginning of each player's upkeep, that player sacrifices a creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Hideaki Takamura",
+        "multiverse_id": 87596,
+        "number": "78b",
+        "layout": "flip",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87596",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87596.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuons-essence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87596"
+      }
+    ]
+  },
+  {
+    "name": "Kurgadon",
+    "id": "kurgadon",
+    "url": "https://api.deckbrew.com/mtg/cards/kurgadon",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/kurgadon?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 45165,
+        "flavor": "When it walks through Krosa, trees step aside, leaves take wing, and the ground shudders.",
+        "number": "124",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45165",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45165.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/kurgadon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45165"
+      }
+    ]
+  },
+  {
+    "name": "Kurkesh, Onakke Ancient",
+    "id": "kurkesh-onakke-ancient",
+    "url": "https://api.deckbrew.com/mtg/cards/kurkesh-onakke-ancient",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/kurkesh-onakke-ancient?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "ogre",
+      "spirit"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Whenever you activate an ability of an artifact, if it isn't a mana ability, you may pay {R}. If you do, copy that ability. You may choose new targets for the copy.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "rare",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 383295,
+        "flavor": "The Onakke were masters of dark arts and artifice. Their creations continue to spread foul magic, paving the way for their return.",
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383295",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383295.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/kurkesh-onakke-ancient?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383295"
+      }
+    ]
+  },
+  {
+    "name": "Kuro, Pitlord",
+    "id": "kuro-pitlord",
+    "url": "https://api.deckbrew.com/mtg/cards/kuro-pitlord",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kuro-pitlord",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "demon",
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 9,
+    "cost": "{6}{B}{B}{B}",
+    "text": "At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",
+    "power": "9",
+    "toughness": "9",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Jon Foster",
+        "multiverse_id": 82423,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=82423",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/82423.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kuro-pitlord?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/82423"
+      },
+      {
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
+        "rarity": "rare",
+        "artist": "Jon Foster",
+        "multiverse_id": 394033,
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394033",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394033.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/kuro-pitlord?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394033"
+      },
+      {
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
+        "rarity": "rare",
+        "artist": "Jon Foster",
+        "multiverse_id": 197015,
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/kuro-pitlord?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197015"
+      }
+    ]
+  },
+  {
+    "name": "Kuro's Taken",
+    "id": "kuros-taken",
+    "url": "https://api.deckbrew.com/mtg/cards/kuros-taken",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuros-taken?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rat",
+      "samurai"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{B}: Regenerate Kuro's Taken.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "common",
+        "artist": "Puddnhead",
+        "multiverse_id": 74065,
+        "flavor": "Simple bargains are the most tempting, and oni bargains are the simplest of all: eternal life for eternal service.",
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74065",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74065.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/kuros-taken?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74065"
+      }
+    ]
+  },
+  {
+    "name": "Kusari-Gama",
+    "id": "kusari-gama",
+    "url": "https://api.deckbrew.com/mtg/cards/kusari-gama",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kusari-gama?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Equipped creature has \"{2}: This creature gets +1/+0 until end of turn.\"\nWhenever equipped creature deals damage to a blocking creature, Kusari-Gama deals that much damage to each other creature defending player controls.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Tomas Giorello",
+        "multiverse_id": 75269,
+        "number": "260",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=75269",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/75269.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kusari-gama?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/75269"
+      }
+    ]
+  },
+  {
+    "name": "Kydele, Chosen of Kruphix",
+    "id": "kydele-chosen-of-kruphix",
+    "url": "https://api.deckbrew.com/mtg/cards/kydele-chosen-of-kruphix",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2016/kydele-chosen-of-kruphix?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{U}",
+    "text": "{T}: Add {C} to your mana pool for each card you've drawn this turn.\nPartner (You can have two commanders if both have partner.)",
+    "power": "2",
+    "toughness": "3",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "mythic",
+        "artist": "Bastien L. Deharme",
+        "multiverse_id": 420652,
+        "flavor": "She bears the greatest burden of all: that of knowing.",
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420652",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420652.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/kydele-chosen-of-kruphix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420652"
+      }
+    ]
+  },
+  {
+    "name": "Kynaios and Tiro of Meletis",
+    "id": "kynaios-and-tiro-of-meletis",
+    "url": "https://api.deckbrew.com/mtg/cards/kynaios-and-tiro-of-meletis",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2016/kynaios-and-tiro-of-meletis?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{R}{G}{W}{U}",
+    "text": "At the beginning of your end step, draw a card. Each player may put a land card from his or her hand onto the battlefield, then each opponent who didn't draws a card.",
+    "power": "2",
+    "toughness": "8",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "mythic",
+        "artist": "Willian Murai",
+        "multiverse_id": 420653,
+        "flavor": "\"Look what we fought for. Look what we built together.\"",
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420653",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420653.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/kynaios-and-tiro-of-meletis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420653"
+      }
+    ]
+  },
+  {
+    "name": "Kyoki, Sanity's Eclipse",
+    "id": "kyoki-sanitys-eclipse",
+    "url": "https://api.deckbrew.com/mtg/cards/kyoki-sanitys-eclipse",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/kyoki-sanitys-eclipse?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "demon",
+      "spirit"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{4}{B}{B}",
+    "text": "Whenever you cast a Spirit or Arcane spell, target opponent exiles a card from his or her hand.",
+    "power": "6",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 74552,
+        "flavor": "\"Kyoki, Eater of Minds, Corrupter of Thoughts, Bringer of Madness, Lord of Fear. Return, by our blood, and walk again.\"\n—Ogre chant",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74552",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74552.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/kyoki-sanitys-eclipse?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74552"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Archive",
+    "id": "kyren-archive",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-archive",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-archive?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "At the beginning of your upkeep, you may exile the top card of your library face down.\n{5}, Discard your hand, Sacrifice Kyren Archive: Put all cards exiled with Kyren Archive into their owner's hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Roger Raupp",
+        "multiverse_id": 19756,
+        "number": "302",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19756",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19756.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-archive?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19756"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Glider",
+    "id": "kyren-glider",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-glider",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-glider?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Flying\nKyren Glider can't block.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Daren Bader",
+        "multiverse_id": 19604,
+        "flavor": "Mercadia's Kyren goblins are the opposite of Dominarian goblins: they're smart and cowardly.",
+        "number": "196",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19604",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19604.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-glider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19604"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Legate",
+    "id": "kyren-legate",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-legate",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-legate?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Haste\nIf an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Dave Dorman",
+        "multiverse_id": 19841,
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19841",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19841.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-legate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19841"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Negotiations",
+    "id": "kyren-negotiations",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-negotiations",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-negotiations?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Tap an untapped creature you control: Kyren Negotiations deals 1 damage to target player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Scott Hampton",
+        "multiverse_id": 19846,
+        "flavor": "Kyren goblins always speak in questions and never allow wrong answers.",
+        "number": "198",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19846",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19846.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-negotiations?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19846"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Sniper",
+    "id": "kyren-sniper",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-sniper",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-sniper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "At the beginning of your upkeep, you may have Kyren Sniper deal 1 damage to target player.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 19606,
+        "flavor": "Kyren goblins always act behind the scenes—even in battle.",
+        "number": "199",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19606",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19606.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-sniper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19606"
+      }
+    ]
+  },
+  {
+    "name": "Kyren Toy",
+    "id": "kyren-toy",
+    "url": "https://api.deckbrew.com/mtg/cards/kyren-toy",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-toy?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{1}, {T}: Put a charge counter on Kyren Toy.\n{T}, Remove X charge counters from Kyren Toy: Add an amount of {C} to your mana pool equal to X plus one.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 19759,
+        "number": "303",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19759",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19759.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/kyren-toy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19759"
+      }
+    ]
+  },
+  {
+    "name": "Kyscu Drake",
+    "id": "kyscu-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/kyscu-drake",
+    "store_url": "http://store.tcgplayer.com/magic/visions/kyscu-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Flying\n{G}: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn.\nSacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "G. Darrow \u0026 I. Rabarot",
+        "multiverse_id": 3668,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3668",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3668.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/kyscu-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3668"
+      }
+    ]
+  },
+  {
+    "name": "Kytheon, Hero of Akros",
+    "id": "kytheon-hero-of-akros",
+    "url": "https://api.deckbrew.com/mtg/cards/kytheon-hero-of-akros",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kytheon-hero-of-akros",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "mythic",
+        "artist": "Willian Murai",
+        "multiverse_id": 398428,
+        "number": "23a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398428",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398428.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/kytheon-hero-of-akros?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398428"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Willian Murai",
+        "multiverse_id": 0,
+        "number": "220",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/kytheon-hero-of-akros?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Kytheon's Irregulars",
+    "id": "kytheons-irregulars",
+    "url": "https://api.deckbrew.com/mtg/cards/kytheons-irregulars",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kytheons-irregulars",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\n{W}{W}: Tap target creature.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "rare",
+        "artist": "Mark Winters",
+        "multiverse_id": 398561,
+        "flavor": "Kytheon and his irregulars worked outside the law to bring justice to the streets of Akros.",
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398561",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398561.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/kytheons-irregulars?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398561"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Mark Winters",
+        "multiverse_id": 0,
+        "flavor": "Kytheon and his irregulars worked outside the law to bring justice to the streets of Akros.",
+        "number": "219",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/kytheons-irregulars?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Kytheon's Tactics",
+    "id": "kytheons-tactics",
+    "url": "https://api.deckbrew.com/mtg/cards/kytheons-tactics",
+    "store_url": "http://store.tcgplayer.com/magic/magic-origins/kytheons-tactics?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "Creatures you control get +2/+1 until end of turn.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 398470,
+        "flavor": "\"Seal the gate. This is our fight now.\"",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398470",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398470.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/kytheons-tactics?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398470"
+      }
+    ]
+  },
+  {
+    "name": "Laboratory Brute",
+    "id": "laboratory-brute",
+    "url": "https://api.deckbrew.com/mtg/cards/laboratory-brute",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/laboratory-brute?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "zombie"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "When Laboratory Brute enters the battlefield, put the top four cards of your library into your graveyard.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "common",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 414362,
+        "flavor": "It keeps intruders out and experiments in.",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414362",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414362.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/laboratory-brute?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414362"
+      }
+    ]
+  },
+  {
+    "name": "Laboratory Maniac",
+    "id": "laboratory-maniac",
+    "url": "https://api.deckbrew.com/mtg/cards/laboratory-maniac",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/laboratory-maniac?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "If you would draw a card while your library has no cards in it, you win the game instead.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "rare",
+        "artist": "Jason Felix",
+        "multiverse_id": 230788,
+        "flavor": "His mind whirled with grand plans, never thinking of what might happen if he were to succeed.",
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=230788",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/230788.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/laboratory-maniac?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/230788"
+      }
+    ]
+  },
+  {
+    "name": "Lab Rats",
+    "id": "lab-rats",
+    "url": "https://api.deckbrew.com/mtg/cards/lab-rats",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lab-rats",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreate a 1/1 black Rat creature token.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "common",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 397640,
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397640",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397640.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/lab-rats?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397640"
+      },
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "common",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 5178,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5178",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5178.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/lab-rats?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5178"
+      }
+    ]
+  },
+  {
+    "name": "Labyrinth Champion",
+    "id": "labyrinth-champion",
+    "url": "https://api.deckbrew.com/mtg/cards/labyrinth-champion",
+    "store_url": "http://store.tcgplayer.com/magic/theros/labyrinth-champion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Heroic — Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Chase Stone",
+        "multiverse_id": 373586,
+        "flavor": "\"It used to be a lair. Now it's just a tunnel.\"",
+        "number": "126",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373586",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373586.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/labyrinth-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373586"
+      }
+    ]
+  },
+  {
+    "name": "Labyrinth Minotaur",
+    "id": "labyrinth-minotaur",
+    "url": "https://api.deckbrew.com/mtg/cards/labyrinth-minotaur",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=labyrinth-minotaur",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.",
+    "power": "1",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 2946,
+        "flavor": "\"Legend says they got a treasure cave, but it don't say where to find it.\"\n—Zeki, Reef Pirate",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2946",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2946.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/labyrinth-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2946"
+      },
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 2947,
+        "flavor": "\"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings.\"\n—Onatah, Anaba Shaman",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2947",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2947.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/labyrinth-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2947"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 201319,
+        "flavor": "\"I doubt any labyrinth minotaurs still live—but then again, we minotaurs are stubborn beings.\"\n—Onatah, Anaba Shaman",
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201319",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201319.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/labyrinth-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201319"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 3918,
+        "flavor": "\"I doubt any labyrinth minotaurs still live—but then we minotaurs are stubborn beings.\"\n—Onatah, Anaba shaman",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3918",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3918.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/labyrinth-minotaur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3918"
+      }
+    ]
+  },
+  {
+    "name": "Laccolith Grunt",
+    "id": "laccolith-grunt",
+    "url": "https://api.deckbrew.com/mtg/cards/laccolith-grunt",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-grunt?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Whenever Laccolith Grunt becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Grunt assigns no combat damage this turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 21333,
+        "flavor": "They leave a trail of ash and sorrow.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21333",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21333.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-grunt?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21333"
+      }
+    ]
+  },
+  {
+    "name": "Laccolith Rig",
+    "id": "laccolith-rig",
+    "url": "https://api.deckbrew.com/mtg/cards/laccolith-rig",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-rig?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Enchant creature\nWhenever enchanted creature becomes blocked, you may have it deal damage equal to its power to target creature. If you do, the first creature assigns no combat damage this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Massimilano Frezzato",
+        "multiverse_id": 21339,
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21339",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21339.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-rig?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21339"
+      }
+    ]
+  },
+  {
+    "name": "Laccolith Titan",
+    "id": "laccolith-titan",
+    "url": "https://api.deckbrew.com/mtg/cards/laccolith-titan",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-titan?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 7,
+    "cost": "{5}{R}{R}",
+    "text": "Whenever Laccolith Titan becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Titan assigns no combat damage this turn.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Tony Szczudlo",
+        "multiverse_id": 22297,
+        "flavor": "Proximity guarantees injury or death.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22297",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22297.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-titan?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22297"
+      }
+    ]
+  },
+  {
+    "name": "Laccolith Warrior",
+    "id": "laccolith-warrior",
+    "url": "https://api.deckbrew.com/mtg/cards/laccolith-warrior",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-warrior?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Whenever Laccolith Warrior becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Warrior assigns no combat damage this turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "uncommon",
+        "artist": "Mark Zug",
+        "multiverse_id": 21344,
+        "flavor": "The screams are brief. The silence lingers.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21344",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21344.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21344"
+      }
+    ]
+  },
+  {
+    "name": "Laccolith Whelp",
+    "id": "laccolith-whelp",
+    "url": "https://api.deckbrew.com/mtg/cards/laccolith-whelp",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-whelp?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Whenever Laccolith Whelp becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Whelp assigns no combat damage this turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Dave Dorman",
+        "multiverse_id": 21335,
+        "flavor": "They don't feed; they stoke.",
+        "number": "91",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21335",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21335.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/laccolith-whelp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21335"
+      }
+    ]
+  },
+  {
+    "name": "Lace with Moonglove",
+    "id": "lace-with-moonglove",
+    "url": "https://api.deckbrew.com/mtg/cards/lace-with-moonglove",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lace-with-moonglove",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 143376,
+        "flavor": "\"Which is more filled with poison: the flower of the moonglove or the minds of elves?\"\n—Vessifrus, flamekin demagogue",
+        "number": "225",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=143376",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/143376.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/lace-with-moonglove?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/143376"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 416941,
+        "flavor": "\"Which is more filled with poison: the flower of the moonglove or the minds of elves?\"\n—Vessifrus, flamekin demagogue",
+        "number": "184",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416941",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416941.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/lace-with-moonglove?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416941"
+      }
+    ]
+  },
+  {
+    "name": "Ladies' Knight",
+    "id": "ladies-knight",
+    "url": "https://api.deckbrew.com/mtg/cards/ladies-knight",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/ladies-knight?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flying\nSpells that players wearing at least one item of women's clothing play cost {1} less to play. (Women's clothing is designed to be worn exclusively by women.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "uncommon",
+        "artist": "Ron Spears",
+        "multiverse_id": 74260,
+        "flavor": "\"I said ‘Put him in a core set, not a corset'\"\n—Richard Garfield, Ph.D.",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74260",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74260.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/ladies-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74260"
+      }
+    ]
+  },
+  {
+    "name": "Lady Caleria",
+    "id": "lady-caleria",
+    "url": "https://api.deckbrew.com/mtg/cards/lady-caleria",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lady-caleria",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "archer",
+      "human"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{3}{G}{G}{W}{W}",
+    "text": "{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.",
+    "power": "3",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "uncommon",
+        "artist": "Bryon Wackwitz",
+        "multiverse_id": 201410,
+        "number": "157",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201410",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201410.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/lady-caleria?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201410"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Bryon Wackwitz",
+        "multiverse_id": 1665,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1665",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1665.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/lady-caleria?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1665"
+      }
+    ]
+  },
+  {
+    "name": "Lady Evangela",
+    "id": "lady-evangela",
+    "url": "https://api.deckbrew.com/mtg/cards/lady-evangela",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lady-evangela",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{W}{U}{B}",
+    "text": "{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "uncommon",
+        "artist": "Mark Poole",
+        "multiverse_id": 201203,
+        "flavor": "\"When milady was young, the sight of a rainbow would fill her soul with peace. As she grew, she learned to share her rapture with others.\"\n—Lady Gabriella",
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201203",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201203.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/lady-evangela?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201203"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 1666,
+        "flavor": "\"When milady was young, the sight of a rainbow would fill her soul with peace. As she grew, she learned to share her rapture with others.\" —Lady Gabriella",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1666",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1666.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/lady-evangela?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1666"
+      }
+    ]
+  },
+  {
+    "name": "Lady Orca",
+    "id": "lady-orca",
+    "url": "https://api.deckbrew.com/mtg/cards/lady-orca",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lady-orca",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 7,
+    "cost": "{5}{B}{R}",
+    "text": "",
+    "power": "7",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "common",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 205867,
+        "flavor": "\"I do not remember what he said to her. I remember her fiery eyes, fixed upon him for an instant. I remember a flash, and the hot breath of sudden flames made me turn away. When I looked again, Angus was gone.\"\n—A Wayfarer, on meeting Lady Orca",
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205867",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205867.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/lady-orca?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205867"
+      },
+      {
+        "set": "Anthologies",
+        "set_id": "ATH",
+        "rarity": "special",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 0,
+        "flavor": "\"I do not remember what he said to her. I remember her fiery eyes, fixed upon him for an instant. I remember a flash, and the hot breath of sudden flames made me turn away. When I looked again, Angus was gone.\" —A Wayfarer, on meeting Lady Orca",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+        "store_url": "http://store.tcgplayer.com/magic/anthologies/lady-orca?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 1667,
+        "flavor": "\"I do not remember what he said to her. I remember her fiery eyes, fixed upon him for an instant. I remember a flash, and the hot breath of sudden flames made me turn away. When I looked again, Angus was gone.\" —A Wayfarer, on meeting Lady Orca",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1667",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1667.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/lady-orca?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1667"
+      }
+    ]
+  },
+  {
+    "name": "Lady Sun",
+    "id": "lady-sun",
+    "url": "https://api.deckbrew.com/mtg/cards/lady-sun",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/lady-sun?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "advisor",
+      "human"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{U}",
+    "text": "{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Miao Aili",
+        "multiverse_id": 10721,
+        "flavor": "Sister to Sun Quan and wife to Liu Bei, Lady Sun often felt her loyalty to both tested.",
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10721",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10721.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/lady-sun?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10721"
+      }
+    ]
+  },
+  {
+    "name": "Lady Zhurong, Warrior Queen",
+    "id": "lady-zhurong-warrior-queen",
+    "url": "https://api.deckbrew.com/mtg/cards/lady-zhurong-warrior-queen",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/lady-zhurong-warrior-queen?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Miao Aili",
+        "multiverse_id": 10609,
+        "flavor": "\"A man, and such a fool! I, a woman, will fight them for you.\"\n—Lady Zhurong to her husband Meng Huo, before leading an army against the Shu",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10609",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10609.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/lady-zhurong-warrior-queen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10609"
+      }
+    ]
+  },
+  {
+    "name": "Lagac Lizard",
+    "id": "lagac-lizard",
+    "url": "https://api.deckbrew.com/mtg/cards/lagac-lizard",
+    "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/lagac-lizard?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "lizard"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 198162,
+        "flavor": "Tracing their ancestry back to Zendikar's earliest forms of life, lagac lizards have seen the comings and goings of planeswalkers and the Eldrazi, and the rise of the vampire clans, none of which has changed them one bit.",
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198162",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198162.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/lagac-lizard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198162"
+      }
+    ]
+  },
+  {
+    "name": "Lagonna-Band Elder",
+    "id": "lagonna-band-elder",
+    "url": "https://api.deckbrew.com/mtg/cards/lagonna-band-elder",
+    "store_url": "http://store.tcgplayer.com/magic/theros/lagonna-band-elder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "advisor",
+      "centaur"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Min Yum",
+        "multiverse_id": 373599,
+        "flavor": "\"The best lessons are not the ones I teach. They are the ones the pupils realize for themselves.\"",
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373599",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373599.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/lagonna-band-elder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373599"
+      }
+    ]
+  },
+  {
+    "name": "Lagonna-Band Trailblazer",
+    "id": "lagonna-band-trailblazer",
+    "url": "https://api.deckbrew.com/mtg/cards/lagonna-band-trailblazer",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/lagonna-band-trailblazer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "scout"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.",
+    "power": "0",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "James Zapata",
+        "multiverse_id": 380448,
+        "flavor": "Go forth with honor, return with glory.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380448",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380448.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/lagonna-band-trailblazer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380448"
+      }
+    ]
+  },
+  {
+    "name": "Lair Delve",
+    "id": "lair-delve",
+    "url": "https://api.deckbrew.com/mtg/cards/lair-delve",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/lair-delve?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Jason A. Engle",
+        "multiverse_id": 271093,
+        "flavor": "\"The fiends have fled. Well, good riddance. Nothing I like more than an empty lair.\"",
+        "number": "184",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271093",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271093.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/lair-delve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271093"
+      }
+    ]
+  },
+  {
+    "name": "Lair of the Ashen Idol",
+    "id": "lair-of-the-ashen-idol",
+    "url": "https://api.deckbrew.com/mtg/cards/lair-of-the-ashen-idol",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lair-of-the-ashen-idol",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "azgol"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "At the beginning of your upkeep, sacrifice a creature. If you can't, planeswalk.\nWhenever you roll {CHAOS}, any number of target players each create a 2/2 black Zombie creature token.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Philip Straub",
+        "multiverse_id": 423627,
+        "number": "46",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423627",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423627.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/lair-of-the-ashen-idol?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423627"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Philip Straub",
+        "multiverse_id": 226532,
+        "number": "24",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226532",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226532.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/lair-of-the-ashen-idol?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226532"
+      }
+    ]
+  },
+  {
+    "name": "Lairwatch Giant",
+    "id": "lairwatch-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/lairwatch-giant",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/lairwatch-giant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant",
+      "warrior"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{5}{W}",
+    "text": "Lairwatch Giant can block an additional creature each combat.\nWhenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn.",
+    "power": "5",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 143383,
+        "flavor": "A giant can brood over a grudge for decades, and woe to those who interrupt him.",
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=143383",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/143383.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/lairwatch-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/143383"
+      }
+    ]
+  },
+  {
+    "name": "Lake of the Dead",
+    "id": "lake-of-the-dead",
+    "url": "https://api.deckbrew.com/mtg/cards/lake-of-the-dead",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lake-of-the-dead",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "If Lake of the Dead would enter the battlefield, sacrifice a Swamp instead. If you do, put Lake of the Dead onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice a Swamp: Add {B}{B}{B}{B} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Eytan Zana",
+        "multiverse_id": 382995,
+        "number": "302",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382995",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382995.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/lake-of-the-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382995"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 159095,
+        "number": "177",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159095",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159095.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/lake-of-the-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159095"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 3234,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3234",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3234.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/lake-of-the-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3234"
+      }
+    ]
+  },
+  {
+    "name": "Lambholt Butcher",
+    "id": "lambholt-butcher",
+    "url": "https://api.deckbrew.com/mtg/cards/lambholt-butcher",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lambholt-butcher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "werewolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "",
+    "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lambholt Butcher.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 409977,
+        "flavor": "True peace can't be achieved until everyone else is dead.",
+        "number": "215b",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409977",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409977.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lambholt-butcher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409977"
+      }
+    ]
+  },
+  {
+    "name": "Lambholt Elder",
+    "id": "lambholt-elder",
+    "url": "https://api.deckbrew.com/mtg/cards/lambholt-elder",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/lambholt-elder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "werewolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "uncommon",
+        "artist": "Matt Stewart",
+        "multiverse_id": 242537,
+        "flavor": "\"Be wary of the seemingly gentle souls. The weak here were slaughtered long ago.\"\n—Rem Karolus, Blade of the Inquisitors",
+        "number": "122a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=242537",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/242537.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/lambholt-elder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/242537"
+      }
+    ]
+  },
+  {
+    "name": "Lambholt Pacifist",
+    "id": "lambholt-pacifist",
+    "url": "https://api.deckbrew.com/mtg/cards/lambholt-pacifist",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lambholt-pacifist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "shaman",
+      "werewolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 409976,
+        "number": "215a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409976",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409976.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lambholt-pacifist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409976"
+      }
+    ]
+  },
+  {
+    "name": "Lammastide Weave",
+    "id": "lammastide-weave",
+    "url": "https://api.deckbrew.com/mtg/cards/lammastide-weave",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/lammastide-weave?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Name a card, then target player puts the top card of his or her library into his or her graveyard. If that card is the named card, you gain life equal to its converted mana cost.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "uncommon",
+        "artist": "Howard Lyon",
+        "multiverse_id": 139404,
+        "flavor": "\"A ribbon torn will ward away dark dreams.\"",
+        "number": "226",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139404",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139404.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/lammastide-weave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139404"
+      }
+    ]
+  },
+  {
+    "name": "Lamplighter of Selhoff",
+    "id": "lamplighter-of-selhoff",
+    "url": "https://api.deckbrew.com/mtg/cards/lamplighter-of-selhoff",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lamplighter-of-selhoff?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "zombie"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "When Lamplighter of Selhoff enters the battlefield, if you control another Zombie, you may draw a card. If you do, discard a card.",
+    "power": "3",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "common",
+        "artist": "Clint Cearley",
+        "multiverse_id": 409815,
+        "flavor": "For stitchers and necro-alchemists, it's important that work can continue at all hours.",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409815",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409815.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/lamplighter-of-selhoff?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409815"
+      }
+    ]
+  },
+  {
+    "name": "Lance",
+    "id": "lance",
+    "url": "https://api.deckbrew.com/mtg/cards/lance",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lance",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Enchant creature\nEnchanted creature has first strike.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 856,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=856",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/856.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/856"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 1353,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1353",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1353.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1353"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 258,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=258",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/258.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/258"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 554,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=554",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/554.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/lance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/554"
+      }
+    ]
+  },
+  {
+    "name": "Lancers en-Kor",
+    "id": "lancers-en-kor",
+    "url": "https://api.deckbrew.com/mtg/cards/lancers-en-kor",
+    "store_url": "http://store.tcgplayer.com/magic/stronghold/lancers-en-kor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kor",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "Trample\n{0}: The next 1 damage that would be dealt to Lancers en-Kor this turn is dealt to target creature you control instead.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 5179,
+        "flavor": "Nearly all sets of Kor twins are trained as lancers.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5179",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5179.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/lancers-en-kor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5179"
+      }
+    ]
+  },
+  {
+    "name": "Land Aid '04",
+    "id": "land-aid-04",
+    "url": "https://api.deckbrew.com/mtg/cards/land-aid-04",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/land-aid-04?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{G}{G}",
+    "text": "Search your library for a basic land card, put that card into play tapped, then shuffle your library. If you sang a song the whole time you were searching and shuffling, you may untap that land.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "common",
+        "artist": "Jim Nelson",
+        "multiverse_id": 74259,
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74259",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74259.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/land-aid-04?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74259"
+      }
+    ]
+  },
+  {
+    "name": "Landbind Ritual",
+    "id": "landbind-ritual",
+    "url": "https://api.deckbrew.com/mtg/cards/landbind-ritual",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/landbind-ritual?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "You gain 2 life for each Plains you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "uncommon",
+        "artist": "Steve Prescott",
+        "multiverse_id": 188999,
+        "flavor": "\"Honor this place, for our children's children will stand here and speak these same words again.\"\n—Ayli, Kamsa cleric",
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=188999",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/188999.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/landbind-ritual?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/188999"
+      }
+    ]
+  }
+]

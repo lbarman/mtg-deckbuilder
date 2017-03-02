@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "Zombie Master",
+    "id": "zombie-master",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-master",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zombie-master",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have \"{B}: Regenerate this permanent.\"",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 14599,
+        "flavor": "He controlled the zombies even before his own death; now nothing can make them betray him.",
+        "number": "162",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14599",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14599.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/14599"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 2141,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2141",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2141.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2141"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "Stuart Griffin",
+        "multiverse_id": 3890,
+        "flavor": "He controlled the zombies even before his own death; now nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3890",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3890.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3890"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 202440,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202440",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202440.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202440"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 0,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 690,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=690",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/690.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/690"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 1188,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1188",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1188.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1188"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 93,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=93",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/93.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/93"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 0,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 388,
+        "flavor": "They say the Zombie Master controlled these foul creatures even before his own death, but now that he is one of them, nothing can make them betray him.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=388",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/388.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/zombie-master?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/388"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Mob",
+    "id": "zombie-mob",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-mob",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/zombie-mob?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Zombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.\nWhen Zombie Mob enters the battlefield, exile all creature cards from your graveyard.",
+    "power": "2",
+    "toughness": "0",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 3322,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3322",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3322.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/zombie-mob?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3322"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Musher",
+    "id": "zombie-musher",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-musher",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/zombie-musher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "snow"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)\n{S}: Regenerate Zombie Musher. ({S} can be paid with one mana from a snow permanent.)",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 121154,
+        "flavor": "The World Spell thawed their icy graves, promising rest in soft, quiet earth at last. But Heidar called them to duty for a twisted cause.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121154",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121154.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/zombie-musher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121154"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Outlander",
+    "id": "zombie-outlander",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-outlander",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/zombie-outlander?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "scout",
+      "zombie"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{U}{B}",
+    "text": "Protection from green",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 185138,
+        "flavor": "The ripe smell of life drifted into Grixis. The dead caught the scent and with reckless hunger followed it back into Jund.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=185138",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/185138.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/zombie-outlander?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/185138"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Scavengers",
+    "id": "zombie-scavengers",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-scavengers",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/zombie-scavengers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "Patrick Kochakji",
+        "multiverse_id": 4475,
+        "flavor": "\"Pick a shell upon my shore and put it to your ear. That sound isn't the sea, but the whispers of the fallen.\"\n—Crovax",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4475",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4475.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/zombie-scavengers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4475"
+      }
+    ]
+  },
+  {
+    "name": "Zombie token card",
+    "id": "zombie-token-card",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-token-card",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/zombie-token?partner=DECKBREW",
+    "cmc": 0,
+    "cost": "",
+    "text": "",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "uncommon",
+        "artist": "Christopher Rush",
+        "multiverse_id": 5601,
+        "number": "91",
+        "layout": "token",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5601",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5601.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/zombie-token?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5601"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Trailblazer",
+    "id": "zombie-trailblazer",
+    "url": "https://api.deckbrew.com/mtg/cards/zombie-trailblazer",
+    "store_url": "http://store.tcgplayer.com/magic/torment/zombie-trailblazer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "scout",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{B}{B}{B}",
+    "text": "Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.\nTap an untapped Zombie you control: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 34819,
+        "flavor": "Some zombies are natural-reborn leaders.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=34819",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/34819.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/zombie-trailblazer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/34819"
+      }
+    ]
+  },
+  {
+    "name": "Zombify",
+    "id": "zombify",
+    "url": "https://api.deckbrew.com/mtg/cards/zombify",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zombify",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Return target creature card from your graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 83342,
+        "flavor": "\"The first birth celebrates life. The second birth mocks it.\"\n—Mystic elder",
+        "number": "171",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83342",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83342.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/zombify?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83342"
+      },
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 29847,
+        "flavor": "\"The first birth celebrates life. The second birth mocks it.\"\n—Mystic elder",
+        "number": "171",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29847",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29847.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/zombify?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29847"
+      },
+      {
+        "set": "Magic Player Rewards",
+        "set_id": "pMPR",
+        "rarity": "special",
+        "artist": "Allan Pollack",
+        "multiverse_id": 0,
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+        "store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/zombify?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 220580,
+        "flavor": "\"The first birth celebrates life. The second birth mocks it.\"\n—Mystic elder",
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220580",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220580.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/zombify?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220580"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 45318,
+        "flavor": "\"The first birth celebrates life. The second birth mocks it.\"\n—Mystic elder",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45318",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45318.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/zombify?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45318"
+      }
+    ]
+  },
+  {
+    "name": "Zoologist",
+    "id": "zoologist",
+    "url": "https://api.deckbrew.com/mtg/cards/zoologist",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/zoologist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 29984,
+        "flavor": "\"With friends like these, who needs people?\"",
+        "number": "285",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29984",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29984.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/zoologist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29984"
+      }
+    ]
+  },
+  {
+    "name": "Zo-Zu the Punisher",
+    "id": "zo-zu-the-punisher",
+    "url": "https://api.deckbrew.com/mtg/cards/zo-zu-the-punisher",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/zo-zu-the-punisher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "goblin",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{R}{R}",
+    "text": "Whenever a land enters the battlefield, Zo-Zu the Punisher deals 2 damage to that land's controller.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 80274,
+        "flavor": "\"He can cause a lot of pain and do it with no fuss. That's all good, but I just wish he didn't do it to us\"\n—Ku-Ku, akki poet",
+        "number": "200",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=80274",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/80274.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/zo-zu-the-punisher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/80274"
+      }
+    ]
+  },
+  {
+    "name": "Zuberi, Golden Feather",
+    "id": "zuberi-golden-feather",
+    "url": "https://api.deckbrew.com/mtg/cards/zuberi-golden-feather",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/zuberi-golden-feather?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "griffin"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "Flying\nOther Griffin creatures get +1/+1.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Alan Rabinowitz",
+        "multiverse_id": 3526,
+        "flavor": "\"If the griffins tell of their gods, perhaps they speak of feathers bright as the Sun.\"\n—Afari, Tales",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3526",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3526.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/zuberi-golden-feather?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3526"
+      }
+    ]
+  },
+  {
+    "name": "Zulaport Chainmage",
+    "id": "zulaport-chainmage",
+    "url": "https://api.deckbrew.com/mtg/cards/zulaport-chainmage",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/zulaport-chainmage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Target opponent loses 2 life.",
+    "power": "4",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "common",
+        "artist": "Chris Rallis",
+        "multiverse_id": 407603,
+        "flavor": "The chains obey her. Everything else would do best to get out of her way.",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407603",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407603.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/zulaport-chainmage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407603"
+      }
+    ]
+  },
+  {
+    "name": "Zulaport Cutthroat",
+    "id": "zulaport-cutthroat",
+    "url": "https://api.deckbrew.com/mtg/cards/zulaport-cutthroat",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/zulaport-cutthroat?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "human",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Jason Rainville",
+        "multiverse_id": 402101,
+        "flavor": "\"Eldrazi? Ha! Try walking through Zulaport at night with your pockets full. Now that's dangerous.\"",
+        "number": "126",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=402101",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/402101.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/zulaport-cutthroat?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/402101"
+      }
+    ]
+  },
+  {
+    "name": "Zulaport Enforcer",
+    "id": "zulaport-enforcer",
+    "url": "https://api.deckbrew.com/mtg/cards/zulaport-enforcer",
+    "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/zulaport-enforcer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n3/3\nLEVEL 3+\n5/5\nZulaport Enforcer can't be blocked except by black creatures.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Matt Stewart",
+        "multiverse_id": 198166,
+        "number": "133",
+        "layout": "leveler",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198166",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198166.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/zulaport-enforcer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198166"
+      }
+    ]
+  },
+  {
+    "name": "Zuo Ci, the Mocking Sage",
+    "id": "zuo-ci-the-mocking-sage",
+    "url": "https://api.deckbrew.com/mtg/cards/zuo-ci-the-mocking-sage",
+    "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/zuo-ci-the-mocking-sage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "advisor",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nZuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Wang Yuqun",
+        "multiverse_id": 10610,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10610",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10610.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/zuo-ci-the-mocking-sage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10610"
+      }
+    ]
+  },
+  {
+    "name": "Zuran Enchanter",
+    "id": "zuran-enchanter",
+    "url": "https://api.deckbrew.com/mtg/cards/zuran-enchanter",
+    "store_url": "http://store.tcgplayer.com/magic/ice-age/zuran-enchanter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "{2}{B}, {T}: Target player discards a card. Activate this ability only during your turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 2547,
+        "flavor": "\"We are Kjeldorans no more.\"\n—Zur the Enchanter",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2547",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2547.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/zuran-enchanter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2547"
+      }
+    ]
+  },
+  {
+    "name": "Zuran Orb",
+    "id": "zuran-orb",
+    "url": "https://api.deckbrew.com/mtg/cards/zuran-orb",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zuran-orb",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 0,
+    "cost": "{0}",
+    "text": "Sacrifice a land: You gain 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "uncommon",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 159752,
+        "flavor": "\"I will go to any length to achieve my goal. Eternal life is worth any sacrifice.\"\n—Zur the Enchanter",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159752",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159752.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/zuran-orb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159752"
+      },
+      {
+        "set": "From the Vault: Relics",
+        "set_id": "V10",
+        "rarity": "mythic",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 212628,
+        "flavor": "\"I will go to any length to achieve my goal. Eternal life is worth any sacrifice.\"\n—Zur the Enchanter",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=212628",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/212628.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V10",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-relics/zuran-orb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/212628"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "uncommon",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 2436,
+        "flavor": "\"I will go to any length to achieve my goal. Eternal life is worth any sacrifice.\"\n—Zur the Enchanter",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2436",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2436.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/zuran-orb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2436"
+      }
+    ]
+  },
+  {
+    "name": "Zuran Spellcaster",
+    "id": "zuran-spellcaster",
+    "url": "https://api.deckbrew.com/mtg/cards/zuran-spellcaster",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zuran-spellcaster",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "{T}: Zuran Spellcaster deals 1 damage to target creature or player.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap Theme Decks",
+        "set_id": "CST",
+        "rarity": "special",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 0,
+        "flavor": "\"A mage must be precise as well as potent; cautious, as well as clever.\"\n—Zur the Enchanter",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CST",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/zuran-spellcaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "common",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 184683,
+        "flavor": "\"A mage must be precise as well as potent; cautious, as well as clever.\"\n—Zur the Enchanter",
+        "number": "76",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184683",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184683.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/zuran-spellcaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184683"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 2548,
+        "flavor": "\"A mage must be precise as well as potent; cautious, as well as clever.\"\n—Zur the Enchanter",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2548",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2548.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/zuran-spellcaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2548"
+      }
+    ]
+  },
+  {
+    "name": "Zurgo Bellstriker",
+    "id": "zurgo-bellstriker",
+    "url": "https://api.deckbrew.com/mtg/cards/zurgo-bellstriker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zurgo-bellstriker",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "orc",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Zurgo Bellstriker can't block creatures with power 2 or greater.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Kolaghan",
+        "rarity": "rare",
+        "artist": "Jason Rainville",
+        "multiverse_id": 394748,
+        "number": "169",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394748",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394748.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/zurgo-bellstriker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394748"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Jason Rainville",
+        "multiverse_id": 0,
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/zurgo-bellstriker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Zurgo Helmsmasher",
+    "id": "zurgo-helmsmasher",
+    "url": "https://api.deckbrew.com/mtg/cards/zurgo-helmsmasher",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zurgo-helmsmasher",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "orc",
+      "warrior"
+    ],
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{2}{R}{W}{B}",
+    "text": "Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.",
+    "power": "7",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Mardu",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 386731,
+        "number": "214",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386731",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386731.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/zurgo-helmsmasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386731"
+      },
+      {
+        "set": "Duel Decks: Speed vs. Cunning",
+        "set_id": "DDN",
+        "rarity": "mythic",
+        "artist": "Ryan Alexander Lee",
+        "multiverse_id": 386380,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386380",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386380.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDN",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-speed-vs-cunning/zurgo-helmsmasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386380"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 0,
+        "number": "127",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/zurgo-helmsmasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Zur's Weirding",
+    "id": "zurs-weirding",
+    "url": "https://api.deckbrew.com/mtg/cards/zurs-weirding",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zurs-weirding",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Players play with their hands revealed.\nIf a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "rk post",
+        "multiverse_id": 83343,
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83343",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83343.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/zurs-weirding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83343"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 15372,
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15372",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15372.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/zurs-weirding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15372"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 3959,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3959",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3959.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/zurs-weirding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3959"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 45278,
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45278",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45278.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/zurs-weirding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45278"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 2546,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2546",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2546.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/zurs-weirding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2546"
+      }
+    ]
+  },
+  {
+    "name": "Zur the Enchanter",
+    "id": "zur-the-enchanter",
+    "url": "https://api.deckbrew.com/mtg/cards/zur-the-enchanter",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/zur-the-enchanter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{1}{W}{U}{B}",
+    "text": "Flying\nWhenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.",
+    "power": "1",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 121162,
+        "flavor": "Zur remained aloof from Terisiare's suffering, intent only on his own perfection.",
+        "number": "135",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121162",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121162.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/zur-the-enchanter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121162"
+      }
+    ]
+  },
+  {
+    "name": "Zzzyxas's Abyss",
+    "id": "zzzyxass-abyss",
+    "url": "https://api.deckbrew.com/mtg/cards/zzzyxass-abyss",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/zzzyxass-abyss?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "At the beginning of your upkeep, destroy all nonland permanents with the first name alphabetically among nonland permanents in play.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 74336,
+        "flavor": "Tired of always being picked last, the wizard Zzzyxas created the ultimate revenge.",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74336",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74336.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/zzzyxass-abyss?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74336"
+      }
+    ]
+  }
+]

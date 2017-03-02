@@ -1,0 +1,5592 @@
+[
+  {
+    "name": "Harvester Druid",
+    "id": "harvester-druid",
+    "url": "https://api.deckbrew.com/mtg/cards/harvester-druid",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/harvester-druid?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "human"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "{T}: Add to your mana pool one mana of any color that a land you control could produce.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "common",
+        "artist": "David Martin",
+        "multiverse_id": 36411,
+        "flavor": "\"In the end, the same soil lies atop the field, within the mountain, and under the sea.\"",
+        "number": "120",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=36411",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/36411.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/harvester-druid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/36411"
+      }
+    ]
+  },
+  {
+    "name": "Harvester of Souls",
+    "id": "harvester-of-souls",
+    "url": "https://api.deckbrew.com/mtg/cards/harvester-of-souls",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=harvester-of-souls",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{4}{B}{B}",
+    "text": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Blessed vs. Cursed",
+        "set_id": "DDQ",
+        "rarity": "rare",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 409636,
+        "flavor": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409636",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409636.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/harvester-of-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409636"
+      },
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "rare",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 240199,
+        "flavor": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
+        "number": "107",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240199",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240199.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/harvester-of-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240199"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "rare",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 416895,
+        "flavor": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
+        "number": "138",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416895",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416895.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/harvester-of-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416895"
+      }
+    ]
+  },
+  {
+    "name": "Harvester Troll",
+    "id": "harvester-troll",
+    "url": "https://api.deckbrew.com/mtg/cards/harvester-troll",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/harvester-troll?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "troll"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 407643,
+        "flavor": "Having no interest in the greater conflict, the trolls continue to prey upon whatever wanders into their domain.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407643",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407643.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/harvester-troll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407643"
+      }
+    ]
+  },
+  {
+    "name": "Harvestguard Alseids",
+    "id": "harvestguard-alseids",
+    "url": "https://api.deckbrew.com/mtg/cards/harvestguard-alseids",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/harvestguard-alseids?partner=DECKBREW",
+    "types": [
+      "creature",
+      "enchantment"
+    ],
+    "subtypes": [
+      "nymph"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Constellation — Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 380433,
+        "flavor": "Not all shields are forged of iron or bronze.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380433",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380433.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/harvestguard-alseids?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380433"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Gwyllion",
+    "id": "harvest-gwyllion",
+    "url": "https://api.deckbrew.com/mtg/cards/harvest-gwyllion",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/harvest-gwyllion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hag"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W/B}{W/B}",
+    "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 152089,
+        "flavor": "She speaks only in vile epithets, spitting out curses and obscenities that harm others just by the hearing.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152089",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152089.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/harvest-gwyllion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152089"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Hand",
+    "id": "harvest-hand",
+    "url": "https://api.deckbrew.com/mtg/cards/harvest-hand",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/harvest-hand?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "scarecrow"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "When Harvest Hand dies, return it to the battlefield transformed under your control.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Jason Felix",
+        "multiverse_id": 410021,
+        "flavor": "The harvest is never finished.",
+        "number": "256a",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=410021",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/410021.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/harvest-hand?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/410021"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Mage",
+    "id": "harvest-mage",
+    "url": "https://api.deckbrew.com/mtg/cards/harvest-mage",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/harvest-mage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "spellshaper"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "{G}, {T}, Discard a card: Until end of turn, if you tap a land for mana, it produces one mana of a color of your choice instead of any other type and amount.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 21370,
+        "flavor": "\"Why should one limit oneself to the resources at hand?\"",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21370",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21370.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/harvest-mage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21370"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Pyre",
+    "id": "harvest-pyre",
+    "url": "https://api.deckbrew.com/mtg/cards/harvest-pyre",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/harvest-pyre?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.\nHarvest Pyre deals X damage to target creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 220010,
+        "flavor": "Corpses destroyed by fire form the most destructive geists.",
+        "number": "146",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220010",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220010.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/harvest-pyre?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220010"
+      }
+    ]
+  },
+  {
+    "name": "Harvest Wurm",
+    "id": "harvest-wurm",
+    "url": "https://api.deckbrew.com/mtg/cards/harvest-wurm",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/harvest-wurm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wurm"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "Stephen L. Walsh",
+        "multiverse_id": 4518,
+        "flavor": "The wurm's weave\n—Elvish expression meaning\n\"plowed fields\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4518",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4518.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/harvest-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4518"
+      }
+    ]
+  },
+  {
+    "name": "Hasran Ogress",
+    "id": "hasran-ogress",
+    "url": "https://api.deckbrew.com/mtg/cards/hasran-ogress",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hasran-ogress",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 202427,
+        "number": "86",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202427",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202427.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/hasran-ogress?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202427"
+      },
+      {
+        "set": "Chronicles",
+        "set_id": "CHR",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 2808,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2808",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2808.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+        "store_url": "http://store.tcgplayer.com/magic/chronicles/hasran-ogress?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2808"
+      },
+      {
+        "set": "Arabian Nights",
+        "set_id": "ARN",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 919,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=919",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/919.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/hasran-ogress?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/919"
+      },
+      {
+        "set": "Arabian Nights",
+        "set_id": "ARN",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 920,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=920",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/920.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/hasran-ogress?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/920"
+      }
+    ]
+  },
+  {
+    "name": "Hatchet Bully",
+    "id": "hatchet-bully",
+    "url": "https://api.deckbrew.com/mtg/cards/hatchet-bully",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/hatchet-bully?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "{2}{R}, {T}, Put a -1/-1 counter on a creature you control: Hatchet Bully deals 2 damage to target creature or player.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "uncommon",
+        "artist": "Paul Bonner",
+        "multiverse_id": 147413,
+        "flavor": "\"It's not much for eating, but I think we can find somethin' to do with it.\"",
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=147413",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/147413.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/hatchet-bully?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/147413"
+      }
+    ]
+  },
+  {
+    "name": "Hatching Plans",
+    "id": "hatching-plans",
+    "url": "https://api.deckbrew.com/mtg/cards/hatching-plans",
+    "store_url": "http://store.tcgplayer.com/magic/guildpact/hatching-plans?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "When Hatching Plans is put into a graveyard from the battlefield, draw three cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 96873,
+        "flavor": "So wondrous to behold, so delicate and finely crafted—and yet, such a pleasure to smash.",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96873",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96873.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/hatching-plans?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96873"
+      }
+    ]
+  },
+  {
+    "name": "Hateflayer",
+    "id": "hateflayer",
+    "url": "https://api.deckbrew.com/mtg/cards/hateflayer",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/hateflayer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 7,
+    "cost": "{5}{R}{R}",
+    "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{2}{R}, {Q}: Hateflayer deals damage equal to its power to target creature or player. ({Q} is the untap symbol.)",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 152155,
+        "flavor": "It has no safe side.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152155",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152155.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/hateflayer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152155"
+      }
+    ]
+  },
+  {
+    "name": "Hate Weaver",
+    "id": "hate-weaver",
+    "url": "https://api.deckbrew.com/mtg/cards/hate-weaver",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hate-weaver",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wizard",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{2}: Target blue or red creature gets +1/+0 until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "Roger Raupp",
+        "multiverse_id": 23041,
+        "flavor": "\"Let my hate fuel your fury.\"",
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23041",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23041.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/hate-weaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23041"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Roger Raupp",
+        "multiverse_id": 130995,
+        "flavor": "\"Let my hate fuel your fury.\"",
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130995",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130995.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/hate-weaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130995"
+      }
+    ]
+  },
+  {
+    "name": "Hatred",
+    "id": "hatred",
+    "url": "https://api.deckbrew.com/mtg/cards/hatred",
+    "store_url": "http://store.tcgplayer.com/magic/exodus/hatred?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "As an additional cost to cast Hatred, pay X life.\nTarget creature gets +X/+0 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "rare",
+        "artist": "Brom",
+        "multiverse_id": 6104,
+        "flavor": "\"I will flay the skin from your flesh and the flesh from your bones and scrape your bones dry. And still you will not have suffered enough.\"\n—Greven il-Vec, to Gerrard",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6104",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6104.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/hatred?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6104"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Angel",
+    "id": "haunted-angel",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-angel",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/haunted-angel?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Flying\nWhen Haunted Angel dies, exile Haunted Angel and each other player creates a 3/3 black Angel creature token with flying.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "uncommon",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 25910,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25910",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25910.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/haunted-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25910"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Cadaver",
+    "id": "haunted-cadaver",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-cadaver",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/haunted-cadaver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Whenever Haunted Cadaver deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards.\nMorph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "common",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 39852,
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39852",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39852.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/haunted-cadaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39852"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Cloak",
+    "id": "haunted-cloak",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-cloak",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/haunted-cloak?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Equipped creature has vigilance, trample, and haste.\nEquip {1}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Volkan Baga",
+        "multiverse_id": 410023,
+        "flavor": "Bear the weight of so many spirits and you'll surrender civility and restraint to savagery and instinct.",
+        "number": "257",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=410023",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/410023.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/haunted-cloak?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/410023"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Crossroads",
+    "id": "haunted-crossroads",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-crossroads",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/haunted-crossroads?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "{B}: Put target creature card from your graveyard on top of your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 19704,
+        "flavor": "It seemed as if no one wanted them to reach the Henge of Ramos—not even the dead.",
+        "number": "138",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19704",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19704.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/haunted-crossroads?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19704"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Dead",
+    "id": "haunted-dead",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-dead",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/haunted-dead?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature token with flying.\n{1}{B}, Discard two cards: Return Haunted Dead from your graveyard to the battlefield tapped.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "uncommon",
+        "artist": "Lake Hurwitz",
+        "multiverse_id": 414387,
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414387",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414387.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/haunted-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414387"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Fengraf",
+    "id": "haunted-fengraf",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-fengraf",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=haunted-fengraf",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 245289,
+        "flavor": "A ghoulcaller's playground.",
+        "number": "157",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=245289",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/245289.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/haunted-fengraf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/245289"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 389546,
+        "flavor": "A ghoulcaller's playground.",
+        "number": "300",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389546",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389546.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/haunted-fengraf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389546"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Guardian",
+    "id": "haunted-guardian",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-guardian",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/haunted-guardian?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "construct"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Defender, first strike",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 279613,
+        "flavor": "\"Drain the victim's blood, sell the corpse, and use the soul on guard duty. No muss, no fuss, no problems.\"\n—Olivia Voldaren",
+        "number": "216",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=279613",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/279613.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/haunted-guardian?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/279613"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Plate Mail",
+    "id": "haunted-plate-mail",
+    "url": "https://api.deckbrew.com/mtg/cards/haunted-plate-mail",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=haunted-plate-mail",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "Equipped creature gets +4/+4.\n{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "rare",
+        "artist": "Izzy",
+        "multiverse_id": 370594,
+        "number": "212",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370594",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370594.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/haunted-plate-mail?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370594"
+      },
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "rare",
+        "artist": "Izzy",
+        "multiverse_id": 383263,
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383263",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383263.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/haunted-plate-mail?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383263"
+      }
+    ]
+  },
+  {
+    "name": "Haunter of Nightveil",
+    "id": "haunter-of-nightveil",
+    "url": "https://api.deckbrew.com/mtg/cards/haunter-of-nightveil",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/haunter-of-nightveil?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{B}",
+    "text": "Creatures your opponents control get -1/-0.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Dimir",
+        "rarity": "uncommon",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 369087,
+        "flavor": "The Dimir employ the spirits of Ravnica's ancient, nameless dead, guiding their malevolence toward selected victims.",
+        "number": "76",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=369087",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/369087.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/haunter-of-nightveil?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/369087"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Apparition",
+    "id": "haunting-apparition",
+    "url": "https://api.deckbrew.com/mtg/cards/haunting-apparition",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/haunting-apparition?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{B}",
+    "text": "Flying\nAs Haunting Apparition enters the battlefield, choose an opponent.\nHaunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.",
+    "power": "1+*",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Chippy",
+        "multiverse_id": 3538,
+        "flavor": "Like some foul herdbeast, it grazes on the dead.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3538",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3538.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/haunting-apparition?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3538"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Echoes",
+    "id": "haunting-echoes",
+    "url": "https://api.deckbrew.com/mtg/cards/haunting-echoes",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=haunting-echoes",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 29956,
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29956",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29956.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/haunting-echoes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29956"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "rare",
+        "artist": "Nils Hamm",
+        "multiverse_id": 205005,
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205005",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205005.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/haunting-echoes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205005"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "rare",
+        "artist": "Nils Hamm",
+        "multiverse_id": 190577,
+        "number": "98",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190577",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190577.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/haunting-echoes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190577"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Hymn",
+    "id": "haunting-hymn",
+    "url": "https://api.deckbrew.com/mtg/cards/haunting-hymn",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/haunting-hymn?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 6,
+    "cost": "{4}{B}{B}",
+    "text": "Target player discards two cards. If you cast this spell during your main phase, that player discards four cards instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "rk post",
+        "multiverse_id": 109731,
+        "flavor": "The hymn's melody has persisted since Tourach's time, but the words changed to invoke the phobias of each listener.",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=109731",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/109731.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/haunting-hymn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/109731"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Misery",
+    "id": "haunting-misery",
+    "url": "https://api.deckbrew.com/mtg/cards/haunting-misery",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/haunting-misery?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "As an additional cost to cast Haunting Misery, exile X creature cards from your graveyard.\nHaunting Misery deals X damage to target player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "Gary Leach",
+        "multiverse_id": 4459,
+        "flavor": "\"I am condemned without end.\"\n—Crovax",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4459",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4459.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/haunting-misery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4459"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Wind",
+    "id": "haunting-wind",
+    "url": "https://api.deckbrew.com/mtg/cards/haunting-wind",
+    "store_url": "http://store.tcgplayer.com/magic/antiquities/haunting-wind?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "uncommon",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 1040,
+        "flavor": "These devices lured so many spirits that sometimes entire battlefields would become haunted at once.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1040",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1040.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/haunting-wind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1040"
+      }
+    ]
+  },
+  {
+    "name": "Havengul Lich",
+    "id": "havengul-lich",
+    "url": "https://api.deckbrew.com/mtg/cards/havengul-lich",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/havengul-lich?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wizard",
+      "zombie"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{B}",
+    "text": "{1}: You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "mythic",
+        "artist": "James Ryman",
+        "multiverse_id": 262852,
+        "flavor": "Fusing intelligence with the power of undeath requires inspiration of the darkest kind.",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=262852",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/262852.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/havengul-lich?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/262852"
+      }
+    ]
+  },
+  {
+    "name": "Havengul Runebinder",
+    "id": "havengul-runebinder",
+    "url": "https://api.deckbrew.com/mtg/cards/havengul-runebinder",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=havengul-runebinder",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "{2}{U}, {T}, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "rare",
+        "artist": "Bud Cook",
+        "multiverse_id": 249878,
+        "flavor": "\"So many corpses, so little time.\"",
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249878",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249878.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/havengul-runebinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/249878"
+      },
+      {
+        "set": "Duel Decks: Blessed vs. Cursed",
+        "set_id": "DDQ",
+        "rarity": "rare",
+        "artist": "Bud Cook",
+        "multiverse_id": 409620,
+        "flavor": "\"So many corpses, so little time.\"",
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409620",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409620.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/havengul-runebinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409620"
+      }
+    ]
+  },
+  {
+    "name": "Havengul Skaab",
+    "id": "havengul-skaab",
+    "url": "https://api.deckbrew.com/mtg/cards/havengul-skaab",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/havengul-skaab?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror",
+      "zombie"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{5}{U}",
+    "text": "Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Vincent Proce",
+        "multiverse_id": 240094,
+        "flavor": "An abomination so violent that the other fiends tremble at the sight of it.",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240094",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240094.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/havengul-skaab?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240094"
+      }
+    ]
+  },
+  {
+    "name": "Havengul Vampire",
+    "id": "havengul-vampire",
+    "url": "https://api.deckbrew.com/mtg/cards/havengul-vampire",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=havengul-vampire",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.\nWhenever another creature dies, put a +1/+1 counter on Havengul Vampire.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "James Ryman",
+        "multiverse_id": 240152,
+        "flavor": "\"That slowly decreasing pulse—that's the beat I waltz to.\"",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240152",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240152.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/havengul-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240152"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "uncommon",
+        "artist": "James Ryman",
+        "multiverse_id": 416921,
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416921",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416921.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/havengul-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416921"
+      }
+    ]
+  },
+  {
+    "name": "Haven of the Spirit Dragon",
+    "id": "haven-of-the-spirit-dragon",
+    "url": "https://api.deckbrew.com/mtg/cards/haven-of-the-spirit-dragon",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/haven-of-the-spirit-dragon?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a Dragon creature spell.\n{2}, {T}, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "rare",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 394593,
+        "number": "249",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394593",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394593.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/haven-of-the-spirit-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394593"
+      }
+    ]
+  },
+  {
+    "name": "Havenwood Battleground",
+    "id": "havenwood-battleground",
+    "url": "https://api.deckbrew.com/mtg/cards/havenwood-battleground",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=havenwood-battleground",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Havenwood Battleground enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\n{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "uncommon",
+        "artist": "Liz Danforth",
+        "multiverse_id": 26652,
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26652",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26652.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26652"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Liz Danforth",
+        "multiverse_id": 389547,
+        "number": "301",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389547",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389547.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389547"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "uncommon",
+        "artist": "Liz Danforth",
+        "multiverse_id": 14726,
+        "number": "325",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14726",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14726.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/14726"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "Liz Danforth",
+        "multiverse_id": 4182,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4182",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4182.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4182"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "uncommon",
+        "artist": "Mark Poole",
+        "multiverse_id": 184486,
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184486",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184486.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184486"
+      },
+      {
+        "set": "Fallen Empires",
+        "set_id": "FEM",
+        "rarity": "uncommon",
+        "artist": "Mark Poole",
+        "multiverse_id": 2007,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+        "store_url": "http://store.tcgplayer.com/magic/fallen-empires/havenwood-battleground?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2007"
+      }
+    ]
+  },
+  {
+    "name": "Havenwood Wurm",
+    "id": "havenwood-wurm",
+    "url": "https://api.deckbrew.com/mtg/cards/havenwood-wurm",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/havenwood-wurm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wurm"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 7,
+    "cost": "{6}{G}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nTrample",
+    "power": "5",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Stuart Griffin",
+        "multiverse_id": 108808,
+        "flavor": "Time rifts bring tunneling beasts of old into the hard, dry earth of the present. Most die there, trapped, but the mightiest burst through the surface.",
+        "number": "199",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=108808",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/108808.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/havenwood-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/108808"
+      }
+    ]
+  },
+  {
+    "name": "Havoc",
+    "id": "havoc",
+    "url": "https://api.deckbrew.com/mtg/cards/havoc",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/havoc?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Whenever an opponent casts a white spell, he or she loses 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "uncommon",
+        "artist": "Donato Giancola",
+        "multiverse_id": 4823,
+        "flavor": "As Orim put the lightning rod into place on the bow, she cast a spell of protection to shield herself from the heat. That's when the Furnace got personal.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4823",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4823.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/havoc?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4823"
+      }
+    ]
+  },
+  {
+    "name": "Havoc Demon",
+    "id": "havoc-demon",
+    "url": "https://api.deckbrew.com/mtg/cards/havoc-demon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=havoc-demon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 7,
+    "cost": "{5}{B}{B}",
+    "text": "Flying\nWhen Havoc Demon dies, all creatures get -5/-5 until end of turn.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Jack Wang",
+        "multiverse_id": 413632,
+        "flavor": "A cry of pain as it enters this world. A chorus of screams as it leaves.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413632",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413632.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/havoc-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413632"
+      },
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 44299,
+        "flavor": "A cry of pain as it enters this world. A chorus of screams as it leaves.",
+        "number": "74",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44299",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44299.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/havoc-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44299"
+      }
+    ]
+  },
+  {
+    "name": "Havoc Festival",
+    "id": "havoc-festival",
+    "url": "https://api.deckbrew.com/mtg/cards/havoc-festival",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/havoc-festival?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{B}{R}",
+    "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half his or her life, rounded up.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Rakdos",
+        "rarity": "rare",
+        "artist": "Johannes Voss",
+        "multiverse_id": 253648,
+        "flavor": "\"We can't control enemies who have no regard for their own survival.\"\n—Arrester Lavinia, Tenth Precinct",
+        "number": "166",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253648",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253648.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/havoc-festival?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253648"
+      }
+    ]
+  },
+  {
+    "name": "Havoc Sower",
+    "id": "havoc-sower",
+    "url": "https://api.deckbrew.com/mtg/cards/havoc-sower",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/havoc-sower?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drone",
+      "eldrazi"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Devoid (This card has no color.)\n{1}{C}: Havoc Sower gets +2/+1 until end of turn. ({C} represents colorless mana.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "uncommon",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 407581,
+        "flavor": "It grew with a terrible swiftness.",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407581",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407581.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/havoc-sower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407581"
+      }
+    ]
+  },
+  {
+    "name": "Hawkeater Moth",
+    "id": "hawkeater-moth",
+    "url": "https://api.deckbrew.com/mtg/cards/hawkeater-moth",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/hawkeater-moth?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "insect"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Flying\nShroud (This creature can't be the target of spells or abilities.)",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Heather Hudson",
+        "multiverse_id": 9710,
+        "flavor": "Each day at dusk the birds above the canopy grow silent.",
+        "number": "259",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9710",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9710.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/hawkeater-moth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9710"
+      }
+    ]
+  },
+  {
+    "name": "Hazardous Conditions",
+    "id": "hazardous-conditions",
+    "url": "https://api.deckbrew.com/mtg/cards/hazardous-conditions",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/hazardous-conditions?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{G}",
+    "text": "Creatures with no counters on them get -2/-2 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "uncommon",
+        "artist": "Anastasia Ovchinnikova",
+        "multiverse_id": 417755,
+        "flavor": "\"There are many reasons we invent, of which survival is not the least.\"",
+        "number": "182",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417755",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417755.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/hazardous-conditions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417755"
+      }
+    ]
+  },
+  {
+    "name": "Hazduhr the Abbot",
+    "id": "hazduhr-the-abbot",
+    "url": "https://api.deckbrew.com/mtg/cards/hazduhr-the-abbot",
+    "store_url": "http://store.tcgplayer.com/magic/homelands/hazduhr-the-abbot?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "{X}, {T}: The next X damage that would be dealt this turn to target white creature you control is dealt to Hazduhr the Abbot instead.",
+    "power": "2",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "rare",
+        "artist": "Dan Frazier",
+        "multiverse_id": 3019,
+        "flavor": "\"Soon, Serra will return and choose the Abbot's successor, else we are lost.\"\n—Gulsen, Abbey Matron",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3019",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3019.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/hazduhr-the-abbot?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3019"
+      }
+    ]
+  },
+  {
+    "name": "Haze Frog",
+    "id": "haze-frog",
+    "url": "https://api.deckbrew.com/mtg/cards/haze-frog",
+    "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/haze-frog?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "frog"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Jesper Ejsing",
+        "multiverse_id": 193569,
+        "flavor": "Its breath leaves its prey too drowsy to struggle.",
+        "number": "187",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193569",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193569.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/haze-frog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193569"
+      }
+    ]
+  },
+  {
+    "name": "Haze of Rage",
+    "id": "haze-of-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/haze-of-rage",
+    "store_url": "http://store.tcgplayer.com/magic/future-sight/haze-of-rage?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreatures you control get +1/+0 until end of turn.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "uncommon",
+        "artist": "Paolo Parente",
+        "multiverse_id": 130328,
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130328",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130328.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/haze-of-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130328"
+      }
+    ]
+  },
+  {
+    "name": "Hazerider Drake",
+    "id": "hazerider-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/hazerider-drake",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/hazerider-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{U}",
+    "text": "Flying, protection from red",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Zina Saunders",
+        "multiverse_id": 3539,
+        "flavor": "\"The hazerider danced in the thunderstorm and sang to its music.\"\n—Afari, Tales",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3539",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3539.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/hazerider-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3539"
+      }
+    ]
+  },
+  {
+    "name": "Hazezon Tamar",
+    "id": "hazezon-tamar",
+    "url": "https://api.deckbrew.com/mtg/cards/hazezon-tamar",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hazezon-tamar",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{4}{R}{G}{W}",
+    "text": "When Hazezon Tamar enters the battlefield, create X 1/1 Sand Warrior creature tokens that are red, green, and white at the beginning of your next upkeep, where X is the number of lands you control at that time.\nWhen Hazezon leaves the battlefield, exile all Sand Warriors.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "rare",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 201193,
+        "number": "151",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201193",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201193.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/hazezon-tamar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201193"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 1656,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1656",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1656.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/hazezon-tamar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1656"
+      }
+    ]
+  },
+  {
+    "name": "Hazy Homunculus",
+    "id": "hazy-homunculus",
+    "url": "https://api.deckbrew.com/mtg/cards/hazy-homunculus",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/hazy-homunculus?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "homunculus",
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Hazy Homunculus can't be blocked as long as defending player controls an untapped land.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "common",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 24572,
+        "flavor": "They hide in dreams and whispers and faraway thoughts.",
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24572",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24572.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/hazy-homunculus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24572"
+      }
+    ]
+  },
+  {
+    "name": "Head Games",
+    "id": "head-games",
+    "url": "https://api.deckbrew.com/mtg/cards/head-games",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=head-games",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 41132,
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=41132",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/41132.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/head-games?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/41132"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 135255,
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=135255",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/135255.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/head-games?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/135255"
+      }
+    ]
+  },
+  {
+    "name": "Headhunter",
+    "id": "headhunter",
+    "url": "https://api.deckbrew.com/mtg/cards/headhunter",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/headhunter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Whenever Headhunter deals combat damage to a player, that player discards a card.\nMorph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 39726,
+        "number": "156",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39726",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39726.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/headhunter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39726"
+      }
+    ]
+  },
+  {
+    "name": "Headless Horseman",
+    "id": "headless-horseman",
+    "url": "https://api.deckbrew.com/mtg/cards/headless-horseman",
+    "store_url": "http://store.tcgplayer.com/magic/legends/headless-horseman?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "knight",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "common",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 1442,
+        "flavor": "\". . . The ghost rides forth to the scene of battle in nightly quest of his head . . . he sometimes passes along the Hollow, like a midnight blast . . .\" —Washington Irving, The Legend of Sleepy Hollow",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1442",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1442.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/headless-horseman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1442"
+      }
+    ]
+  },
+  {
+    "name": "Headless Skaab",
+    "id": "headless-skaab",
+    "url": "https://api.deckbrew.com/mtg/cards/headless-skaab",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/headless-skaab?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "warrior",
+      "zombie"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.\nHeadless Skaab enters the battlefield tapped.",
+    "power": "3",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "common",
+        "artist": "Johann Bodin",
+        "multiverse_id": 244761,
+        "flavor": "A head is a needless encumbrance when muscle is all that's required.",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244761",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244761.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/headless-skaab?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244761"
+      }
+    ]
+  },
+  {
+    "name": "Headlong Rush",
+    "id": "headlong-rush",
+    "url": "https://api.deckbrew.com/mtg/cards/headlong-rush",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/headlong-rush?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Attacking creatures gain first strike until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Dermot Power",
+        "multiverse_id": 8805,
+        "flavor": "A landslide of goblins poured toward the defenders—tumbling, rolling, and bouncing their way down the steep hillside.",
+        "number": "198",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=8805",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/8805.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/headlong-rush?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/8805"
+      }
+    ]
+  },
+  {
+    "name": "Headstone",
+    "id": "headstone",
+    "url": "https://api.deckbrew.com/mtg/cards/headstone",
+    "store_url": "http://store.tcgplayer.com/magic/homelands/headstone?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Exile target card from a graveyard.\nDraw a card at the beginning of the next turn's upkeep.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "common",
+        "artist": "David A. Cherry",
+        "multiverse_id": 2924,
+        "flavor": "\"Your headstone is the last page in the book of your life.\"\n—Murat, Death Speaker",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2924",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2924.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/headstone?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2924"
+      }
+    ]
+  },
+  {
+    "name": "Head to Head",
+    "id": "head-to-head",
+    "url": "https://api.deckbrew.com/mtg/cards/head-to-head",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/head-to-head?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "You and target opponent play Seven Questions about the top card of that player's library. (That player looks at the card, then you ask up to six yes-or-no questions about the card that he or she answers truthfully. You guess the card's name—that's question seven—and the player reveals the card.) If you win, prevent all damage that would be dealt this turn by a source of your choice.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "uncommon",
+        "artist": "Thomas Gianni",
+        "multiverse_id": 74307,
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74307",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74307.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/head-to-head?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74307"
+      }
+    ]
+  },
+  {
+    "name": "Heal",
+    "id": "heal",
+    "url": "https://api.deckbrew.com/mtg/cards/heal",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heal",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Prevent the next 1 damage that would be dealt to target creature or player this turn.\nDraw a card at the beginning of the next turn's upkeep.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "common",
+        "artist": "Mark Tedin",
+        "multiverse_id": 201291,
+        "flavor": "\"Sometimes even the smallest boon can save a life.\"\n—Halvor Arenson, Kjeldoran Priest",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201291",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201291.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/heal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201291"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Mark Tedin",
+        "multiverse_id": 4129,
+        "flavor": "\"Sometimes even the smallest boon can save a life.\"\n—Halvor Arenson, Kjeldoran priest",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4129",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4129.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/heal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4129"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Mark Tedin",
+        "multiverse_id": 2690,
+        "flavor": "\"Sometimes even the smallest boon can save a life.\"\n—Halvor Arenson, Kjeldoran Priest",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2690",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2690.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/heal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2690"
+      }
+    ]
+  },
+  {
+    "name": "Healer of the Pride",
+    "id": "healer-of-the-pride",
+    "url": "https://api.deckbrew.com/mtg/cards/healer-of-the-pride",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/healer-of-the-pride?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat",
+      "cleric"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Whenever another creature enters the battlefield under your control, you gain 2 life.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "uncommon",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 276206,
+        "flavor": "\"No life is without meaning. No living thing is too small to be strong.\"",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=276206",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/276206.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/healer-of-the-pride?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/276206"
+      }
+    ]
+  },
+  {
+    "name": "Healer's Headdress",
+    "id": "healers-headdress",
+    "url": "https://api.deckbrew.com/mtg/cards/healers-headdress",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/healers-headdress?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Equipped creature gets +0/+2 and has \"{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\"\n{W}{W}: Attach Healer's Headdress to target creature you control.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 51182,
+        "number": "129",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51182",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51182.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/healers-headdress?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/51182"
+      }
+    ]
+  },
+  {
+    "name": "Healing Hands",
+    "id": "healing-hands",
+    "url": "https://api.deckbrew.com/mtg/cards/healing-hands",
+    "store_url": "http://store.tcgplayer.com/magic/magic-origins/healing-hands?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Target player gains 4 life.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "Josu Hernaiz",
+        "multiverse_id": 398563,
+        "flavor": "The ethereal touch brings relief. The physical touch brings peace.",
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398563",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398563.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/healing-hands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398563"
+      }
+    ]
+  },
+  {
+    "name": "Healing Leaves",
+    "id": "healing-leaves",
+    "url": "https://api.deckbrew.com/mtg/cards/healing-leaves",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/healing-leaves?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to target creature or player this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "common",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 122371,
+        "flavor": "The elves of Llanowar don't trust in alchemy. They rely instead on pure herbs harvested from the forest's sacred heart.",
+        "number": "150",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/healing-leaves?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122371"
+      }
+    ]
+  },
+  {
+    "name": "Healing Salve",
+    "id": "healing-salve",
+    "url": "https://api.deckbrew.com/mtg/cards/healing-salve",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=healing-salve",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to target creature or player this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rivals Quick Start Set",
+        "set_id": "RQS",
+        "rarity": "special",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RQS",
+        "store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 16425,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16425",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16425.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/16425"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 2343,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2343",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2343.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2343"
+      },
+      {
+        "set": "Introductory Two-Player Set",
+        "set_id": "ITP",
+        "rarity": "special",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ITP",
+        "store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 394031,
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394031",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394031.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394031"
+      },
+      {
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 197011,
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197011",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197011.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197011"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Zina Saunders",
+        "multiverse_id": 4130,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4130",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4130.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4130"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 220959,
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220959",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220959.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220959"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 25545,
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25545",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25545.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25545"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 851,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=851",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/851.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/851"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 1348,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1348",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1348.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1348"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Hannibal King",
+        "multiverse_id": 3495,
+        "flavor": "\"The Femeref look only to the Sun for healing; they have never truly understood life's cycle.\"\n—Kifimbo, Shadow Guildmage",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3495",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3495.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3495"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 253,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 45180,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45180",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45180.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45180"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 549,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=549",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/549.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/549"
+      },
+      {
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
+        "rarity": "common",
+        "artist": "Zina Saunders",
+        "multiverse_id": 21130,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21130",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21130.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21130"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 8813,
+        "flavor": "\"Xantcha is recovering. The medicine is slow, but my magic would have killed her.\"\n—Serra, to Urza",
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=8813",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/8813.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/healing-salve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/8813"
+      }
+    ]
+  },
+  {
+    "name": "Heal the Scars",
+    "id": "heal-the-scars",
+    "url": "https://api.deckbrew.com/mtg/cards/heal-the-scars",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/heal-the-scars?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Regenerate target creature. You gain life equal to that creature's toughness.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Carl Frank",
+        "multiverse_id": 145808,
+        "flavor": "Elvish battle-magic has evolved two specialties: inflicting wounds that scar, and healing wounds without scarring. Politics determines the recipients of each.",
+        "number": "217",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145808",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145808.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/heal-the-scars?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/145808"
+      }
+    ]
+  },
+  {
+    "name": "Heap Doll",
+    "id": "heap-doll",
+    "url": "https://api.deckbrew.com/mtg/cards/heap-doll",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/heap-doll?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "scarecrow"
+    ],
+    "cmc": 1,
+    "cost": "{1}",
+    "text": "Sacrifice Heap Doll: Exile target card from a graveyard.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 154395,
+        "flavor": "\"I know one night it won't come back. Then I'll know it's truly done its job.\"\n—Braenna, cobblesmith",
+        "number": "253",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=154395",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/154395.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/heap-doll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/154395"
+      }
+    ]
+  },
+  {
+    "name": "Heartbeat of Spring",
+    "id": "heartbeat-of-spring",
+    "url": "https://api.deckbrew.com/mtg/cards/heartbeat-of-spring",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/heartbeat-of-spring?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 50461,
+        "flavor": "\"It is true that we monks hold the key to paradise, but most don't understand that the paradise we guard is the one within.\"\n—Diary of Azusa",
+        "number": "212",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50461",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50461.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/heartbeat-of-spring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50461"
+      }
+    ]
+  },
+  {
+    "name": "Hearthcage Giant",
+    "id": "hearthcage-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/hearthcage-giant",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/hearthcage-giant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 8,
+    "cost": "{6}{R}{R}",
+    "text": "When Hearthcage Giant enters the battlefield, create two 3/1 red Elemental Shaman creature tokens.\nSacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 139691,
+        "flavor": "The flamekin are mere kindling for his warmth.",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139691",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139691.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/hearthcage-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139691"
+      }
+    ]
+  },
+  {
+    "name": "Hearth Charm",
+    "id": "hearth-charm",
+    "url": "https://api.deckbrew.com/mtg/cards/hearth-charm",
+    "store_url": "http://store.tcgplayer.com/magic/visions/hearth-charm?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Choose one —\n• Destroy target artifact creature.\n• Attacking creatures get +1/+0 until end of turn.\n• Target creature with power 2 or less can't be blocked this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "common",
+        "artist": "Greg Spalenka",
+        "multiverse_id": 3689,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3689",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3689.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/hearth-charm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3689"
+      }
+    ]
+  },
+  {
+    "name": "Hearthfire Hobgoblin",
+    "id": "hearthfire-hobgoblin",
+    "url": "https://api.deckbrew.com/mtg/cards/hearthfire-hobgoblin",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hearthfire-hobgoblin",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "soldier"
+    ],
+    "colors": [
+      "red",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{R/W}{R/W}{R/W}",
+    "text": "Double strike",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "uncommon",
+        "artist": "Steven Belledin",
+        "multiverse_id": 157201,
+        "flavor": "Hobgoblins are best left alone. They sharpen their farm implements far more than is necessary for their work in the fields.",
+        "number": "141",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157201",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157201.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/hearthfire-hobgoblin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157201"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "Steven Belledin",
+        "multiverse_id": 397856,
+        "flavor": "Hobgoblins are best left alone. They sharpen their farm implements far more than is necessary for their work in the fields.",
+        "number": "194",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397856",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397856.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/hearthfire-hobgoblin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397856"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "uncommon",
+        "artist": "Steven Belledin",
+        "multiverse_id": 205381,
+        "flavor": "Hobgoblins are best left alone. They sharpen their farm implements far more than is necessary for their work in the fields.",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205381",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205381.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/hearthfire-hobgoblin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205381"
+      }
+    ]
+  },
+  {
+    "name": "Hearth Kami",
+    "id": "hearth-kami",
+    "url": "https://api.deckbrew.com/mtg/cards/hearth-kami",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/hearth-kami?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "{X}, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "common",
+        "artist": "Luca Zontini",
+        "multiverse_id": 77139,
+        "flavor": "\"Every treachery, great or small, begets a spirit that rages at the injustice. Given the opportunity, each will return that treachery to its owner tenfold.\"\n—Sensei Hisoka",
+        "number": "171",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=77139",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/77139.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/hearth-kami?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/77139"
+      }
+    ]
+  },
+  {
+    "name": "Heartlash Cinder",
+    "id": "heartlash-cinder",
+    "url": "https://api.deckbrew.com/mtg/cards/heartlash-cinder",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/heartlash-cinder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Haste\nChroma — When Heartlash Cinder enters the battlefield, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 141942,
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141942",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141942.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/heartlash-cinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141942"
+      }
+    ]
+  },
+  {
+    "name": "Heartless Hidetsugu",
+    "id": "heartless-hidetsugu",
+    "url": "https://api.deckbrew.com/mtg/cards/heartless-hidetsugu",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heartless-hidetsugu",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "ogre",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 382282,
+        "flavor": "Hidetsugu held over a dozen oni in blood oath. At his touch, rocks scorched. At his word, cities burned.",
+        "number": "144",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382282",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382282.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/heartless-hidetsugu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382282"
+      },
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 74572,
+        "flavor": "Hidetsugu held over a dozen oni in blood oath. At his touch, rocks scorched. At his word, cities burned.",
+        "number": "107",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74572",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74572.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/heartless-hidetsugu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74572"
+      }
+    ]
+  },
+  {
+    "name": "Heartless Summoning",
+    "id": "heartless-summoning",
+    "url": "https://api.deckbrew.com/mtg/cards/heartless-summoning",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/heartless-summoning?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Creature spells you cast cost {2} less to cast.\nCreatures you control get -1/-1.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "rare",
+        "artist": "Anthony Palumbo",
+        "multiverse_id": 244678,
+        "flavor": "\"They won't be winning any beauty pageants, but they'll do the trick.\"\n—Enslow, ghoulcaller of Nephalia",
+        "number": "104",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244678",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244678.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/heartless-summoning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244678"
+      }
+    ]
+  },
+  {
+    "name": "Heartmender",
+    "id": "heartmender",
+    "url": "https://api.deckbrew.com/mtg/cards/heartmender",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/heartmender?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G/W}{G/W}",
+    "text": "At the beginning of your upkeep, remove a -1/-1 counter from each creature you control.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "rare",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 153312,
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153312",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153312.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/heartmender?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153312"
+      }
+    ]
+  },
+  {
+    "name": "Heart of Bogardan",
+    "id": "heart-of-bogardan",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-of-bogardan",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/heart-of-bogardan?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen a player doesn't pay Heart of Bogardan's cumulative upkeep, Heart of Bogardan deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus 2.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 4552,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4552",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4552.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/heart-of-bogardan?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4552"
+      }
+    ]
+  },
+  {
+    "name": "Heart of Kiran",
+    "id": "heart-of-kiran",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-of-kiran",
+    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/heart-of-kiran?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "vehicle"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Flying, vigilance\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)\nYou may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Aether Revolt",
+        "set_id": "AER",
+        "rarity": "mythic",
+        "artist": "Jaime Jones",
+        "multiverse_id": 423820,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423820",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423820.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
+        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/heart-of-kiran?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423820"
+      }
+    ]
+  },
+  {
+    "name": "Heart of Light",
+    "id": "heart-of-light",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-of-light",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heart-of-light",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nPrevent all damage that would be dealt to and dealt by enchanted creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Luca Zontini",
+        "multiverse_id": 81982,
+        "flavor": "\"There is a shining in the mortal heart that even the kami cannot reach.\"\n—Sensei Golden-Tail",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=81982",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/81982.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/heart-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/81982"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "common",
+        "artist": "Luca Zontini",
+        "multiverse_id": 132090,
+        "flavor": "For those who reach enlightenment, violence is an unnecessary distraction.",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=132090",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/132090.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/heart-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/132090"
+      }
+    ]
+  },
+  {
+    "name": "Heart of Ramos",
+    "id": "heart-of-ramos",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-of-ramos",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/heart-of-ramos?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{T}: Add {R} to your mana pool.\nSacrifice Heart of Ramos: Add {R} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 19766,
+        "flavor": "Ramos bled, and there was fire.",
+        "number": "296",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19766",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19766.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/heart-of-ramos?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19766"
+      }
+    ]
+  },
+  {
+    "name": "Heart of Yavimaya",
+    "id": "heart-of-yavimaya",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-of-yavimaya",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heart-of-yavimaya",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {G} to your mana pool.\n{T}: Target creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 184549,
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184549",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184549.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/heart-of-yavimaya?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184549"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 3232,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3232",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3232.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/heart-of-yavimaya?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3232"
+      }
+    ]
+  },
+  {
+    "name": "Heart-Piercer Bow",
+    "id": "heart-piercer-bow",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-piercer-bow",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/heart-piercer-bow?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.\nEquip {1}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "uncommon",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 386551,
+        "flavor": "Designed by an ancient artificer, the finest Mardu bows are carved from dragon bone and strung with the wind itself.",
+        "number": "221",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386551",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386551.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/heart-piercer-bow?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386551"
+      }
+    ]
+  },
+  {
+    "name": "Heartseeker",
+    "id": "heartseeker",
+    "url": "https://api.deckbrew.com/mtg/cards/heartseeker",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/heartseeker?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "Equipped creature gets +2/+1 and has \"{T}, Unattach Heartseeker: Destroy target creature.\"\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "rare",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 51074,
+        "number": "124",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51074",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51074.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/heartseeker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/51074"
+      }
+    ]
+  },
+  {
+    "name": "Heart Sliver",
+    "id": "heart-sliver",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-sliver",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heart-sliver",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "sliver"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "All Sliver creatures have haste.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 4824,
+        "flavor": "Gerrard looked all around for the source of the mysterious pulse, and at that moment the slivers boiled forth from the crevasses.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4824",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4824.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/heart-sliver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4824"
+      },
+      {
+        "set": "Premium Deck Series: Slivers",
+        "set_id": "H09",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 207906,
+        "flavor": "Gerrard looked all around for the source of the mysterious pulse, and at that moment the slivers boiled forth from the crevasses.",
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=207906",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/207906.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/H09",
+        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-slivers/heart-sliver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/207906"
+      }
+    ]
+  },
+  {
+    "name": "Heartstabber Mosquito",
+    "id": "heartstabber-mosquito",
+    "url": "https://api.deckbrew.com/mtg/cards/heartstabber-mosquito",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heartstabber-mosquito",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "insect"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nFlying\nWhen Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Zendikar vs. Eldrazi",
+        "set_id": "DDP",
+        "rarity": "common",
+        "artist": "Jason Felix",
+        "multiverse_id": 401694,
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401694",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401694.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/heartstabber-mosquito?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401694"
+      },
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Jason Felix",
+        "multiverse_id": 191361,
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191361",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191361.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/heartstabber-mosquito?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/191361"
+      }
+    ]
+  },
+  {
+    "name": "Heartstone",
+    "id": "heartstone",
+    "url": "https://api.deckbrew.com/mtg/cards/heartstone",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heartstone",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "uncommon",
+        "artist": "John Matson",
+        "multiverse_id": 5164,
+        "flavor": "\"Finding a true heartstone is even harder than finding a true heart.\"\n—Hanna",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5164",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5164.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/heartstone?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5164"
+      },
+      {
+        "set": "Premium Deck Series: Slivers",
+        "set_id": "H09",
+        "rarity": "uncommon",
+        "artist": "John Matson",
+        "multiverse_id": 207924,
+        "flavor": "\"Finding a true heartstone is even harder than finding a true heart.\"\n—Hanna, Weatherlight navigator",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=207924",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/207924.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/H09",
+        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-slivers/heartstone?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/207924"
+      }
+    ]
+  },
+  {
+    "name": "Heart Warden",
+    "id": "heart-warden",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-warden",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/heart-warden?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "{T}: Add {G} to your mana pool.\n{2}, Sacrifice Heart Warden: Draw a card.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "common",
+        "artist": "Adam Rex",
+        "multiverse_id": 15220,
+        "flavor": "\"In Llanowar, we tend the forest's boughs and branches. In Yavimaya, we are a part of them.\"\n—Rofellos of Llanowar",
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15220",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15220.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/heart-warden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15220"
+      }
+    ]
+  },
+  {
+    "name": "Heart Wolf",
+    "id": "heart-wolf",
+    "url": "https://api.deckbrew.com/mtg/cards/heart-wolf",
+    "store_url": "http://store.tcgplayer.com/magic/homelands/heart-wolf?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wolf"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "First strike\n{T}: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "rare",
+        "artist": "Margaret Organ-Kean",
+        "multiverse_id": 3004,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3004",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3004.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/heart-wolf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3004"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Dryad",
+    "id": "heartwood-dryad",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-dryad",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heartwood-dryad",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dryad"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 397488,
+        "flavor": "To snare what lies between worlds takes the patient reach of trees.",
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397488",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397488.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/heartwood-dryad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397488"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 4765,
+        "flavor": "To snare what lies between worlds takes the patient reach of trees.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4765",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4765.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/heartwood-dryad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4765"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Giant",
+    "id": "heartwood-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-giant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heartwood-giant",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "rare",
+        "artist": "Randy Elliott",
+        "multiverse_id": 397440,
+        "flavor": "Wind in the trees is soothing, but the same can't be said for trees on the wind.",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397440",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397440.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/heartwood-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397440"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Randy Elliott",
+        "multiverse_id": 4766,
+        "flavor": "Wind in the trees is soothing, but the same can't be said for trees on the wind.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4766",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4766.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/heartwood-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4766"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Shard",
+    "id": "heartwood-shard",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-shard",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/heartwood-shard?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 46059,
+        "flavor": "Like all other relics, it was left on the Radix by the elves to be destroyed. Unlike all other relics, it persisted.",
+        "number": "184",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46059",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46059.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/heartwood-shard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46059"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Storyteller",
+    "id": "heartwood-storyteller",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-storyteller",
+    "store_url": "http://store.tcgplayer.com/magic/future-sight/heartwood-storyteller?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "treefolk"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Whenever a player casts a noncreature spell, each of that player's opponents may draw a card.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 132216,
+        "flavor": "His roots reach deep, nurtured not by soil and rain, but by millennia of experience.",
+        "number": "127",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=132216",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/132216.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/heartwood-storyteller?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/132216"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Storyteller Avatar",
+    "id": "heartwood-storyteller-avatar",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-storyteller-avatar",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/heartwood-storyteller-avatar?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "The first creature spell you cast each turn costs {1} less to cast.\nThe first noncreature spell each opponent casts each turn costs {1} more to cast.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "UDON",
+        "multiverse_id": 182257,
+        "flavor": "FUT Prize Avatar",
+        "number": "68",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=182257",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/182257.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/heartwood-storyteller-avatar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/182257"
+      }
+    ]
+  },
+  {
+    "name": "Heartwood Treefolk",
+    "id": "heartwood-treefolk",
+    "url": "https://api.deckbrew.com/mtg/cards/heartwood-treefolk",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/heartwood-treefolk?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "treefolk"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 4767,
+        "flavor": "\"In all my years in Llanowar I never understood where trees fit in. They are revered by elves and watered on by dogs.\"\n—Mirri of the Weatherlight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4767",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4767.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/heartwood-treefolk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4767"
+      }
+    ]
+  },
+  {
+    "name": "Heat of Battle",
+    "id": "heat-of-battle",
+    "url": "https://api.deckbrew.com/mtg/cards/heat-of-battle",
+    "store_url": "http://store.tcgplayer.com/magic/stronghold/heat-of-battle?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Whenever a creature blocks, Heat of Battle deals 1 damage to that creature's controller.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 5165,
+        "flavor": "\"Takara, it's me!\" shouted Starke. It was no use—she obeyed Volrath.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5165",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5165.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/heat-of-battle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5165"
+      }
+    ]
+  },
+  {
+    "name": "Heat Ray",
+    "id": "heat-ray",
+    "url": "https://api.deckbrew.com/mtg/cards/heat-ray",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heat-ray",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{X}{R}",
+    "text": "Heat Ray deals X damage to target creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "uncommon",
+        "artist": "Austin Hsu",
+        "multiverse_id": 383264,
+        "flavor": "\"There was clearly a scream. I'm not sure if there was a mouth.\"\n—Sachir, Akoum Expeditionary House",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383264",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383264.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/heat-ray?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383264"
+      },
+      {
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 21159,
+        "flavor": "It's not known whether the Thran built the device to forge their wonders or to defend them.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21159",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21159.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/heat-ray?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21159"
+      },
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Austin Hsu",
+        "multiverse_id": 193649,
+        "flavor": "\"There was clearly a scream. I'm not sure if there was a mouth.\"\n—Sachir, Akoum Expeditionary House",
+        "number": "150",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193649",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193649.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/heat-ray?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193649"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 10464,
+        "flavor": "It's not known whether the Thran built the device to forge their wonders or to defend them.",
+        "number": "199",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10464",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10464.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/heat-ray?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10464"
+      }
+    ]
+  },
+  {
+    "name": "Heat Shimmer",
+    "id": "heat-shimmer",
+    "url": "https://api.deckbrew.com/mtg/cards/heat-shimmer",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/heat-shimmer?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Create a token that's a copy of target creature. That token has haste and \"At the beginning of the end step, exile this permanent.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 139468,
+        "flavor": "\"Better to flare out than to gutter.\"\n—Flamekin expression",
+        "number": "175",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139468",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139468.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/heat-shimmer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139468"
+      }
+    ]
+  },
+  {
+    "name": "Heat Stroke",
+    "id": "heat-stroke",
+    "url": "https://api.deckbrew.com/mtg/cards/heat-stroke",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/heat-stroke?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "At end of combat, destroy each creature that blocked or was blocked this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "rare",
+        "artist": "Andrew Robinson",
+        "multiverse_id": 4553,
+        "flavor": "\"Stroke of heat or stroke of blade. Choose your fate, traitor.\"\n—Maraxus of Keld, to Starke",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4553",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4553.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/heat-stroke?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4553"
+      }
+    ]
+  },
+  {
+    "name": "Heat Wave",
+    "id": "heat-wave",
+    "url": "https://api.deckbrew.com/mtg/cards/heat-wave",
+    "store_url": "http://store.tcgplayer.com/magic/visions/heat-wave?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nBlue creatures can't block creatures you control.\nNonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Alan Rabinowitz",
+        "multiverse_id": 3690,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3690",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3690.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/heat-wave?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3690"
+      }
+    ]
+  },
+  {
+    "name": "Heaven's Gate",
+    "id": "heavens-gate",
+    "url": "https://api.deckbrew.com/mtg/cards/heavens-gate",
+    "store_url": "http://store.tcgplayer.com/magic/legends/heavens-gate?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Any number of target creatures become white until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 1617,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1617",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1617.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/heavens-gate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1617"
+      }
+    ]
+  },
+  {
+    "name": "Heavy Arbalest",
+    "id": "heavy-arbalest",
+    "url": "https://api.deckbrew.com/mtg/cards/heavy-arbalest",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/heavy-arbalest?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Equipped creature doesn't untap during its controller's untap step.\nEquipped creature has \"{T}: This creature deals 2 damage to target creature or player.\"\nEquip {4}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "uncommon",
+        "artist": "David Rapoza",
+        "multiverse_id": 209050,
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=209050",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/209050.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/heavy-arbalest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/209050"
+      }
+    ]
+  },
+  {
+    "name": "Heavy Ballista",
+    "id": "heavy-ballista",
+    "url": "https://api.deckbrew.com/mtg/cards/heavy-ballista",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heavy-ballista",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "uncommon",
+        "artist": "Ron Spencer",
+        "multiverse_id": 14486,
+        "flavor": "\"Archers, ballistae—you can't even get near the island of Avenant.\"\n—Gerrard of the Weatherlight",
+        "number": "23",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14486",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14486.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/heavy-ballista?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/14486"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 4579,
+        "flavor": "\"Archers, ballistae—you can't even get near the island of Avenant.\"\n—Gerrard of the Weatherlight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4579",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4579.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/heavy-ballista?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4579"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 13017,
+        "flavor": "\"Soldiers wear down and enemies collapse—but the ballista never tires.\"\n—Ballista captain",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13017",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13017.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/heavy-ballista?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/13017"
+      }
+    ]
+  },
+  {
+    "name": "Heavy Fog",
+    "id": "heavy-fog",
+    "url": "https://api.deckbrew.com/mtg/cards/heavy-fog",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heavy-fog",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "common",
+        "artist": "Liu Shangying",
+        "multiverse_id": 201281,
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201281",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201281.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/heavy-fog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201281"
+      },
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "uncommon",
+        "artist": "Liu Shangying",
+        "multiverse_id": 10523,
+        "number": "136",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10523",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10523.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/heavy-fog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10523"
+      }
+    ]
+  },
+  {
+    "name": "Heavy Infantry",
+    "id": "heavy-infantry",
+    "url": "https://api.deckbrew.com/mtg/cards/heavy-infantry",
+    "store_url": "http://store.tcgplayer.com/magic/magic-origins/heavy-infantry?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "When Heavy Infantry enters the battlefield, tap target creature an opponent controls.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "David Gaillet",
+        "multiverse_id": 398408,
+        "flavor": "Doors, walls, skulls . . . it matters not. All barriers will be broken.",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398408",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398408.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/heavy-infantry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398408"
+      }
+    ]
+  }
+]

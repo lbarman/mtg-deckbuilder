@@ -1,0 +1,5627 @@
+[
+  {
+    "name": "Teferi, Temporal Archmage",
+    "id": "teferi-temporal-archmage",
+    "url": "https://api.deckbrew.com/mtg/cards/teferi-temporal-archmage",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2014/teferi-temporal-archmage?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "teferi"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{4}{U}{U}",
+    "text": "+1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.\n−1: Untap up to four target permanents.\n−10: You get an emblem with \"You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.\"\nTeferi, Temporal Archmage can be your commander.",
+    "loyalty": 5,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "mythic",
+        "artist": "Tyler Jacobson",
+        "multiverse_id": 389712,
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389712",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389712.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/teferi-temporal-archmage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389712"
+      }
+    ]
+  },
+  {
+    "name": "Tek",
+    "id": "tek",
+    "url": "https://api.deckbrew.com/mtg/cards/tek",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/tek?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "Tek gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Chippy",
+        "multiverse_id": 23229,
+        "number": "313",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23229",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23229.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/tek?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23229"
+      }
+    ]
+  },
+  {
+    "name": "Telekinesis",
+    "id": "telekinesis",
+    "url": "https://api.deckbrew.com/mtg/cards/telekinesis",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=telekinesis",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{U}{U}",
+    "text": "Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 159774,
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159774",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159774.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/telekinesis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159774"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 1505,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1505",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1505.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/telekinesis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1505"
+      }
+    ]
+  },
+  {
+    "name": "Telekinetic Bonds",
+    "id": "telekinetic-bonds",
+    "url": "https://api.deckbrew.com/mtg/cards/telekinetic-bonds",
+    "store_url": "http://store.tcgplayer.com/magic/judgment/telekinetic-bonds?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{2}{U}{U}{U}",
+    "text": "Whenever a player discards a card, you may pay {1}{U}. If you do, you may tap or untap target permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "rare",
+        "artist": "Jim Nelson",
+        "multiverse_id": 5589,
+        "flavor": "\"Nature's been fired. The oceans are under new management.\"\n—Ambassador Laquatus",
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5589",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5589.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/telekinetic-bonds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5589"
+      }
+    ]
+  },
+  {
+    "name": "Telekinetic Sliver",
+    "id": "telekinetic-sliver",
+    "url": "https://api.deckbrew.com/mtg/cards/telekinetic-sliver",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/telekinetic-sliver?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "sliver"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "All Slivers have \"{T}: Tap target permanent.\"",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Randy Elliott",
+        "multiverse_id": 111085,
+        "flavor": "\"Slivers are guided only by simple instinct. Advance the hive, and you will be welcomed. Impede the hive, and you will face unrelenting opposition.\"\n—Freyalise",
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=111085",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/111085.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/telekinetic-sliver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/111085"
+      }
+    ]
+  },
+  {
+    "name": "Telemin Performance",
+    "id": "telemin-performance",
+    "url": "https://api.deckbrew.com/mtg/cards/telemin-performance",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/telemin-performance?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card onto the battlefield under your control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "rare",
+        "artist": "Izzy",
+        "multiverse_id": 189085,
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189085",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189085.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/telemin-performance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189085"
+      }
+    ]
+  },
+  {
+    "name": "Telepathic Spies",
+    "id": "telepathic-spies",
+    "url": "https://api.deckbrew.com/mtg/cards/telepathic-spies",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=telepathic-spies",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "When Telepathic Spies enters the battlefield, look at target opponent's hand.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "common",
+        "artist": "Jim Nelson",
+        "multiverse_id": 25561,
+        "flavor": "Most spies sneak into enemy camps. These spies sneak into enemy minds.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25561",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25561.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/telepathic-spies?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25561"
+      },
+      {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "common",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 15149,
+        "flavor": "\"Do try to keep an open mind, would you?\"",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15149",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15149.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/telepathic-spies?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15149"
+      }
+    ]
+  },
+  {
+    "name": "Telepathy",
+    "id": "telepathy",
+    "url": "https://api.deckbrew.com/mtg/cards/telepathy",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=telepathy",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Your opponents play with their hands revealed.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 83295,
+        "flavor": "\"Secrets? What secrets?\"",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83295",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83295.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83295"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 15793,
+        "flavor": "\"Secrets? What secrets?\"",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15793",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15793.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15793"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 189910,
+        "flavor": "\"The most disappointing thing about learning telepathy is finding out how boring people really are.\"\n—Teferi, fourth-level student",
+        "number": "74",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189910",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189910.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189910"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 45256,
+        "flavor": "\"Secrets? What secrets?\"",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45256",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45256.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45256"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 129761,
+        "flavor": "\"The question isn't whether I can read minds. It's whether I have yet to find a mind worth reading.\"\n—Ambassador Laquatus",
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129761",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129761.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129761"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 5841,
+        "flavor": "\"The most disappointing thing about learning telepathy is finding out how boring people really are.\"\n—Teferi, fourth-level student",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5841",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5841.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/telepathy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5841"
+      }
+    ]
+  },
+  {
+    "name": "Teleport",
+    "id": "teleport",
+    "url": "https://api.deckbrew.com/mtg/cards/teleport",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teleport",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{U}{U}{U}",
+    "text": "Cast Teleport only during the declare attackers step.\nTarget creature can't be blocked this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Chronicles",
+        "set_id": "CHR",
+        "rarity": "rare",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 2816,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2816",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2816.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+        "store_url": "http://store.tcgplayer.com/magic/chronicles/teleport?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2816"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 1506,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1506",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1506.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/teleport?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1506"
+      }
+    ]
+  },
+  {
+    "name": "Teleportal",
+    "id": "teleportal",
+    "url": "https://api.deckbrew.com/mtg/cards/teleportal",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/teleportal?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{U}{R}",
+    "text": "Target creature you control gets +1/+0 until end of turn and can't be blocked this turn.\nOverload {3}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Izzet",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 253562,
+        "number": "202",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253562",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253562.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/teleportal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253562"
+      }
+    ]
+  },
+  {
+    "name": "Telethopter",
+    "id": "telethopter",
+    "url": "https://api.deckbrew.com/mtg/cards/telethopter",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=telethopter",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "thopter"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "Tap an untapped creature you control: Telethopter gains flying until end of turn.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "common",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 397462,
+        "flavor": "After losing several of the devices to midair collisions, Greven forbade moggs from operating telethopters.",
+        "number": "232",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397462",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397462.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/telethopter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397462"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "uncommon",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 4631,
+        "flavor": "After losing several of the devices to midair collisions, Greven forbade moggs from operating telethopters.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4631",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4631.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/telethopter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4631"
+      }
+    ]
+  },
+  {
+    "name": "Telim'Tor",
+    "id": "telimtor",
+    "url": "https://api.deckbrew.com/mtg/cards/telimtor",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/telimtor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 3468,
+        "flavor": "\"The curious merely amass knowledge. The ambitious use it.\"\n—Telim'Tor",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3468",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3468.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/telimtor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3468"
+      }
+    ]
+  },
+  {
+    "name": "Telim'Tor's Darts",
+    "id": "telimtors-darts",
+    "url": "https://api.deckbrew.com/mtg/cards/telimtors-darts",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/telimtors-darts?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 3269,
+        "flavor": "\"People laughed at my darts—once.\"\n—Telim'Tor",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3269",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3269.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/telimtors-darts?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3269"
+      }
+    ]
+  },
+  {
+    "name": "Telim'Tor's Edict",
+    "id": "telimtors-edict",
+    "url": "https://api.deckbrew.com/mtg/cards/telimtors-edict",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/telimtors-edict?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Exile target permanent you own or control.\nDraw a card at the beginning of the next turn's upkeep.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 3469,
+        "flavor": "\"Execution awaits the dissenter.\"\n—Kasib ibn Naji, Letters",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3469",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3469.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/telimtors-edict?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3469"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Archers",
+    "id": "tel-jilad-archers",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-archers",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-archers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "archer",
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Protection from artifacts; reach (This creature can block creatures with flying.)",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Marcelo Vignali",
+        "multiverse_id": 46004,
+        "flavor": "They are extensions of the Tangle, stretching its vines into the furthest reaches of the sky.",
+        "number": "131",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46004",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46004.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-archers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46004"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Chosen",
+    "id": "tel-jilad-chosen",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-chosen",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-chosen?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Protection from artifacts",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 46003,
+        "flavor": "\"It is my honor to keep safe Tel-Jilad's secrets, not to know them.\"",
+        "number": "132",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46003",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46003.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-chosen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46003"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Defiance",
+    "id": "tel-jilad-defiance",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-defiance",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tel-jilad-defiance?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target creature gains protection from artifacts until end of turn.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Goran Josic",
+        "multiverse_id": 202636,
+        "flavor": "The Viridian elves had purged their culture of the trolls' traitorous influence. In times of strife, however, the ancestral memories returned.",
+        "number": "129",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202636",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202636.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tel-jilad-defiance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202636"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Exile",
+    "id": "tel-jilad-exile",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-exile",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-exile?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "troll",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "{1}{G}: Regenerate Tel-Jilad Exile.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Justin Sweet",
+        "multiverse_id": 49436,
+        "flavor": "For his crimes, he was made to forget all the trolls' secrets. Now he knows only that he is outcast, but not why.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=49436",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/49436.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-exile?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/49436"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Fallen",
+    "id": "tel-jilad-fallen",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-fallen",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tel-jilad-fallen?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "Protection from artifacts\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "James Ryman",
+        "multiverse_id": 205483,
+        "flavor": "\"No longer am I shackled to antiquity. My new masters will etch a glorious future.\"",
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205483",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205483.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tel-jilad-fallen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205483"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Justice",
+    "id": "tel-jilad-justice",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-justice",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tel-jilad-justice?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Destroy target artifact. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "uncommon",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 50190,
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50190",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50190.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tel-jilad-justice?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50190"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Lifebreather",
+    "id": "tel-jilad-lifebreather",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-lifebreather",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tel-jilad-lifebreather?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shaman",
+      "troll"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "{G}, {T}, Sacrifice a Forest: Regenerate target creature.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "common",
+        "artist": "Jim Nelson",
+        "multiverse_id": 73582,
+        "flavor": "\"The Tangle loans you life. Spend it well.\"",
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=73582",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/73582.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/tel-jilad-lifebreather?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/73582"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Outrider",
+    "id": "tel-jilad-outrider",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-outrider",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/tel-jilad-outrider?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Protection from artifacts",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 46002,
+        "flavor": "\"When the levelers come again, we shall be ready for them.\"",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46002",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46002.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tel-jilad-outrider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46002"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Stylus",
+    "id": "tel-jilad-stylus",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-stylus",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-stylus?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 1,
+    "cost": "{1}",
+    "text": "{T}: Put target permanent you own on the bottom of your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Darrell Riche",
+        "multiverse_id": 46729,
+        "flavor": "Etched on Tel-Jilad's trunk is an entire history of Mirrodin—except for an expanse near the ground scrubbed smooth by an unknown hand.",
+        "number": "260",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46729",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46729.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tel-jilad-stylus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46729"
+      }
+    ]
+  },
+  {
+    "name": "Tel-Jilad Wolf",
+    "id": "tel-jilad-wolf",
+    "url": "https://api.deckbrew.com/mtg/cards/tel-jilad-wolf",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/tel-jilad-wolf?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 46008,
+        "flavor": "Thanks to the wolves, Tel-Jilad is the one area of Mirrodin the myr don't see often.",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46008",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46008.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/tel-jilad-wolf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46008"
+      }
+    ]
+  },
+  {
+    "name": "Teller of Tales",
+    "id": "teller-of-tales",
+    "url": "https://api.deckbrew.com/mtg/cards/teller-of-tales",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/teller-of-tales?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Flying\nWhenever you cast a Spirit or Arcane spell, you may tap or untap target creature.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "common",
+        "artist": "Jim Murray",
+        "multiverse_id": 75285,
+        "flavor": "Words never uttered by mortals flowed incessantly from its many mouths.",
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=75285",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/75285.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/teller-of-tales?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/75285"
+      }
+    ]
+  },
+  {
+    "name": "Telling Time",
+    "id": "telling-time",
+    "url": "https://api.deckbrew.com/mtg/cards/telling-time",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=telling-time",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "common",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 397728,
+        "flavor": "Mastery is achieved when \"telling time\" becomes \"telling time what to do.\"",
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397728",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397728.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/telling-time?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397728"
+      },
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 88988,
+        "flavor": "Mastery is achieved when \"telling time\" becomes \"telling time what to do.\"",
+        "number": "69",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=88988",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/88988.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/telling-time?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/88988"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 132071,
+        "flavor": "Mastery is achieved when \"telling time\" becomes \"telling time what to do.\"",
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=132071",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/132071.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/telling-time?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/132071"
+      }
+    ]
+  },
+  {
+    "name": "Tember City",
+    "id": "tember-city",
+    "url": "https://api.deckbrew.com/mtg/cards/tember-city",
+    "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/tember-city?partner=DECKBREW",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "kinshala"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Whenever a player taps a land for mana, Tember City deals 1 damage to that player.\nWhenever you roll {CHAOS}, each other player sacrifices a nonland permanent.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Ben Thompson",
+        "multiverse_id": 423660,
+        "number": "79",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423660",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423660.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/tember-city?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423660"
+      }
+    ]
+  },
+  {
+    "name": "Temper",
+    "id": "temper",
+    "url": "https://api.deckbrew.com/mtg/cards/temper",
+    "store_url": "http://store.tcgplayer.com/magic/stronghold/temper?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{X}{1}{W}",
+    "text": "Prevent the next X damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "uncommon",
+        "artist": "Matthew D. Wilson",
+        "multiverse_id": 5251,
+        "flavor": "\"I don't need a plan, just a goal. The rest will follow on its own.\"\n—Gerrard",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5251",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5251.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/temper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5251"
+      }
+    ]
+  },
+  {
+    "name": "Tempered Steel",
+    "id": "tempered-steel",
+    "url": "https://api.deckbrew.com/mtg/cards/tempered-steel",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tempered-steel",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "Artifact creatures you control get +2/+2.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 194391,
+        "flavor": "\"Death shall prevail as long as our will falls to rust. May necessity anneal our resolve.\"\n—Ghalma the Shaper",
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194391",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194391.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tempered-steel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194391"
+      },
+      {
+        "set": "Magic Game Day",
+        "set_id": "pMGD",
+        "rarity": "special",
+        "artist": "jD",
+        "multiverse_id": 0,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+        "store_url": "http://store.tcgplayer.com/magic/magic-game-day/tempered-steel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Tempest Drake",
+    "id": "tempest-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/tempest-drake",
+    "store_url": "http://store.tcgplayer.com/magic/visions/tempest-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{U}",
+    "text": "Flying, vigilance",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Gerry Grace",
+        "multiverse_id": 3746,
+        "flavor": "\"Its speed will be equaled only by the swiftness of my enemy's fall.\"\n—Kaervek",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3746",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3746.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/tempest-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3746"
+      }
+    ]
+  },
+  {
+    "name": "Tempest Efreet",
+    "id": "tempest-efreet",
+    "url": "https://api.deckbrew.com/mtg/cards/tempest-efreet",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tempest-efreet",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "efreet"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{1}{R}{R}{R}",
+    "text": "Remove Tempest Efreet from your deck before playing if you're not playing for ante.\n{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, he or she reveals a card at random from his or her hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard. This change in ownership is permanent.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "banned",
+      "legacy": "banned",
+      "vintage": "banned"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "NéNé Thomas",
+        "multiverse_id": 2308,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2308",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2308.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/tempest-efreet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2308"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
+        "artist": "NéNé Thomas",
+        "multiverse_id": 1592,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1592",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1592.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/tempest-efreet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1592"
+      }
+    ]
+  },
+  {
+    "name": "Tempest of Light",
+    "id": "tempest-of-light",
+    "url": "https://api.deckbrew.com/mtg/cards/tempest-of-light",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tempest-of-light",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Destroy all enchantments.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 82976,
+        "flavor": "\"Let everything return to its true nature, so that destiny may take its course.\"",
+        "number": "50",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=82976",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/82976.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/tempest-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/82976"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 190564,
+        "flavor": "\"Let everything return to its true nature, so that destiny may take its course.\"",
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190564",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190564.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/tempest-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190564"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 46075,
+        "flavor": "\"This world reeks of another's hand. Someone or something is defying the power of the gods and shaping this planet. I intend for it to stop.\"\n—Glissa Sunseeker",
+        "number": "28",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46075",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46075.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/tempest-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46075"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 132131,
+        "flavor": "\"Let everything return to its true nature, so that destiny may takes its course.\"",
+        "number": "51",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=132131",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/132131.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/tempest-of-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/132131"
+      }
+    ]
+  },
+  {
+    "name": "Tempest Owl",
+    "id": "tempest-owl",
+    "url": "https://api.deckbrew.com/mtg/cards/tempest-owl",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/tempest-owl?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)\nFlying\nWhen Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Dan Scott",
+        "multiverse_id": 180482,
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=180482",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/180482.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/tempest-owl?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/180482"
+      }
+    ]
+  },
+  {
+    "name": "Temple Acolyte",
+    "id": "temple-acolyte",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-acolyte",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-acolyte",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "When Temple Acolyte enters the battlefield, you gain 3 life.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
+        "rarity": "common",
+        "artist": "Lubov",
+        "multiverse_id": 222760,
+        "flavor": "Young, yes. Inexperienced, yes. Weak? Don't count on it.",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222760",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222760.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/temple-acolyte?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222760"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Lubov",
+        "multiverse_id": 202568,
+        "flavor": "Young, yes. Inexperienced, yes. Weak? Don't count on it.",
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202568",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202568.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/temple-acolyte?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202568"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "common",
+        "artist": "Lubov",
+        "multiverse_id": 6495,
+        "flavor": "Young, yes. Inexperienced, yes. Weak? Don't count on it.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6495",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6495.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/temple-acolyte?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6495"
+      }
+    ]
+  },
+  {
+    "name": "Temple Bell",
+    "id": "temple-bell",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-bell",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-bell",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{T}: Each player draws a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 420894,
+        "flavor": "Enlightenment is not gained by striking the bell or hearing its toll. It's found in the silence that follows.",
+        "number": "277",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420894",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420894.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/temple-bell?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420894"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 376540,
+        "flavor": "Enlightenment is not gained by striking the bell or hearing its toll. It's found in the silence that follows.",
+        "number": "265",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376540",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376540.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/temple-bell?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376540"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 205058,
+        "flavor": "Enlightenment is not gained by striking the bell or hearing its toll. It's found in the silence that follows.",
+        "number": "217",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205058",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205058.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/temple-bell?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205058"
+      }
+    ]
+  },
+  {
+    "name": "Temple Elder",
+    "id": "temple-elder",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-elder",
+    "store_url": "http://store.tcgplayer.com/magic/portal-second-age/temple-elder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "uncommon",
+        "artist": "David Horne",
+        "multiverse_id": 6507,
+        "flavor": "\"Give us breath. Give us life. Prepare us for the day we make.\"\n—The Alaborn \"Rite of Battle\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6507",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6507.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/temple-elder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6507"
+      }
+    ]
+  },
+  {
+    "name": "Temple Garden",
+    "id": "temple-garden",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-garden",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-garden",
+    "types": [
+      "land"
+    ],
+    "subtypes": [
+      "forest",
+      "plains"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "({T}: Add {G} or {W} to your mana pool.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar Expeditions",
+        "set_id": "EXP",
+        "rarity": "mythic",
+        "artist": "Min Yum",
+        "multiverse_id": 405112,
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405112",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405112.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/temple-garden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405112"
+      },
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "watermark": "Selesnya",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 89093,
+        "number": "284",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=89093",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/89093.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/temple-garden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/89093"
+      },
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Selesnya",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 253681,
+        "flavor": "In the gardens of the Conclave, order and beauty are the roots of power.",
+        "number": "248",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253681",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253681.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/temple-garden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253681"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Abandon",
+    "id": "temple-of-abandon",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-abandon",
+    "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-abandon?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Abandon enters the battlefield tapped.\nWhen Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {R} or {G} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Mike Bierek",
+        "multiverse_id": 373711,
+        "number": "224",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373711",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373711.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-abandon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373711"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Deceit",
+    "id": "temple-of-deceit",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-deceit",
+    "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-deceit?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Deceit enters the battlefield tapped.\nWhen Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {U} or {B} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 373734,
+        "number": "225",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373734",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373734.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-deceit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373734"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Enlightenment",
+    "id": "temple-of-enlightenment",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-enlightenment",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-enlightenment?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Enlightenment enters the battlefield tapped.\nWhen Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {W} or {U} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 378535,
+        "number": "163",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378535",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378535.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-enlightenment?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378535"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Epiphany",
+    "id": "temple-of-epiphany",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-epiphany",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/temple-of-epiphany?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Epiphany enters the battlefield tapped.\nWhen Temple of Epiphany enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {U} or {R} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "rare",
+        "artist": "Noah Bradley",
+        "multiverse_id": 380514,
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380514",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380514.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/temple-of-epiphany?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380514"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Malady",
+    "id": "temple-of-malady",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-malady",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/temple-of-malady?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Malady enters the battlefield tapped.\nWhen Temple of Malady enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {B} or {G} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "rare",
+        "artist": "James Paick",
+        "multiverse_id": 380515,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380515",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380515.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/temple-of-malady?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380515"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Malice",
+    "id": "temple-of-malice",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-malice",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-malice?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Malice enters the battlefield tapped.\nWhen Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {B} or {R} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Sam Burley",
+        "multiverse_id": 378536,
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378536",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378536.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-malice?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378536"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Mystery",
+    "id": "temple-of-mystery",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-mystery",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-of-mystery",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Adam Paquette",
+        "multiverse_id": 0,
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/temple-of-mystery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Noah Bradley",
+        "multiverse_id": 373571,
+        "number": "226",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373571",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373571.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-mystery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373571"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Plenty",
+    "id": "temple-of-plenty",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-plenty",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-plenty?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Plenty enters the battlefield tapped.\nWhen Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {W} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Noah Bradley",
+        "multiverse_id": 378537,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378537",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378537.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/temple-of-plenty?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378537"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Silence",
+    "id": "temple-of-silence",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-silence",
+    "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-silence?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Silence enters the battlefield tapped.\nWhen Temple of Silence enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {W} or {B} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 373522,
+        "number": "227",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373522",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373522.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-silence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373522"
+      }
+    ]
+  },
+  {
+    "name": "Temple of the False God",
+    "id": "temple-of-the-false-god",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-the-false-god",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-of-the-false-god",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C}{C} to your mana pool. Activate this ability only if you control five or more lands.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 389713,
+        "flavor": "Those who bring nothing to the temple take nothing away.",
+        "number": "314",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389713",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389713.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389713"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 247406,
+        "flavor": "Those who bring nothing to the temple take nothing away.",
+        "number": "290",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247406",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247406.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247406"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "uncommon",
+        "artist": "James Zapata",
+        "multiverse_id": 420948,
+        "flavor": "\"When gods become apathetic, the people will worship anyone who answers their pleas.\"\n—Kiora",
+        "number": "331",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420948",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420948.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420948"
+      },
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 44336,
+        "flavor": "Those who bring nothing to the temple take nothing away.",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44336",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44336.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44336"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 376541,
+        "flavor": "Those who bring nothing to the temple take nothing away.",
+        "number": "327",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376541",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376541.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376541"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 405414,
+        "flavor": "Those who bring nothing to the temple take nothing away.",
+        "number": "313",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405414",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405414.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405414"
+      },
+      {
+        "set": "Duel Decks: Elspeth vs. Kiora",
+        "set_id": "DDO",
+        "rarity": "uncommon",
+        "artist": "James Zapata",
+        "multiverse_id": 394412,
+        "flavor": "\"When gods become apathetic, the people will worship anyone who answers their pleas.\"\n—Kiora",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394412",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394412.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDO",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/temple-of-the-false-god?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394412"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Triumph",
+    "id": "temple-of-triumph",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-triumph",
+    "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-triumph?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Triumph enters the battlefield tapped.\nWhen Temple of Triumph enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {R} or {W} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Jason Felix",
+        "multiverse_id": 373560,
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373560",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373560.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-triumph?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373560"
+      }
+    ]
+  },
+  {
+    "name": "Temp of the Damned",
+    "id": "temp-of-the-damned",
+    "url": "https://api.deckbrew.com/mtg/cards/temp-of-the-damned",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/temp-of-the-damned?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "When you play Temp of the Damned, roll a six-sided die. Temp of the Damned comes into play with a number of funk counters on it equal to the die roll.\nDuring your upkeep, remove a funk counter from Temp of the Damned or sacrifice Temp of the Damned.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "common",
+        "artist": "Adam Rex",
+        "multiverse_id": 10717,
+        "flavor": "\"Not the graveyard shift again!\"",
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10717",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10717.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/temp-of-the-damned?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10717"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Adept",
+    "id": "temporal-adept",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-adept",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temporal-adept",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{U}",
+    "text": "{U}{U}{U}, {T}: Return target permanent to its owner's hand.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 84141,
+        "flavor": "\"If yesterday was two days ago tomorrow, will the day after tomorrow be today or yesterday?\"\n—Temporal Manipulation 101 final exam,\nTolarian Academy",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84141",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84141.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/temporal-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84141"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Roger Raupp",
+        "multiverse_id": 15791,
+        "flavor": "\"Of course she's at the head of her class. All of her classmates have disappeared.\"\n—Tolarian renegade",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15791",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15791.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/temporal-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15791"
+      },
+      {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 15875,
+        "flavor": "\"Of course she's at the head of her class. All her classmates have disappeared.\"\n—Gatha, Tolarian renegade",
+        "number": "48",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15875",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15875.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/temporal-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15875"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Roger Raupp",
+        "multiverse_id": 45266,
+        "flavor": "\"Of course she's at the head of her class. All of her classmates have disappeared.\"\n—Tolarian renegade",
+        "number": "106",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45266",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45266.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/temporal-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45266"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Aperture",
+    "id": "temporal-aperture",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-aperture",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/temporal-aperture?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "rare",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 5548,
+        "number": "310",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5548",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5548.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/temporal-aperture?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5548"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Cascade",
+    "id": "temporal-cascade",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-cascade",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/temporal-cascade?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 7,
+    "cost": "{5}{U}{U}",
+    "text": "Choose one —\n• Each player shuffles his or her hand and graveyard into his or her library.\n• Each player draws seven cards.\nEntwine {2} (Choose both if you pay the entwine cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "rare",
+        "artist": "Puddnhead",
+        "multiverse_id": 49055,
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=49055",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/49055.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/temporal-cascade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/49055"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Distortion",
+    "id": "temporal-distortion",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-distortion",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/temporal-distortion?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Whenever a creature or land becomes tapped, put an hourglass counter on it.\nEach permanent with an hourglass counter on it doesn't untap during its controller's untap step.\nAt the beginning of each player's upkeep, remove all hourglass counters from permanents that player controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Stephanie Law",
+        "multiverse_id": 23212,
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23212",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23212.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/temporal-distortion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23212"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Eddy",
+    "id": "temporal-eddy",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-eddy",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/temporal-eddy?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "Put target creature or land on top of its owner's library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Wayne England",
+        "multiverse_id": 118887,
+        "flavor": "As the temporal fractures spread and time itself slowly fell apart, visitors started to appear from across the past and future, and those native to the present began to disappear.",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=118887",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/118887.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/temporal-eddy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/118887"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Extortion",
+    "id": "temporal-extortion",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-extortion",
+    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/temporal-extortion?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{B}{B}{B}{B}",
+    "text": "When you cast Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion.\nTake an extra turn after this one.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "rare",
+        "artist": "Steven Belledin",
+        "multiverse_id": 126814,
+        "flavor": "\"The scythe of time or my blade at your throat—the choice is yours.\"\n—Holux, stronghold racketeer",
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=126814",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/126814.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/temporal-extortion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/126814"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Fissure",
+    "id": "temporal-fissure",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-fissure",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temporal-fissure",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "Return target permanent to its owner's hand.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 383124,
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383124",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383124.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/temporal-fissure?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383124"
+      },
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "common",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 45836,
+        "number": "53",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45836",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45836.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/temporal-fissure?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45836"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Isolation",
+    "id": "temporal-isolation",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-isolation",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/temporal-isolation?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature has shadow. (It can block or be blocked by only creatures with shadow.)\nPrevent all damage that would be dealt by enchanted creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Stephen Tappin",
+        "multiverse_id": 106654,
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106654",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106654.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/temporal-isolation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106654"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Manipulation",
+    "id": "temporal-manipulation",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-manipulation",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temporal-manipulation",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Take an extra turn after this one.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "rare",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 184770,
+        "flavor": "Doing something at the last minute isn't so bad when you can make that minute last.",
+        "number": "69",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184770",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184770.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/temporal-manipulation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184770"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "rare",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 6548,
+        "flavor": "Doing something at the last minute isn't so bad when you can make that minute last.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6548",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6548.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/temporal-manipulation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6548"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Mastery",
+    "id": "temporal-mastery",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-mastery",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/temporal-mastery?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 7,
+    "cost": "{5}{U}{U}",
+    "text": "Take an extra turn after this one. Exile Temporal Mastery.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "mythic",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 240133,
+        "flavor": "Time is a marvelous plaything.",
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240133",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240133.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/temporal-mastery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240133"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Spring",
+    "id": "temporal-spring",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-spring",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/temporal-spring?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{U}",
+    "text": "Put target permanent on top of its owner's library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "John Matson",
+        "multiverse_id": 25832,
+        "flavor": "One splash of the spring's water knocks you clear into last week.",
+        "number": "125",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25832",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25832.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/temporal-spring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25832"
+      }
+    ]
+  },
+  {
+    "name": "Temporal Trespass",
+    "id": "temporal-trespass",
+    "url": "https://api.deckbrew.com/mtg/cards/temporal-trespass",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temporal-trespass?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 11,
+    "cost": "{8}{U}{U}{U}",
+    "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Sultai",
+        "rarity": "mythic",
+        "artist": "Clint Cearley",
+        "multiverse_id": 391939,
+        "flavor": "Few truly live in the moment.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391939",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391939.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temporal-trespass?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391939"
+      }
+    ]
+  },
+  {
+    "name": "Temporary Insanity",
+    "id": "temporary-insanity",
+    "url": "https://api.deckbrew.com/mtg/cards/temporary-insanity",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temporary-insanity",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 32236,
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=32236",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/32236.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/temporary-insanity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/32236"
+      },
+      {
+        "set": "Duel Decks: Knights vs. Dragons",
+        "set_id": "DDG",
+        "rarity": "uncommon",
+        "artist": "Mark Romanoski",
+        "multiverse_id": 243490,
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=243490",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/243490.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/temporary-insanity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/243490"
+      }
+    ]
+  },
+  {
+    "name": "Temporary Truce",
+    "id": "temporary-truce",
+    "url": "https://api.deckbrew.com/mtg/cards/temporary-truce",
+    "store_url": "http://store.tcgplayer.com/magic/portal/temporary-truce?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "rare",
+        "artist": "Mike Raabe",
+        "multiverse_id": 4401,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4401",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4401.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/temporary-truce?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4401"
+      }
+    ]
+  },
+  {
+    "name": "Tempting Licid",
+    "id": "tempting-licid",
+    "url": "https://api.deckbrew.com/mtg/cards/tempting-licid",
+    "store_url": "http://store.tcgplayer.com/magic/stronghold/tempting-licid?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "licid"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "{G}, {T}: Tempting Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect.\nAll creatures able to block enchanted creature do so.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Stronghold",
+        "set_id": "STH",
+        "rarity": "uncommon",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 5252,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5252",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5252.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
+        "store_url": "http://store.tcgplayer.com/magic/stronghold/tempting-licid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5252"
+      }
+    ]
+  },
+  {
+    "name": "Tempting Wurm",
+    "id": "tempting-wurm",
+    "url": "https://api.deckbrew.com/mtg/cards/tempting-wurm",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/tempting-wurm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wurm"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "When Tempting Wurm enters the battlefield, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand onto the battlefield.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Bob Petillo",
+        "multiverse_id": 39929,
+        "number": "291",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39929",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39929.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/tempting-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39929"
+      }
+    ]
+  },
+  {
+    "name": "Tempt with Discovery",
+    "id": "tempt-with-discovery",
+    "url": "https://api.deckbrew.com/mtg/cards/tempt-with-discovery",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tempt-with-discovery",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search his or her library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "William Wu",
+        "multiverse_id": 420787,
+        "number": "170",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420787",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420787.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/tempt-with-discovery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420787"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "William Wu",
+        "multiverse_id": 376542,
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376542",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376542.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-discovery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376542"
+      }
+    ]
+  },
+  {
+    "name": "Tempt with Glory",
+    "id": "tempt-with-glory",
+    "url": "https://api.deckbrew.com/mtg/cards/tempt-with-glory",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-glory?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{5}{W}",
+    "text": "Tempting offer — Put a +1/+1 counter on each creature you control. Each opponent may put a +1/+1 counter on each creature he or she controls. For each opponent who does, put a +1/+1 counter on each creature you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Michael Komarck",
+        "multiverse_id": 376543,
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376543",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376543.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-glory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376543"
+      }
+    ]
+  },
+  {
+    "name": "Tempt with Immortality",
+    "id": "tempt-with-immortality",
+    "url": "https://api.deckbrew.com/mtg/cards/tempt-with-immortality",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-immortality?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{4}{B}",
+    "text": "Tempting offer — Return a creature card from your graveyard to the battlefield. Each opponent may return a creature card from his or her graveyard to the battlefield. For each player who does, return a creature card from your graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Philip Straub",
+        "multiverse_id": 376544,
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376544",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376544.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-immortality?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376544"
+      }
+    ]
+  },
+  {
+    "name": "Tempt with Reflections",
+    "id": "tempt-with-reflections",
+    "url": "https://api.deckbrew.com/mtg/cards/tempt-with-reflections",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-reflections?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Tempting offer — Choose target creature you control. Create a token that's a copy of that creature. Each opponent may create a token that's a copy of that creature. For each opponent who does, create a token that's a copy of that creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Mike Bierek",
+        "multiverse_id": 376545,
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376545",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376545.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-reflections?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376545"
+      }
+    ]
+  },
+  {
+    "name": "Tempt with Vengeance",
+    "id": "tempt-with-vengeance",
+    "url": "https://api.deckbrew.com/mtg/cards/tempt-with-vengeance",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-vengeance?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{X}{R}",
+    "text": "Tempting offer — Create X 1/1 red Elemental creature tokens with haste. Each opponent may create X 1/1 red Elemental creature tokens with haste. For each player who does, create X 1/1 red Elemental creature tokens with haste.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Ryan Barger",
+        "multiverse_id": 376546,
+        "number": "125",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376546",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376546.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/tempt-with-vengeance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376546"
+      }
+    ]
+  },
+  {
+    "name": "Temur Ascendancy",
+    "id": "temur-ascendancy",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-ascendancy",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temur-ascendancy",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{G}{U}{R}",
+    "text": "Creatures you control have haste.\nWhenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 386692,
+        "number": "207",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386692",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386692.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-ascendancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386692"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Jaime Jones",
+        "multiverse_id": 0,
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/temur-ascendancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Temur Banner",
+    "id": "temur-banner",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-banner",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-banner?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{T}: Add {G}, {U}, or {R} to your mana pool.\n{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "common",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 386693,
+        "flavor": "Savagery to survive, courage to triumph.",
+        "number": "226",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386693",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386693.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-banner?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386693"
+      }
+    ]
+  },
+  {
+    "name": "Temur Battle Rage",
+    "id": "temur-battle-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-battle-rage",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-battle-rage?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)\nFerocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Temur",
+        "rarity": "common",
+        "artist": "Jaime Jones",
+        "multiverse_id": 391940,
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391940",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391940.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-battle-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391940"
+      }
+    ]
+  },
+  {
+    "name": "Temur Charger",
+    "id": "temur-charger",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-charger",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-charger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horse"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Temur Charger is turned face up, target creature gains trample until end of turn.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "uncommon",
+        "artist": "Mark Zug",
+        "multiverse_id": 386694,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386694",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386694.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386694"
+      }
+    ]
+  },
+  {
+    "name": "Temur Charm",
+    "id": "temur-charm",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-charm",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-charm?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{G}{U}{R}",
+    "text": "Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "uncommon",
+        "artist": "Mathias Kollros",
+        "multiverse_id": 386695,
+        "number": "208",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386695",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386695.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/temur-charm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386695"
+      }
+    ]
+  },
+  {
+    "name": "Temur Runemark",
+    "id": "temur-runemark",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-runemark",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-runemark?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has trample as long as you control a blue or red permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Temur",
+        "rarity": "common",
+        "artist": "Ryan Alexander Lee",
+        "multiverse_id": 391941,
+        "number": "140",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391941",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391941.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-runemark?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391941"
+      }
+    ]
+  },
+  {
+    "name": "Temur Sabertooth",
+    "id": "temur-sabertooth",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-sabertooth",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-sabertooth?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Temur",
+        "rarity": "uncommon",
+        "artist": "Mike Sass",
+        "multiverse_id": 391942,
+        "flavor": "The Temur see themselves as a pack, their bonds more primal than the Abzan's.",
+        "number": "141",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391942",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391942.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-sabertooth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391942"
+      }
+    ]
+  },
+  {
+    "name": "Temur War Shaman",
+    "id": "temur-war-shaman",
+    "url": "https://api.deckbrew.com/mtg/cards/temur-war-shaman",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temur-war-shaman",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{4}{G}{G}",
+    "text": "When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nWhenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Temur",
+        "rarity": "rare",
+        "artist": "Nils Hamm",
+        "multiverse_id": 391943,
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391943",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391943.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/temur-war-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391943"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 0,
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/temur-war-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Tenacious Dead",
+    "id": "tenacious-dead",
+    "url": "https://api.deckbrew.com/mtg/cards/tenacious-dead",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/tenacious-dead?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "skeleton",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "uncommon",
+        "artist": "John Stanko",
+        "multiverse_id": 370606,
+        "flavor": "Raising the bones of Hekjek the Mad proved far easier than getting them to lie back down.",
+        "number": "118",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370606",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370606.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/tenacious-dead?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370606"
+      }
+    ]
+  },
+  {
+    "name": "Tenacity",
+    "id": "tenacity",
+    "url": "https://api.deckbrew.com/mtg/cards/tenacity",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/tenacity?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Creatures you control get +1/+1 and gain lifelink until end of turn. Untap those creatures.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 409782,
+        "flavor": "Thalia established the Order of Saint Traft in an effort to bring together cathars who would stand against the corruption of the Lunarch Council.",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409782",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409782.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/tenacity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409782"
+      }
+    ]
+  },
+  {
+    "name": "Tendo Ice Bridge",
+    "id": "tendo-ice-bridge",
+    "url": "https://api.deckbrew.com/mtg/cards/tendo-ice-bridge",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/tendo-ice-bridge?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Tendo Ice Bridge enters the battlefield with a charge counter on it.\n{T}: Add {C} to your mana pool.\n{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 74487,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74487",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74487.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/tendo-ice-bridge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74487"
+      }
+    ]
+  },
+  {
+    "name": "Tendrils of Agony",
+    "id": "tendrils-of-agony",
+    "url": "https://api.deckbrew.com/mtg/cards/tendrils-of-agony",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tendrils-of-agony",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Target player loses 2 life and you gain 2 life.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "uncommon",
+        "artist": "Volkan Baga",
+        "multiverse_id": 383125,
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383125",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383125.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/tendrils-of-agony?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383125"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Volkan Baga",
+        "multiverse_id": 0,
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/tendrils-of-agony?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 45842,
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45842",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45842.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/tendrils-of-agony?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45842"
+      }
+    ]
+  },
+  {
+    "name": "Tendrils of Corruption",
+    "id": "tendrils-of-corruption",
+    "url": "https://api.deckbrew.com/mtg/cards/tendrils-of-corruption",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tendrils-of-corruption",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 389714,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "166",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389714",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389714.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389714"
+      },
+      {
+        "set": "Duel Decks Anthology, Garruk vs. Liliana",
+        "set_id": "DD3_GVL",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 393930,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393930",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393930.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_GVL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-garruk-vs-liliana/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393930"
+      },
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Mike Dringenberg",
+        "multiverse_id": 106632,
+        "flavor": "\"Even swamps need sustenance. We will give it to them, and in turn, they will sustain us.\"\n—Ezrith, druid of the Dark Hours",
+        "number": "136",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106632",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106632.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106632"
+      },
+      {
+        "set": "Duel Decks: Nissa vs. Ob Nixilis",
+        "set_id": "DDR",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 417486,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417486",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417486.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDR",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-nissa-vs-ob-nixilis/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417486"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 193744,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193744",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193744.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193744"
+      },
+      {
+        "set": "Duel Decks: Garruk vs. Liliana",
+        "set_id": "DDD",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 201812,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201812",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201812.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201812"
+      },
+      {
+        "set": "Duel Decks: Phyrexia vs. the Coalition",
+        "set_id": "DDE",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 210139,
+        "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=210139",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/210139.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/tendrils-of-corruption?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/210139"
+      }
+    ]
+  },
+  {
+    "name": "Tendrils of Despair",
+    "id": "tendrils-of-despair",
+    "url": "https://api.deckbrew.com/mtg/cards/tendrils-of-despair",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/tendrils-of-despair?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "As an additional cost to cast Tendrils of Despair, sacrifice a creature.\nTarget opponent discards two cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "John Coulthart",
+        "multiverse_id": 4471,
+        "flavor": "\"Because I am incapable of tears does not mean I have no need to shed them.\"\n—Karn, silver golem",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4471",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4471.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/tendrils-of-despair?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4471"
+      }
+    ]
+  },
+  {
+    "name": "Teneb, the Harvester",
+    "id": "teneb-the-harvester",
+    "url": "https://api.deckbrew.com/mtg/cards/teneb-the-harvester",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teneb-the-harvester",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "black",
+      "green",
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{3}{B}{G}{W}",
+    "text": "Flying\nWhenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 247365,
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247365",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247365.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/teneb-the-harvester?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247365"
+      },
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "rare",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 124075,
+        "number": "163",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=124075",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/124075.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/teneb-the-harvester?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/124075"
+      }
+    ]
+  },
+  {
+    "name": "Tenement Crasher",
+    "id": "tenement-crasher",
+    "url": "https://api.deckbrew.com/mtg/cards/tenement-crasher",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/tenement-crasher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{5}{R}",
+    "text": "Haste",
+    "power": "5",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 253649,
+        "flavor": "Nothing was going to stop it—not the narrow alleys, not the Boros garrison, and certainly not the four-story Orzhov cathedral.",
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253649",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253649.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/tenement-crasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253649"
+      }
+    ]
+  },
+  {
+    "name": "Tenza, Godo's Maul",
+    "id": "tenza-godos-maul",
+    "url": "https://api.deckbrew.com/mtg/cards/tenza-godos-maul",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/tenza-godos-maul?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "uncommon",
+        "artist": "Paolo Parente",
+        "multiverse_id": 79231,
+        "number": "271",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=79231",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/79231.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/tenza-godos-maul?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/79231"
+      }
+    ]
+  },
+  {
+    "name": "Tephraderm",
+    "id": "tephraderm",
+    "url": "https://api.deckbrew.com/mtg/cards/tephraderm",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/tephraderm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature.\nWhenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 39659,
+        "number": "239",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39659",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39659.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/tephraderm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39659"
+      }
+    ]
+  },
+  {
+    "name": "Terashi's Cry",
+    "id": "terashis-cry",
+    "url": "https://api.deckbrew.com/mtg/cards/terashis-cry",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/terashis-cry?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "subtypes": [
+      "arcane"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Tap up to three target creatures.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "common",
+        "artist": "Jim Murray",
+        "multiverse_id": 80285,
+        "flavor": "\"The sun kami is terrible to behold. When its temper flares, best seek shade and pray for forgiveness.\"\n—Sensei Golden-Tail",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=80285",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/80285.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/terashis-cry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/80285"
+      }
+    ]
+  },
+  {
+    "name": "Terashi's Grasp",
+    "id": "terashis-grasp",
+    "url": "https://api.deckbrew.com/mtg/cards/terashis-grasp",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=terashis-grasp",
+    "types": [
+      "sorcery"
+    ],
+    "subtypes": [
+      "arcane"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Destroy target artifact or enchantment. You gain life equal to its converted mana cost.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "common",
+        "artist": "Mark Tedin",
+        "multiverse_id": 397891,
+        "flavor": "\"The jeweler, the potter, the smith . . . They all imbue a bit of their souls into their creations. The kami destroy that crafted mortal shell and absorb the soul within.\"\n—Noboru, master kitemaker",
+        "number": "37",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397891",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397891.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/terashis-grasp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397891"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 370555,
+        "flavor": "\"The jeweler, the potter, the smith . . . They all imbue a bit of their souls into their creations. The kami destroy that crafted mortal shell and absorb the soul within.\"\n—Noboru, master kitemaker",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370555",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370555.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/terashis-grasp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370555"
+      },
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Mark Tedin",
+        "multiverse_id": 74585,
+        "flavor": "\"The jeweler, the potter, the smith . . . They all imbue a bit of their souls into their creations. The kami destroy that crafted mortal shell and absorb the soul within.\"\n—Noboru, master kitemaker",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74585",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74585.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/terashis-grasp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74585"
+      }
+    ]
+  },
+  {
+    "name": "Terashi's Verdict",
+    "id": "terashis-verdict",
+    "url": "https://api.deckbrew.com/mtg/cards/terashis-verdict",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/terashis-verdict?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "subtypes": [
+      "arcane"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Destroy target attacking creature with power 3 or less.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "uncommon",
+        "artist": "Ron Spears",
+        "multiverse_id": 74481,
+        "flavor": "It was as though the sky opened its eyes and found what it saw displeasing.",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74481",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74481.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/terashis-verdict?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74481"
+      }
+    ]
+  },
+  {
+    "name": "Terastodon",
+    "id": "terastodon",
+    "url": "https://api.deckbrew.com/mtg/cards/terastodon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=terastodon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elephant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 8,
+    "cost": "{6}{G}{G}",
+    "text": "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.",
+    "power": "9",
+    "toughness": "9",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 389715,
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389715",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389715.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389715"
+      },
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 382382,
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382382",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382382.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382382"
+      },
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 197137,
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197137",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197137.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197137"
+      },
+      {
+        "set": "Premium Deck Series: Graveborn",
+        "set_id": "PD3",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 270451,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270451",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270451.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PD3",
+        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-graveborn/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270451"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 405415,
+        "number": "204",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405415",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405415.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405415"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 0,
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/terastodon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Teremko Griffin",
+    "id": "teremko-griffin",
+    "url": "https://api.deckbrew.com/mtg/cards/teremko-griffin",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/teremko-griffin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "griffin"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Martin McKenna",
+        "multiverse_id": 3518,
+        "flavor": "\"When we're aloft, I love to lean over the Weatherlight's railing and watch the patterns the griffins' shadows make on the clouds below.\"\n—Sisay, Captain of the Weatherlight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3518",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3518.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/teremko-griffin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3518"
+      }
+    ]
+  },
+  {
+    "name": "Terminal Moraine",
+    "id": "terminal-moraine",
+    "url": "https://api.deckbrew.com/mtg/cards/terminal-moraine",
+    "store_url": "http://store.tcgplayer.com/magic/planeshift/terminal-moraine?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planeshift",
+        "set_id": "PLS",
+        "rarity": "uncommon",
+        "artist": "Scott Bailey",
+        "multiverse_id": 25980,
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25980",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25980.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+        "store_url": "http://store.tcgplayer.com/magic/planeshift/terminal-moraine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25980"
+      }
+    ]
+  },
+  {
+    "name": "Terminate",
+    "id": "terminate",
+    "url": "https://api.deckbrew.com/mtg/cards/terminate",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=terminate",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{B}{R}",
+    "text": "Destroy target creature. It can't be regenerated.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 176449,
+        "flavor": "\"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that.\"\n—Taani, berserker of Etlan",
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=176449",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/176449.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/176449"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 247166,
+        "flavor": "\"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that.\"\n—Taani, berserker of Etlan",
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247166",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247166.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247166"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 0,
+        "flavor": "Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled \"gods.\"",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 420842,
+        "flavor": "\"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that.\"\n—Taani, berserker of Etlan",
+        "number": "225",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420842",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420842.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420842"
+      },
+      {
+        "set": "Planeshift",
+        "set_id": "PLS",
+        "rarity": "common",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 25871,
+        "flavor": "Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled \"gods.\"",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25871",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25871.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+        "store_url": "http://store.tcgplayer.com/magic/planeshift/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25871"
+      },
+      {
+        "set": "Duel Decks: Sorin vs. Tibalt",
+        "set_id": "DDK",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 368491,
+        "flavor": "\"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that.\"\n—Taani, berserker of Etlan",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368491",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368491.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368491"
+      },
+      {
+        "set": "Magic Player Rewards",
+        "set_id": "pMPR",
+        "rarity": "special",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 0,
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+        "store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 220524,
+        "flavor": "\"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that.\"\n—Taani, berserker of Etlan",
+        "number": "95",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220524",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220524.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/terminate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220524"
+      }
+    ]
+  },
+  {
+    "name": "Terminus",
+    "id": "terminus",
+    "url": "https://api.deckbrew.com/mtg/cards/terminus",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=terminus",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{4}{W}{W}",
+    "text": "Put all creatures on the bottom of their owners' libraries.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "rare",
+        "artist": "James Paick",
+        "multiverse_id": 262703,
+        "number": "38",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=262703",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/262703.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/terminus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/262703"
+      },
+      {
+        "set": "From the Vault: Annihilation (2014)",
+        "set_id": "V14",
+        "rarity": "mythic",
+        "artist": "James Paick",
+        "multiverse_id": 386295,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386295",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386295.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V14",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-annihilation-(2014)/terminus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386295"
+      }
+    ]
+  },
+  {
+    "name": "Teroh's Faithful",
+    "id": "terohs-faithful",
+    "url": "https://api.deckbrew.com/mtg/cards/terohs-faithful",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=terohs-faithful",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "When Teroh's Faithful enters the battlefield, you gain 4 life.",
+    "power": "1",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Tim Hildebrandt",
+        "multiverse_id": 383126,
+        "flavor": "The light of reason follows them even into battle.",
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383126",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383126.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/terohs-faithful?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383126"
+      },
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 12345,
+        "flavor": "The light of reason follows them even into battle.",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12345",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12345.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/terohs-faithful?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12345"
+      }
+    ]
+  },
+  {
+    "name": "Teroh's Vanguard",
+    "id": "terohs-vanguard",
+    "url": "https://api.deckbrew.com/mtg/cards/terohs-vanguard",
+    "store_url": "http://store.tcgplayer.com/magic/torment/terohs-vanguard?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "nomad"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Flash\nThreshold — As long as seven or more cards are in your graveyard, Teroh's Vanguard has \"When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn.\"",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "uncommon",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 32205,
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=32205",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/32205.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/terohs-vanguard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/32205"
+      }
+    ]
+  },
+  {
+    "name": "Terra Eternal",
+    "id": "terra-eternal",
+    "url": "https://api.deckbrew.com/mtg/cards/terra-eternal",
+    "store_url": "http://store.tcgplayer.com/magic/worldwake/terra-eternal?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "All lands have indestructible.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "rare",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 197866,
+        "flavor": "\"If this world could make a wish, it would be to survive the parasites who loot its treasures and threaten its life force.\"\n—Saidah, Joraga hunter",
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197866",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197866.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/terra-eternal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197866"
+      }
+    ]
+  },
+  {
+    "name": "Terraformer",
+    "id": "terraformer",
+    "url": "https://api.deckbrew.com/mtg/cards/terraformer",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/terraformer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "{1}: Choose a basic land type. Each land you control becomes that type until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "common",
+        "artist": "Luca Zontini",
+        "multiverse_id": 87905,
+        "flavor": "\"This feels a little more like home.\"",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87905",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87905.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/terraformer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87905"
+      }
+    ]
+  }
+]

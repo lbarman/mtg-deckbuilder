@@ -1,0 +1,5572 @@
+[
+  {
+    "name": "Obstinate Baloth",
+    "id": "obstinate-baloth",
+    "url": "https://api.deckbrew.com/mtg/cards/obstinate-baloth",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/obstinate-baloth?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{G}",
+    "text": "When Obstinate Baloth enters the battlefield, you gain 4 life.\nIf a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "rare",
+        "artist": "Chris Rahn",
+        "multiverse_id": 205075,
+        "number": "188",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205075",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205075.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/obstinate-baloth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205075"
+      }
+    ]
+  },
+  {
+    "name": "Obstinate Familiar",
+    "id": "obstinate-familiar",
+    "url": "https://api.deckbrew.com/mtg/cards/obstinate-familiar",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/obstinate-familiar?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "lizard"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "If you would draw a card, you may skip that draw instead.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 29968,
+        "flavor": "\"Lizards make excellent familiars. They never know when they've lost.\"\n—Matoc, lavamancer",
+        "number": "210",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29968",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29968.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/obstinate-familiar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29968"
+      }
+    ]
+  },
+  {
+    "name": "Obzedat, Ghost Council",
+    "id": "obzedat-ghost-council",
+    "url": "https://api.deckbrew.com/mtg/cards/obzedat-ghost-council",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/obzedat-ghost-council?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "advisor",
+      "spirit"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{1}{W}{W}{B}{B}",
+    "text": "When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.\nAt the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "watermark": "Orzhov",
+        "rarity": "mythic",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 366246,
+        "number": "182",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366246",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366246.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/obzedat-ghost-council?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366246"
+      }
+    ]
+  },
+  {
+    "name": "Obzedat's Aid",
+    "id": "obzedats-aid",
+    "url": "https://api.deckbrew.com/mtg/cards/obzedats-aid",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/obzedats-aid?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{B}",
+    "text": "Return target permanent card from your graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Orzhov",
+        "rarity": "rare",
+        "artist": "Dan Scott",
+        "multiverse_id": 369002,
+        "flavor": "\"The Obzedat have revived you with purpose. Don't squander their blessing.\"\n—Teysa Karlov, Grand Envoy of Orzhov",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=369002",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/369002.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/obzedats-aid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/369002"
+      }
+    ]
+  },
+  {
+    "name": "Ocular Halo",
+    "id": "ocular-halo",
+    "url": "https://api.deckbrew.com/mtg/cards/ocular-halo",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/ocular-halo?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Enchant creature\nEnchanted creature has \"{T}: Draw a card.\"\n{W}: Enchanted creature gains vigilance until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Azorius",
+        "rarity": "common",
+        "artist": "Ralph Horsley",
+        "multiverse_id": 107328,
+        "flavor": "While the soldier dreams, the eyes stand watch.",
+        "number": "28",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107328",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107328.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/ocular-halo?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107328"
+      }
+    ]
+  },
+  {
+    "name": "Oculus",
+    "id": "oculus",
+    "url": "https://api.deckbrew.com/mtg/cards/oculus",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/oculus?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "homunculus"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "When Oculus dies, you may draw a card.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Dan Scott",
+        "multiverse_id": 214036,
+        "flavor": "\"In its gaze I saw no mercy, no recognition that I was worthy to exist.\"\n—Kara Vrist, Neurok agent",
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214036",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214036.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/oculus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/214036"
+      }
+    ]
+  },
+  {
+    "name": "Odds",
+    "id": "odds",
+    "url": "https://api.deckbrew.com/mtg/cards/odds",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/odds?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{U}{R}",
+    "text": "Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Izzet",
+        "rarity": "rare",
+        "artist": "Michael Sutfin",
+        "multiverse_id": 107445,
+        "number": "153a",
+        "layout": "split",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107445",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107445.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/odds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107445"
+      }
+    ]
+  },
+  {
+    "name": "Odious Trow",
+    "id": "odious-trow",
+    "url": "https://api.deckbrew.com/mtg/cards/odious-trow",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/odious-trow?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "troll"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{B/G}",
+    "text": "{1}{B/G}: Regenerate Odious Trow.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 150977,
+        "flavor": "Trows are the vile trolls that lurk in the bogs of Shadowmoor. They reappear each night to frighten the living and gnaw the dead.",
+        "number": "125",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=150977",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/150977.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/odious-trow?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/150977"
+      }
+    ]
+  },
+  {
+    "name": "Odric, Lunarch Marshal",
+    "id": "odric-lunarch-marshal",
+    "url": "https://api.deckbrew.com/mtg/cards/odric-lunarch-marshal",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/odric-lunarch-marshal?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "At the beginning of each combat, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "rare",
+        "artist": "Chase Stone",
+        "multiverse_id": 409770,
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409770",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409770.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/odric-lunarch-marshal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409770"
+      }
+    ]
+  },
+  {
+    "name": "Odric, Master Tactician",
+    "id": "odric-master-tactician",
+    "url": "https://api.deckbrew.com/mtg/cards/odric-master-tactician",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/odric-master-tactician?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "rare",
+        "artist": "Michael Komarck",
+        "multiverse_id": 259670,
+        "flavor": "\"Fear holds no place in faith's battle plan.\"",
+        "number": "23",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=259670",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/259670.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/odric-master-tactician?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/259670"
+      }
+    ]
+  },
+  {
+    "name": "Odunos River Trawler",
+    "id": "odunos-river-trawler",
+    "url": "https://api.deckbrew.com/mtg/cards/odunos-river-trawler",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/odunos-river-trawler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand.\n{W}, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "uncommon",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 378451,
+        "number": "79",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378451",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378451.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/odunos-river-trawler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378451"
+      }
+    ]
+  },
+  {
+    "name": "Odylic Wraith",
+    "id": "odylic-wraith",
+    "url": "https://api.deckbrew.com/mtg/cards/odylic-wraith",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/odylic-wraith?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wraith"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever Odylic Wraith deals damage to a player, that player discards a card.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "Ian Miller",
+        "multiverse_id": 4465,
+        "flavor": "By the time you've seen it, you won't remember that you did.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4465",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4465.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/odylic-wraith?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4465"
+      }
+    ]
+  },
+  {
+    "name": "Offalsnout",
+    "id": "offalsnout",
+    "url": "https://api.deckbrew.com/mtg/cards/offalsnout",
+    "store_url": "http://store.tcgplayer.com/magic/morningtide/offalsnout?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Flash\nWhen Offalsnout leaves the battlefield, exile target card from a graveyard.\nEvoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "uncommon",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 152571,
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152571",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152571.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/offalsnout?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152571"
+      }
+    ]
+  },
+  {
+    "name": "Off Balance",
+    "id": "off-balance",
+    "url": "https://api.deckbrew.com/mtg/cards/off-balance",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/off-balance?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Target creature can't attack or block this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 22032,
+        "flavor": "A heavy weapon deals plenty of damage—but it does have to hit.",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22032",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22032.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/off-balance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22032"
+      }
+    ]
+  },
+  {
+    "name": "Offering to Asha",
+    "id": "offering-to-asha",
+    "url": "https://api.deckbrew.com/mtg/cards/offering-to-asha",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/offering-to-asha?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{U}",
+    "text": "Counter target spell unless its controller pays {4}. You gain 4 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Daarken",
+        "multiverse_id": 183007,
+        "flavor": "\"His body belongs to Bant now. His soul? I honestly don't know. I expect it belongs to the angels.\"\n—Rafiq of the Many",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=183007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/183007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/offering-to-asha?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/183007"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Arsonist",
+    "id": "ogre-arsonist",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-arsonist",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-arsonist",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "When Ogre Arsonist enters the battlefield, destroy target land.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Chris Rahn",
+        "multiverse_id": 0,
+        "flavor": "\"All of Ravnica's looking for you, Dack, from the Wojek on down.\"\n—Maytov",
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/ogre-arsonist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "uncommon",
+        "artist": "Jeffrey R. Busch",
+        "multiverse_id": 6595,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6595",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6595.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ogre-arsonist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6595"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Battledriver",
+    "id": "ogre-battledriver",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-battledriver",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-battledriver",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 370662,
+        "flavor": "Ogres are driven by passion, rage, and another ogre standing behind them with a whip.",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370662",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370662.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/ogre-battledriver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370662"
+      },
+      {
+        "set": "Duel Decks: Speed vs. Cunning",
+        "set_id": "DDN",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 386354,
+        "flavor": "Ogres are driven by passion, rage, and another ogre standing behind them with a whip.",
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386354",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386354.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDN",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-speed-vs-cunning/ogre-battledriver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386354"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Matt Stewart",
+        "multiverse_id": 0,
+        "flavor": "Ogres are driven by passion, rage, and another ogre standing behind them with a whip.",
+        "number": "69",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/ogre-battledriver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Berserker",
+    "id": "ogre-berserker",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-berserker",
+    "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ogre-berserker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Haste",
+    "power": "4",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "common",
+        "artist": "David A. Cherry",
+        "multiverse_id": 6586,
+        "flavor": "The machine does the growling, so the ogre's free to smile.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6586",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6586.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ogre-berserker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6586"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Enforcer",
+    "id": "ogre-enforcer",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-enforcer",
+    "store_url": "http://store.tcgplayer.com/magic/visions/ogre-enforcer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 3696,
+        "flavor": "\"Ate up all of his siblings in the first week. A good beginning for one destined to command.\"\n—Suka, ogre matron",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3696",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3696.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/ogre-enforcer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3696"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Gatecrasher",
+    "id": "ogre-gatecrasher",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-gatecrasher",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/ogre-gatecrasher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "rogue"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "When Ogre Gatecrasher enters the battlefield, destroy target creature with defender.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "rarity": "common",
+        "artist": "Daren Bader",
+        "multiverse_id": 107389,
+        "flavor": "A popular game among ogres is to see how many revolutions a head can make before it pops off.",
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107389",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107389.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/ogre-gatecrasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107389"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Geargrabber",
+    "id": "ogre-geargrabber",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-geargrabber",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/ogre-geargrabber?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "uncommon",
+        "artist": "David Rapoza",
+        "multiverse_id": 215101,
+        "flavor": "Long reach, short attention span.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=215101",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/215101.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/ogre-geargrabber?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/215101"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Jailbreaker",
+    "id": "ogre-jailbreaker",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-jailbreaker",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/ogre-jailbreaker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Defender\nOgre Jailbreaker can attack as though it didn't have defender as long as you control a Gate.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "rarity": "common",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 270371,
+        "flavor": "It took three years for it to occur to him to use the chain as a weapon, but once it did, he made up for lost time.",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/ogre-jailbreaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270371"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Leadfoot",
+    "id": "ogre-leadfoot",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-leadfoot",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/ogre-leadfoot?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 45993,
+        "flavor": "When the goblins need more scrap for the Great Furnace, they simply let the ogres loose and follow in their wake.",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45993",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45993.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/ogre-leadfoot?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45993"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Marauder",
+    "id": "ogre-marauder",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-marauder",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ogre-marauder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "Whenever Ogre Marauder attacks, it gains \"Ogre Marauder can't be blocked\" until end of turn unless defending player sacrifices a creature.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "uncommon",
+        "artist": "Adam Rex",
+        "multiverse_id": 74594,
+        "flavor": "Once freed, the oni demanded more and more sacrifices to appease them. The ogres happily obliged.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74594",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74594.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ogre-marauder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74594"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Menial",
+    "id": "ogre-menial",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-menial",
+    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/ogre-menial?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{R}: Ogre Menial gets +1/+0 until end of turn.",
+    "power": "0",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "New Phyrexia",
+        "set_id": "NPH",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "David Rapoza",
+        "multiverse_id": 233082,
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233082",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233082.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/ogre-menial?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/233082"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Recluse",
+    "id": "ogre-recluse",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-recluse",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ogre-recluse?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Whenever a player casts a spell, tap Ogre Recluse.",
+    "power": "5",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 74645,
+        "flavor": "\"Those ogres who did not embrace oni worship were cast out, cursed, and forced into hermitage, waiting for the day the oni would come for them.\"\n—The History of Kamigawa",
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74645",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74645.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ogre-recluse?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74645"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Resister",
+    "id": "ogre-resister",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-resister",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/ogre-resister?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Efrem Palacios",
+        "multiverse_id": 213795,
+        "flavor": "He didn't have a word for \"home,\" but he knew it was something to be defended.",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213795",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213795.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/ogre-resister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213795"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Savant",
+    "id": "ogre-savant",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-savant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-savant",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "wizard"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Izzet",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 97236,
+        "flavor": "He's an oxymoron.",
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97236",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97236.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/ogre-savant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97236"
+      },
+      {
+        "set": "Duel Decks: Izzet vs. Golgari",
+        "set_id": "DDJ",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 338389,
+        "flavor": "He's an oxymoron.",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338389",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338389.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDJ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-izzet-vs-golgari/ogre-savant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338389"
+      },
+      {
+        "set": "Duel Decks: Ajani vs. Nicol Bolas",
+        "set_id": "DDH",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 249387,
+        "flavor": "He's an oxymoron.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249387",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249387.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/ogre-savant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/249387"
+      }
+    ]
+  },
+  {
+    "name": "Ogre's Cleaver",
+    "id": "ogres-cleaver",
+    "url": "https://api.deckbrew.com/mtg/cards/ogres-cleaver",
+    "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/ogres-cleaver?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Equipped creature gets +5/+0.\nEquip {5}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "uncommon",
+        "artist": "Adi Granov",
+        "multiverse_id": 193517,
+        "flavor": "She adopted the weapon of the slave-lord Kazuul, and with it, all his cruelty.",
+        "number": "220",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193517",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193517.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/ogres-cleaver?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193517"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Sentry",
+    "id": "ogre-sentry",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-sentry",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-sentry",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Defender",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 193583,
+        "flavor": "\"You have to appreciate the genius of it. Why bother building defenses when you can just fill the pass with angry ogres?\"\n—Javad Nasrin, Ondu relic hunter",
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193583",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193583.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/ogre-sentry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193583"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "common",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 416925,
+        "flavor": "\"You have to appreciate the genius of it. Why bother building defenses when you can just fill the pass with angry ogres?\"\n—Javad Nasrin, Ondu relic hunter",
+        "number": "168",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416925",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416925.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/ogre-sentry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416925"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Shaman",
+    "id": "ogre-shaman",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-shaman",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-shaman",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 397465,
+        "flavor": "Ogre shamans must be bright enough to learn their invocations and dim enough to use them.",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397465",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397465.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/ogre-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397465"
+      },
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 6127,
+        "flavor": "Ogre shamans must be bright enough to learn their invocations and dim enough to use them.",
+        "number": "91",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6127",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6127.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/ogre-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6127"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Slumlord",
+    "id": "ogre-slumlord",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-slumlord",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/ogre-slumlord?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.\nRats you control have deathtouch.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 366432,
+        "flavor": "\"His tenement is filled with the most vile, disgusting vermin. It's infested with rats, too.\"\n—Branko One-Ear",
+        "number": "74",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366432",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366432.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/ogre-slumlord?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366432"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Taskmaster",
+    "id": "ogre-taskmaster",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-taskmaster",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-taskmaster",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Ogre Taskmaster can't block.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "uncommon",
+        "artist": "Dany Orizio",
+        "multiverse_id": 83190,
+        "flavor": "Three little goblins, enjoying their brew. One bumped an ogre, and then there were two.",
+        "number": "205",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83190",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83190.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83190"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Dan Frazier",
+        "multiverse_id": 220965,
+        "flavor": "Three little goblins, enjoying their brew. One bumped an ogre, and then there were two.",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220965",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220965.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220965"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "uncommon",
+        "artist": "Jeff Easley",
+        "multiverse_id": 15817,
+        "flavor": "Ogres learn how to smash stuff even before they learn how to walk.",
+        "number": "203",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15817",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15817.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15817"
+      },
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Orizio Daniele",
+        "multiverse_id": 19844,
+        "flavor": "He doesn't have to be smart—his masters only ever give him one command.",
+        "number": "206",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19844",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19844.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19844"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Dany Orizio",
+        "multiverse_id": 45369,
+        "flavor": "Ogres learn how to smash stuff even before they learn how to walk.",
+        "number": "205",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45369",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45369.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45369"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 6588,
+        "flavor": "Three little goblins, enjoying their brew. One bumped an ogre, and then there were two.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6588",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6588.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ogre-taskmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6588"
+      }
+    ]
+  },
+  {
+    "name": "Ogre Warrior",
+    "id": "ogre-warrior",
+    "url": "https://api.deckbrew.com/mtg/cards/ogre-warrior",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ogre-warrior",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Starter 2000",
+        "set_id": "S00",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 25476,
+        "flavor": "Assault and battery included.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25476",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25476.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S00",
+        "store_url": "http://store.tcgplayer.com/magic/starter-2000/ogre-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25476"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 6597,
+        "flavor": "Assault and battery included.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ogre-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6597"
+      },
+      {
+        "set": "Starter 1999",
+        "set_id": "S99",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 21070,
+        "flavor": "Assault and battery included.",
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21070",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21070.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/ogre-warrior?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21070"
+      }
+    ]
+  },
+  {
+    "name": "Ohran Viper",
+    "id": "ohran-viper",
+    "url": "https://api.deckbrew.com/mtg/cards/ohran-viper",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ohran-viper",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "snow"
+    ],
+    "subtypes": [
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.\nWhenever Ohran Viper deals combat damage to a player, you may draw a card.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 380265,
+        "flavor": "The ohran viper is not cold-blooded. Its veins course with the same antigelid venom used to kill its prey.",
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380265",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380265.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/ohran-viper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380265"
+      },
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 121266,
+        "flavor": "The ohran viper is not cold-blooded. Its veins course with the same antigelid venom used to kill its prey.",
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121266",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121266.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/ohran-viper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121266"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 405323,
+        "flavor": "The ohran viper is not cold-blooded. Its veins course with the same antigelid venom used to kill its prey.",
+        "number": "194",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405323",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405323.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/ohran-viper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405323"
+      }
+    ]
+  },
+  {
+    "name": "Ohran Yeti",
+    "id": "ohran-yeti",
+    "url": "https://api.deckbrew.com/mtg/cards/ohran-yeti",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/ohran-yeti?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "snow"
+    ],
+    "subtypes": [
+      "yeti"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "{2}{S}: Target snow creature gains first strike until end of turn. ({S} can be paid with one mana from a snow permanent.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "common",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 121144,
+        "flavor": "When a snowdrift shows you its eyes, it's already too late.",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121144",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121144.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/ohran-yeti?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121144"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai Exemplars",
+    "id": "ojutai-exemplars",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutai-exemplars",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-exemplars?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "monk"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Whenever you cast a noncreature spell, choose one —\n• Tap target creature.\n• Ojutai Exemplars gains first strike and lifelink until end of turn.\n• Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "mythic",
+        "artist": "Willian Murai",
+        "multiverse_id": 394638,
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394638",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394638.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-exemplars?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394638"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai Interceptor",
+    "id": "ojutai-interceptor",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutai-interceptor",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-interceptor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird",
+      "soldier"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\nMegamorph {3}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "common",
+        "artist": "Johann Bodin",
+        "multiverse_id": 394639,
+        "flavor": "\"Though I may soar, I could never fly as high as the dragons.\"",
+        "number": "66",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394639",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394639.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-interceptor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394639"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai Monument",
+    "id": "ojutai-monument",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutai-monument",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-monument?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{T}: Add {W} or {U} to your mana pool.\n{4}{W}{U}: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "uncommon",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 394640,
+        "flavor": "Ojutai spends time at all his strongholds, but he most favors Cori Stronghold for his meditation.",
+        "number": "242",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394640",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394640.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutai-monument?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394640"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai's Breath",
+    "id": "ojutais-breath",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutais-breath",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutais-breath?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Tap target creature. It doesn't untap during its controller's next untap step.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 394641,
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394641",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394641.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutais-breath?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394641"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai's Command",
+    "id": "ojutais-command",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutais-command",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ojutais-command",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{U}",
+    "text": "Choose two —\n• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n• You gain 4 life.\n• Counter target creature spell.\n• Draw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "rare",
+        "artist": "Willian Murai",
+        "multiverse_id": 394642,
+        "number": "227",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394642",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394642.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutais-command?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394642"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Craig J Spearing",
+        "multiverse_id": 0,
+        "number": "106",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/ojutais-command?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Willian Murai",
+        "multiverse_id": 0,
+        "number": "185",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/ojutais-command?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai, Soul of Winter",
+    "id": "ojutai-soul-of-winter",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutai-soul-of-winter",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ojutai-soul-of-winter",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{5}{W}{U}",
+    "text": "Flying, vigilance\nWhenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.",
+    "power": "5",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Ojutai",
+        "rarity": "rare",
+        "artist": "Chase Stone",
+        "multiverse_id": 391889,
+        "flavor": "\"When I battled Ojutai, I realized my learning had only begun.\"\n—Shu Yun, the Silent Tempest",
+        "number": "156",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391889",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391889.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/ojutai-soul-of-winter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391889"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Chase Stone",
+        "multiverse_id": 0,
+        "flavor": "\"When I battled Ojutai, I realized my learning had only begun.\"\n—Shu Yun, the Silent Tempest",
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/ojutai-soul-of-winter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Ojutai's Summons",
+    "id": "ojutais-summons",
+    "url": "https://api.deckbrew.com/mtg/cards/ojutais-summons",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutais-summons?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Create a 2/2 blue Djinn Monk creature token with flying.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Ojutai",
+        "rarity": "common",
+        "artist": "Jakub Kasper",
+        "multiverse_id": 394643,
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394643",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394643.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ojutais-summons?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394643"
+      }
+    ]
+  },
+  {
+    "name": "Okiba-Gang Shinobi",
+    "id": "okiba-gang-shinobi",
+    "url": "https://api.deckbrew.com/mtg/cards/okiba-gang-shinobi",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=okiba-gang-shinobi",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ninja",
+      "rat"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 423460,
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423460",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423460.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/okiba-gang-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423460"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 271185,
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271185",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271185.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/okiba-gang-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271185"
+      },
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 74576,
+        "number": "76",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74576",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74576.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/okiba-gang-shinobi?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74576"
+      }
+    ]
+  },
+  {
+    "name": "Okina Nightwatch",
+    "id": "okina-nightwatch",
+    "url": "https://api.deckbrew.com/mtg/cards/okina-nightwatch",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=okina-nightwatch",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "monk"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 74196,
+        "flavor": "Only the most skilled budoka could protect the Okina Shrine. Only the best of these protectors took the night watch.",
+        "number": "140",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74196",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74196.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/okina-nightwatch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74196"
+      },
+      {
+        "set": "Arena League",
+        "set_id": "pARL",
+        "rarity": "special",
+        "artist": "Heather Hudson",
+        "multiverse_id": 0,
+        "flavor": "Only the most skilled budoka could protect the Okina Shrine. Only the best of these protectors took the night watch.",
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pARL",
+        "store_url": "http://store.tcgplayer.com/magic/arena-league/okina-nightwatch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Okina, Temple to the Grandfathers",
+    "id": "okina-temple-to-the-grandfathers",
+    "url": "https://api.deckbrew.com/mtg/cards/okina-temple-to-the-grandfathers",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/okina-temple-to-the-grandfathers?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {G} to your mana pool.\n{G}, {T}: Target legendary creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "rare",
+        "artist": "Keith Garletts",
+        "multiverse_id": 80251,
+        "flavor": "If a land can be said to have a heart, Okina is the heart of Kamigawa.",
+        "number": "280",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=80251",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/80251.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/okina-temple-to-the-grandfathers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/80251"
+      }
+    ]
+  },
+  {
+    "name": "Okk",
+    "id": "okk",
+    "url": "https://api.deckbrew.com/mtg/cards/okk",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=okk",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Okk can't attack unless a creature with greater power also attacks.\nOkk can't block unless a creature with greater power also blocks.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Peter Bollinger",
+        "multiverse_id": 25686,
+        "number": "204",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25686",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25686.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/okk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25686"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Peter Bollinger",
+        "multiverse_id": 45382,
+        "number": "206",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45382",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45382.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/okk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45382"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "rare",
+        "artist": "Mike Raabe",
+        "multiverse_id": 5586,
+        "number": "204",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5586",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5586.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/okk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5586"
+      }
+    ]
+  },
+  {
+    "name": "Old Fogey",
+    "id": "old-fogey",
+    "url": "https://api.deckbrew.com/mtg/cards/old-fogey",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/old-fogey?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dinosaur"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{G}{G}",
+    "text": "Phasing, cumulative upkeep {1}, echo, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2",
+    "power": "7",
+    "toughness": "7",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "rare",
+        "artist": "Douglas Shuler",
+        "multiverse_id": 74235,
+        "flavor": "\"These kids today with their collector numbers and their newfangled tap symbol. Twenty Black Lotuses and twenty Plague Rats. Now that's real Magic.\"",
+        "number": "106",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74235",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74235.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/old-fogey?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74235"
+      }
+    ]
+  },
+  {
+    "name": "Old Ghastbark",
+    "id": "old-ghastbark",
+    "url": "https://api.deckbrew.com/mtg/cards/old-ghastbark",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/old-ghastbark?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "treefolk",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G/W}{G/W}",
+    "text": "",
+    "power": "3",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "common",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 142007,
+        "flavor": "\"Beware of trees that talk. Their words are threats. And mind the ones that sway and creak. They too threaten us, but in a foreign tongue.\"\n—The Book of Other Folk",
+        "number": "232",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=142007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/142007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/old-ghastbark?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/142007"
+      }
+    ]
+  },
+  {
+    "name": "Old Man of the Sea",
+    "id": "old-man-of-the-sea",
+    "url": "https://api.deckbrew.com/mtg/cards/old-man-of-the-sea",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=old-man-of-the-sea",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "djinn"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{U}",
+    "text": "You may choose not to untap Old Man of the Sea during your untap step.\n{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "rare",
+        "artist": "Susan Van Camp",
+        "multiverse_id": 201144,
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201144",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201144.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/old-man-of-the-sea?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201144"
+      },
+      {
+        "set": "Arabian Nights",
+        "set_id": "ARN",
+        "rarity": "rare",
+        "artist": "Susan Van Camp",
+        "multiverse_id": 937,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=937",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/937.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/old-man-of-the-sea?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/937"
+      }
+    ]
+  },
+  {
+    "name": "Olivia, Mobilized for War",
+    "id": "olivia-mobilized-for-war",
+    "url": "https://api.deckbrew.com/mtg/cards/olivia-mobilized-for-war",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/olivia-mobilized-for-war?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "knight",
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{R}",
+    "text": "Flying\nWhenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "mythic",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 410013,
+        "number": "248",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=410013",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/410013.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/olivia-mobilized-for-war?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/410013"
+      }
+    ]
+  },
+  {
+    "name": "Olivia's Bloodsworn",
+    "id": "olivias-bloodsworn",
+    "url": "https://api.deckbrew.com/mtg/cards/olivias-bloodsworn",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/olivias-bloodsworn?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "soldier",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Flying\nOlivia's Bloodsworn can't block.\n{R}: Target Vampire gains haste until end of turn.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Daarken",
+        "multiverse_id": 409877,
+        "flavor": "\"As we muster for war, I have little patience for lethargy or recalcitrance.\"",
+        "number": "127",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409877",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409877.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/olivias-bloodsworn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409877"
+      }
+    ]
+  },
+  {
+    "name": "Olivia's Dragoon",
+    "id": "olivias-dragoon",
+    "url": "https://api.deckbrew.com/mtg/cards/olivias-dragoon",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/olivias-dragoon?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Discard a card: Olivia's Dragoon gains flying until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "common",
+        "artist": "Chris Rallis",
+        "multiverse_id": 414396,
+        "flavor": "Displays of Voldaren bloodlust are not restricted to glamorous banquets and lavish parties.",
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414396",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414396.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/olivias-dragoon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414396"
+      }
+    ]
+  },
+  {
+    "name": "Olivia Voldaren",
+    "id": "olivia-voldaren",
+    "url": "https://api.deckbrew.com/mtg/cards/olivia-voldaren",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/olivia-voldaren?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{R}",
+    "text": "Flying\n{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.\n{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "mythic",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 247235,
+        "number": "215",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247235",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247235.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/olivia-voldaren?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247235"
+      }
+    ]
+  },
+  {
+    "name": "Oloro, Ageless Ascetic",
+    "id": "oloro-ageless-ascetic",
+    "url": "https://api.deckbrew.com/mtg/cards/oloro-ageless-ascetic",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oloro-ageless-ascetic",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "giant",
+      "soldier"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{3}{W}{U}{B}",
+    "text": "At the beginning of your upkeep, you gain 2 life.\nWhenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.\nAt the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "mythic",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 376436,
+        "number": "203",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376436",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376436.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/oloro-ageless-ascetic?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376436"
+      },
+      {
+        "set": "Judge Gift Program",
+        "set_id": "pJGP",
+        "rarity": "special",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 0,
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/oloro-ageless-ascetic?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Omega Myr",
+    "id": "omega-myr",
+    "url": "https://api.deckbrew.com/mtg/cards/omega-myr",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/omega-myr?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "myr"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Dany Orizio",
+        "multiverse_id": 48605,
+        "flavor": "Last to charge, last to fall.",
+        "number": "223",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48605",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48605.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/omega-myr?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48605"
+      }
+    ]
+  },
+  {
+    "name": "Omen",
+    "id": "omen",
+    "url": "https://api.deckbrew.com/mtg/cards/omen",
+    "store_url": "http://store.tcgplayer.com/magic/portal/omen?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "common",
+        "artist": "Eric Peterson",
+        "multiverse_id": 4269,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4269",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4269.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/omen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4269"
+      }
+    ]
+  },
+  {
+    "name": "Omen Machine",
+    "id": "omen-machine",
+    "url": "https://api.deckbrew.com/mtg/cards/omen-machine",
+    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/omen-machine?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "Players can't draw cards.\nAt the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "New Phyrexia",
+        "set_id": "NPH",
+        "watermark": "Phyrexian",
+        "rarity": "rare",
+        "artist": "David Rapoza",
+        "multiverse_id": 233042,
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233042",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233042.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/omen-machine?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/233042"
+      }
+    ]
+  },
+  {
+    "name": "Omen of Fire",
+    "id": "omen-of-fire",
+    "url": "https://api.deckbrew.com/mtg/cards/omen-of-fire",
+    "store_url": "http://store.tcgplayer.com/magic/alliances/omen-of-fire?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "Return all Islands to their owners' hands.\nEach player sacrifices a Plains or a white permanent for each white permanent he or she controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 3177,
+        "flavor": "\"Let Balduvia burn to warm Kjeldor's hearth!\"\n—General Varchild",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3177",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3177.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/omen-of-fire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3177"
+      }
+    ]
+  },
+  {
+    "name": "Omenspeaker",
+    "id": "omenspeaker",
+    "url": "https://api.deckbrew.com/mtg/cards/omenspeaker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=omenspeaker",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Dallas Williams",
+        "multiverse_id": 373693,
+        "flavor": "Her prophecies amaze her even as she speaks them.",
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373693",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373693.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/omenspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373693"
+      },
+      {
+        "set": "Duel Decks: Elspeth vs. Kiora",
+        "set_id": "DDO",
+        "rarity": "common",
+        "artist": "Dallas Williams",
+        "multiverse_id": 394394,
+        "flavor": "Her prophecies amaze her even as she speaks them.",
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394394",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394394.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDO",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/omenspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394394"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "common",
+        "artist": "Dallas Williams",
+        "multiverse_id": 416875,
+        "flavor": "Her prophecies amaze her even as she speaks them.",
+        "number": "118",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416875",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416875.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/omenspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416875"
+      }
+    ]
+  },
+  {
+    "name": "Omnath, Locus of Mana",
+    "id": "omnath-locus-of-mana",
+    "url": "https://api.deckbrew.com/mtg/cards/omnath-locus-of-mana",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=omnath-locus-of-mana",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Green mana doesn't empty from your mana pool as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "mythic",
+        "artist": "Mike Bierek",
+        "multiverse_id": 197759,
+        "flavor": "It gathers against the coming storm.",
+        "number": "109",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197759",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197759.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/omnath-locus-of-mana?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197759"
+      },
+      {
+        "set": "From the Vault: Legends",
+        "set_id": "V11",
+        "rarity": "mythic",
+        "artist": "Mike Bierek",
+        "multiverse_id": 259295,
+        "flavor": "It gathers against the coming storm.",
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=259295",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/259295.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V11",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/omnath-locus-of-mana?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/259295"
+      }
+    ]
+  },
+  {
+    "name": "Omnath, Locus of Rage",
+    "id": "omnath-locus-of-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/omnath-locus-of-rage",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=omnath-locus-of-rage",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 7,
+    "cost": "{3}{R}{R}{G}{G}",
+    "text": "Landfall — Whenever a land enters the battlefield under your control, create a 5/5 red and green Elemental creature token.\nWhenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to target creature or player.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Brad Rigney",
+        "multiverse_id": 0,
+        "number": "279",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/omnath-locus-of-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "mythic",
+        "artist": "Brad Rigney",
+        "multiverse_id": 401973,
+        "number": "217",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401973",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401973.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/omnath-locus-of-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401973"
+      }
+    ]
+  },
+  {
+    "name": "Omnibian",
+    "id": "omnibian",
+    "url": "https://api.deckbrew.com/mtg/cards/omnibian",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/omnibian?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "frog"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{1}{G}{G}{U}",
+    "text": "{T}: Target creature becomes a Frog with base power and toughness 3/3 until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Simic",
+        "rarity": "rare",
+        "artist": "Jim Nelson",
+        "multiverse_id": 83737,
+        "flavor": "\"This creature has hyperevolved chameleonic abilities. It no longer mimics its surroundings, instead forcing them to take on its form.\"\n—Simic research notes",
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/omnibian?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83737"
+      }
+    ]
+  },
+  {
+    "name": "Omniscience",
+    "id": "omniscience",
+    "url": "https://api.deckbrew.com/mtg/cards/omniscience",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/omniscience?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 10,
+    "cost": "{7}{U}{U}{U}",
+    "text": "You may cast spells from your hand without paying their mana costs.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "mythic",
+        "artist": "Jason Chan",
+        "multiverse_id": 288937,
+        "flavor": "\"The things I once imagined would be my greatest achievements were only the first steps toward a future I can only begin to fathom.\"\n—Jace Beleren",
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=288937",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/288937.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/omniscience?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/288937"
+      }
+    ]
+  },
+  {
+    "name": "O-Naginata",
+    "id": "o-naginata",
+    "url": "https://api.deckbrew.com/mtg/cards/o-naginata",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/o-naginata?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 1,
+    "cost": "{1}",
+    "text": "O-Naginata can be attached only to a creature with power 3 or greater.\nEquipped creature gets +3/+0 and has trample.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 74146,
+        "number": "157",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74146",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74146.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/o-naginata?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74146"
+      }
+    ]
+  },
+  {
+    "name": "Onakke Catacomb",
+    "id": "onakke-catacomb",
+    "url": "https://api.deckbrew.com/mtg/cards/onakke-catacomb",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=onakke-catacomb",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "shandalar"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "All creatures are black and have deathtouch.\nWhenever you roll {CHAOS}, creatures you control get +1/+0 and gain first strike until end of turn.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Nic Klein",
+        "multiverse_id": 423639,
+        "number": "58",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423639",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423639.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/onakke-catacomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423639"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Nic Klein",
+        "multiverse_id": 226513,
+        "number": "28",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226513",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226513.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/onakke-catacomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226513"
+      }
+    ]
+  },
+  {
+    "name": "Once More with Feeling",
+    "id": "once-more-with-feeling",
+    "url": "https://api.deckbrew.com/mtg/cards/once-more-with-feeling",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/once-more-with-feeling?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{W}{W}{W}{W}",
+    "text": "Remove Once More with Feeling from the game as well as all cards in play and in all graveyards. Each player shuffles his or her hand into her or his library, then draws seven cards. Each player's life total is set to 10.\nDCI ruling: This card is restricted. (You cannot play with more than one in a deck.)",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 9772,
+        "flavor": "If yo  . . .  ted.",
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9772",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9772.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/once-more-with-feeling?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9772"
+      }
+    ]
+  },
+  {
+    "name": "Ondu Champion",
+    "id": "ondu-champion",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-champion",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-champion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "minotaur",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Rally — Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Volkan Baga",
+        "multiverse_id": 401974,
+        "flavor": "\"Put a minotaur at the head of an army and suddenly all the soldiers act like they have horns.\"—Gideon Jura",
+        "number": "149",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401974",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401974.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401974"
+      }
+    ]
+  },
+  {
+    "name": "Ondu Cleric",
+    "id": "ondu-cleric",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-cleric",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/ondu-cleric?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "cleric",
+      "kor"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Jim Murray",
+        "multiverse_id": 192210,
+        "flavor": "A cleric's true balm is the confidence he inspires in his compatriots.",
+        "number": "30",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=192210",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/192210.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/ondu-cleric?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/192210"
+      }
+    ]
+  },
+  {
+    "name": "Ondu Giant",
+    "id": "ondu-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-giant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ondu-giant",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "giant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 423496,
+        "flavor": "Some druids nurture gardens. Others nurture continents.",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423496",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423496.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/ondu-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423496"
+      },
+      {
+        "set": "Duel Decks: Zendikar vs. Eldrazi",
+        "set_id": "DDP",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 401661,
+        "flavor": "Some druids nurture gardens. Others nurture continents.",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401661",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401661.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/ondu-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401661"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 271153,
+        "flavor": "Some druids nurture gardens. Others nurture continents.",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271153",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271153.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/ondu-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271153"
+      },
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 194929,
+        "flavor": "Some druids nurture gardens. Others nurture continents.",
+        "number": "202",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194929",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194929.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/ondu-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194929"
+      }
+    ]
+  },
+  {
+    "name": "Ondu Greathorn",
+    "id": "ondu-greathorn",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-greathorn",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-greathorn?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "First strike\nLandfall — Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Aaron Miller",
+        "multiverse_id": 401975,
+        "flavor": "\"May your horns get lodged in an Eldrazi's bony face, ornery brute!\"—Bruse Tarl, Goma Fada nomad",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401975",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401975.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-greathorn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401975"
+      }
+    ]
+  },
+  {
+    "name": "Ondu Rising",
+    "id": "ondu-rising",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-rising",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-rising?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Whenever a creature attacks this turn, it gains lifelink until end of turn.\nAwaken 4—{4}{W} (If you cast this spell for {4}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 401976,
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401976",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401976.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/ondu-rising?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401976"
+      }
+    ]
+  },
+  {
+    "name": "Ondu War Cleric",
+    "id": "ondu-war-cleric",
+    "url": "https://api.deckbrew.com/mtg/cards/ondu-war-cleric",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/ondu-war-cleric?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: You gain 2 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "common",
+        "artist": "Ben Maier",
+        "multiverse_id": 407541,
+        "flavor": "\"I will follow the light of Iona into battle, and I will know no fear.\"",
+        "number": "31",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407541",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407541.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/ondu-war-cleric?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407541"
+      }
+    ]
+  },
+  {
+    "name": "One Dozen Eyes",
+    "id": "one-dozen-eyes",
+    "url": "https://api.deckbrew.com/mtg/cards/one-dozen-eyes",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=one-dozen-eyes",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{5}{G}",
+    "text": "Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Darrell Riche",
+        "multiverse_id": 376437,
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376437",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376437.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/one-dozen-eyes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376437"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "Darrell Riche",
+        "multiverse_id": 48385,
+        "number": "126",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48385",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48385.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/one-dozen-eyes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48385"
+      }
+    ]
+  },
+  {
+    "name": "One-Eyed Scarecrow",
+    "id": "one-eyed-scarecrow",
+    "url": "https://api.deckbrew.com/mtg/cards/one-eyed-scarecrow",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/one-eyed-scarecrow?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "scarecrow"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Defender\nCreatures with flying your opponents control get -1/-0.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "common",
+        "artist": "Dave Kendall",
+        "multiverse_id": 220045,
+        "flavor": "Farmhands and priests mutter curses at the ragged thing; it unnerves more than just the crows.",
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220045",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220045.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/one-eyed-scarecrow?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220045"
+      }
+    ]
+  },
+  {
+    "name": "One of the Pack",
+    "id": "one-of-the-pack",
+    "url": "https://api.deckbrew.com/mtg/cards/one-of-the-pack",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/one-of-the-pack?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "werewolf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "",
+    "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform One of the Pack.",
+    "power": "5",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "common",
+        "artist": "Craig J Spearing",
+        "multiverse_id": 409993,
+        "flavor": "When the howl beckons, he cannot resist the urge to join the others.",
+        "number": "229b",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409993",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409993.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/one-of-the-pack?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409993"
+      }
+    ]
+  },
+  {
+    "name": "One Thousand Lashes",
+    "id": "one-thousand-lashes",
+    "url": "https://api.deckbrew.com/mtg/cards/one-thousand-lashes",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/one-thousand-lashes?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{B}",
+    "text": "Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.\nAt the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "watermark": "Orzhov",
+        "rarity": "uncommon",
+        "artist": "Daarken",
+        "multiverse_id": 366261,
+        "number": "183",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366261",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366261.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/one-thousand-lashes?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366261"
+      }
+    ]
+  },
+  {
+    "name": "One with Nature",
+    "id": "one-with-nature",
+    "url": "https://api.deckbrew.com/mtg/cards/one-with-nature",
+    "store_url": "http://store.tcgplayer.com/magic/scourge/one-with-nature?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 43543,
+        "number": "125",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43543",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43543.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/one-with-nature?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43543"
+      }
+    ]
+  },
+  {
+    "name": "One with Nothing",
+    "id": "one-with-nothing",
+    "url": "https://api.deckbrew.com/mtg/cards/one-with-nothing",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/one-with-nothing?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "Discard your hand.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Jim Nelson",
+        "multiverse_id": 88817,
+        "flavor": "When nothing remains, everything is equally possible.",
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=88817",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/88817.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/one-with-nothing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/88817"
+      }
+    ]
+  },
+  {
+    "name": "Ongoing Investigation",
+    "id": "ongoing-investigation",
+    "url": "https://api.deckbrew.com/mtg/cards/ongoing-investigation",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/ongoing-investigation?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\n{1}{G}, Exile a creature card from your graveyard: Investigate. You gain 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "uncommon",
+        "artist": "Bud Cook",
+        "multiverse_id": 409820,
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409820",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409820.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/ongoing-investigation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409820"
+      }
+    ]
+  },
+  {
+    "name": "Oni of Wild Places",
+    "id": "oni-of-wild-places",
+    "url": "https://api.deckbrew.com/mtg/cards/oni-of-wild-places",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oni-of-wild-places",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon",
+      "spirit"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{5}{R}",
+    "text": "Haste\nAt the beginning of your upkeep, return a red creature you control to its owner's hand.",
+    "power": "6",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 74048,
+        "flavor": "The oni leapt easily from peak to peak, toying with its victims, its voice a purr from the rumbling depths of nightmare.",
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74048",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74048.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/oni-of-wild-places?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74048"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 247411,
+        "flavor": "The oni leapt easily from peak to peak, toying with its victims, its voice a purr from the rumbling depths of nightmare.",
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247411",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247411.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/oni-of-wild-places?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247411"
+      },
+      {
+        "set": "Duel Decks: Speed vs. Cunning",
+        "set_id": "DDN",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 386355,
+        "flavor": "The oni leapt easily from peak to peak, toying with its victims, its voice a purr from the rumbling depths of nightmare.",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386355",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386355.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDN",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-speed-vs-cunning/oni-of-wild-places?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386355"
+      }
+    ]
+  },
+  {
+    "name": "Oni of Wild Places Avatar",
+    "id": "oni-of-wild-places-avatar",
+    "url": "https://api.deckbrew.com/mtg/cards/oni-of-wild-places-avatar",
+    "store_url": "http://store.tcgplayer.com/magic/vanguard/oni-of-wild-places-avatar?partner=DECKBREW",
+    "types": [
+      "vanguard"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Creatures you control have haste.\nAt the beginning of your upkeep, return a creature you control to its owner's hand.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Vanguard",
+        "set_id": "VAN",
+        "rarity": "special",
+        "artist": "UDON",
+        "multiverse_id": 182253,
+        "flavor": "SOK Participation Avatar",
+        "number": "50",
+        "layout": "vanguard",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=182253",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/182253.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+        "store_url": "http://store.tcgplayer.com/magic/vanguard/oni-of-wild-places-avatar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/182253"
+      }
+    ]
+  },
+  {
+    "name": "Oni Possession",
+    "id": "oni-possession",
+    "url": "https://api.deckbrew.com/mtg/cards/oni-possession",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oni-possession",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "uncommon",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 50394,
+        "number": "135",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50394",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50394.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/oni-possession?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50394"
+      },
+      {
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
+        "rarity": "uncommon",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 394037,
+        "number": "51",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394037",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394037.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/oni-possession?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394037"
+      },
+      {
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
+        "rarity": "uncommon",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 197016,
+        "number": "51",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197016",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197016.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/oni-possession?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197016"
+      }
+    ]
+  },
+  {
+    "name": "Only Blood Ends Your Nightmares",
+    "id": "only-blood-ends-your-nightmares",
+    "url": "https://api.deckbrew.com/mtg/cards/only-blood-ends-your-nightmares",
+    "store_url": "http://store.tcgplayer.com/magic/archenemy/only-blood-ends-your-nightmares?partner=DECKBREW",
+    "types": [
+      "scheme"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "When you set this scheme in motion, each opponent sacrifices a creature. Then each opponent who didn't sacrifice a creature discards two cards.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "common",
+        "artist": "Paul Bonner",
+        "multiverse_id": 212622,
+        "flavor": "\"But nothing will end your regret.\"",
+        "number": "34",
+        "layout": "scheme",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=212622",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/212622.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/only-blood-ends-your-nightmares?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/212622"
+      }
+    ]
+  },
+  {
+    "name": "Onslaught",
+    "id": "onslaught",
+    "url": "https://api.deckbrew.com/mtg/cards/onslaught",
+    "store_url": "http://store.tcgplayer.com/magic/exodus/onslaught?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Whenever you cast a creature spell, tap target creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 6115,
+        "flavor": "The last thing to go through the mogg's mind was its teeth.",
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6115",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6115.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/onslaught?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6115"
+      }
+    ]
+  },
+  {
+    "name": "Onulet",
+    "id": "onulet",
+    "url": "https://api.deckbrew.com/mtg/cards/onulet",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=onulet",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "construct"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "When Onulet dies, you gain 2 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 2063,
+        "flavor": "An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2063",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2063.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/onulet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2063"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "uncommon",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 1015,
+        "flavor": "An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/onulet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1015"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 159116,
+        "flavor": "An early inspiration for Urza, Tocasia's onulets contained magical essences that could be cannibalized after they stopped functioning.",
+        "number": "161",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159116",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159116.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/onulet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159116"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 221104,
+        "flavor": "An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.",
+        "number": "219",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221104",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221104.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/onulet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221104"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 1130,
+        "flavor": "An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1130",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1130.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/onulet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1130"
+      }
+    ]
+  },
+  {
+    "name": "Onyx Goblet",
+    "id": "onyx-goblet",
+    "url": "https://api.deckbrew.com/mtg/cards/onyx-goblet",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/onyx-goblet?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "{T}: Target player loses 1 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "rk post",
+        "multiverse_id": 174831,
+        "flavor": "The goblet was a gift from the sphinx Gorael, who hoped humans and vedalken would eventually destroy each other to acquire it, leaving all of Esper to her own kind.",
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174831",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174831.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/onyx-goblet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174831"
+      }
+    ]
+  },
+  {
+    "name": "Onyx Mage",
+    "id": "onyx-mage",
+    "url": "https://api.deckbrew.com/mtg/cards/onyx-mage",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/onyx-mage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "uncommon",
+        "artist": "Izzy",
+        "multiverse_id": 220072,
+        "flavor": "\"We wield death and darkness, powers that make lesser mages tremble in fear.\"\n—Onyx creed",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220072",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220072.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/onyx-mage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220072"
+      }
+    ]
+  },
+  {
+    "name": "Onyx Talisman",
+    "id": "onyx-talisman",
+    "url": "https://api.deckbrew.com/mtg/cards/onyx-talisman",
+    "store_url": "http://store.tcgplayer.com/magic/ice-age/onyx-talisman?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Whenever a player casts a black spell, you may pay {3}. If you do, untap target permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "uncommon",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 2417,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2417",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2417.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/onyx-talisman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2417"
+      }
+    ]
+  },
+  {
+    "name": "Oona, Queen of the Fae",
+    "id": "oona-queen-of-the-fae",
+    "url": "https://api.deckbrew.com/mtg/cards/oona-queen-of-the-fae",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oona-queen-of-the-fae",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "faerie",
+      "wizard"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{3}{U/B}{U/B}{U/B}",
+    "text": "Flying\n{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, create a 1/1 blue and black Faerie Rogue creature token with flying.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 152063,
+        "number": "172",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152063",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152063.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/oona-queen-of-the-fae?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152063"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 370429,
+        "number": "193",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370429",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370429.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/oona-queen-of-the-fae?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370429"
+      },
+      {
+        "set": "From the Vault: Legends",
+        "set_id": "V11",
+        "rarity": "mythic",
+        "artist": "Adam Rex",
+        "multiverse_id": 244668,
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244668",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244668.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V11",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/oona-queen-of-the-fae?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244668"
+      }
+    ]
+  },
+  {
+    "name": "Oona's Blackguard",
+    "id": "oonas-blackguard",
+    "url": "https://api.deckbrew.com/mtg/cards/oonas-blackguard",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oonas-blackguard",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "faerie",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Flying\nEach other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gateway",
+        "set_id": "pGTW",
+        "rarity": "special",
+        "artist": "Darrell Riche",
+        "multiverse_id": 0,
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+        "store_url": "http://store.tcgplayer.com/magic/gateway/oonas-blackguard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 153099,
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153099",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153099.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/oonas-blackguard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153099"
+      }
+    ]
+  },
+  {
+    "name": "Oona's Gatewarden",
+    "id": "oonas-gatewarden",
+    "url": "https://api.deckbrew.com/mtg/cards/oonas-gatewarden",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/oonas-gatewarden?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "faerie",
+      "soldier"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U/B}",
+    "text": "Defender, flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "common",
+        "artist": "Mike Dringenberg",
+        "multiverse_id": 141975,
+        "flavor": "\"So now you've seen Glen Elendra. Take a good look. It will be the last thing you'll ever see.\"",
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141975",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141975.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/oonas-gatewarden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141975"
+      }
+    ]
+  },
+  {
+    "name": "Oona's Grace",
+    "id": "oonas-grace",
+    "url": "https://api.deckbrew.com/mtg/cards/oonas-grace",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oonas-grace",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Target player draws a card.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 153475,
+        "flavor": "Oona grants her favored subjects a dream from her own guarded heart.",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153475",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153475.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/oonas-grace?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153475"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 413605,
+        "flavor": "Oona grants her favored subjects a dream from her own guarded heart.",
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413605",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413605.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/oonas-grace?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413605"
+      }
+    ]
+  },
+  {
+    "name": "Oona's Prowler",
+    "id": "oonas-prowler",
+    "url": "https://api.deckbrew.com/mtg/cards/oonas-prowler",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/oonas-prowler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "faerie",
+      "rogue"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Flying\nDiscard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may activate this ability.",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 146582,
+        "flavor": "Deep in Glen Elendra blossoms Oona, queen of the faeries, nourished by secrets and pollinated by stolen dreams.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146582",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146582.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/oonas-prowler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/146582"
+      }
+    ]
+  },
+  {
+    "name": "Ooze Flux",
+    "id": "ooze-flux",
+    "url": "https://api.deckbrew.com/mtg/cards/ooze-flux",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/ooze-flux?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "rarity": "rare",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 366375,
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366375",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366375.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/ooze-flux?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366375"
+      }
+    ]
+  },
+  {
+    "name": "Ooze Garden",
+    "id": "ooze-garden",
+    "url": "https://api.deckbrew.com/mtg/cards/ooze-garden",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/ooze-garden?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "{1}{G}, Sacrifice a non-Ooze creature: Create an X/X green Ooze creature token, where X is the sacrificed creature's power. Activate this ability only any time you could cast a sorcery.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 174886,
+        "flavor": "Jund has little necromancy. Instead, the flesh of its dead gives rise to algal fiends.",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174886",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174886.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/ooze-garden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174886"
+      }
+    ]
+  },
+  {
+    "name": "Opal Acrolith",
+    "id": "opal-acrolith",
+    "url": "https://api.deckbrew.com/mtg/cards/opal-acrolith",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-acrolith?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.\n{0}: Opal Acrolith becomes an enchantment.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Robh Ruppel",
+        "multiverse_id": 5784,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5784",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5784.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-acrolith?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5784"
+      }
+    ]
+  },
+  {
+    "name": "Opal Archangel",
+    "id": "opal-archangel",
+    "url": "https://api.deckbrew.com/mtg/cards/opal-archangel",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-archangel?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "rare",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 5787,
+        "number": "23",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5787",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5787.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5787"
+      }
+    ]
+  },
+  {
+    "name": "Opal Avenger",
+    "id": "opal-avenger",
+    "url": "https://api.deckbrew.com/mtg/cards/opal-avenger",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/opal-avenger?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "When you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Legacy",
+        "set_id": "ULG",
+        "rarity": "rare",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 8814,
+        "flavor": "As the sun grew cold in the realm, the statue grew warm.",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=8814",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/8814.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/opal-avenger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/8814"
+      }
+    ]
+  },
+  {
+    "name": "Opal Caryatid",
+    "id": "opal-caryatid",
+    "url": "https://api.deckbrew.com/mtg/cards/opal-caryatid",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-caryatid?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Berry",
+        "multiverse_id": 5795,
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5795",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5795.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/opal-caryatid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5795"
+      }
+    ]
+  }
+]

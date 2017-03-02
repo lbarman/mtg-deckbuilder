@@ -1,0 +1,5727 @@
+[
+  {
+    "name": "Blessing",
+    "id": "blessing",
+    "url": "https://api.deckbrew.com/mtg/cards/blessing",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blessing",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{W}{W}",
+    "text": "Enchant creature\n{W}: Enchanted creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 2324,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2324",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2324.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2324"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "uncommon",
+        "artist": "Jason A. Engle",
+        "multiverse_id": 370819,
+        "flavor": "\"Virtue can't survive without strength.\"\n—Ardanna of the Angelic Council",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370819",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370819.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370819"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 835,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=835",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/835.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/835"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 1332,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1332",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1332.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1332"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 238,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=238",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/238.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/238"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Julie Baroh",
+        "multiverse_id": 533,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=533",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/533.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/533"
+      }
+    ]
+  },
+  {
+    "name": "Blessing of Leeches",
+    "id": "blessing-of-leeches",
+    "url": "https://api.deckbrew.com/mtg/cards/blessing-of-leeches",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/blessing-of-leeches?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Flash\nEnchant creature\nAt the beginning of your upkeep, you lose 1 life.\n{0}: Regenerate enchanted creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 74417,
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74417",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74417.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/blessing-of-leeches?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74417"
+      }
+    ]
+  },
+  {
+    "name": "Blessing of the Nephilim",
+    "id": "blessing-of-the-nephilim",
+    "url": "https://api.deckbrew.com/mtg/cards/blessing-of-the-nephilim",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/blessing-of-the-nephilim?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Enchant creature\nEnchanted creature gets +1/+1 for each of its colors.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 107307,
+        "flavor": "\"Before the first stone was laid or the first elf-child born, the power of the nephilim was gathering. Let that power be spread by my hands.\"",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107307",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107307.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/blessing-of-the-nephilim?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107307"
+      }
+    ]
+  },
+  {
+    "name": "Blessings of Nature",
+    "id": "blessings-of-nature",
+    "url": "https://api.deckbrew.com/mtg/cards/blessings-of-nature",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/blessings-of-nature?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Distribute four +1/+1 counters among any number of target creatures.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "Anthony Francisco",
+        "multiverse_id": 240040,
+        "number": "168",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240040",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240040.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/blessings-of-nature?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240040"
+      }
+    ]
+  },
+  {
+    "name": "Blight",
+    "id": "blight",
+    "url": "https://api.deckbrew.com/mtg/cards/blight",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blight",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "uncommon",
+        "artist": "Ian Miller",
+        "multiverse_id": 15399,
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15399",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15399.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15399"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 2089,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2089",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2089.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2089"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 159769,
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159769",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159769.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159769"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "Ian Miller",
+        "multiverse_id": 3827,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3827",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3827.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3827"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 1429,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1429",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1429.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/blight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1429"
+      }
+    ]
+  },
+  {
+    "name": "Blightcaster",
+    "id": "blightcaster",
+    "url": "https://api.deckbrew.com/mtg/cards/blightcaster",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blightcaster",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{3}{B}",
+    "text": "Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "uncommon",
+        "artist": "Winona Nelson",
+        "multiverse_id": 370761,
+        "flavor": "\"Your flesh is unprepared for my gifts.\"",
+        "number": "86",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370761",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370761.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/blightcaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370761"
+      },
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "uncommon",
+        "artist": "Winona Nelson",
+        "multiverse_id": 398618,
+        "flavor": "\"Your flesh is unprepared for my gifts.\"",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398618",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398618.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/blightcaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398618"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Agent",
+    "id": "blighted-agent",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-agent",
+    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/blighted-agent?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "rogue"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nBlighted Agent can't be blocked.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "New Phyrexia",
+        "set_id": "NPH",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Anthony Francisco",
+        "multiverse_id": 214383,
+        "flavor": "\"Urabrask may suspect our surveillance, but he cannot stop it.\"\n—Avaricta, Gitaxian sective",
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214383",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214383.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/blighted-agent?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/214383"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Cataract",
+    "id": "blighted-cataract",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-cataract",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-cataract?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Vincent Proce",
+        "multiverse_id": 401820,
+        "flavor": "Once, water ran here. Now only dust and ash fall from the clifftops.",
+        "number": "229",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401820",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401820.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-cataract?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401820"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Fen",
+    "id": "blighted-fen",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-fen",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blighted-fen",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Jason Felix",
+        "multiverse_id": 0,
+        "flavor": "\"We came to a place where the skin of Zendikar was peeled back and its bones lay bare to the sky.\"\n—Greenweaver Mina",
+        "number": "191",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/blighted-fen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Jonas De Ro",
+        "multiverse_id": 401821,
+        "flavor": "\"We came to a place where the skin of Zendikar was peeled back and its bones lay bare to the sky.\"—Greenweaver Mina",
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401821",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401821.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-fen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401821"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Gorge",
+    "id": "blighted-gorge",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-gorge",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-gorge?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{4}{R}, {T}, Sacrifice Blighted Gorge: Blighted Gorge deals 2 damage to target creature or player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Jung Park",
+        "multiverse_id": 401822,
+        "flavor": "The land is dying, but it will not go peacefully.",
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401822",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401822.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-gorge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401822"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Shaman",
+    "id": "blighted-shaman",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-shaman",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blighted-shaman",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human",
+      "shaman"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.\n{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "uncommon",
+        "artist": "Ian Miller",
+        "multiverse_id": 15385,
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15385",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15385.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/blighted-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15385"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Ian Miller",
+        "multiverse_id": 3276,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3276",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3276.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/blighted-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3276"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Steppe",
+    "id": "blighted-steppe",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-steppe",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-steppe?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{3}{W}, {T}, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 401823,
+        "flavor": "\"When a limb is gangrenous, you cut it off. This is no different.\"—Greenweaver Mina",
+        "number": "232",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401823",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401823.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-steppe?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401823"
+      }
+    ]
+  },
+  {
+    "name": "Blighted Woodland",
+    "id": "blighted-woodland",
+    "url": "https://api.deckbrew.com/mtg/cards/blighted-woodland",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-woodland?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{3}{G}, {T}, Sacrifice Blighted Woodland: Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Jason Felix",
+        "multiverse_id": 401824,
+        "number": "233",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401824",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401824.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blighted-woodland?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401824"
+      }
+    ]
+  },
+  {
+    "name": "Blight Herder",
+    "id": "blight-herder",
+    "url": "https://api.deckbrew.com/mtg/cards/blight-herder",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blight-herder",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "eldrazi",
+      "processor"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 0,
+        "number": "245",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/blight-herder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 401819,
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401819",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401819.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blight-herder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401819"
+      }
+    ]
+  },
+  {
+    "name": "Blight Mamba",
+    "id": "blight-mamba",
+    "url": "https://api.deckbrew.com/mtg/cards/blight-mamba",
+    "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/blight-mamba?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{1}{G}: Regenerate Blight Mamba.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Drew Baker",
+        "multiverse_id": 194158,
+        "flavor": "Its venom drips with Phyrexia's hate.",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194158",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194158.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/blight-mamba?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/194158"
+      }
+    ]
+  },
+  {
+    "name": "Blightning",
+    "id": "blightning",
+    "url": "https://api.deckbrew.com/mtg/cards/blightning",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blightning",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{R}",
+    "text": "Blightning deals 3 damage to target player. That player discards two cards.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Sorin vs. Tibalt",
+        "set_id": "DDK",
+        "rarity": "common",
+        "artist": "Dan Scott",
+        "multiverse_id": 368483,
+        "flavor": "In the spirit of inquiry, Tibalt applied a battery of agony spells. They yielded nothing on the vampire's whereabouts, but the screams were reward enough.",
+        "number": "69",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368483",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368483.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/blightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368483"
+      },
+      {
+        "set": "Magic Player Rewards",
+        "set_id": "pMPR",
+        "rarity": "special",
+        "artist": "Jim Pavelec",
+        "multiverse_id": 0,
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+        "store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/blightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 174917,
+        "flavor": "While the smell of burning flesh is common in Grixis, the odor of smoldering brain matter is a rare treat.",
+        "number": "156",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174917",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174917.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/blightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174917"
+      }
+    ]
+  },
+  {
+    "name": "Blight Sickle",
+    "id": "blight-sickle",
+    "url": "https://api.deckbrew.com/mtg/cards/blight-sickle",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/blight-sickle?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)\nEquip {2}",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "common",
+        "artist": "John Avon",
+        "multiverse_id": 129135,
+        "flavor": "Its scars cut deeper than its blade.",
+        "number": "247",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129135",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129135.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/blight-sickle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129135"
+      }
+    ]
+  },
+  {
+    "name": "Blightsoil Druid",
+    "id": "blightsoil-druid",
+    "url": "https://api.deckbrew.com/mtg/cards/blightsoil-druid",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blightsoil-druid",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "druid",
+      "elf"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{T}, Pay 1 life: Add {G} to your mana pool.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 413622,
+        "flavor": "\"See the beauty in death: the clean white bones lying in the fertile soil and the brightly colored moonglove sprouting from the fell earth.\"",
+        "number": "80",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413622",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413622.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/blightsoil-druid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413622"
+      },
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 152705,
+        "flavor": "\"See the beauty in death: the clean white bones lying in the fertile soil and the brightly colored moonglove sprouting from the fell earth.\"",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152705",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152705.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/blightsoil-druid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152705"
+      }
+    ]
+  },
+  {
+    "name": "Blightspeaker",
+    "id": "blightspeaker",
+    "url": "https://api.deckbrew.com/mtg/cards/blightspeaker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blightspeaker",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human",
+      "rebel"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "{T}: Target player loses 1 life.\n{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "common",
+        "artist": "Ron Spears",
+        "multiverse_id": 124506,
+        "flavor": "One croaked sermon spreads propaganda and plague.",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=124506",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/124506.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/blightspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/124506"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Ron Spears",
+        "multiverse_id": 370567,
+        "flavor": "One croaked sermon spreads propaganda and plague.",
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370567",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370567.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/blightspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370567"
+      }
+    ]
+  },
+  {
+    "name": "Blightsteel Colossus",
+    "id": "blightsteel-colossus",
+    "url": "https://api.deckbrew.com/mtg/cards/blightsteel-colossus",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blightsteel-colossus?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "golem"
+    ],
+    "cmc": 12,
+    "cost": "{12}",
+    "text": "Trample, infect, indestructible\nIf Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",
+    "power": "11",
+    "toughness": "11",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Phyrexian",
+        "rarity": "mythic",
+        "artist": "Chris Rahn",
+        "multiverse_id": 221563,
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221563",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221563.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blightsteel-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221563"
+      }
+    ]
+  },
+  {
+    "name": "Blightwidow",
+    "id": "blightwidow",
+    "url": "https://api.deckbrew.com/mtg/cards/blightwidow",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blightwidow?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spider"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Reach (This creature can block creatures with flying.)\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 213820,
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213820",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213820.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blightwidow?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213820"
+      }
+    ]
+  },
+  {
+    "name": "Blind Creeper",
+    "id": "blind-creeper",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-creeper",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/blind-creeper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 50212,
+        "flavor": "It shuns everything except its next meal.",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=50212",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/50212.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/blind-creeper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/50212"
+      }
+    ]
+  },
+  {
+    "name": "Blind Fury",
+    "id": "blind-fury",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-fury",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/blind-fury?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "John Coulthart",
+        "multiverse_id": 3429,
+        "flavor": "\"Tell me . . . have you ever sung the Song of Blood?\"\n—Purraj of Urborg",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3429",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3429.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/blind-fury?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3429"
+      }
+    ]
+  },
+  {
+    "name": "Blind Hunter",
+    "id": "blind-hunter",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-hunter",
+    "store_url": "http://store.tcgplayer.com/magic/guildpact/blind-hunter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bat"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{B}",
+    "text": "Flying\nHaunt (When this creature dies, exile it haunting target creature.)\nWhen Blind Hunter enters the battlefield or the creature it haunts dies, target player loses 2 life and you gain 2 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Orzhov",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 97227,
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97227",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97227.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/blind-hunter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97227"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Angel",
+    "id": "blinding-angel",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-angel",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinding-angel",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Blinding Angel deals combat damage to a player, that player skips his or her next combat phase.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 83007,
+        "flavor": "\"Their eyes will shrivel and blacken before faith's true light.\"",
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/blinding-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83007"
+      },
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 21273,
+        "flavor": "\"Their eyes will shrivel and blacken before faith's true light.\"",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21273",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21273.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/blinding-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21273"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 45211,
+        "flavor": "\"Their eyes will shrivel and blacken before faith's true light.\"",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45211",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45211.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/blinding-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45211"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Beam",
+    "id": "blinding-beam",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-beam",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinding-beam",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Choose one —\n• Tap two target creatures.\n• Creatures don't untap during target player's next untap step.\nEntwine {1} (Choose both if you pay the entwine cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
+        "rarity": "common",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 222721,
+        "number": "28",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222721",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222721.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/blinding-beam?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222721"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 370431,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370431",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370431.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/blinding-beam?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370431"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 48099,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48099",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48099.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/blinding-beam?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48099"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Drone",
+    "id": "blinding-drone",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-drone",
+    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/blinding-drone?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drone",
+      "eldrazi"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Devoid (This card has no color.)\n{C}, {T}: Tap target creature. ({C} represents colorless mana.)",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Oath of the Gatewatch",
+        "set_id": "OGW",
+        "rarity": "common",
+        "artist": "Lake Hurwitz",
+        "multiverse_id": 407551,
+        "flavor": "\"Zendikar's true gods have risen. Whether in reverence or agony, all the world will kneel.\"\n—Ayli, high priest of the Eternal Pilgrims",
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407551",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407551.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/blinding-drone?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/407551"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Flare",
+    "id": "blinding-flare",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-flare",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/blinding-flare?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Strive — Blinding Flare costs {R} more to cast for each target beyond the first.\nAny number of target creatures can't block this turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "uncommon",
+        "artist": "Evan Shipard",
+        "multiverse_id": 380380,
+        "number": "91",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380380",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380380.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/blinding-flare?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380380"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Light",
+    "id": "blinding-light",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-light",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinding-light",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Tap all nonwhite creatures.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "uncommon",
+        "artist": "Marc Fishman",
+        "multiverse_id": 22955,
+        "flavor": "An angel's sword impales only the body; her righteousness penetrates the soul.",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=22955",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/22955.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/blinding-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/22955"
+      },
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "rare",
+        "artist": "John Coulthart",
+        "multiverse_id": 4376,
+        "flavor": "Let the unjust avert their faces and contemplate their peril.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4376",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4376.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/blinding-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4376"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Hannibal King",
+        "multiverse_id": 3480,
+        "flavor": "\"My shield will bear a shining sun so you will always be with me. / Inlaid with gold, it will shine like glowing embers.\"\n—\"Love Song of Night and Day\"",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3480",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3480.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/blinding-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3480"
+      },
+      {
+        "set": "Starter 1999",
+        "set_id": "S99",
+        "rarity": "rare",
+        "artist": "John Coulthart",
+        "multiverse_id": 20388,
+        "flavor": "Let the unjust avert their faces and contemplate their peril.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20388",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20388.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/blinding-light?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/20388"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Mage",
+    "id": "blinding-mage",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-mage",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinding-mage",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "{W}, {T}: Tap target creature.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "common",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 205219,
+        "flavor": "\"I carry the light of truth. Do not pity those it blinds, for they never had eyes to see.\"",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205219",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205219.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/blinding-mage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205219"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "common",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 190195,
+        "flavor": "\"I carry the light of truth. Do not pity those it blinds, for they never had eyes to see.\"",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190195",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190195.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/blinding-mage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190195"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Powder",
+    "id": "blinding-powder",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-powder",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/blinding-powder?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "subtypes": [
+      "equipment"
+    ],
+    "cmc": 1,
+    "cost": "{1}",
+    "text": "Equipped creature has \"Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn.\"\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "uncommon",
+        "artist": "Greg Hildebrandt",
+        "multiverse_id": 81989,
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=81989",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/81989.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/blinding-powder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/81989"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Souleater",
+    "id": "blinding-souleater",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-souleater",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinding-souleater",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "cleric"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{W/P}, {T}: Tap target creature. ({W/P} can be paid with either {W} or 2 life.)",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 397810,
+        "flavor": "\"We thank the souleaters for inscribing our souls with subservience, to reinforce the sacred order.\"\n—Drones' hymn of gratitude",
+        "number": "202",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397810",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397810.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/blinding-souleater?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397810"
+      },
+      {
+        "set": "New Phyrexia",
+        "set_id": "NPH",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 233045,
+        "flavor": "\"We thank the souleaters for inscribing our souls with subservience, to reinforce the sacred order.\"\n—Drones' hymn of gratitude",
+        "number": "131",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233045",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233045.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/blinding-souleater?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/233045"
+      }
+    ]
+  },
+  {
+    "name": "Blinding Spray",
+    "id": "blinding-spray",
+    "url": "https://api.deckbrew.com/mtg/cards/blinding-spray",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/blinding-spray?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "Creatures your opponents control get -4/-0 until end of turn.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "uncommon",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 386490,
+        "flavor": "\"The stronger our enemies seem, the more vulnerable they are.\"\n—Sultai secret",
+        "number": "32",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386490",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386490.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/blinding-spray?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386490"
+      }
+    ]
+  },
+  {
+    "name": "Blind Obedience",
+    "id": "blind-obedience",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-obedience",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blind-obedience",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nArtifacts and creatures your opponents control enter the battlefield tapped.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 420676,
+        "flavor": "\"By the time your knees have worn through your robe, you may have begun to learn your place.\"",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420676",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420676.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/blind-obedience?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420676"
+      },
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "watermark": "Orzhov",
+        "rarity": "rare",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 366465,
+        "flavor": "\"By the time your knees have worn through your robe, you may have begun to learn your place.\"",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366465",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366465.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/blind-obedience?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366465"
+      }
+    ]
+  },
+  {
+    "name": "Blind Phantasm",
+    "id": "blind-phantasm",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-phantasm",
+    "store_url": "http://store.tcgplayer.com/magic/future-sight/blind-phantasm?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "illusion"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "common",
+        "artist": "Khang Le",
+        "multiverse_id": 126143,
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=126143",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/126143.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/blind-phantasm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/126143"
+      }
+    ]
+  },
+  {
+    "name": "Blind Seer",
+    "id": "blind-seer",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-seer",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/blind-seer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{U}",
+    "text": "{1}{U}: Target spell or permanent becomes the color of your choice until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Dave Dorman",
+        "multiverse_id": 23006,
+        "flavor": "\"I think he sees more than he lets on.\"\n—Gerrard",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23006",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23006.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/blind-seer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23006"
+      }
+    ]
+  },
+  {
+    "name": "Blind-Spot Giant",
+    "id": "blind-spot-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-spot-giant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blind-spot-giant",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Blind-Spot Giant can't attack or block unless you control another Giant.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Jim Murray",
+        "multiverse_id": 146597,
+        "flavor": "Among the solitude-loving giantkind, teamwork is unusual. But he appreciates hearing the occasional \"Swing down and to your left.\"",
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/blind-spot-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/146597"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Jim Murray",
+        "multiverse_id": 370377,
+        "flavor": "Among the solitude-loving giantkind, teamwork is unusual. But he appreciates hearing the occasional \"Swing down and to your left.\"",
+        "number": "105",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370377",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370377.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/blind-spot-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370377"
+      }
+    ]
+  },
+  {
+    "name": "Blind with Anger",
+    "id": "blind-with-anger",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-with-anger",
+    "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/blind-with-anger?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "subtypes": [
+      "arcane"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champions of Kamigawa",
+        "set_id": "CHK",
+        "rarity": "uncommon",
+        "artist": "Dave Dorman",
+        "multiverse_id": 77925,
+        "flavor": "\"I can post only the most honorable and strong-willed samurai to defend your stronghold. I have seen what can happen to lesser men.\"\n—General Takeno, letter to Lord Konda",
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=77925",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/77925.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+        "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/blind-with-anger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/77925"
+      }
+    ]
+  },
+  {
+    "name": "Blind Zealot",
+    "id": "blind-zealot",
+    "url": "https://api.deckbrew.com/mtg/cards/blind-zealot",
+    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/blind-zealot?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "New Phyrexia",
+        "set_id": "NPH",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Jana Schirmer \u0026amp; Johannes Voss",
+        "multiverse_id": 217999,
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=217999",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/217999.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/blind-zealot?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/217999"
+      }
+    ]
+  },
+  {
+    "name": "Blinking Spirit",
+    "id": "blinking-spirit",
+    "url": "https://api.deckbrew.com/mtg/cards/blinking-spirit",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinking-spirit",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "{0}: Return Blinking Spirit to its owner's hand.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "L. A. Williams",
+        "multiverse_id": 83962,
+        "flavor": "\"Don't look at it! Maybe it'll go away!\"\n—Ib Halfheart, goblin tactician",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83962",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83962.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/blinking-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83962"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "L. A. Williams",
+        "multiverse_id": 4109,
+        "flavor": "\"Don't look at it! Maybe it'll go away!\"\n—Ib Halfheart, goblin tactician",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4109",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4109.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/blinking-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4109"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "rare",
+        "artist": "L. A. Williams",
+        "multiverse_id": 2668,
+        "flavor": "\"Don't look at it! Maybe it'll go away!\"\n—Ib Halfheart, Goblin Tactician",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2668",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2668.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/blinking-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2668"
+      },
+      {
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
+        "rarity": "rare",
+        "artist": "L. A. Williams",
+        "multiverse_id": 11177,
+        "flavor": "\"Don't look at it! Maybe it'll go away!\"\n—Ib Halfheart, goblin tactician",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11177",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11177.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/blinking-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/11177"
+      }
+    ]
+  },
+  {
+    "name": "Blinkmoth Infusion",
+    "id": "blinkmoth-infusion",
+    "url": "https://api.deckbrew.com/mtg/cards/blinkmoth-infusion",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/blinkmoth-infusion?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 14,
+    "cost": "{12}{U}{U}",
+    "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nUntap all artifacts.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "rare",
+        "artist": "Alan Pollack",
+        "multiverse_id": 51634,
+        "flavor": "Power begets power.",
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51634",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51634.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/blinkmoth-infusion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/51634"
+      }
+    ]
+  },
+  {
+    "name": "Blinkmoth Nexus",
+    "id": "blinkmoth-nexus",
+    "url": "https://api.deckbrew.com/mtg/cards/blinkmoth-nexus",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinkmoth-nexus",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.\n{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "rare",
+        "artist": "Sam Burley",
+        "multiverse_id": 397660,
+        "number": "236",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397660",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397660.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/blinkmoth-nexus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397660"
+      },
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "rare",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 39439,
+        "number": "163",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39439",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39439.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/blinkmoth-nexus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39439"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "rare",
+        "artist": "Sam Burley",
+        "multiverse_id": 370407,
+        "number": "220",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370407",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370407.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/blinkmoth-nexus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370407"
+      }
+    ]
+  },
+  {
+    "name": "Blinkmoth Urn",
+    "id": "blinkmoth-urn",
+    "url": "https://api.deckbrew.com/mtg/cards/blinkmoth-urn",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blinkmoth-urn",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {C} to his or her mana pool for each artifact he or she controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 420861,
+        "flavor": "The vedalken embed such urns in their living artifact creations.",
+        "number": "244",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420861",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420861.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/blinkmoth-urn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420861"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 46714,
+        "flavor": "The vedalken embed such urns in their living artifact creations.",
+        "number": "145",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46714",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46714.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/blinkmoth-urn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46714"
+      }
+    ]
+  },
+  {
+    "name": "Blinkmoth Well",
+    "id": "blinkmoth-well",
+    "url": "https://api.deckbrew.com/mtg/cards/blinkmoth-well",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin/blinkmoth-well?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{2}, {T}: Tap target noncreature artifact.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "uncommon",
+        "artist": "David Martin",
+        "multiverse_id": 48916,
+        "flavor": "When dictated by blinkmoth migratory patterns, clouds of tiny lights well up from Mirrodin's core.",
+        "number": "279",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48916",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48916.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/blinkmoth-well?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48916"
+      }
+    ]
+  },
+  {
+    "name": "Blister Beetle",
+    "id": "blister-beetle",
+    "url": "https://api.deckbrew.com/mtg/cards/blister-beetle",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/blister-beetle?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "insect"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "When Blister Beetle enters the battlefield, target creature gets -1/-1 until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 174893,
+        "flavor": "Warriors of the Rip Clan wear their beetle-acid scars proudly, even modifying clothing and armor to better display the trophy.",
+        "number": "66",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174893",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174893.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/blister-beetle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174893"
+      }
+    ]
+  },
+  {
+    "name": "Blistercoil Weird",
+    "id": "blistercoil-weird",
+    "url": "https://api.deckbrew.com/mtg/cards/blistercoil-weird",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/blistercoil-weird?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "weird"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{U/R}",
+    "text": "Whenever you cast an instant or sorcery spell, Blistercoil Weird gets +1/+1 until end of turn. Untap it.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Izzet",
+        "rarity": "uncommon",
+        "artist": "Dan Scott",
+        "multiverse_id": 289222,
+        "flavor": "Azorius lawmages would like to outlaw the creation of weirds, but first they'd have to settle their long-standing debate on how to classify them.",
+        "number": "211",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=289222",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/289222.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/blistercoil-weird?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/289222"
+      }
+    ]
+  },
+  {
+    "name": "Blistergrub",
+    "id": "blistergrub",
+    "url": "https://api.deckbrew.com/mtg/cards/blistergrub",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blistergrub",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhen Blistergrub dies, each opponent loses 2 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Phyrexian",
+        "rarity": "common",
+        "artist": "Daarken",
+        "multiverse_id": 202687,
+        "flavor": "\"The sooner you join Phyrexia, the sooner you'll forget your painful rebirth.\"\n—Sheoldred, Whispering One",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202687",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202687.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/blistergrub?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202687"
+      },
+      {
+        "set": "Duel Decks: Nissa vs. Ob Nixilis",
+        "set_id": "DDR",
+        "rarity": "common",
+        "artist": "Daarken",
+        "multiverse_id": 417463,
+        "flavor": "\"Avoid anything that scuttles, scrabbles, or shambles.\"\n—Opar, veteran guide",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417463",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417463.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDR",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-nissa-vs-ob-nixilis/blistergrub?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417463"
+      }
+    ]
+  },
+  {
+    "name": "Blistering Barrier",
+    "id": "blistering-barrier",
+    "url": "https://api.deckbrew.com/mtg/cards/blistering-barrier",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/blistering-barrier?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wall"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Defender (This creature can't attack.)",
+    "power": "5",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "David Ho",
+        "multiverse_id": 3430,
+        "flavor": "I live without food, stand without leg, wound without force, and am harder to fight than to kill. What am I?\n—Femeref riddle",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3430",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3430.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/blistering-barrier?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3430"
+      }
+    ]
+  },
+  {
+    "name": "Blistering Dieflyn",
+    "id": "blistering-dieflyn",
+    "url": "https://api.deckbrew.com/mtg/cards/blistering-dieflyn",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/blistering-dieflyn?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "imp"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Flying\n{B/R}: Blistering Dieflyn gets +1/+0 until end of turn.",
+    "power": "0",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "common",
+        "artist": "Scott Altmann",
+        "multiverse_id": 141988,
+        "flavor": "Any kithkin smith would love to catch a dieflyn for her kiln, relieving her of ever having to gather fuel again.",
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=141988",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/141988.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/blistering-dieflyn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/141988"
+      }
+    ]
+  },
+  {
+    "name": "Blistering Firecat",
+    "id": "blistering-firecat",
+    "url": "https://api.deckbrew.com/mtg/cards/blistering-firecat",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/blistering-firecat?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat",
+      "elemental"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{1}{R}{R}{R}",
+    "text": "Trample, haste\nAt the beginning of the end step, sacrifice Blistering Firecat.\nMorph {R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "7",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "rare",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 39737,
+        "number": "189",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/blistering-firecat?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39737"
+      }
+    ]
+  },
+  {
+    "name": "Blisterpod",
+    "id": "blisterpod",
+    "url": "https://api.deckbrew.com/mtg/cards/blisterpod",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blisterpod?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drone",
+      "eldrazi"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Devoid (This card has no color.)\nWhen Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Ryan Barger",
+        "multiverse_id": 401825,
+        "flavor": "A blisterpod's corpse is a scion's cradle.",
+        "number": "163",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401825",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401825.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/blisterpod?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401825"
+      }
+    ]
+  },
+  {
+    "name": "Blisterstick Shaman",
+    "id": "blisterstick-shaman",
+    "url": "https://api.deckbrew.com/mtg/cards/blisterstick-shaman",
+    "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blisterstick-shaman?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "goblin",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "common",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 213793,
+        "flavor": "A productive warren requires a good deal of prodding.",
+        "number": "58",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=213793",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/213793.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/blisterstick-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/213793"
+      }
+    ]
+  },
+  {
+    "name": "Blitz Hellion",
+    "id": "blitz-hellion",
+    "url": "https://api.deckbrew.com/mtg/cards/blitz-hellion",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/blitz-hellion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hellion"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{G}",
+    "text": "Trample, haste\nAt the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.",
+    "power": "7",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "rare",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 179406,
+        "flavor": "Alarans commemorated its appearances with new holidays bearing names like the Great Cataclysm and the Fall of Ilson Gate.",
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179406",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179406.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/blitz-hellion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179406"
+      }
+    ]
+  },
+  {
+    "name": "Blizzard",
+    "id": "blizzard",
+    "url": "https://api.deckbrew.com/mtg/cards/blizzard",
+    "store_url": "http://store.tcgplayer.com/magic/ice-age/blizzard?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{G}{G}",
+    "text": "Cast Blizzard only if you control a snow land.\nCumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nCreatures with flying don't untap during their controllers' untap steps.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "rare",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 2551,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2551",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2551.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/blizzard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2551"
+      }
+    ]
+  },
+  {
+    "name": "Blizzard Elemental",
+    "id": "blizzard-elemental",
+    "url": "https://api.deckbrew.com/mtg/cards/blizzard-elemental",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blizzard-elemental",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 7,
+    "cost": "{5}{U}{U}",
+    "text": "Flying\n{3}{U}: Untap Blizzard Elemental.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 26653,
+        "flavor": "Students who had seen Rayne argue with Urza were certain she had summoned it to make him seem warmer by comparison.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26653",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26653.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/blizzard-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26653"
+      },
+      {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 15146,
+        "flavor": "Students who had seen Rayne argue with Urza were certain she had summoned it to make him seem warmer by comparison.",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15146",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15146.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/blizzard-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15146"
+      }
+    ]
+  },
+  {
+    "name": "Blizzard Specter",
+    "id": "blizzard-specter",
+    "url": "https://api.deckbrew.com/mtg/cards/blizzard-specter",
+    "store_url": "http://store.tcgplayer.com/magic/coldsnap/blizzard-specter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "snow"
+    ],
+    "subtypes": [
+      "specter"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{2}{U}{B}",
+    "text": "Flying\nWhenever Blizzard Specter deals combat damage to a player, choose one —\n• That player returns a permanent he or she controls to its owner's hand.\n• That player discards a card.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Coldsnap",
+        "set_id": "CSP",
+        "rarity": "uncommon",
+        "artist": "Hideaki Takamura",
+        "multiverse_id": 121151,
+        "number": "126",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=121151",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/121151.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap/blizzard-specter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/121151"
+      }
+    ]
+  },
+  {
+    "name": "Bloated Toad",
+    "id": "bloated-toad",
+    "url": "https://api.deckbrew.com/mtg/cards/bloated-toad",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/bloated-toad?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "frog"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Protection from blue\nCycling {2} ({2}, Discard this card: Draw a card.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Legacy",
+        "set_id": "ULG",
+        "rarity": "uncommon",
+        "artist": "Una Fricker",
+        "multiverse_id": 12462,
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12462",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12462.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/bloated-toad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12462"
+      }
+    ]
+  },
+  {
+    "name": "Blockade Runner",
+    "id": "blockade-runner",
+    "url": "https://api.deckbrew.com/mtg/cards/blockade-runner",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blockade-runner?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "{U}: Blockade Runner can't be blocked this turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 19567,
+        "flavor": "\"I need to get back to Mercadia City,\" said Sisay. \"We can get you there,\" the vizier answered. \"Easily.\"",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19567",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19567.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blockade-runner?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19567"
+      }
+    ]
+  },
+  {
+    "name": "Blockbuster",
+    "id": "blockbuster",
+    "url": "https://api.deckbrew.com/mtg/cards/blockbuster",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/blockbuster?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "{1}{R}, Sacrifice Blockbuster: Blockbuster deals 3 damage to each tapped creature and each player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "uncommon",
+        "artist": "Dave Dorman",
+        "multiverse_id": 87977,
+        "flavor": "Vendors hung cords heavy with roots and laid out boxes of salted meat, unaware of the fiery disaster swiftly approaching.",
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87977",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87977.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/blockbuster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87977"
+      }
+    ]
+  },
+  {
+    "name": "Blood",
+    "id": "blood",
+    "url": "https://api.deckbrew.com/mtg/cards/blood",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/blood?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{R}{G}",
+    "text": "Target creature you control deals damage equal to its power to target creature or player.\nFuse (You may cast one or both halves of this card from your hand.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "rarity": "rare",
+        "artist": "Lucas Graciano",
+        "multiverse_id": 368991,
+        "number": "128b",
+        "layout": "split",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368991",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368991.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/blood?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368991"
+      }
+    ]
+  },
+  {
+    "name": "Blood Artist",
+    "id": "blood-artist",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-artist",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-artist",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.",
+    "power": "0",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "Johannes Voss",
+        "multiverse_id": 240178,
+        "flavor": "\"Great art can never be created without great suffering.\"",
+        "number": "86",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240178",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240178.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/blood-artist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240178"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Johannes Voss",
+        "multiverse_id": 413623,
+        "flavor": "\"Great art can never be created without great suffering.\"",
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413623",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413623.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/blood-artist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413623"
+      }
+    ]
+  },
+  {
+    "name": "Blood Bairn",
+    "id": "blood-bairn",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-bairn",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-bairn",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 370698,
+        "flavor": "The travelers were warned to watch out for children on the road.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370698",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370698.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/blood-bairn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370698"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 405148,
+        "flavor": "The travelers were warned to watch out for children on the road.",
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405148",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405148.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/blood-bairn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405148"
+      }
+    ]
+  },
+  {
+    "name": "Blood Baron of Vizkopa",
+    "id": "blood-baron-of-vizkopa",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-baron-of-vizkopa",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/blood-baron-of-vizkopa?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{B}",
+    "text": "Lifelink, protection from white and from black\nAs long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Orzhov",
+        "rarity": "mythic",
+        "artist": "Anthony Palumbo",
+        "multiverse_id": 368954,
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368954",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368954.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/blood-baron-of-vizkopa?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368954"
+      }
+    ]
+  },
+  {
+    "name": "Bloodbond March",
+    "id": "bloodbond-march",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodbond-march",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/bloodbond-march?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{G}",
+    "text": "Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from his or her graveyard to the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "watermark": "Golgari",
+        "rarity": "rare",
+        "artist": "Jim Nelson",
+        "multiverse_id": 89000,
+        "flavor": "The Golgari support a vast army because death never ends its soldiers' service.",
+        "number": "192",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=89000",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/89000.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/bloodbond-march?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/89000"
+      }
+    ]
+  },
+  {
+    "name": "Bloodbond Vampire",
+    "id": "bloodbond-vampire",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodbond-vampire",
+    "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/bloodbond-vampire?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ally",
+      "shaman",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "uncommon",
+        "artist": "Anna Steinbauer",
+        "multiverse_id": 401826,
+        "flavor": "\"Let the vampires join us. In this war, we no longer have the luxury of choosing our comrades.\"—General Tazri, allied commander",
+        "number": "104",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401826",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401826.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/bloodbond-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401826"
+      }
+    ]
+  },
+  {
+    "name": "Bloodbraid Elf",
+    "id": "bloodbraid-elf",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodbraid-elf",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodbraid-elf",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "elf"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{G}",
+    "text": "Haste\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "banned",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "uncommon",
+        "artist": "Steve Argyle",
+        "multiverse_id": 423509,
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423509",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423509.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423509"
+      },
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "uncommon",
+        "artist": "Dominick Domingo",
+        "multiverse_id": 185053,
+        "number": "50",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=185053",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/185053.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/185053"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Steve Argyle",
+        "multiverse_id": 0,
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "uncommon",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 420801,
+        "number": "184",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420801",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420801.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420801"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 413739,
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413739",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413739.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413739"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "uncommon",
+        "artist": "Steve Argyle",
+        "multiverse_id": 271167,
+        "number": "84",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271167",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271167.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/bloodbraid-elf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271167"
+      }
+    ]
+  },
+  {
+    "name": "Bloodbriar",
+    "id": "bloodbriar",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodbriar",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodbriar?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental",
+      "plant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "common",
+        "artist": "Tomasz Jedruszek",
+        "multiverse_id": 414452,
+        "flavor": "\"There is a sourness here that I don't understand. When the land reaches out to me, I hesitate to reach back.\"\n—Nissa Revane",
+        "number": "151",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414452",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414452.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodbriar?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414452"
+      }
+    ]
+  },
+  {
+    "name": "Blood Celebrant",
+    "id": "blood-celebrant",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-celebrant",
+    "store_url": "http://store.tcgplayer.com/magic/legions/blood-celebrant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "{B}, Pay 1 life: Add one mana of any color to your mana pool.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "common",
+        "artist": "Ben Thompson",
+        "multiverse_id": 44206,
+        "flavor": "\"Their blood is the nectar that nourishes the Cabal.\"\n—Phage the Untouchable",
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=44206",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/44206.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/blood-celebrant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/44206"
+      }
+    ]
+  },
+  {
+    "name": "Bloodchief Ascension",
+    "id": "bloodchief-ascension",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodchief-ascension",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodchief-ascension?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. (Damage causes loss of life.)\nWhenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "rare",
+        "artist": "Adi Granov",
+        "multiverse_id": 197892,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197892",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197892.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodchief-ascension?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197892"
+      }
+    ]
+  },
+  {
+    "name": "Blood-Chin Fanatic",
+    "id": "blood-chin-fanatic",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-chin-fanatic",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-chin-fanatic",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "orc",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Kolaghan",
+        "rarity": "rare",
+        "artist": "David Palumbo",
+        "multiverse_id": 394510,
+        "flavor": "\"We are as brutal as our dragonlord. We strike like wild lightning and feast on human flesh.\"",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394510",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394510.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/blood-chin-fanatic?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394510"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "David Palumbo",
+        "multiverse_id": 0,
+        "flavor": "\"We are as brutal as our dragonlord. We strike like wild lightning and feast on human flesh.\"",
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/blood-chin-fanatic?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Blood-Chin Rager",
+    "id": "blood-chin-rager",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-chin-rager",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/blood-chin-rager?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Kolaghan",
+        "rarity": "uncommon",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 394511,
+        "flavor": "Kolaghan blades rarely stay clean for long.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394511",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394511.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/blood-chin-rager?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394511"
+      }
+    ]
+  },
+  {
+    "name": "Blood Clock",
+    "id": "blood-clock",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-clock",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/blood-clock?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 4,
+    "cost": "{4}",
+    "text": "At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Keith Garletts",
+        "multiverse_id": 84709,
+        "flavor": "In an age of war, time is measured not by sand but by blood.",
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/blood-clock?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84709"
+      }
+    ]
+  },
+  {
+    "name": "Bloodcrazed Goblin",
+    "id": "bloodcrazed-goblin",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodcrazed-goblin",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/bloodcrazed-goblin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "goblin"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Bloodcrazed Goblin can't attack unless an opponent has been dealt damage this turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 205007,
+        "flavor": "\"A single drop of blood draws their attention, then they strip your bones clean before you have time to die.\"\n—Jamias, hermit of Telfer Peak",
+        "number": "125",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205007",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205007.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/bloodcrazed-goblin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205007"
+      }
+    ]
+  },
+  {
+    "name": "Bloodcrazed Hoplite",
+    "id": "bloodcrazed-hoplite",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodcrazed-hoplite",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/bloodcrazed-hoplite?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it.\nWhenever a +1/+1 counter is placed on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Jeff Simpson",
+        "multiverse_id": 380381,
+        "number": "61",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380381",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380381.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/bloodcrazed-hoplite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380381"
+      }
+    ]
+  },
+  {
+    "name": "Bloodcrazed Neonate",
+    "id": "bloodcrazed-neonate",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodcrazed-neonate",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodcrazed-neonate",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Bloodcrazed Neonate attacks each turn if able.\nWhenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Wizards Play Network",
+        "set_id": "pWPN",
+        "rarity": "special",
+        "artist": "Dave Kendall",
+        "multiverse_id": 0,
+        "flavor": "While elder vampires select their meals with care, the newly sired frenzy at the first whiff.",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pWPN",
+        "store_url": "http://store.tcgplayer.com/magic/wizards-play-network/bloodcrazed-neonate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "common",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 220373,
+        "flavor": "While elder vampires select their meals with care, the newly sired frenzy at the first whiff.",
+        "number": "131",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220373",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220373.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/bloodcrazed-neonate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220373"
+      }
+    ]
+  },
+  {
+    "name": "Blood Crypt",
+    "id": "blood-crypt",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-crypt",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-crypt",
+    "types": [
+      "land"
+    ],
+    "subtypes": [
+      "mountain",
+      "swamp"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "({T}: Add {B} or {R} to your mana pool.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar Expeditions",
+        "set_id": "EXP",
+        "rarity": "mythic",
+        "artist": "Min Yum",
+        "multiverse_id": 405093,
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405093",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405093.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/blood-crypt?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405093"
+      },
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Rakdos",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 97102,
+        "number": "171",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97102",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97102.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/blood-crypt?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97102"
+      },
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Rakdos",
+        "rarity": "rare",
+        "artist": "Vincent Proce",
+        "multiverse_id": 253683,
+        "flavor": "Where the dead serve as diversion, decor, and dessert.",
+        "number": "238",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253683",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253683.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/blood-crypt?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253683"
+      }
+    ]
+  },
+  {
+    "name": "Blood Cultist",
+    "id": "blood-cultist",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-cultist",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/blood-cultist?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{R}",
+    "text": "{T}: Blood Cultist deals 1 damage to target creature.\nWhenever a creature dealt damage by Blood Cultist this turn dies, put a +1/+1 counter on Blood Cultist.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "uncommon",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 175100,
+        "flavor": "\"To immortality.\"",
+        "number": "157",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=175100",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/175100.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/blood-cultist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/175100"
+      }
+    ]
+  },
+  {
+    "name": "Bloodcurdler",
+    "id": "bloodcurdler",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodcurdler",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/bloodcurdler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "horror"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard.\nThreshold — As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has \"At the beginning of your end step, exile two cards from your graveyard.\"",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 29950,
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29950",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29950.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/bloodcurdler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29950"
+      }
+    ]
+  },
+  {
+    "name": "Bloodcurdling Scream",
+    "id": "bloodcurdling-scream",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodcurdling-scream",
+    "store_url": "http://store.tcgplayer.com/magic/portal-second-age/bloodcurdling-scream?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{X}{B}",
+    "text": "Target creature gets +X/+0 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 6573,
+        "flavor": "\"I have all the weapons my enemies have—and far deeper rage.\"\n—Tojira, swamp queen",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6573",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6573.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/bloodcurdling-scream?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6573"
+      }
+    ]
+  },
+  {
+    "name": "Blood-Cursed Knight",
+    "id": "blood-cursed-knight",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-cursed-knight",
+    "store_url": "http://store.tcgplayer.com/magic/magic-origins/blood-cursed-knight?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "knight",
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{B}",
+    "text": "As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink. (Damage dealt by this creature also causes you to gain that much life.)",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "uncommon",
+        "artist": "Winona Nelson",
+        "multiverse_id": 398527,
+        "flavor": "\"The bloodlust shall not control me, for my oath is my greatest compulsion.\"",
+        "number": "211",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398527",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398527.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/blood-cursed-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398527"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfell Caves",
+    "id": "bloodfell-caves",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfell-caves",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodfell-caves",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 413778,
+        "number": "236",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413778",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413778.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/bloodfell-caves?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413778"
+      },
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 386491,
+        "number": "229",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386491",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386491.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfell-caves?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386491"
+      },
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 391802,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391802",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391802.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/bloodfell-caves?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391802"
+      }
+    ]
+  },
+  {
+    "name": "Blood Feud",
+    "id": "blood-feud",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-feud",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/blood-feud?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "uncommon",
+        "artist": "Winona Nelson",
+        "multiverse_id": 244731,
+        "flavor": "Succession is a matter of blood, and by blood it is often decided.",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244731",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244731.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/blood-feud?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244731"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Colossus",
+    "id": "bloodfire-colossus",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-colossus",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodfire-colossus",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 8,
+    "cost": "{6}{R}{R}",
+    "text": "{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 84456,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "177",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84456",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84456.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84456"
+      },
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 28807,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=28807",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/28807.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/28807"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 270805,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270805",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270805.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270805"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 129709,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "191",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129709"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Dwarf",
+    "id": "bloodfire-dwarf",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-dwarf",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-dwarf?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dwarf"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 26806,
+        "flavor": "For them, the only honorable death is one that leaves a crater.",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26806",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26806.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-dwarf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26806"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Enforcers",
+    "id": "bloodfire-enforcers",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-enforcers",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/bloodfire-enforcers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "monk"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.",
+    "power": "5",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Jeskai",
+        "rarity": "uncommon",
+        "artist": "Yefim Kligerman",
+        "multiverse_id": 391803,
+        "flavor": "Bloodfire practitioners train to focus their rage, building it deep inside themselves until they are ready to release it as a devastating attack.",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391803",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391803.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/bloodfire-enforcers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391803"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Expert",
+    "id": "bloodfire-expert",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-expert",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-expert?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "efreet",
+      "monk"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Jeskai",
+        "rarity": "common",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 386492,
+        "flavor": "Some efreet abandon their homes in the volcanic Fire Rim to embrace the Jeskai Way and discipline their innate flames.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386492",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386492.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-expert?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386492"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Infusion",
+    "id": "bloodfire-infusion",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-infusion",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-infusion?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Enchant creature you control\n{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 29303,
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29303",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29303.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-infusion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29303"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Kavu",
+    "id": "bloodfire-kavu",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-kavu",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodfire-kavu",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kavu"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 28806,
+        "flavor": "Heart of fire, blood of lava, teeth of stone.",
+        "number": "58",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=28806",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/28806.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-kavu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/28806"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 270812,
+        "flavor": "Heart of fire, blood of lava, teeth of stone.",
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270812",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270812.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/bloodfire-kavu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270812"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Mentor",
+    "id": "bloodfire-mentor",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-mentor",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-mentor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "efreet",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "{2}{U}, {T}: Draw a card, then discard a card.",
+    "power": "0",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Jeskai",
+        "rarity": "common",
+        "artist": "Chase Stone",
+        "multiverse_id": 386493,
+        "flavor": "The adept underwent months of preparation to withstand pain, until he was finally ready to receive the efreet master's teachings.",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-mentor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386493"
+      }
+    ]
+  },
+  {
+    "name": "Bloodflow Connoisseur",
+    "id": "bloodflow-connoisseur",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodflow-connoisseur",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/bloodflow-connoisseur?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 240196,
+        "flavor": "\"Death not for survival but for vanity and pleasure? This is the decadence I sought to curb.\"\n—Sorin Markov",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240196",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240196.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/bloodflow-connoisseur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240196"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfray Giant",
+    "id": "bloodfray-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfray-giant",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/bloodfray-giant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Trample\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Rakdos",
+        "rarity": "uncommon",
+        "artist": "Steve Argyle",
+        "multiverse_id": 270785,
+        "flavor": "The star performer of the Juri Revue, his shows have fans and blood spilling into the street.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270785",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270785.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/bloodfray-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270785"
+      }
+    ]
+  },
+  {
+    "name": "Blood Frenzy",
+    "id": "blood-frenzy",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-frenzy",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/blood-frenzy?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Cast Blood Frenzy only before the combat damage step.\nTarget attacking or blocking creature gets +4/+0 until end of turn. Destroy that creature at the beginning of the next end step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 4804,
+        "flavor": "\"When Torahn bellows, none survive—not even the warrior whose horns he rides.\"\n—Talruum adage",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4804",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4804.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/blood-frenzy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4804"
+      }
+    ]
+  },
+  {
+    "name": "Blood Funnel",
+    "id": "blood-funnel",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-funnel",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/blood-funnel?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 89102,
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=89102",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/89102.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/blood-funnel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/89102"
+      }
+    ]
+  },
+  {
+    "name": "Bloodghast",
+    "id": "bloodghast",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodghast",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodghast?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "Bloodghast can't block.\nBloodghast has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "rare",
+        "artist": "Daarken",
+        "multiverse_id": 192230,
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=192230",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/192230.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodghast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/192230"
+      }
+    ]
+  },
+  {
+    "name": "Bloodgift Demon",
+    "id": "bloodgift-demon",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodgift-demon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodgift-demon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Flying\nAt the beginning of your upkeep, target player draws a card and loses 1 life.",
+    "power": "5",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Peter Mohrbacher",
+        "multiverse_id": 389444,
+        "flavor": "He relishes the devotion of his Skirsdag puppets and their belief that it will earn them immortality.",
+        "number": "137",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389444",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389444.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/bloodgift-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389444"
+      },
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "rare",
+        "artist": "Peter Mohrbacher",
+        "multiverse_id": 226885,
+        "flavor": "He relishes the devotion of his Skirsdag puppets and their belief that it will earn them immortality.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226885",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226885.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/bloodgift-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226885"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhall Ooze",
+    "id": "bloodhall-ooze",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhall-ooze",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/bloodhall-ooze?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ooze"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.\nAt the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 159610,
+        "flavor": "A drop of blood spilled from the first dragon.",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159610",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159610.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/bloodhall-ooze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159610"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhall Priest",
+    "id": "bloodhall-priest",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhall-priest",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodhall-priest?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{R}",
+    "text": "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to target creature or player.\nMadness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "rare",
+        "artist": "Mark Winters",
+        "multiverse_id": 414486,
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414486",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414486.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodhall-priest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414486"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhill Bastion",
+    "id": "bloodhill-bastion",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhill-bastion",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodhill-bastion",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "equilor"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Whenever a creature enters the battlefield, it gains double strike and haste until end of turn.\nWhenever you roll {CHAOS}, exile target nontoken creature you control, then return it to the battlefield under your control.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Mark Hyzer",
+        "multiverse_id": 423597,
+        "number": "16",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/bloodhill-bastion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423597"
+      },
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Mark Hyzer",
+        "multiverse_id": 226539,
+        "number": "12",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226539",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226539.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/bloodhill-bastion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226539"
+      }
+    ]
+  },
+  {
+    "name": "Blood Host",
+    "id": "blood-host",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-host",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/blood-host?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 383193,
+        "flavor": "It would be ill-mannered to decline his invitation. It would be ill-advised to accept it.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383193",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383193.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/blood-host?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383193"
+      }
+    ]
+  },
+  {
+    "name": "Blood Hound",
+    "id": "blood-hound",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-hound",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blood-hound?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hound"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Whenever you're dealt damage, you may put that many +1/+1 counters on Blood Hound.\nAt the beginning of your end step, remove all +1/+1 counters from Blood Hound.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Bradley Williams",
+        "multiverse_id": 19714,
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19714",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19714.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blood-hound?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19714"
+      }
+    ]
+  }
+]

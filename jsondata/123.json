@@ -1,0 +1,5694 @@
+[
+  {
+    "name": "Sandstorm",
+    "id": "sandstorm",
+    "url": "https://api.deckbrew.com/mtg/cards/sandstorm",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sandstorm",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Sandstorm deals 1 damage to each attacking creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 2236,
+        "flavor": "Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2236",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2236.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/sandstorm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2236"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 220964,
+        "flavor": "Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.",
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220964",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220964.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/sandstorm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220964"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Mike Kimble",
+        "multiverse_id": 3408,
+        "flavor": "Better to fight the sand for a few hours than to sleep beneath it forever.\n—Suq'Ata truism",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3408",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3408.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/sandstorm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3408"
+      },
+      {
+        "set": "Arabian Nights",
+        "set_id": "ARN",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 951,
+        "flavor": "Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=951",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/951.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/sandstorm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/951"
+      },
+      {
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
+        "rarity": "common",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 21193,
+        "flavor": "Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21193",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21193.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/sandstorm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21193"
+      }
+    ]
+  },
+  {
+    "name": "Sandstorm Charger",
+    "id": "sandstorm-charger",
+    "url": "https://api.deckbrew.com/mtg/cards/sandstorm-charger",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sandstorm-charger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{4}{W}",
+    "text": "Megamorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+    "power": "3",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Dromoka",
+        "rarity": "common",
+        "artist": "Dave Kendall",
+        "multiverse_id": 394674,
+        "flavor": "\"May our foes choke upon its horns!\"\n—Urdnan, Dromoka warrior",
+        "number": "34",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394674",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394674.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sandstorm-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394674"
+      }
+    ]
+  },
+  {
+    "name": "Sandstorm Eidolon",
+    "id": "sandstorm-eidolon",
+    "url": "https://api.deckbrew.com/mtg/cards/sandstorm-eidolon",
+    "store_url": "http://store.tcgplayer.com/magic/dissension/sandstorm-eidolon?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "{R}, Sacrifice Sandstorm Eidolon: Target creature can't block this turn.\nWhenever you cast a multicolored spell, you may return Sandstorm Eidolon from your graveyard to your hand.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "rarity": "common",
+        "artist": "Brian Hagan",
+        "multiverse_id": 110637,
+        "number": "70",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=110637",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/110637.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/sandstorm-eidolon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/110637"
+      }
+    ]
+  },
+  {
+    "name": "Sangrite Backlash",
+    "id": "sangrite-backlash",
+    "url": "https://api.deckbrew.com/mtg/cards/sangrite-backlash",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/sangrite-backlash?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "black",
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{B/G}{R}",
+    "text": "Enchant creature\nEnchanted creature gets +3/-3.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Cyril Van Der Haegen",
+        "multiverse_id": 179553,
+        "flavor": "\"Sangrite is the dragon's beating heart. Little wonder, then, that so many fools' chests burst trying to contain it.\"\n—Sarkhan Vol",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179553",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179553.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/sangrite-backlash?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179553"
+      }
+    ]
+  },
+  {
+    "name": "Sangrite Surge",
+    "id": "sangrite-surge",
+    "url": "https://api.deckbrew.com/mtg/cards/sangrite-surge",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/sangrite-surge?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{G}",
+    "text": "Target creature gets +3/+3 and gains double strike until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "uncommon",
+        "artist": "Jarreau Wimberly",
+        "multiverse_id": 176438,
+        "flavor": "Some believe the spiky crystal called sangrite is concentrated dragon's breath. Others think it's crystallized life energy. The clans care only about the power it unleashes when crushed.",
+        "number": "190",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=176438",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/176438.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/sangrite-surge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/176438"
+      }
+    ]
+  },
+  {
+    "name": "Sangromancer",
+    "id": "sangromancer",
+    "url": "https://api.deckbrew.com/mtg/cards/sangromancer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sangromancer",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shaman",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Flying\nWhenever a creature an opponent controls dies, you may gain 3 life.\nWhenever an opponent discards a card, you may gain 3 life.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin Besieged",
+        "set_id": "MBS",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 214062,
+        "number": "53",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214062",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214062.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/sangromancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/214062"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 420733,
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420733",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420733.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/sangromancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420733"
+      },
+      {
+        "set": "Conspiracy: Take the Crown",
+        "set_id": "CN2",
+        "rarity": "rare",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 416904,
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=416904",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/416904.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CN2",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy-take-the-crown/sangromancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/416904"
+      }
+    ]
+  },
+  {
+    "name": "Sangrophage",
+    "id": "sangrophage",
+    "url": "https://api.deckbrew.com/mtg/cards/sangrophage",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/sangrophage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "At the beginning of your upkeep, tap Sangrophage unless you pay 2 life.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Pete Venters",
+        "multiverse_id": 116741,
+        "flavor": "The living is all it eats.",
+        "number": "127",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=116741",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/116741.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/sangrophage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/116741"
+      }
+    ]
+  },
+  {
+    "name": "Sanguimancy",
+    "id": "sanguimancy",
+    "url": "https://api.deckbrew.com/mtg/cards/sanguimancy",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/sanguimancy?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{4}{B}",
+    "text": "You draw X cards and you lose X life, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "uncommon",
+        "artist": "Dave Kendall",
+        "multiverse_id": 378453,
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378453",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378453.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/sanguimancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378453"
+      }
+    ]
+  },
+  {
+    "name": "Sanguinary Mage",
+    "id": "sanguinary-mage",
+    "url": "https://api.deckbrew.com/mtg/cards/sanguinary-mage",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/sanguinary-mage?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire",
+      "wizard"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "common",
+        "artist": "David Gaillet",
+        "multiverse_id": 409933,
+        "flavor": "New cults rising in Nephalia have found allies in the Stromkirk bloodline, whose progenitor worships ancient and terrible forces.",
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409933",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409933.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/sanguinary-mage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409933"
+      }
+    ]
+  },
+  {
+    "name": "Sanguine Bond",
+    "id": "sanguine-bond",
+    "url": "https://api.deckbrew.com/mtg/cards/sanguine-bond",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sanguine-bond",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Whenever you gain life, target opponent loses that much life.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 370671,
+        "flavor": "\"Blood is constant. Every drop I drink, someone must bleed.\"\n—Vradeen, vampire nocturnus",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370671",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370671.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/sanguine-bond?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370671"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 376480,
+        "flavor": "\"Blood is constant. Every drop I drink, someone must bleed.\"\n—Vradeen, vampire nocturnus",
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376480",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376480.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/sanguine-bond?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376480"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 190190,
+        "flavor": "\"Blood is constant. Every drop I drink, someone must bleed.\"\n—Vradeen, vampire nocturnus",
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190190",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190190.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/sanguine-bond?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190190"
+      }
+    ]
+  },
+  {
+    "name": "Sanguine Guard",
+    "id": "sanguine-guard",
+    "url": "https://api.deckbrew.com/mtg/cards/sanguine-guard",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sanguine-guard",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "knight",
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "First strike\n{1}{B}: Regenerate Sanguine Guard.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Phyrexia vs. the Coalition",
+        "set_id": "DDE",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 209161,
+        "flavor": "\"Father of Machines! Your filigree gaze carves us, and the scars dance upon our grateful flesh.\"\n—Phyrexian Scriptures",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=209161",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/209161.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/sanguine-guard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/209161"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 5627,
+        "flavor": "\"Father of Machines! Your filigree gaze carves us, and the scars dance upon our grateful flesh.\"\n—Phyrexian Scriptures",
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5627",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5627.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/sanguine-guard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5627"
+      }
+    ]
+  },
+  {
+    "name": "Sanguine Praetor",
+    "id": "sanguine-praetor",
+    "url": "https://api.deckbrew.com/mtg/cards/sanguine-praetor",
+    "store_url": "http://store.tcgplayer.com/magic/guildpact/sanguine-praetor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "avatar",
+      "praetor"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 8,
+    "cost": "{6}{B}{B}",
+    "text": "{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.",
+    "power": "7",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "rarity": "rare",
+        "artist": "rk post",
+        "multiverse_id": 97190,
+        "flavor": "\"Our fealty to guilds dooms us. The old gods shall resurface. Our skins will wave upon the guild-masts over emptied streets, and our bones will clatter in the wind.\"\n—Ilromov, traveling storyteller",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97190",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97190.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/sanguine-praetor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97190"
+      }
+    ]
+  },
+  {
+    "name": "Sanitarium Skeleton",
+    "id": "sanitarium-skeleton",
+    "url": "https://api.deckbrew.com/mtg/cards/sanitarium-skeleton",
+    "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/sanitarium-skeleton?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "skeleton"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadows over Innistrad",
+        "set_id": "SOI",
+        "rarity": "common",
+        "artist": "Kev Walker",
+        "multiverse_id": 409883,
+        "flavor": "His mind was lost long before his flesh.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409883",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409883.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+        "store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/sanitarium-skeleton?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409883"
+      }
+    ]
+  },
+  {
+    "name": "Sanity Gnawers",
+    "id": "sanity-gnawers",
+    "url": "https://api.deckbrew.com/mtg/cards/sanity-gnawers",
+    "store_url": "http://store.tcgplayer.com/magic/alara-reborn/sanity-gnawers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rat"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{R}",
+    "text": "When Sanity Gnawers enters the battlefield, target player discards a card at random.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 179623,
+        "flavor": "The last thought to go through their victim's mind is the one they tear out through the scalp.",
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179623",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179623.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/sanity-gnawers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179623"
+      }
+    ]
+  },
+  {
+    "name": "Sanity Grinding",
+    "id": "sanity-grinding",
+    "url": "https://api.deckbrew.com/mtg/cards/sanity-grinding",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/sanity-grinding?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{U}{U}{U}",
+    "text": "Chroma — Reveal the top ten cards of your library. For each blue mana symbol in the mana costs of the revealed cards, target opponent puts the top card of his or her library into his or her graveyard. Then put the cards you revealed this way on the bottom of your library in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "rare",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 157204,
+        "number": "29",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157204",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157204.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/sanity-grinding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157204"
+      }
+    ]
+  },
+  {
+    "name": "Sapling of Colfenor",
+    "id": "sapling-of-colfenor",
+    "url": "https://api.deckbrew.com/mtg/cards/sapling-of-colfenor",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/sapling-of-colfenor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "shaman",
+      "treefolk"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B/G}{B/G}",
+    "text": "Indestructible\nWhenever Sapling of Colfenor attacks, reveal the top card of your library. If it's a creature card, you gain life equal to that card's toughness, lose life equal to its power, then put it into your hand.",
+    "power": "2",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "rare",
+        "artist": "John Avon",
+        "multiverse_id": 157973,
+        "flavor": "Her plans may yet bear fruit.",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157973",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157973.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/sapling-of-colfenor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157973"
+      }
+    ]
+  },
+  {
+    "name": "Sapphire Charm",
+    "id": "sapphire-charm",
+    "url": "https://api.deckbrew.com/mtg/cards/sapphire-charm",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/sapphire-charm?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Choose one —\n• Target player draws a card at the beginning of the next turn's upkeep.\n• Target creature gains flying until end of turn.\n• Target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "common",
+        "artist": "Steve Luke",
+        "multiverse_id": 3360,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3360",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3360.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/sapphire-charm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3360"
+      }
+    ]
+  },
+  {
+    "name": "Sapphire Drake",
+    "id": "sapphire-drake",
+    "url": "https://api.deckbrew.com/mtg/cards/sapphire-drake",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/sapphire-drake?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "drake"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{5}{U}",
+    "text": "Flying\nEach creature you control with a +1/+1 counter on it has flying.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "rarity": "uncommon",
+        "artist": "Steve Prescott",
+        "multiverse_id": 366421,
+        "flavor": "Sapphire drakes can communicate over great distances, their calls resonating in the gems fixed in their skulls.",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366421",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366421.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/sapphire-drake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366421"
+      }
+    ]
+  },
+  {
+    "name": "Sapphire Leech",
+    "id": "sapphire-leech",
+    "url": "https://api.deckbrew.com/mtg/cards/sapphire-leech",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/sapphire-leech?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "leech"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Flying\nBlue spells you cast cost {U} more to cast.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Ron Spencer",
+        "multiverse_id": 23010,
+        "flavor": "\"The subject's wings are clearly vestigial. We suspect the gems somehow keep it aloft.\"\n—Tolarian research notes",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23010",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23010.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/sapphire-leech?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23010"
+      }
+    ]
+  },
+  {
+    "name": "Sapphire Medallion",
+    "id": "sapphire-medallion",
+    "url": "https://api.deckbrew.com/mtg/cards/sapphire-medallion",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sapphire-medallion",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "Blue spells you cast cost {1} less to cast.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Daniel Ljunggren",
+        "multiverse_id": 389662,
+        "number": "266",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389662",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389662.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/sapphire-medallion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389662"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Sue Ellen Brown",
+        "multiverse_id": 4626,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4626",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4626.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/sapphire-medallion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4626"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Bailiff",
+    "id": "saprazzan-bailiff",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-bailiff",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-bailiff?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "When Saprazzan Bailiff enters the battlefield, exile all artifact and enchantment cards from all graveyards.\nWhen Saprazzan Bailiff leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Ron Spencer",
+        "multiverse_id": 19669,
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19669",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19669.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-bailiff?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19669"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Breaker",
+    "id": "saprazzan-breaker",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-breaker",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-breaker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{4}{U}",
+    "text": "{U}: Put the top card of your library into your graveyard. If that card is a land card, Saprazzan Breaker can't be blocked this turn.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 19671,
+        "number": "98",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19671",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19671.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-breaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19671"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Cove",
+    "id": "saprazzan-cove",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-cove",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-cove?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Saprazzan Cove enters the battlefield tapped.\n{T}: Put a storage counter on Saprazzan Cove.\n{T}, Remove any number of storage counters from Saprazzan Cove: Add {U} to your mana pool for each storage counter removed this way.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 19891,
+        "number": "327",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19891",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19891.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-cove?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19891"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Heir",
+    "id": "saprazzan-heir",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-heir",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-heir?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Whenever Saprazzan Heir becomes blocked, you may draw three cards.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 19672,
+        "flavor": "Within the walls of the floating city, Saprazzan wealth is like Saprazzan water: abundant, free-flowing, and accessible to all.",
+        "number": "99",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19672",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19672.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-heir?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19672"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Legate",
+    "id": "saprazzan-legate",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-legate",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-legate?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk",
+      "soldier"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\nIf an opponent controls a Mountain and you control an Island, you may cast Saprazzan Legate without paying its mana cost.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "uncommon",
+        "artist": "Andrew Goldhawk",
+        "multiverse_id": 19799,
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19799",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19799.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-legate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19799"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Outrigger",
+    "id": "saprazzan-outrigger",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-outrigger",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-outrigger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "When Saprazzan Outrigger attacks or blocks, put it on top of its owner's library at end of combat.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 21773,
+        "flavor": "The Saprazzans excel at both tactics: hit and run.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21773",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21773.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-outrigger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21773"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Raider",
+    "id": "saprazzan-raider",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-raider",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-raider?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "merfolk"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "When Saprazzan Raider becomes blocked, return it to its owner's hand.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 19564,
+        "flavor": "Some quick dagger work and then back to the sea—that's the Saprazzan way.",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19564",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19564.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-raider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19564"
+      }
+    ]
+  },
+  {
+    "name": "Saprazzan Skerry",
+    "id": "saprazzan-skerry",
+    "url": "https://api.deckbrew.com/mtg/cards/saprazzan-skerry",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-skerry?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U} to your mana pool. If there are no depletion counters on Saprazzan Skerry, sacrifice it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "common",
+        "artist": "Pat Morrissey",
+        "multiverse_id": 19643,
+        "number": "328",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19643",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19643.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/saprazzan-skerry?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19643"
+      }
+    ]
+  },
+  {
+    "name": "Saproling",
+    "id": "saproling",
+    "url": "https://api.deckbrew.com/mtg/cards/saproling",
+    "store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/saproling?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "saproling"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "",
+    "power": "1",
+    "toughness": "1",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Duel Decks: Phyrexia vs. the Coalition",
+        "set_id": "DDE",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 209162,
+        "number": "T3",
+        "layout": "token",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=209162",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/209162.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/saproling?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/209162"
+      }
+    ]
+  },
+  {
+    "name": "Saproling Burst",
+    "id": "saproling-burst",
+    "url": "https://api.deckbrew.com/mtg/cards/saproling-burst",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=saproling-burst",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Saproling Burst: Create a green Saproling creature token. It has \"This creature's power and toughness are each equal to the number of fade counters on Saproling Burst.\"\nWhen Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 383077,
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383077",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383077.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/saproling-burst?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383077"
+      },
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 21381,
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21381",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21381.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/saproling-burst?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21381"
+      }
+    ]
+  },
+  {
+    "name": "Saproling Cluster",
+    "id": "saproling-cluster",
+    "url": "https://api.deckbrew.com/mtg/cards/saproling-cluster",
+    "store_url": "http://store.tcgplayer.com/magic/nemesis/saproling-cluster?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Nemesis",
+        "set_id": "NMS",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 21385,
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21385",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21385.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+        "store_url": "http://store.tcgplayer.com/magic/nemesis/saproling-cluster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21385"
+      }
+    ]
+  },
+  {
+    "name": "Saproling Infestation",
+    "id": "saproling-infestation",
+    "url": "https://api.deckbrew.com/mtg/cards/saproling-infestation",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/saproling-infestation?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Whenever a player kicks a spell, you create a 1/1 green Saproling creature token.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 25750,
+        "flavor": "\"My army took centuries to gather,\" remarked Urza. \"Yavimaya seems to conjure hers out of thin air.\"",
+        "number": "208",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25750",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25750.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/saproling-infestation?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25750"
+      }
+    ]
+  },
+  {
+    "name": "Saproling Symbiosis",
+    "id": "saproling-symbiosis",
+    "url": "https://api.deckbrew.com/mtg/cards/saproling-symbiosis",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/saproling-symbiosis?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "You may cast Saproling Symbiosis as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nCreate a 1/1 green Saproling creature token for each creature you control.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "rare",
+        "artist": "Ciruelo",
+        "multiverse_id": 24670,
+        "number": "209",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24670",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24670.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/saproling-symbiosis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24670"
+      }
+    ]
+  },
+  {
+    "name": "Sapseep Forest",
+    "id": "sapseep-forest",
+    "url": "https://api.deckbrew.com/mtg/cards/sapseep-forest",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sapseep-forest",
+    "types": [
+      "land"
+    ],
+    "subtypes": [
+      "forest"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "({T}: Add {G} to your mana pool.)\nSapseep Forest enters the battlefield tapped.\n{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "uncommon",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 142048,
+        "number": "279",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=142048",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/142048.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/sapseep-forest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/142048"
+      },
+      {
+        "set": "Duel Decks: Ajani vs. Nicol Bolas",
+        "set_id": "DDH",
+        "rarity": "uncommon",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 249389,
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249389",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249389.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/sapseep-forest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/249389"
+      }
+    ]
+  },
+  {
+    "name": "Sarcatog",
+    "id": "sarcatog",
+    "url": "https://api.deckbrew.com/mtg/cards/sarcatog",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/sarcatog?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "atog"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{R}",
+    "text": "Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.\nSacrifice an artifact: Sarcatog gets +1/+1 until end of turn.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "Mark Brill",
+        "multiverse_id": 31793,
+        "number": "293",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=31793",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/31793.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/sarcatog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/31793"
+      }
+    ]
+  },
+  {
+    "name": "Sarcomancy",
+    "id": "sarcomancy",
+    "url": "https://api.deckbrew.com/mtg/cards/sarcomancy",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sarcomancy",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 1,
+    "cost": "{B}",
+    "text": "When Sarcomancy enters the battlefield, create a 2/2 black Zombie creature token.\nAt the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 397586,
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397586",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397586.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/sarcomancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397586"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "uncommon",
+        "artist": "Daren Bader",
+        "multiverse_id": 383078,
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383078",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383078.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/sarcomancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383078"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 4683,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4683",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4683.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/sarcomancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4683"
+      }
+    ]
+  },
+  {
+    "name": "Sarcomite Myr",
+    "id": "sarcomite-myr",
+    "url": "https://api.deckbrew.com/mtg/cards/sarcomite-myr",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sarcomite-myr",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "myr"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "{2}: Sarcomite Myr gains flying until end of turn.\n{2}, Sacrifice Sarcomite Myr: Draw a card.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "common",
+        "artist": "Michael Bruinsma",
+        "multiverse_id": 136212,
+        "flavor": "\"A horrible sight, yes, but the sounds . . . Its twanging tendons and grinding gears are almost musical.\"\n—Brudiclad, Telchor engineer",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=136212",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/136212.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/sarcomite-myr?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/136212"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "common",
+        "artist": "Michael Bruinsma",
+        "multiverse_id": 205339,
+        "flavor": "\"A horrible sight, yes, but the sounds . . . Its twanging tendons and grinding gears are almost musical.\"\n—Brudiclad, Telchor engineer",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205339",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205339.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/sarcomite-myr?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205339"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan's Rage",
+    "id": "sarkhans-rage",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhans-rage",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhans-rage?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{4}{R}",
+    "text": "Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "common",
+        "artist": "Chris Rahn",
+        "multiverse_id": 394676,
+        "flavor": "The people of Tarkir speak of an ancient legend, of the dragon-man called Sarkhan who was greatest of all khans.",
+        "number": "153",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394676",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394676.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhans-rage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394676"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan's Triumph",
+    "id": "sarkhans-triumph",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhans-triumph",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhans-triumph?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "uncommon",
+        "artist": "Chris Rahn",
+        "multiverse_id": 394677,
+        "flavor": "Sarkhan gazed on the world around him, the dragons sweeping through its skies, and joy kindled like a fire in his soul.",
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394677",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394677.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhans-triumph?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394677"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan, the Dragonspeaker",
+    "id": "sarkhan-the-dragonspeaker",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhan-the-dragonspeaker",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/sarkhan-the-dragonspeaker?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "sarkhan"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "+1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)\n−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature.\n−6: You get an emblem with \"At the beginning of your draw step, draw two additional cards\" and \"At the beginning of your end step, discard your hand.\"",
+    "loyalty": 4,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "mythic",
+        "artist": "Daarken",
+        "multiverse_id": 386650,
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386650",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386650.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/sarkhan-the-dragonspeaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386650"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan the Mad",
+    "id": "sarkhan-the-mad",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhan-the-mad",
+    "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/sarkhan-the-mad?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "sarkhan"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{R}",
+    "text": "0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.\n−2: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.\n−4: Each Dragon creature you control deals damage equal to its power to target player.",
+    "loyalty": 7,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "mythic",
+        "artist": "Chippy",
+        "multiverse_id": 193659,
+        "number": "214",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193659",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193659.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/sarkhan-the-mad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193659"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan Unbroken",
+    "id": "sarkhan-unbroken",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhan-unbroken",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhan-unbroken?partner=DECKBREW",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "sarkhan"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{2}{G}{U}{R}",
+    "text": "+1: Draw a card, then add one mana of any color to your mana pool.\n−2: Create a 4/4 red Dragon creature token with flying.\n−8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.",
+    "loyalty": 4,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 394675,
+        "number": "230",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394675",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394675.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/sarkhan-unbroken?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394675"
+      }
+    ]
+  },
+  {
+    "name": "Sarkhan Vol",
+    "id": "sarkhan-vol",
+    "url": "https://api.deckbrew.com/mtg/cards/sarkhan-vol",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sarkhan-vol",
+    "types": [
+      "planeswalker"
+    ],
+    "subtypes": [
+      "sarkhan"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{G}",
+    "text": "+1: Creatures you control get +1/+1 and gain haste until end of turn.\n−2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n−6: Create five 4/4 red Dragon creature tokens with flying.",
+    "loyalty": 4,
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "mythic",
+        "artist": "Daarken",
+        "multiverse_id": 174983,
+        "number": "191",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174983",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174983.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/sarkhan-vol?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174983"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "mythic",
+        "artist": "Daarken",
+        "multiverse_id": 370566,
+        "number": "183",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370566",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370566.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/sarkhan-vol?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370566"
+      }
+    ]
+  },
+  {
+    "name": "Sarpadian Empires, Vol. VII",
+    "id": "sarpadian-empires-vol-vii",
+    "url": "https://api.deckbrew.com/mtg/cards/sarpadian-empires-vol-vii",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/sarpadian-empires-vol-vii?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "As Sarpadian Empires, Vol. VII enters the battlefield, choose white Citizen, blue Camarid, black Thrull, red Goblin, or green Saproling.\n{3}, {T}: Create a 1/1 creature token of the chosen color and type.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "rare",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 114921,
+        "flavor": "The past still lives within its pages, waiting for its time to come again.",
+        "number": "263",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=114921",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/114921.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/sarpadian-empires-vol-vii?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/114921"
+      }
+    ]
+  },
+  {
+    "name": "Saruli Gatekeepers",
+    "id": "saruli-gatekeepers",
+    "url": "https://api.deckbrew.com/mtg/cards/saruli-gatekeepers",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/saruli-gatekeepers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "rarity": "common",
+        "artist": "Chris Rahn",
+        "multiverse_id": 369088,
+        "flavor": "In Ravnica's wilder districts, nature still stirs, and its protectors still mind their posts.",
+        "number": "48",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=369088",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/369088.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/saruli-gatekeepers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/369088"
+      }
+    ]
+  },
+  {
+    "name": "Sasaya, Orochi Ascendant",
+    "id": "sasaya-orochi-ascendant",
+    "url": "https://api.deckbrew.com/mtg/cards/sasaya-orochi-ascendant",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/sasaya-orochi-ascendant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "monk",
+      "snake"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 87595,
+        "number": "145a",
+        "layout": "flip",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87595",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87595.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/sasaya-orochi-ascendant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87595"
+      }
+    ]
+  },
+  {
+    "name": "Sasaya's Essence",
+    "id": "sasayas-essence",
+    "url": "https://api.deckbrew.com/mtg/cards/sasayas-essence",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/sasayas-essence?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Whenever a land you control is tapped for mana, for each other land you control with the same name, add one mana to your mana pool of any type that land produced.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 87595,
+        "number": "145b",
+        "layout": "flip",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87595",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87595.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/sasayas-essence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87595"
+      }
+    ]
+  },
+  {
+    "name": "Saskia the Unyielding",
+    "id": "saskia-the-unyielding",
+    "url": "https://api.deckbrew.com/mtg/cards/saskia-the-unyielding",
+    "store_url": "http://store.tcgplayer.com/magic/commander-2016/saskia-the-unyielding?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{B}{R}{G}{W}",
+    "text": "Vigilance, haste\nAs Saskia the Unyielding enters the battlefield, choose a player.\nWhenever a creature you control deals combat damage to a player, it deals that much damage to the chosen player.",
+    "power": "3",
+    "toughness": "4",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "mythic",
+        "artist": "Greg Opalinski",
+        "multiverse_id": 420658,
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420658",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420658.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/saskia-the-unyielding?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420658"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Firedancer",
+    "id": "satyr-firedancer",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-firedancer",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/satyr-firedancer?partner=DECKBREW",
+    "types": [
+      "creature",
+      "enchantment"
+    ],
+    "subtypes": [
+      "satyr"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Chris Rahn",
+        "multiverse_id": 378480,
+        "flavor": "His heart, the coal; his eye, the spark; his hand, the whirling flame.",
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378480",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378480.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/satyr-firedancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378480"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Grovedancer",
+    "id": "satyr-grovedancer",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-grovedancer",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/satyr-grovedancer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr",
+      "shaman"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Jason A. Engle",
+        "multiverse_id": 380492,
+        "flavor": "\"Some of my kin dance for themselves, without greater purpose. Nylea gives me purpose, and with it strength.\"",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380492",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380492.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/satyr-grovedancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380492"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Hedonist",
+    "id": "satyr-hedonist",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-hedonist",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=satyr-hedonist",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Heroes vs. Monsters",
+        "set_id": "DDL",
+        "rarity": "common",
+        "artist": "Chase Stone",
+        "multiverse_id": 373340,
+        "flavor": "\"Any festival you can walk away from wasn't worth attending in the first place.\"",
+        "number": "47",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373340",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373340.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/satyr-hedonist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373340"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Chase Stone",
+        "multiverse_id": 373744,
+        "flavor": "\"Any festival you can walk away from wasn't worth attending in the first place.\"",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373744",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373744.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/satyr-hedonist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373744"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Hoplite",
+    "id": "satyr-hoplite",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-hoplite",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/satyr-hoplite?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr",
+      "soldier"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 380493,
+        "flavor": "\"Xenagos has become what he once despised: a tyrant and an oppressor.\"",
+        "number": "110",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/satyr-hoplite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380493"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Nyx-Smith",
+    "id": "satyr-nyx-smith",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-nyx-smith",
+    "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/satyr-nyx-smith?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Haste\nInspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay {2}{R}. If you do, create a 3/1 red Elemental enchantment creature token with haste.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 378481,
+        "number": "109",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378481",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378481.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/satyr-nyx-smith?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378481"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Piper",
+    "id": "satyr-piper",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-piper",
+    "store_url": "http://store.tcgplayer.com/magic/theros/satyr-piper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "rogue",
+      "satyr"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "{3}{G}: Target creature must be blocked this turn if able.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "uncommon",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 373728,
+        "flavor": "\"When I asked my commander the reward for killing that prancing nuisance, he told me, ‘None! I want to kill him myself!'\"\n—Phrogas, soldier of Akros",
+        "number": "175",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373728",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373728.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/satyr-piper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373728"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Rambler",
+    "id": "satyr-rambler",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-rambler",
+    "store_url": "http://store.tcgplayer.com/magic/theros/satyr-rambler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Trample",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "John Stanko",
+        "multiverse_id": 373737,
+        "flavor": "A satyr is bound by nothing—not home, not family, not loyalty.",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373737",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373737.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/satyr-rambler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373737"
+      }
+    ]
+  },
+  {
+    "name": "Satyr Wayfinder",
+    "id": "satyr-wayfinder",
+    "url": "https://api.deckbrew.com/mtg/cards/satyr-wayfinder",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=satyr-wayfinder",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "satyr"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 420782,
+        "flavor": "The first satyr to wake after a revel must search for the site of the next one.",
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420782",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420782.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/satyr-wayfinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420782"
+      },
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 383371,
+        "flavor": "The first satyr to wake after a revel must search for the site of the next one.",
+        "number": "198",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/satyr-wayfinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383371"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 405365,
+        "flavor": "The first satyr to wake after a revel must search for the site of the next one.",
+        "number": "201",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405365",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405365.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/satyr-wayfinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405365"
+      },
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 378508,
+        "flavor": "The first satyr to wake after a revel must search for the site of the next one.",
+        "number": "136",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378508",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378508.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/satyr-wayfinder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378508"
+      }
+    ]
+  },
+  {
+    "name": "Sauté",
+    "id": "sauté",
+    "url": "https://api.deckbrew.com/mtg/cards/sauté",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/saute?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{R}{R}",
+    "text": "Sauté deals 3½ damage to target creature or player.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "common",
+        "artist": "Jeff Miracola",
+        "multiverse_id": 74242,
+        "flavor": "\"Selecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth.\"\n—Asmoranomardicadaistinaculdacar,\nThe Underworld Cookbook,",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74242",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74242.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/saute?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74242"
+      }
+    ]
+  },
+  {
+    "name": "Savaen Elves",
+    "id": "savaen-elves",
+    "url": "https://api.deckbrew.com/mtg/cards/savaen-elves",
+    "store_url": "http://store.tcgplayer.com/magic/the-dark/savaen-elves?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "{G}{G}, {T}: Destroy target Aura attached to a land.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "The Dark",
+        "set_id": "DRK",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 1774,
+        "flavor": "\"Purity of magic can only come from purity of the land. How can a meal nourish if the ingredients are spoiled?\" —Sidaine of Savaen",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1774",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1774.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DRK",
+        "store_url": "http://store.tcgplayer.com/magic/the-dark/savaen-elves?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1774"
+      }
+    ]
+  },
+  {
+    "name": "Savage Alliance",
+    "id": "savage-alliance",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-alliance",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/savage-alliance?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Escalate {1} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Creatures target player controls gain trample until end of turn.\n• Savage Alliance deals 2 damage to target creature.\n• Savage Alliance deals 1 damage to each creature target opponent controls.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "uncommon",
+        "artist": "Johann Bodin",
+        "multiverse_id": 414439,
+        "number": "140",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414439",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414439.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/savage-alliance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414439"
+      }
+    ]
+  },
+  {
+    "name": "Savage Beating",
+    "id": "savage-beating",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-beating",
+    "store_url": "http://store.tcgplayer.com/magic/darksteel/savage-beating?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "Cast Savage Beating only during your turn and only during combat.\nChoose one —\n• Creatures you control gain double strike until end of turn.\n• Untap all creatures you control. After this phase, there is an additional combat phase.\nEntwine {1}{R} (Choose both if you pay the entwine cost.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Darksteel",
+        "set_id": "DST",
+        "rarity": "rare",
+        "artist": "Matt Thompson",
+        "multiverse_id": 43506,
+        "number": "67",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43506",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43506.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DST",
+        "store_url": "http://store.tcgplayer.com/magic/darksteel/savage-beating?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43506"
+      }
+    ]
+  },
+  {
+    "name": "Savageborn Hydra",
+    "id": "savageborn-hydra",
+    "url": "https://api.deckbrew.com/mtg/cards/savageborn-hydra",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/savageborn-hydra?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hydra"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{X}{R}{G}",
+    "text": "Double strike\nSavageborn Hydra enters the battlefield with X +1/+1 counters on it.\n{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.",
+    "power": "0",
+    "toughness": "0",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Gruul",
+        "rarity": "mythic",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 368952,
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368952",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368952.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/savageborn-hydra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368952"
+      }
+    ]
+  },
+  {
+    "name": "Savage Conception",
+    "id": "savage-conception",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-conception",
+    "store_url": "http://store.tcgplayer.com/magic/eventide/savage-conception?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "Create a 3/3 green Beast creature token.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "uncommon",
+        "artist": "William O'Connor",
+        "multiverse_id": 153438,
+        "flavor": "Some beasts are born not of a mother, but of magic.",
+        "number": "75",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153438",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153438.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/savage-conception?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153438"
+      }
+    ]
+  },
+  {
+    "name": "Savage Firecat",
+    "id": "savage-firecat",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-firecat",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/savage-firecat?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat",
+      "elemental"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{R}",
+    "text": "Trample\nSavage Firecat enters the battlefield with seven +1/+1 counters on it.\nWhenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.",
+    "power": "0",
+    "toughness": "0",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Dave Dorman",
+        "multiverse_id": 29966,
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29966",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29966.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/savage-firecat?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29966"
+      }
+    ]
+  },
+  {
+    "name": "Savage Gorilla",
+    "id": "savage-gorilla",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-gorilla",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/savage-gorilla?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ape"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{4}{G}",
+    "text": "{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Dave Dorman",
+        "multiverse_id": 25971,
+        "flavor": "These omnivorous gorillas have no qualms about a diet composed of equal parts fruit and Phyrexians.",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25971",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25971.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/savage-gorilla?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25971"
+      }
+    ]
+  },
+  {
+    "name": "Savage Hunger",
+    "id": "savage-hunger",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-hunger",
+    "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/savage-hunger?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Enchant creature\nEnchanted creature gets +1/+0 and has trample.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "common",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 174941,
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174941",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174941.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/savage-hunger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174941"
+      }
+    ]
+  },
+  {
+    "name": "Savage Knuckleblade",
+    "id": "savage-knuckleblade",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-knuckleblade",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/savage-knuckleblade?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre",
+      "warrior"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{G}{U}{R}",
+    "text": "{2}{G}: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.\n{2}{U}: Return Savage Knuckleblade to its owner's hand.\n{R}: Savage Knuckleblade gains haste until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "rare",
+        "artist": "Chris Rahn",
+        "multiverse_id": 386651,
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386651",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386651.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/savage-knuckleblade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386651"
+      }
+    ]
+  },
+  {
+    "name": "Savage Lands",
+    "id": "savage-lands",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-lands",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=savage-lands",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Savage Lands enters the battlefield tapped.\n{T}: Add {B}, {R}, or {G} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "John Avon",
+        "multiverse_id": 0,
+        "flavor": "Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/savage-lands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "uncommon",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 420938,
+        "flavor": "Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.",
+        "number": "321",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420938",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420938.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/savage-lands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420938"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 376481,
+        "flavor": "Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.",
+        "number": "317",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376481",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376481.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/savage-lands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376481"
+      },
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "uncommon",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 174877,
+        "flavor": "Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.",
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174877",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174877.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/savage-lands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174877"
+      }
+    ]
+  },
+  {
+    "name": "Savage Offensive",
+    "id": "savage-offensive",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-offensive",
+    "store_url": "http://store.tcgplayer.com/magic/invasion/savage-offensive?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Kicker {G} (You may pay an additional {G} as you cast this spell.)\nCreatures you control gain first strike until end of turn. If Savage Offensive was kicked, they get +1/+1 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 23078,
+        "number": "162",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23078",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23078.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/savage-offensive?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23078"
+      }
+    ]
+  },
+  {
+    "name": "Savage Punch",
+    "id": "savage-punch",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-punch",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/savage-punch?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target creature you control fights target creature you don't control.\nFerocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "common",
+        "artist": "Wesley Burt",
+        "multiverse_id": 386652,
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386652",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386652.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/savage-punch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386652"
+      }
+    ]
+  },
+  {
+    "name": "Savage Silhouette",
+    "id": "savage-silhouette",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-silhouette",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/savage-silhouette?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature.\"",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "common",
+        "artist": "Dave Kendall",
+        "multiverse_id": 186316,
+        "flavor": "Some elves believe that their survival instincts are born of many cycles of reincarnation.",
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=186316",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/186316.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/savage-silhouette?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/186316"
+      }
+    ]
+  },
+  {
+    "name": "Savage Summoning",
+    "id": "savage-summoning",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-summoning",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/savage-summoning?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "Savage Summoning can't be countered.\nThe next creature card you cast this turn can be cast as though it had flash. That spell can't be countered. That creature enters the battlefield with an additional +1/+1 counter on it.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "rare",
+        "artist": "Johann Bodin",
+        "multiverse_id": 370710,
+        "number": "194",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370710",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370710.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/savage-summoning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370710"
+      }
+    ]
+  },
+  {
+    "name": "Savage Surge",
+    "id": "savage-surge",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-surge",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=savage-surge",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Target creature gets +2/+2 until end of turn. Untap that creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "common",
+        "artist": "Jasper Sandner",
+        "multiverse_id": 373602,
+        "flavor": "\"I thought its back was turned!\"\n\"A centaur has two backs!\"",
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373602",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373602.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/savage-surge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373602"
+      },
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "rarity": "uncommon",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 265388,
+        "flavor": "Gruul warriors never need to be stirred to battle. They need only to be shown where the battle is.",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=265388",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/265388.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/savage-surge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/265388"
+      }
+    ]
+  },
+  {
+    "name": "Savage Thallid",
+    "id": "savage-thallid",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-thallid",
+    "store_url": "http://store.tcgplayer.com/magic/time-spiral/savage-thallid?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "fungus"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "At the beginning of your upkeep, put a spore counter on Savage Thallid.\nRemove three spore counters from Savage Thallid: Create a 1/1 green Saproling creature token.\nSacrifice a Saproling: Regenerate target Fungus.",
+    "power": "5",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "common",
+        "artist": "Luca Zontini",
+        "multiverse_id": 106643,
+        "number": "213",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106643",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106643.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/savage-thallid?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106643"
+      }
+    ]
+  },
+  {
+    "name": "Savage Twister",
+    "id": "savage-twister",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-twister",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=savage-twister",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{X}{R}{G}",
+    "text": "Savage Twister deals X damage to each creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Gruul",
+        "rarity": "uncommon",
+        "artist": "Luca Zontini",
+        "multiverse_id": 97216,
+        "flavor": "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"\n—Trigori, Azorius senator",
+        "number": "127",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97216",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97216.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97216"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "uncommon",
+        "artist": "Bob Eggleton",
+        "multiverse_id": 247286,
+        "flavor": "\"Frozen, we watched the funnel pluck up three of the goats—pook! pook! pook!—before we ran for the wadi.\"\n—Travelogue of Najat",
+        "number": "222",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247286",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247286.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247286"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 397814,
+        "flavor": "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"\n—Trigori, Azorius senator",
+        "number": "185",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397814",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397814.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397814"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 376482,
+        "flavor": "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"\n—Trigori, Azorius senator",
+        "number": "208",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376482",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376482.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376482"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "uncommon",
+        "artist": "Luca Zontini",
+        "multiverse_id": 220505,
+        "flavor": "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"\n—Trigori, Azorius senator",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220505",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220505.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220505"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Bob Eggleton",
+        "multiverse_id": 3551,
+        "flavor": "\"Frozen, we watched the funnel pluck up three of the goats—pook! pook! pook!—before we ran for the wadi.\"\n—Travelogue of Najat",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3551",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3551.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3551"
+      },
+      {
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "uncommon",
+        "artist": "Bob Eggleton",
+        "multiverse_id": 205355,
+        "flavor": "\"Frozen, we watched the funnel pluck up three of the goats—pook! pook! pook!—before we ran for the wadi.\"\n—Travelogue of Najat",
+        "number": "94",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205355",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205355.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/savage-twister?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205355"
+      }
+    ]
+  },
+  {
+    "name": "Savage Ventmaw",
+    "id": "savage-ventmaw",
+    "url": "https://api.deckbrew.com/mtg/cards/savage-ventmaw",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/savage-ventmaw?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{G}",
+    "text": "Flying\nWhenever Savage Ventmaw attacks, add {R}{R}{R}{G}{G}{G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Atarka",
+        "rarity": "uncommon",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 394678,
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394678",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394678.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/savage-ventmaw?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394678"
+      }
+    ]
+  },
+  {
+    "name": "Savannah",
+    "id": "savannah",
+    "url": "https://api.deckbrew.com/mtg/cards/savannah",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=savannah",
+    "types": [
+      "land"
+    ],
+    "subtypes": [
+      "forest",
+      "plains"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "({T}: Add {G} or {W} to your mana pool.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Charles Urbach",
+        "multiverse_id": 383079,
+        "number": "311",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383079",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383079.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383079"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 202571,
+        "number": "250",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202571",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202571.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202571"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 184749,
+        "number": "235",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184749",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184749.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184749"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 881,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=881",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/881.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/881"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 1379,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1379",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1379.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1379"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 282,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=282",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/282.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/282"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 579,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=579",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/579.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/savannah?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/579"
+      }
+    ]
+  },
+  {
+    "name": "Savannah Lions",
+    "id": "savannah-lions",
+    "url": "https://api.deckbrew.com/mtg/cards/savannah-lions",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=savannah-lions",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cat"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 83246,
+        "flavor": "Even the brave are scared by a lion three times: first by its tracks, again by its roar, and one last time face to face.\n—Somali proverb",
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83246",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83246.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83246"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 2363,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless, flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2363",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2363.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2363"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 221577,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "24",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221577",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221577.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221577"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 0,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 867,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=867",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/867.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/867"
+      },
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 1365,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless, flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1365",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1365.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1365"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 269,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=269",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/269.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/269"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 0,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 45207,
+        "flavor": "Even the brave are scared by a lion three times: first by its tracks, again by its roar, and one last time face to face.\n—Somali proverb",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45207",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45207.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45207"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 565,
+        "flavor": "The traditional kings of the jungle command a healthy respect in other climates as well. Relying mainly on their stealth and speed, Savannah Lions can take a victim by surprise, even in the endless flat plains of their homeland.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=565",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/565.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/savannah-lions?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/565"
+      }
+    ]
+  },
+  {
+    "name": "Save Life",
+    "id": "save-life",
+    "url": "https://api.deckbrew.com/mtg/cards/save-life",
+    "store_url": "http://store.tcgplayer.com/magic/unhinged/save-life?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "Choose one Target player gains 2½ life; or prevent the next 2½ damage that would be dealt to target creature this turn.\nGotcha Whenever an opponent says \"Save\" or \"Life,\" you may say \"Gotcha\" If you do, return Save Life from your graveyard to your hand.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unhinged",
+        "set_id": "UNH",
+        "rarity": "uncommon",
+        "artist": "Ray Lago",
+        "multiverse_id": 74277,
+        "flavor": "Who consistently managed to win.",
+        "number": "19",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74277",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74277.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+        "store_url": "http://store.tcgplayer.com/magic/unhinged/save-life?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74277"
+      }
+    ]
+  },
+  {
+    "name": "Saving Grasp",
+    "id": "saving-grasp",
+    "url": "https://api.deckbrew.com/mtg/cards/saving-grasp",
+    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/saving-grasp?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "Return target creature you own to your hand.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "common",
+        "artist": "Matt Stewart",
+        "multiverse_id": 245296,
+        "flavor": "Nothing's more valuable than perfect timing.",
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=245296",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/245296.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/saving-grasp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/245296"
+      }
+    ]
+  },
+  {
+    "name": "Savor the Moment",
+    "id": "savor-the-moment",
+    "url": "https://api.deckbrew.com/mtg/cards/savor-the-moment",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/savor-the-moment?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{U}",
+    "text": "Take an extra turn after this one. Skip the untap step of that turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "rare",
+        "artist": "Warren Mahy",
+        "multiverse_id": 159404,
+        "flavor": "The merrow took a moment for herself. She never gave it back.",
+        "number": "50",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159404",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159404.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/savor-the-moment?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159404"
+      }
+    ]
+  },
+  {
+    "name": "Savra, Queen of the Golgari",
+    "id": "savra-queen-of-the-golgari",
+    "url": "https://api.deckbrew.com/mtg/cards/savra-queen-of-the-golgari",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/savra-queen-of-the-golgari?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "elf",
+      "shaman"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{G}",
+    "text": "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature.\nWhenever you sacrifice a green creature, you may gain 2 life.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "watermark": "Golgari",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 89113,
+        "flavor": "\"Nature's most raw beauty is the circle: perfect in its continuance, with no break between death and life.\"",
+        "number": "225",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=89113",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/89113.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/savra-queen-of-the-golgari?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/89113"
+      }
+    ]
+  },
+  {
+    "name": "Sawback Manticore",
+    "id": "sawback-manticore",
+    "url": "https://api.deckbrew.com/mtg/cards/sawback-manticore",
+    "store_url": "http://store.tcgplayer.com/magic/mirage/sawback-manticore?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "manticore"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 5,
+    "cost": "{3}{R}{G}",
+    "text": "{4}: Sawback Manticore gains flying until end of turn.\n{1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Martin McKenna",
+        "multiverse_id": 3552,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3552",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3552.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/sawback-manticore?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3552"
+      }
+    ]
+  },
+  {
+    "name": "Sawtooth Loon",
+    "id": "sawtooth-loon",
+    "url": "https://api.deckbrew.com/mtg/cards/sawtooth-loon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sawtooth-loon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{U}",
+    "text": "Flying\nWhen Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.\nWhen Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planeshift",
+        "set_id": "PLS",
+        "rarity": "uncommon",
+        "artist": "Heather Hudson",
+        "multiverse_id": 25933,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25933",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25933.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+        "store_url": "http://store.tcgplayer.com/magic/planeshift/sawtooth-loon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25933"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "uncommon",
+        "artist": "Heather Hudson",
+        "multiverse_id": 270861,
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270861",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270861.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/sawtooth-loon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270861"
+      }
+    ]
+  },
+  {
+    "name": "Sawtooth Ogre",
+    "id": "sawtooth-ogre",
+    "url": "https://api.deckbrew.com/mtg/cards/sawtooth-ogre",
+    "store_url": "http://store.tcgplayer.com/magic/weatherlight/sawtooth-ogre?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ogre"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
+        "artist": "Brom",
+        "multiverse_id": 4560,
+        "flavor": "\"You will sharpen your teeth on my enemies' bones,\" Maraxus promised them, and his ogres cheered.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4560",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4560.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/sawtooth-ogre?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4560"
+      }
+    ]
+  },
+  {
+    "name": "Sawtooth Thresher",
+    "id": "sawtooth-thresher",
+    "url": "https://api.deckbrew.com/mtg/cards/sawtooth-thresher",
+    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/sawtooth-thresher?partner=DECKBREW",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "construct"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\nRemove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "common",
+        "artist": "Alan Pollack",
+        "multiverse_id": 51141,
+        "number": "149",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51141",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51141.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/sawtooth-thresher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/51141"
+      }
+    ]
+  },
+  {
+    "name": "Scab-Clan Berserker",
+    "id": "scab-clan-berserker",
+    "url": "https://api.deckbrew.com/mtg/cards/scab-clan-berserker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scab-clan-berserker",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "human"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{R}{R}",
+    "text": "Haste\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "rare",
+        "artist": "Dave Kendall",
+        "multiverse_id": 398461,
+        "number": "160",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398461",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398461.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/scab-clan-berserker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398461"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Dave Kendall",
+        "multiverse_id": 0,
+        "number": "231",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/scab-clan-berserker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Scab-Clan Charger",
+    "id": "scab-clan-charger",
+    "url": "https://api.deckbrew.com/mtg/cards/scab-clan-charger",
+    "store_url": "http://store.tcgplayer.com/magic/gatecrash/scab-clan-charger?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Bloodrush — {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gatecrash",
+        "set_id": "GTC",
+        "watermark": "Gruul",
+        "rarity": "common",
+        "artist": "Nils Hamm",
+        "multiverse_id": 366410,
+        "flavor": "\"The only roads I wish to see are those beaten flat by wild hooves.\"",
+        "number": "131",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=366410",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/366410.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+        "store_url": "http://store.tcgplayer.com/magic/gatecrash/scab-clan-charger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/366410"
+      }
+    ]
+  },
+  {
+    "name": "Scab-Clan Giant",
+    "id": "scab-clan-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/scab-clan-giant",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/scab-clan-giant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{G}",
+    "text": "When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon's Maze",
+        "set_id": "DGM",
+        "watermark": "Gruul",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 369005,
+        "flavor": "For the Gruul, bone-crushing rage is the first priority. Accuracy comes in a distant ninetieth.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=369005",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/369005.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-maze/scab-clan-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/369005"
+      }
+    ]
+  },
+  {
+    "name": "Scab-Clan Mauler",
+    "id": "scab-clan-mauler",
+    "url": "https://api.deckbrew.com/mtg/cards/scab-clan-mauler",
+    "store_url": "http://store.tcgplayer.com/magic/guildpact/scab-clan-mauler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "berserker",
+      "human"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{R}{G}",
+    "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nTrample",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Gruul",
+        "rarity": "common",
+        "artist": "Liam Sharp",
+        "multiverse_id": 96904,
+        "flavor": "They inflict pain to forget their own and break foes to feel whole.",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96904",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96904.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/scab-clan-mauler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96904"
+      }
+    ]
+  },
+  {
+    "name": "Scabland",
+    "id": "scabland",
+    "url": "https://api.deckbrew.com/mtg/cards/scabland",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scabland",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Scabland enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "uncommon",
+        "artist": "Andrew Robinson",
+        "multiverse_id": 397438,
+        "number": "243",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397438",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397438.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/scabland?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397438"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "uncommon",
+        "artist": "Andrew Robinson",
+        "multiverse_id": 383080,
+        "number": "312",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383080",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383080.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/scabland?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383080"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Andrew Robinson",
+        "multiverse_id": 4939,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4939",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4939.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/scabland?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4939"
+      }
+    ]
+  },
+  {
+    "name": "Scald",
+    "id": "scald",
+    "url": "https://api.deckbrew.com/mtg/cards/scald",
+    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/scald?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Whenever a player taps an Island for mana, Scald deals 1 damage to that player.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Adam Rex",
+        "multiverse_id": 10657,
+        "flavor": "\"Shiv may be surrounded by water, but the mountains go far deeper.\"\n—Fire Eye, viashino bey",
+        "number": "211",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10657",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10657.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/scald?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10657"
+      }
+    ]
+  },
+  {
+    "name": "Scalding Devil",
+    "id": "scalding-devil",
+    "url": "https://api.deckbrew.com/mtg/cards/scalding-devil",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/scalding-devil?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "devil"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "{2}{R}: Scalding Devil deals 1 damage to target player.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Erica Yang",
+        "multiverse_id": 239984,
+        "flavor": "Demons massacre. Devils annoy.",
+        "number": "155",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=239984",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/239984.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/scalding-devil?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/239984"
+      }
+    ]
+  },
+  {
+    "name": "Scalding Salamander",
+    "id": "scalding-salamander",
+    "url": "https://api.deckbrew.com/mtg/cards/scalding-salamander",
+    "store_url": "http://store.tcgplayer.com/magic/exodus/scalding-salamander?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "salamander"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Exodus",
+        "set_id": "EXO",
+        "rarity": "uncommon",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 6117,
+        "number": "100",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6117",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6117.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+        "store_url": "http://store.tcgplayer.com/magic/exodus/scalding-salamander?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6117"
+      }
+    ]
+  },
+  {
+    "name": "Scalding Tarn",
+    "id": "scalding-tarn",
+    "url": "https://api.deckbrew.com/mtg/cards/scalding-tarn",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scalding-tarn",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar Expeditions",
+        "set_id": "EXP",
+        "rarity": "mythic",
+        "artist": "Ryan Yee",
+        "multiverse_id": 405107,
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405107",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405107.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/scalding-tarn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405107"
+      },
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "rare",
+        "artist": "Philip Straub",
+        "multiverse_id": 190393,
+        "number": "223",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190393",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190393.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/scalding-tarn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190393"
+      }
+    ]
+  },
+  {
+    "name": "Scalding Tongs",
+    "id": "scalding-tongs",
+    "url": "https://api.deckbrew.com/mtg/cards/scalding-tongs",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/scalding-tongs?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "At the beginning of your upkeep, if you have three or fewer cards in hand, Scalding Tongs deals 1 damage to target opponent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 4627,
+        "flavor": "\"This has nothing to do with what you know and everything to do with what I wish.\"\n—Volrath",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4627",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4627.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/scalding-tongs?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4627"
+      }
+    ]
+  },
+  {
+    "name": "Scaldkin",
+    "id": "scaldkin",
+    "url": "https://api.deckbrew.com/mtg/cards/scaldkin",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/scaldkin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 4,
+    "cost": "{3}{U}",
+    "text": "Flying\n{2}{R}, Sacrifice Scaldkin: Scaldkin deals 2 damage to target creature or player.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Temur",
+        "rarity": "common",
+        "artist": "Cliff Childs",
+        "multiverse_id": 386653,
+        "flavor": "The Temur believe that scaldkin are born when eruptions melt the frozen whispers of sleeping ancestors.",
+        "number": "52",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386653",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386653.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/scaldkin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386653"
+      }
+    ]
+  },
+  {
+    "name": "Scalebane's Elite",
+    "id": "scalebanes-elite",
+    "url": "https://api.deckbrew.com/mtg/cards/scalebanes-elite",
+    "store_url": "http://store.tcgplayer.com/magic/visions/scalebanes-elite?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{W}",
+    "text": "Protection from black",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "uncommon",
+        "artist": "Steve Luke",
+        "multiverse_id": 3742,
+        "flavor": "\"With Rashida's blades, my guiding vision and the luck of the blessed, today we will free Mangara!\"\n—Asmira, Holy Avenger",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3742",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3742.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/scalebanes-elite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3742"
+      }
+    ]
+  },
+  {
+    "name": "Scale Blessing",
+    "id": "scale-blessing",
+    "url": "https://api.deckbrew.com/mtg/cards/scale-blessing",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/scale-blessing?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Bolster 1, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it. (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Dromoka",
+        "rarity": "uncommon",
+        "artist": "Matt Stewart",
+        "multiverse_id": 394679,
+        "flavor": "\"Your bravery honors us all.\"\n—Dromoka, translated from Draconic",
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394679",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394679.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/scale-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394679"
+      }
+    ]
+  },
+  {
+    "name": "Scaled Hulk",
+    "id": "scaled-hulk",
+    "url": "https://api.deckbrew.com/mtg/cards/scaled-hulk",
+    "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/scaled-hulk?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{5}{G}",
+    "text": "Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Betrayers of Kamigawa",
+        "set_id": "BOK",
+        "rarity": "common",
+        "artist": "Arnie Swekel",
+        "multiverse_id": 74541,
+        "flavor": "\"Say, what rhymes with ‘run for your lives'?\"\n—Ku-Ku, akki poet",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=74541",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/74541.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+        "store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/scaled-hulk?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/74541"
+      }
+    ]
+  },
+  {
+    "name": "Scaled Wurm",
+    "id": "scaled-wurm",
+    "url": "https://api.deckbrew.com/mtg/cards/scaled-wurm",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scaled-wurm",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wurm"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 8,
+    "cost": "{7}{G}",
+    "text": "",
+    "power": "7",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 27260,
+        "flavor": "\"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\n—Kjeldor: Ice Civilization",
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=27260",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/27260.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/27260"
+      },
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "common",
+        "artist": "Wayne England",
+        "multiverse_id": 83272,
+        "flavor": "The wurms become so big, a single scale can be used as a roof for a human dwelling.",
+        "number": "269",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83272",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83272.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/83272"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 16452,
+        "flavor": "\"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\n—Kjeldor: Ice Civilization",
+        "number": "251",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16452",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16452.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/16452"
+      },
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "common",
+        "artist": "Wayne England",
+        "multiverse_id": 382352,
+        "flavor": "The wurms become so big, a single scale can be used as a roof for a human dwelling.",
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382352",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382352.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382352"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 4005,
+        "flavor": "\"Flourishing during the Ice Age, these\nwurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\n—Kjeldor: Ice Civilization",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4005",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4005.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4005"
+      },
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 2586,
+        "flavor": "\"Flourishing during the Ice Age, these Wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\n—Kjeldor: Ice Civilization",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2586",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2586.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2586"
+      },
+      {
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
+        "rarity": "common",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 21174,
+        "flavor": "\"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\n—Kjeldor: Ice Civilization",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21174",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21174.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/scaled-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21174"
+      }
+    ]
+  }
+]
