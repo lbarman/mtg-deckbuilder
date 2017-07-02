@@ -1,5 +1,2197 @@
 [
   {
+    "name": "Ceaseless Searblades",
+    "id": "ceaseless-searblades",
+    "url": "https://api.deckbrew.com/mtg/cards/ceaseless-searblades",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/ceaseless-searblades?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Whenever you activate an ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 139466,
+        "flavor": "Flamekins' fires burn cool until they decide otherwise.",
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139466",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139466.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/ceaseless-searblades?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139466"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Ancient",
+    "id": "celestial-ancient",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-ancient",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-ancient",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "Flying\nWhenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 271236,
+        "flavor": "\"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings.\"\n—Josuri",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=271236",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/271236.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/celestial-ancient?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/271236"
+      },
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 107317,
+        "flavor": "\"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings.\"\n—Josuri",
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=107317",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/107317.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/celestial-ancient?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/107317"
+      },
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 423430,
+        "flavor": "\"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings.\"\n—Josuri",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423430",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423430.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/celestial-ancient?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423430"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 405167,
+        "flavor": "\"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings.\"—Josuri",
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405167",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405167.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/celestial-ancient?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405167"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Archon",
+    "id": "celestial-archon",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-archon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-archon",
+    "types": [
+      "creature",
+      "enchantment"
+    ],
+    "subtypes": [
+      "archon"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFlying, first strike\nEnchanted creature gets +4/+4 and has flying and first strike.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Wesley Burt",
+        "multiverse_id": 0,
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/celestial-archon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Matt Stewart",
+        "multiverse_id": 373503,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373503",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373503.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/celestial-archon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373503"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Matt Stewart",
+        "multiverse_id": 405168,
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405168",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405168.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/celestial-archon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405168"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Colonnade",
+    "id": "celestial-colonnade",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-colonnade",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-colonnade",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.\n{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Worldwake",
+        "set_id": "WWK",
+        "rarity": "rare",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 177545,
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=177545",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/177545.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/celestial-colonnade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/177545"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Kekai Kotaki",
+        "multiverse_id": 0,
+        "number": "23",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/celestial-colonnade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Convergence",
+    "id": "celestial-convergence",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-convergence",
+    "store_url": "http://store.tcgplayer.com/magic/prophecy/celestial-convergence?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Celestial Convergence enters the battlefield with seven omen counters on it.\nAt the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "rare",
+        "artist": "Ray Lago",
+        "multiverse_id": 24567,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24567",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24567.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/celestial-convergence?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24567"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Crusader",
+    "id": "celestial-crusader",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-crusader",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-crusader",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Flash (You may cast this spell any time you could cast an instant.)\nSplit second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nFlying\nOther white creatures get +1/+1.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 126281,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=126281",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/126281.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/celestial-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/126281"
+      },
+      {
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 222748,
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222748",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222748.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/celestial-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222748"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 389461,
+        "number": "68",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389461",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389461.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/celestial-crusader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389461"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Dawn",
+    "id": "celestial-dawn",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-dawn",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-dawn",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "Lands you control are Plains.\nNonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white.\nYou may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 15354,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15354",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15354.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/celestial-dawn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15354"
+      },
+      {
+        "set": "Time Spiral \"Timeshifted\"",
+        "set_id": "TSB",
+        "rarity": "special",
+        "artist": "Liz Danforth",
+        "multiverse_id": 106639,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106639",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106639.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+        "store_url": "http://store.tcgplayer.com/magic/timeshifted/celestial-dawn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106639"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "rare",
+        "artist": "Liz Danforth",
+        "multiverse_id": 3481,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3481",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3481.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/celestial-dawn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3481"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Flare",
+    "id": "celestial-flare",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-flare",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-flare",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{W}{W}",
+    "text": "Target player sacrifices an attacking or blocking creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Elspeth vs. Kiora",
+        "set_id": "DDO",
+        "rarity": "common",
+        "artist": "Clint Cearley",
+        "multiverse_id": 394355,
+        "flavor": "\"You were defeated the moment you declared your aggression.\"\n—Gideon Jura",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394355",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394355.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDO",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/celestial-flare?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394355"
+      },
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "Clint Cearley",
+        "multiverse_id": 398488,
+        "flavor": "\"You were defeated the moment you declared your aggression.\"—Gideon Jura",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398488",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398488.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/celestial-flare?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398488"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "common",
+        "artist": "Clint Cearley",
+        "multiverse_id": 370666,
+        "flavor": "\"You were defeated the moment you declared your aggression.\"\n—Gideon Jura",
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370666",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370666.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/celestial-flare?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370666"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Force",
+    "id": "celestial-force",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-force",
+    "store_url": "http://store.tcgplayer.com/magic/commander/celestial-force?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 8,
+    "cost": "{5}{W}{W}{W}",
+    "text": "At the beginning of each upkeep, you gain 3 life.",
+    "power": "7",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Véronique Meignaud",
+        "multiverse_id": 228257,
+        "flavor": "\"Wishing upon only one star seems like a failure of imagination.\"\n—Vish Kal, Blood Arbiter",
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228257",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228257.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/celestial-force?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/228257"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Gatekeeper",
+    "id": "celestial-gatekeeper",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-gatekeeper",
+    "store_url": "http://store.tcgplayer.com/magic/legions/celestial-gatekeeper?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "bird",
+      "cleric"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{W}{W}",
+    "text": "Flying\nWhen Celestial Gatekeeper dies, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Legions",
+        "set_id": "LGN",
+        "rarity": "rare",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 42271,
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=42271",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/42271.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
+        "store_url": "http://store.tcgplayer.com/magic/legions/celestial-gatekeeper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/42271"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Kirin",
+    "id": "celestial-kirin",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-kirin",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/celestial-kirin?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "kirin",
+      "spirit"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "Flying\nWhenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 84380,
+        "flavor": "All bow at its visitation—some in awe, some in honor, some in fear.",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84380",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84380.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/celestial-kirin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84380"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Mantle",
+    "id": "celestial-mantle",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-mantle",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/celestial-mantle?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 6,
+    "cost": "{3}{W}{W}{W}",
+    "text": "Enchant creature\nEnchanted creature gets +3/+3.\nWhenever enchanted creature deals combat damage to a player, double its controller's life total.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "rare",
+        "artist": "Steve Argyle",
+        "multiverse_id": 198524,
+        "flavor": "Upon such armor, even a mountain would break.",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198524",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198524.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/celestial-mantle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198524"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Prism",
+    "id": "celestial-prism",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-prism",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-prism",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "{2}, {T}: Add one mana of any color to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Revised Edition",
+        "set_id": "3ED",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 1100,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1100",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1100.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1100"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 602,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=602",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/602.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/602"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 2027,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2027",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2027.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2027"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 300,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=300",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/300.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/300"
+      },
+      {
+        "set": "Limited Edition Alpha",
+        "set_id": "LEA",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 5,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5"
+      },
+      {
+        "set": "Collector's Edition",
+        "set_id": "CED",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 0,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
+        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/celestial-prism?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Purge",
+    "id": "celestial-purge",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-purge",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-purge",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Exile target black or red permanent.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 183055,
+        "flavor": "\"This new chaos confounds us. We must fling it into our winds, our storms. These we can control.\"\n—Bezzit Plar, Esper stormcaller",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=183055",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/183055.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/183055"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 191595,
+        "flavor": "\"We see clearly the error of your ways. It does not matter that you choose not to.\"\n—Urien of the Lightwielders",
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191595",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191595.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/191595"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 208290,
+        "flavor": "\"They say only the good die young. Obviously, you are one of the exceptions.\"\n—Delrobah, cleric of Ivora Gate",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=208290",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/208290.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/208290"
+      },
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 220195,
+        "flavor": "\"A world without evil? Boring. Give me vile fiends to smite and banish any day.\"\n—Sarlena, paladin of the Northern Verge",
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220195",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220195.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220195"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "David Palumbo",
+        "multiverse_id": 397699,
+        "flavor": "\"They say only the good die young. Obviously, you are one of the exceptions.\"\n—Delrobah, cleric of Ivora Gate",
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397699",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397699.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397699"
+      },
+      {
+        "set": "Magic Player Rewards",
+        "set_id": "pMPR",
+        "rarity": "special",
+        "artist": "Nils Hamm",
+        "multiverse_id": 0,
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+        "store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/celestial-purge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Sword",
+    "id": "celestial-sword",
+    "url": "https://api.deckbrew.com/mtg/cards/celestial-sword",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=celestial-sword",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "{3}, {T}: Target creature you control gets +3/+3 until end of turn. Its controller sacrifices it at the beginning of the next end step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 2400,
+        "flavor": "\"So great is its power, only the chosen can wield it and live.\"\n—Avram Garrisson, Leader of the Knights of Stromgald",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2400",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2400.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/celestial-sword?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2400"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Amy Weber",
+        "multiverse_id": 202600,
+        "flavor": "\"So great is its power, only the chosen can wield it and live.\"\n—Avram Garrisson, Leader of the Knights of Stromgald",
+        "number": "188",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202600",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202600.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/celestial-sword?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202600"
+      }
+    ]
+  },
+  {
+    "name": "Celestine Reef",
+    "id": "celestine-reef",
+    "url": "https://api.deckbrew.com/mtg/cards/celestine-reef",
+    "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/celestine-reef?partner=DECKBREW",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "luvion"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Creatures without flying or islandwalk can't attack.\nWhenever you roll {CHAOS}, until a player planeswalks, you can't lose the game and your opponents can't win the game.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Donato Giancola",
+        "multiverse_id": 423598,
+        "number": "17",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423598",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423598.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/celestine-reef?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423598"
+      }
+    ]
+  },
+  {
+    "name": "Cellar Door",
+    "id": "cellar-door",
+    "url": "https://api.deckbrew.com/mtg/cards/cellar-door",
+    "store_url": "http://store.tcgplayer.com/magic/innistrad/cellar-door?partner=DECKBREW",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you create a 2/2 black Zombie creature token.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "uncommon",
+        "artist": "Rob Alexander",
+        "multiverse_id": 220390,
+        "flavor": "As if anyone needed another reason to avoid dark, dank cellars.",
+        "number": "218",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220390",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220390.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/cellar-door?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220390"
+      }
+    ]
+  },
+  {
+    "name": "Cemetery Gate",
+    "id": "cemetery-gate",
+    "url": "https://api.deckbrew.com/mtg/cards/cemetery-gate",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cemetery-gate",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "wall"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Defender (This creature can't attack.)\nProtection from black",
+    "power": "0",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "common",
+        "artist": "Melissa A. Benson",
+        "multiverse_id": 2913,
+        "flavor": "\"It keeps some out, yes. It also keeps others in\"\n—Grandmother Sengir",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2913",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2913.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/cemetery-gate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2913"
+      },
+      {
+        "set": "Homelands",
+        "set_id": "HML",
+        "rarity": "common",
+        "artist": "Melissa A. Benson",
+        "multiverse_id": 2914,
+        "flavor": "\"Just the place for a picnic.\"\n—Murat, Death Speaker",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2914",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2914.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
+        "store_url": "http://store.tcgplayer.com/magic/homelands/cemetery-gate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2914"
+      }
+    ]
+  },
+  {
+    "name": "Cemetery Puca",
+    "id": "cemetery-puca",
+    "url": "https://api.deckbrew.com/mtg/cards/cemetery-puca",
+    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/cemetery-puca?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shapeshifter"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U/B}{U/B}",
+    "text": "Whenever a creature dies, you may pay {1}. If you do, Cemetery Puca becomes a copy of that creature and gains this ability.",
+    "power": "1",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Shadowmoor",
+        "set_id": "SHM",
+        "rarity": "rare",
+        "artist": "Omar Rayyan",
+        "multiverse_id": 158767,
+        "flavor": "\"'Tis a strange creature indeed that chooses the vanquished over the victor.\"\n—Awylla, elvish safewright",
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158767",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158767.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/cemetery-puca?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/158767"
+      }
+    ]
+  },
+  {
+    "name": "Cemetery Reaper",
+    "id": "cemetery-reaper",
+    "url": "https://api.deckbrew.com/mtg/cards/cemetery-reaper",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cemetery-reaper",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "zombie"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "Other Zombie creatures you control get +1/+1.\n{2}{B}, {T}: Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "rare",
+        "artist": "Dave Allsop",
+        "multiverse_id": 220476,
+        "flavor": "Every grave cradles a recruit.",
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220476",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220476.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/cemetery-reaper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220476"
+      },
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "rare",
+        "artist": "Dave Allsop",
+        "multiverse_id": 190193,
+        "flavor": "Every grave cradles a recruit.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190193",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190193.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/cemetery-reaper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/190193"
+      },
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "rare",
+        "artist": "Dave Allsop",
+        "multiverse_id": 234070,
+        "flavor": "Every grave cradles a recruit.",
+        "number": "86",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=234070",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/234070.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/cemetery-reaper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/234070"
+      }
+    ]
+  },
+  {
+    "name": "Cemetery Recruitment",
+    "id": "cemetery-recruitment",
+    "url": "https://api.deckbrew.com/mtg/cards/cemetery-recruitment",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/cemetery-recruitment?partner=DECKBREW",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "common",
+        "artist": "Kieran Yanner",
+        "multiverse_id": 414378,
+        "flavor": "\"There's a smoothness to my magic here that I don't find on any other plane.\"",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414378",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414378.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/cemetery-recruitment?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414378"
+      }
+    ]
+  },
+  {
+    "name": "Cenn's Enlistment",
+    "id": "cenns-enlistment",
+    "url": "https://api.deckbrew.com/mtg/cards/cenns-enlistment",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cenns-enlistment",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{3}{W}",
+    "text": "Create two 1/1 white Kithkin Soldier creature tokens.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "common",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 153469,
+        "flavor": "The more the scarier.",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153469",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153469.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/cenns-enlistment?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153469"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 370373,
+        "flavor": "The more the scarier.",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370373",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370373.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/cenns-enlistment?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370373"
+      }
+    ]
+  },
+  {
+    "name": "Cenn's Heir",
+    "id": "cenns-heir",
+    "url": "https://api.deckbrew.com/mtg/cards/cenns-heir",
+    "store_url": "http://store.tcgplayer.com/magic/lorwyn/cenns-heir?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kithkin",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "common",
+        "artist": "Steven Belledin",
+        "multiverse_id": 142360,
+        "flavor": "His home clachan's familial spirit bolsters his own, but he will be ready to preside over the town as cenn only after he learns to project that strength to others.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=142360",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/142360.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/cenns-heir?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/142360"
+      }
+    ]
+  },
+  {
+    "name": "Cenn's Tactician",
+    "id": "cenns-tactician",
+    "url": "https://api.deckbrew.com/mtg/cards/cenns-tactician",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cenns-tactician",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kithkin",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature each combat.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Gateway",
+        "set_id": "pGTW",
+        "rarity": "special",
+        "artist": "Steven Belledin",
+        "multiverse_id": 0,
+        "flavor": "\"A well-trained force brings peace... which brings more time for training!\"",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+        "store_url": "http://store.tcgplayer.com/magic/gateway/cenns-tactician?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026amp; Gabor Szikszai",
+        "multiverse_id": 152878,
+        "flavor": "The choke point was the plan, but devoted camaraderie was always her strategy.",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152878",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152878.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/cenns-tactician?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152878"
+      }
+    ]
+  },
+  {
+    "name": "Censor",
+    "id": "censor",
+    "url": "https://api.deckbrew.com/mtg/cards/censor",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/censor?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 2,
+    "cost": "{1}{U}",
+    "text": "Counter target spell unless its controller pays {1}.\nCycling {U} ({U}, Discard this card: Draw a card.)",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "uncommon",
+        "artist": "John Stanko",
+        "multiverse_id": 426748,
+        "flavor": "\"Why so many questions?\"\n—Temmet, vizier of Naktamun",
+        "number": "46",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426748",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426748.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/censor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426748"
+      }
+    ]
+  },
+  {
+    "name": "Censorship",
+    "id": "censorship",
+    "url": "https://api.deckbrew.com/mtg/cards/censorship",
+    "store_url": "http://store.tcgplayer.com/magic/unglued/censorship?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 1,
+    "cost": "{U}",
+    "text": "When Censorship comes into play, choose a CENSORED word.\nWhenever any CENSORED player says the chosen CENSORED word, Censorship deals 2 CENSORED damage to him or her.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Unglued",
+        "set_id": "UGL",
+        "rarity": "uncommon",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 9747,
+        "flavor": "Editor's note: There were no suitable flavor text submissions for this card.",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=9747",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/9747.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
+        "store_url": "http://store.tcgplayer.com/magic/unglued/censorship?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/9747"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Archer",
+    "id": "centaur-archer",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-archer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=centaur-archer",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "archer",
+      "centaur"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{R}{G}",
+    "text": "{T}: Centaur Archer deals 1 damage to target creature with flying.",
+    "power": "3",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ice Age",
+        "set_id": "ICE",
+        "rarity": "uncommon",
+        "artist": "Melissa A. Benson",
+        "multiverse_id": 2718,
+        "flavor": "\"Centaurs will kill our Aesthir if they can; they've always been enemies. Destroy the horse-people on sight.\"\n—Arna Kennerüd, Skyknight",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2718",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2718.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+        "store_url": "http://store.tcgplayer.com/magic/ice-age/centaur-archer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2718"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "uncommon",
+        "artist": "Melissa A. Benson",
+        "multiverse_id": 159834,
+        "flavor": "\"Centaurs will kill our aesthir if they can; they've always been enemies. Destroy the horse-people on sight.\"\n—Arna Kennerüd, Skyknight",
+        "number": "142",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159834",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159834.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/centaur-archer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159834"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Battlemaster",
+    "id": "centaur-battlemaster",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-battlemaster",
+    "store_url": "http://store.tcgplayer.com/magic/theros/centaur-battlemaster?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 373594,
+        "flavor": "\"A herd is only as strong as its weakest. Our weakest just killed his third minotaur raider—today.\"\n—Braulios of Pheres Band",
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373594",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373594.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/centaur-battlemaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373594"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Chieftain",
+    "id": "centaur-chieftain",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-chieftain",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=centaur-chieftain",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "Haste\nThreshold — As long as seven or more cards are in your graveyard, Centaur Chieftain has \"When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn.\"",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Torment",
+        "set_id": "TOR",
+        "rarity": "uncommon",
+        "artist": "Justin Sweet",
+        "multiverse_id": 32218,
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=32218",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/32218.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+        "store_url": "http://store.tcgplayer.com/magic/torment/centaur-chieftain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/32218"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Justin Sweet",
+        "multiverse_id": 413702,
+        "number": "160",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413702",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413702.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/centaur-chieftain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413702"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Courser",
+    "id": "centaur-courser",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-courser",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=centaur-courser",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 189883,
+        "flavor": "\"The centaurs are truly free. Never will they be tamed by temptation or controlled by fear. They live in total harmony, a feat not yet achieved by our kind.\"\n—Ramal, sage of Westgate",
+        "number": "172",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189883",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189883.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/centaur-courser?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189883"
+      },
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 383162,
+        "flavor": "\"The centaurs are truly free. Never will they be tamed by temptation or controlled by fear. They live in total harmony, a feat not yet achieved by our kind.\"\n—Ramal, sage of Westgate",
+        "number": "282",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383162",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383162.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/centaur-courser?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383162"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "common",
+        "artist": "Vance Kovacs",
+        "multiverse_id": 279993,
+        "flavor": "\"The centaurs are truly free. Never will they be tamed by temptation or controlled by fear. They live in total harmony, a feat not yet achieved by our kind.\"\n—Ramal, sage of Westgate",
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=279993",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/279993.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/centaur-courser?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/279993"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Garden",
+    "id": "centaur-garden",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-garden",
+    "store_url": "http://store.tcgplayer.com/magic/odyssey/centaur-garden?partner=DECKBREW",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {G} to your mana pool. Centaur Garden deals 1 damage to you.\nThreshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 29905,
+        "number": "316",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29905",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29905.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/centaur-garden?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29905"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Glade",
+    "id": "centaur-glade",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-glade",
+    "store_url": "http://store.tcgplayer.com/magic/onslaught/centaur-glade?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "{2}{G}{G}: Create a 3/3 green Centaur creature token.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Onslaught",
+        "set_id": "ONS",
+        "rarity": "uncommon",
+        "artist": "Alex Horley-Orlandelli",
+        "multiverse_id": 39678,
+        "flavor": "The Mirari called to the centaurs, and all who heard it were forever changed.",
+        "number": "251",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=39678",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/39678.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+        "store_url": "http://store.tcgplayer.com/magic/onslaught/centaur-glade?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/39678"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Healer",
+    "id": "centaur-healer",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-healer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=centaur-healer",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "centaur",
+      "cleric"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{W}",
+    "text": "When Centaur Healer enters the battlefield, you gain 3 life.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Selesnya",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 253654,
+        "flavor": "Instructors at the Kasarna training grounds are capable healers in case their students fail to grasp the subtleties of combat.",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=253654",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/253654.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/centaur-healer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/253654"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 425981,
+        "flavor": "Instructors at the Kasarna training grounds are capable healers in case their students fail to grasp the subtleties of combat.",
+        "number": "156",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425981",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425981.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/centaur-healer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425981"
+      }
+    ]
+  },
+  {
+    "name": "Centaur Omenreader",
+    "id": "centaur-omenreader",
+    "url": "https://api.deckbrew.com/mtg/cards/centaur-omenreader",
+    "store_url": "http://store.tcgplayer.com/magic/future-sight/centaur-omenreader?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "snow"
+    ],
+    "subtypes": [
+      "centaur",
+      "shaman"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "As long as Centaur Omenreader is tapped, creature spells you cast cost {2} less to cast.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "uncommon",
+        "artist": "Justin Sweet",
+        "multiverse_id": 130684,
+        "flavor": "The wisdom of the omenreaders is legendary. Creatures travel for miles through icy peril to seek their counsel.",
+        "number": "143",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130684",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130684.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/centaur-omenreader?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130684"
+      }
+    ]
+  },
+  {
     "name": "Centaur Rootcaster",
     "id": "centaur-rootcaster",
     "url": "https://api.deckbrew.com/mtg/cards/centaur-rootcaster",
@@ -395,25 +2587,6 @@
     },
     "editions": [
       {
-        "set": "Odyssey",
-        "set_id": "ODY",
-        "rarity": "uncommon",
-        "artist": "John Avon",
-        "multiverse_id": 29903,
-        "number": "317",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29903",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29903.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-        "store_url": "http://store.tcgplayer.com/magic/odyssey/cephalid-coliseum?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/29903"
-      },
-      {
         "set": "From the Vault: Realms",
         "set_id": "V12",
         "rarity": "mythic",
@@ -431,6 +2604,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/V12",
         "store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/cephalid-coliseum?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/288995"
+      },
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "uncommon",
+        "artist": "John Avon",
+        "multiverse_id": 29903,
+        "number": "317",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29903",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29903.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/cephalid-coliseum?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29903"
       }
     ]
   },
@@ -462,26 +2654,6 @@
     },
     "editions": [
       {
-        "set": "Judgment",
-        "set_id": "JUD",
-        "rarity": "rare",
-        "artist": "Alan Pollack",
-        "multiverse_id": 26728,
-        "flavor": "Cephalids don't police people. They police loyalties.",
-        "number": "35",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26728",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26728.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
-        "store_url": "http://store.tcgplayer.com/magic/judgment/cephalid-constable?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/26728"
-      },
-      {
         "set": "Tenth Edition",
         "set_id": "10E",
         "rarity": "rare",
@@ -500,6 +2672,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/cephalid-constable?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/135261"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "rare",
+        "artist": "Alan Pollack",
+        "multiverse_id": 26728,
+        "flavor": "Cephalids don't police people. They police loyalties.",
+        "number": "35",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26728",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26728.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/cephalid-constable?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26728"
       }
     ]
   },
@@ -766,25 +2958,6 @@
     },
     "editions": [
       {
-        "set": "Eternal Masters",
-        "set_id": "EMA",
-        "rarity": "common",
-        "artist": "Keith Garletts",
-        "multiverse_id": 413583,
-        "number": "41",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413583",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413583.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
-        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/cephalid-sage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413583"
-      },
-      {
         "set": "Torment",
         "set_id": "TOR",
         "rarity": "uncommon",
@@ -802,6 +2975,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
         "store_url": "http://store.tcgplayer.com/magic/torment/cephalid-sage?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/33690"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Keith Garletts",
+        "multiverse_id": 413583,
+        "number": "41",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413583",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413583.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/cephalid-sage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413583"
       }
     ]
   },
@@ -1811,25 +4003,6 @@
     },
     "editions": [
       {
-        "set": "Vintage Masters",
-        "set_id": "VMA",
-        "rarity": "common",
-        "artist": "Mark Zug",
-        "multiverse_id": 382881,
-        "number": "108",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382881",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382881.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
-        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/chainers-edict?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382881"
-      },
-      {
         "set": "Friday Night Magic",
         "set_id": "pFNM",
         "rarity": "special",
@@ -1850,25 +4023,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
-        "set": "From the Vault: Twenty",
-        "set_id": "V13",
-        "rarity": "mythic",
-        "artist": "Mark Zug",
-        "multiverse_id": 373317,
-        "number": "10",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373317",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373317.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chainers-edict?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/373317"
-      },
-      {
         "set": "Torment",
         "set_id": "TOR",
         "rarity": "uncommon",
@@ -1887,6 +4041,44 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/TOR",
         "store_url": "http://store.tcgplayer.com/magic/torment/chainers-edict?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/29603"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 382881,
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382881",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382881.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/chainers-edict?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382881"
+      },
+      {
+        "set": "From the Vault: Twenty",
+        "set_id": "V13",
+        "rarity": "mythic",
+        "artist": "Mark Zug",
+        "multiverse_id": 373317,
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373317",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373317.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chainers-edict?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373317"
       }
     ]
   },
@@ -1957,6 +4149,25 @@
     },
     "editions": [
       {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "common",
+        "artist": "Sandra Everingham",
+        "multiverse_id": 1563,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1563",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1563.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/chain-lightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1563"
+      },
+      {
         "set": "Premium Deck Series: Fire and Lightning",
         "set_id": "PD2",
         "rarity": "common",
@@ -1974,6 +4185,44 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PD2",
         "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/chain-lightning?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/217977"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "uncommon",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 413665,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413665",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413665.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/chain-lightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413665"
+      },
+      {
+        "set": "Masterpiece Series: Amonkhet Invocations",
+        "set_id": "MPS_AKH",
+        "rarity": "special",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 429885,
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=429885",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/429885.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MPS_AKH",
+        "store_url": "http://store.tcgplayer.com/magic/masterpiece-series-amonkhet-invocations/chain-lightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/429885"
       },
       {
         "set": "Vintage Masters",
@@ -2012,44 +4261,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/chain-lightning?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/201126"
-      },
-      {
-        "set": "Eternal Masters",
-        "set_id": "EMA",
-        "rarity": "uncommon",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 413665,
-        "number": "123",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413665",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413665.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
-        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/chain-lightning?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413665"
-      },
-      {
-        "set": "Legends",
-        "set_id": "LEG",
-        "rarity": "common",
-        "artist": "Sandra Everingham",
-        "multiverse_id": 1563,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1563",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1563.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/chain-lightning?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1563"
       }
     ]
   },
@@ -2299,26 +4510,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Trevor Claxton",
-        "multiverse_id": 247538,
-        "flavor": "\"We train for the improbable, like lightning striking the same place twice, or striking everywhere at once.\"\n—Nundari, Sea Gate militia captain",
-        "number": "113",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247538",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247538.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/chain-reaction?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/247538"
-      },
-      {
         "set": "Worldwake",
         "set_id": "WWK",
         "rarity": "rare",
@@ -2337,6 +4528,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
         "store_url": "http://store.tcgplayer.com/magic/worldwake/chain-reaction?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/201573"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 247538,
+        "flavor": "\"We train for the improbable, like lightning striking the same place twice, or striking everywhere at once.\"\n—Nundari, Sea Gate militia captain",
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247538",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247538.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/chain-reaction?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247538"
       },
       {
         "set": "Commander 2015",
@@ -2381,25 +4592,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition",
-        "set_id": "MED",
-        "rarity": "rare",
-        "artist": "Heather Hudson",
-        "multiverse_id": 159823,
-        "number": "63",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159823",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159823.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition/chains-of-mephistopheles?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/159823"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "rare",
@@ -2417,6 +4609,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/chains-of-mephistopheles?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1431"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 159823,
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159823",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159823.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/chains-of-mephistopheles?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159823"
       }
     ]
   },
@@ -2580,25 +4791,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/425804"
       },
       {
-        "set": "Modern Masters",
-        "set_id": "MMA",
-        "rarity": "rare",
-        "artist": "Mark Zug",
-        "multiverse_id": 370411,
-        "number": "203",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370411",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370411.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters/chalice-of-the-void?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370411"
-      },
-      {
         "set": "Mirrodin",
         "set_id": "MRD",
         "rarity": "rare",
@@ -2616,6 +4808,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
         "store_url": "http://store.tcgplayer.com/magic/mirrodin/chalice-of-the-void?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/48326"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "rare",
+        "artist": "Mark Zug",
+        "multiverse_id": 370411,
+        "number": "203",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370411",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370411.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/chalice-of-the-void?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370411"
       }
     ]
   },
@@ -2782,25 +4993,6 @@
     },
     "editions": [
       {
-        "set": "From the Vault: Twenty",
-        "set_id": "V13",
-        "rarity": "mythic",
-        "artist": "Darrell Riche",
-        "multiverse_id": 373321,
-        "number": "16",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373321",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373321.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chameleon-colossus?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/373321"
-      },
-      {
         "set": "Archenemy",
         "set_id": "ARC",
         "rarity": "rare",
@@ -2820,25 +5012,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/220451"
       },
       {
-        "set": "Commander 2015",
-        "set_id": "C15",
-        "rarity": "rare",
-        "artist": "Darrell Riche",
-        "multiverse_id": 405171,
-        "number": "178",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405171",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405171.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2015/chameleon-colossus?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405171"
-      },
-      {
         "set": "Morningtide",
         "set_id": "MOR",
         "rarity": "rare",
@@ -2856,6 +5029,44 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
         "store_url": "http://store.tcgplayer.com/magic/morningtide/chameleon-colossus?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/153450"
+      },
+      {
+        "set": "From the Vault: Twenty",
+        "set_id": "V13",
+        "rarity": "mythic",
+        "artist": "Darrell Riche",
+        "multiverse_id": 373321,
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373321",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373321.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chameleon-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373321"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Darrell Riche",
+        "multiverse_id": 405171,
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405171",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405171.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/chameleon-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405171"
       }
     ]
   },
@@ -2933,26 +5144,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "rare",
-        "artist": "Chippy",
-        "multiverse_id": 202435,
-        "flavor": "The flash of his lance projects the pure radiance of his honor.",
-        "number": "8",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202435",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202435.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/champion-lancer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202435"
-      },
-      {
         "set": "Starter 1999",
         "set_id": "S99",
         "rarity": "rare",
@@ -2971,6 +5162,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/S99",
         "store_url": "http://store.tcgplayer.com/magic/starter-1999/champion-lancer?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/20184"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Chippy",
+        "multiverse_id": 202435,
+        "flavor": "The flash of his lance projects the pure radiance of his honor.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202435",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202435.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/champion-lancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202435"
       }
     ]
   },
@@ -3092,6 +5303,50 @@
     ]
   },
   {
+    "name": "Champion of Rhonas",
+    "id": "champion-of-rhonas",
+    "url": "https://api.deckbrew.com/mtg/cards/champion-of-rhonas",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/champion-of-rhonas?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "jackal",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{3}{G}",
+    "text": "You may exert Champion of Rhonas as it attacks. When you do, you may put a creature card from your hand onto the battlefield. (An exerted creature won't untap during your next untap step.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "rare",
+        "artist": "Winona Nelson",
+        "multiverse_id": 426861,
+        "flavor": "The only way to finish the Trial of Strength is with a basilisk scale in hand.",
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426861",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426861.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/champion-of-rhonas?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426861"
+      }
+    ]
+  },
+  {
     "name": "Champion of Stray Souls",
     "id": "champion-of-stray-souls",
     "url": "https://api.deckbrew.com/mtg/cards/champion-of-stray-souls",
@@ -3119,25 +5374,6 @@
     },
     "editions": [
       {
-        "set": "Commander 2015",
-        "set_id": "C15",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 405172,
-        "number": "119",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405172",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405172.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2015/champion-of-stray-souls?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405172"
-      },
-      {
         "set": "Born of the Gods",
         "set_id": "BNG",
         "rarity": "mythic",
@@ -3155,6 +5391,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
         "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/champion-of-stray-souls?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/378435"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 405172,
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405172",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405172.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/champion-of-stray-souls?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405172"
       }
     ]
   },
@@ -3186,26 +5441,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Blessed vs. Cursed",
-        "set_id": "DDQ",
-        "rarity": "rare",
-        "artist": "Svetlin Velinov",
-        "multiverse_id": 409580,
-        "flavor": "\"I stand for every cobbler, tanner, and fool in this town—and they stand for me.\"",
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409580",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409580.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/champion-of-the-parish?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/409580"
-      },
-      {
         "set": "Innistrad",
         "set_id": "ISD",
         "rarity": "rare",
@@ -3224,6 +5459,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
         "store_url": "http://store.tcgplayer.com/magic/innistrad/champion-of-the-parish?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/262861"
+      },
+      {
+        "set": "Duel Decks: Blessed vs. Cursed",
+        "set_id": "DDQ",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 409580,
+        "flavor": "\"I stand for every cobbler, tanner, and fool in this town—and they stand for me.\"",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=409580",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/409580.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/champion-of-the-parish?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/409580"
       }
     ]
   },
@@ -3296,25 +5551,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Alan Pollack",
-        "multiverse_id": 233200,
-        "number": "244",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233200",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233200.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/champions-helm?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/233200"
-      },
-      {
         "set": "Masterpiece Series: Kaladesh Inventions",
         "set_id": "MPS",
         "rarity": "special",
@@ -3333,6 +5569,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MPS",
         "store_url": "http://store.tcgplayer.com/magic/masterpiece-series-kaladesh-inventions/champions-helm?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/420594"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Alan Pollack",
+        "multiverse_id": 233200,
+        "number": "244",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=233200",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/233200.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/champions-helm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/233200"
       }
     ]
   },
@@ -3416,2126 +5671,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
         "store_url": "http://store.tcgplayer.com/magic/odyssey/chance-encounter?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/29978"
-      }
-    ]
-  },
-  {
-    "name": "Chancellor of the Annex",
-    "id": "chancellor-of-the-annex",
-    "url": "https://api.deckbrew.com/mtg/cards/chancellor-of-the-annex",
-    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-annex?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "angel"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 7,
-    "cost": "{4}{W}{W}{W}",
-    "text": "You may reveal this card from your opening hand. If you do, when each opponent casts his or her first spell of the game, counter that spell unless that player pays {1}.\nFlying\nWhenever an opponent casts a spell, counter it unless that player pays {1}.",
-    "power": "5",
-    "toughness": "6",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "New Phyrexia",
-        "set_id": "NPH",
-        "watermark": "Phyrexian",
-        "rarity": "rare",
-        "artist": "Min Yum",
-        "multiverse_id": 218083,
-        "number": "6",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=218083",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/218083.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
-        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-annex?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/218083"
-      }
-    ]
-  },
-  {
-    "name": "Chancellor of the Dross",
-    "id": "chancellor-of-the-dross",
-    "url": "https://api.deckbrew.com/mtg/cards/chancellor-of-the-dross",
-    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-dross?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "vampire"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 7,
-    "cost": "{4}{B}{B}{B}",
-    "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.\nFlying, lifelink",
-    "power": "6",
-    "toughness": "6",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "New Phyrexia",
-        "set_id": "NPH",
-        "watermark": "Phyrexian",
-        "rarity": "rare",
-        "artist": "Stephan Martiniere",
-        "multiverse_id": 218020,
-        "number": "54",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=218020",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/218020.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
-        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-dross?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/218020"
-      }
-    ]
-  },
-  {
-    "name": "Chancellor of the Forge",
-    "id": "chancellor-of-the-forge",
-    "url": "https://api.deckbrew.com/mtg/cards/chancellor-of-the-forge",
-    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-forge?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "giant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 7,
-    "cost": "{4}{R}{R}{R}",
-    "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste.\nWhen Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.",
-    "power": "5",
-    "toughness": "5",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "New Phyrexia",
-        "set_id": "NPH",
-        "watermark": "Phyrexian",
-        "rarity": "rare",
-        "artist": "Chippy",
-        "multiverse_id": 218021,
-        "number": "81",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=218021",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/218021.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
-        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-forge?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/218021"
-      }
-    ]
-  },
-  {
-    "name": "Chancellor of the Spires",
-    "id": "chancellor-of-the-spires",
-    "url": "https://api.deckbrew.com/mtg/cards/chancellor-of-the-spires",
-    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-spires?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "sphinx"
-    ],
-    "colors": [
-      "blue"
-    ],
-    "cmc": 7,
-    "cost": "{4}{U}{U}{U}",
-    "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent puts the top seven cards of his or her library into his or her graveyard.\nFlying\nWhen Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.",
-    "power": "5",
-    "toughness": "7",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "New Phyrexia",
-        "set_id": "NPH",
-        "watermark": "Phyrexian",
-        "rarity": "rare",
-        "artist": "Nils Hamm",
-        "multiverse_id": 214360,
-        "number": "31",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=214360",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/214360.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
-        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-spires?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/214360"
-      }
-    ]
-  },
-  {
-    "name": "Chancellor of the Tangle",
-    "id": "chancellor-of-the-tangle",
-    "url": "https://api.deckbrew.com/mtg/cards/chancellor-of-the-tangle",
-    "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-tangle?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "beast"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 7,
-    "cost": "{4}{G}{G}{G}",
-    "text": "You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G} to your mana pool.\nVigilance, reach",
-    "power": "6",
-    "toughness": "7",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "New Phyrexia",
-        "set_id": "NPH",
-        "watermark": "Phyrexian",
-        "rarity": "rare",
-        "artist": "Steve Prescott",
-        "multiverse_id": 218062,
-        "number": "106",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=218062",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/218062.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
-        "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/chancellor-of-the-tangle?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/218062"
-      }
-    ]
-  },
-  {
-    "name": "Chandler",
-    "id": "chandler",
-    "url": "https://api.deckbrew.com/mtg/cards/chandler",
-    "store_url": "http://store.tcgplayer.com/magic/homelands/chandler?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "supertypes": [
-      "legendary"
-    ],
-    "subtypes": [
-      "human",
-      "rogue"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 5,
-    "cost": "{4}{R}",
-    "text": "{R}{R}{R}, {T}: Destroy target artifact creature.",
-    "power": "3",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Homelands",
-        "set_id": "HML",
-        "rarity": "common",
-        "artist": "Douglas Shuler",
-        "multiverse_id": 2997,
-        "flavor": "\"Never brag about the latest wonder you've created, students. Chandler might be listening.\"\n—Reveka, Wizard Savant",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2997",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2997.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/HML",
-        "store_url": "http://store.tcgplayer.com/magic/homelands/chandler?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2997"
-      }
-    ]
-  },
-  {
-    "name": "Chandra Ablaze",
-    "id": "chandra-ablaze",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-ablaze",
-    "store_url": "http://store.tcgplayer.com/magic/zendikar/chandra-ablaze?partner=DECKBREW",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 6,
-    "cost": "{4}{R}{R}",
-    "text": "+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.\n−2: Each player discards his or her hand, then draws three cards.\n−7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.",
-    "loyalty": 5,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Zendikar",
-        "set_id": "ZEN",
-        "rarity": "mythic",
-        "artist": "Steve Argyle",
-        "multiverse_id": 195402,
-        "number": "120",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=195402",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/195402.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
-        "store_url": "http://store.tcgplayer.com/magic/zendikar/chandra-ablaze?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/195402"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Fire of Kaladesh",
-    "id": "chandra-fire-of-kaladesh",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-fire-of-kaladesh",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandra-fire-of-kaladesh",
-    "types": [
-      "creature"
-    ],
-    "supertypes": [
-      "legendary"
-    ],
-    "subtypes": [
-      "human",
-      "shaman"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{1}{R}{R}",
-    "text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic Origins",
-        "set_id": "ORI",
-        "rarity": "mythic",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 398422,
-        "number": "135a",
-        "layout": "double-faced",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398422",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398422.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-        "store_url": "http://store.tcgplayer.com/magic/magic-origins/chandra-fire-of-kaladesh?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/398422"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 0,
-        "number": "201",
-        "layout": "double-faced",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/chandra-fire-of-kaladesh?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Flamecaller",
-    "id": "chandra-flamecaller",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-flamecaller",
-    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/chandra-flamecaller?partner=DECKBREW",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 6,
-    "cost": "{4}{R}{R}",
-    "text": "+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra, Flamecaller deals X damage to each creature.",
-    "loyalty": 4,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Oath of the Gatewatch",
-        "set_id": "OGW",
-        "rarity": "mythic",
-        "artist": "Jason Rainville",
-        "multiverse_id": 407614,
-        "number": "104",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=407614",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/407614.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/OGW",
-        "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/chandra-flamecaller?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/407614"
-      }
-    ]
-  },
-  {
-    "name": "Chandra Nalaar",
-    "id": "chandra-nalaar",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-nalaar",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandra-nalaar",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 5,
-    "cost": "{3}{R}{R}",
-    "text": "+1: Chandra Nalaar deals 1 damage to target player.\n−X: Chandra Nalaar deals X damage to target creature.\n−8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.",
-    "loyalty": 6,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "rare",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 140176,
-        "number": "159",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=140176",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/140176.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/chandra-nalaar?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/140176"
-      },
-      {
-        "set": "Duel Decks Anthology, Jace vs. Chandra",
-        "set_id": "DD3_JVC",
-        "rarity": "mythic",
-        "artist": "Kev Walker",
-        "multiverse_id": 393821,
-        "number": "34",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393821",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393821.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/chandra-nalaar?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/393821"
-      },
-      {
-        "set": "Duel Decks: Jace vs. Chandra",
-        "set_id": "DD2",
-        "rarity": "mythic",
-        "artist": "Kev Walker",
-        "multiverse_id": 185815,
-        "number": "34",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=185815",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/185815.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/chandra-nalaar?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/185815"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 205958,
-        "number": "127",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205958",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205958.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/chandra-nalaar?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205958"
-      },
-      {
-        "set": "Magic 2010",
-        "set_id": "M10",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 191242,
-        "number": "132",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191242",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191242.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/chandra-nalaar?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/191242"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Pyrogenius",
-    "id": "chandra-pyrogenius",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-pyrogenius",
-    "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandra-pyrogenius?partner=DECKBREW",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 6,
-    "cost": "{4}{R}{R}",
-    "text": "+2: Chandra, Pyrogenius deals 2 damage to each opponent.\n−3: Chandra, Pyrogenius deals 4 damage to target creature.\n−10: Chandra, Pyrogenius deals 6 damage to target player and each creature he or she controls.",
-    "loyalty": 5,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Kaladesh",
-        "set_id": "KLD",
-        "rarity": "mythic",
-        "artist": "Jason Rainville",
-        "multiverse_id": 420478,
-        "number": "265",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420478",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420478.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
-        "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandra-pyrogenius?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/420478"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Pyromaster",
-    "id": "chandra-pyromaster",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-pyromaster",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandra-pyromaster",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{2}{R}{R}",
-    "text": "+1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
-    "loyalty": 4,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "mythic",
-        "artist": "Winona Nelson",
-        "multiverse_id": 370637,
-        "number": "132",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370637",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370637.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/chandra-pyromaster?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370637"
-      },
-      {
-        "set": "Magic 2015 Core Set",
-        "set_id": "M15",
-        "rarity": "mythic",
-        "artist": "Winona Nelson",
-        "multiverse_id": 383204,
-        "number": "134",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383204",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383204.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/chandra-pyromaster?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/383204"
-      },
-      {
-        "set": "Media Inserts",
-        "set_id": "pMEI",
-        "rarity": "special",
-        "artist": "Steve Prescott",
-        "multiverse_id": 0,
-        "number": "75",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
-        "store_url": "http://store.tcgplayer.com/magic/media-inserts/chandra-pyromaster?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Media Inserts",
-        "set_id": "pMEI",
-        "rarity": "special",
-        "artist": "Jae Lee",
-        "multiverse_id": 0,
-        "number": "102",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
-        "store_url": "http://store.tcgplayer.com/magic/media-inserts/chandra-pyromaster?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Roaring Flame",
-    "id": "chandra-roaring-flame",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-roaring-flame",
-    "store_url": "http://store.tcgplayer.com/magic/magic-origins/chandra-roaring-flame?partner=DECKBREW",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "",
-    "text": "+1: Chandra, Roaring Flame deals 2 damage to target player.\n−2: Chandra, Roaring Flame deals 2 damage to target creature.\n−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
-    "loyalty": 4,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic Origins",
-        "set_id": "ORI",
-        "rarity": "mythic",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 398423,
-        "number": "135b",
-        "layout": "double-faced",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398423",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398423.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-        "store_url": "http://store.tcgplayer.com/magic/magic-origins/chandra-roaring-flame?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/398423"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Fury",
-    "id": "chandras-fury",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-fury",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandras-fury",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 5,
-    "cost": "{4}{R}",
-    "text": "Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2013",
-        "set_id": "M13",
-        "rarity": "common",
-        "artist": "Volkan Baga",
-        "multiverse_id": 249682,
-        "flavor": "\"I asked if they wanted to do things the easy way. I meant easy for me.\"",
-        "number": "124",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249682",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249682.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/chandras-fury?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/249682"
-      },
-      {
-        "set": "Magic Origins",
-        "set_id": "ORI",
-        "rarity": "common",
-        "artist": "Volkan Baga",
-        "multiverse_id": 398632,
-        "flavor": "\"They started it.\"",
-        "number": "136",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398632",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398632.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-        "store_url": "http://store.tcgplayer.com/magic/magic-origins/chandras-fury?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/398632"
-      },
-      {
-        "set": "Media Inserts",
-        "set_id": "pMEI",
-        "rarity": "special",
-        "artist": "Volkan Baga",
-        "multiverse_id": 0,
-        "flavor": "www.MagicTheGathering.com",
-        "number": "65",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
-        "store_url": "http://store.tcgplayer.com/magic/media-inserts/chandras-fury?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Ignition",
-    "id": "chandras-ignition",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-ignition",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandras-ignition",
-    "types": [
-      "sorcery"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 5,
-    "cost": "{3}{R}{R}",
-    "text": "Target creature you control deals damage equal to its power to each other creature and each opponent.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic Origins",
-        "set_id": "ORI",
-        "rarity": "rare",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 398416,
-        "flavor": "In the moment before her execution, she realized what it meant to be a pyromancer, to be alive, to be Chandra.",
-        "number": "137",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398416",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398416.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-        "store_url": "http://store.tcgplayer.com/magic/magic-origins/chandras-ignition?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/398416"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 0,
-        "flavor": "In the moment before her execution, she realized what it meant to be a pyromancer, to be alive, to be Chandra.",
-        "number": "200",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/chandras-ignition?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Outrage",
-    "id": "chandras-outrage",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-outrage",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandras-outrage",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{2}{R}{R}",
-    "text": "Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 370659,
-        "flavor": "Chandra never believed in using her \"inside voice.\"",
-        "number": "133",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370659",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370659.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/chandras-outrage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370659"
-      },
-      {
-        "set": "Archenemy",
-        "set_id": "ARC",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 220513,
-        "flavor": "\"Her mind is an incredible mix of emotion and power. Even if I could grasp it, I couldn't hold it for long.\"\n—Jace Beleren, on Chandra Nalaar",
-        "number": "32",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220513",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220513.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
-        "store_url": "http://store.tcgplayer.com/magic/archenemy/chandras-outrage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220513"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 205071,
-        "flavor": "\"Her mind is an incredible mix of emotion and power. Even if I could grasp it, I couldn't hold it for long.\"\n—Jace Beleren, on Chandra Nalaar",
-        "number": "128",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205071",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205071.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/chandras-outrage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205071"
-      },
-      {
-        "set": "Magic 2012",
-        "set_id": "M12",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 226585,
-        "flavor": "Chandra never believed in using her \"inside voice.\"",
-        "number": "125",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226585",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226585.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/chandras-outrage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/226585"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Phoenix",
-    "id": "chandras-phoenix",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-phoenix",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandras-phoenix",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "phoenix"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{1}{R}{R}",
-    "text": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "rare",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 370691,
-        "number": "134",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370691",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370691.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/chandras-phoenix?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370691"
-      },
-      {
-        "set": "Magic 2012",
-        "set_id": "M12",
-        "rarity": "rare",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 220298,
-        "number": "126",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220298",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220298.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/chandras-phoenix?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220298"
-      },
-      {
-        "set": "Media Inserts",
-        "set_id": "pMEI",
-        "rarity": "special",
-        "artist": "Steve Argyle",
-        "multiverse_id": 0,
-        "number": "37",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
-        "store_url": "http://store.tcgplayer.com/magic/media-inserts/chandras-phoenix?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Pyrohelix",
-    "id": "chandras-pyrohelix",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-pyrohelix",
-    "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandras-pyrohelix?partner=DECKBREW",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 2,
-    "cost": "{1}{R}",
-    "text": "Chandra's Pyrohelix deals 2 damage divided as you choose among one or two target creatures and/or players.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Kaladesh",
-        "set_id": "KLD",
-        "rarity": "common",
-        "artist": "Kieran Yanner",
-        "multiverse_id": 417684,
-        "flavor": "\"This one's for my mom, and this one's for me.\"",
-        "number": "111",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417684",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417684.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
-        "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandras-pyrohelix?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/417684"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Revolution",
-    "id": "chandras-revolution",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-revolution",
-    "store_url": "http://store.tcgplayer.com/magic/aether-revolt/chandras-revolution?partner=DECKBREW",
-    "types": [
-      "sorcery"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{3}{R}",
-    "text": "Chandra's Revolution deals 4 damage to target creature. Tap target land. That land doesn't untap during its controller's next untap step.",
-    "formats": {},
-    "editions": [
-      {
-        "set": "Aether Revolt",
-        "set_id": "AER",
-        "rarity": "common",
-        "artist": "Clint Cearley",
-        "multiverse_id": 423744,
-        "flavor": "Chandra was driven by her anger, directed particularly at the man who had taken her father from her.",
-        "number": "77",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423744",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423744.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/AER",
-        "store_url": "http://store.tcgplayer.com/magic/aether-revolt/chandras-revolution?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/423744"
-      }
-    ]
-  },
-  {
-    "name": "Chandra's Spitfire",
-    "id": "chandras-spitfire",
-    "url": "https://api.deckbrew.com/mtg/cards/chandras-spitfire",
-    "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/chandras-spitfire?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "elemental"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{2}{R}",
-    "text": "Flying\nWhenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.",
-    "power": "1",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "uncommon",
-        "artist": "Justin Sweet",
-        "multiverse_id": 205026,
-        "flavor": "\"I've lit most everything on fire—trees, rocks, even the water. Now it's time to burn the clouds.\"",
-        "number": "129",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205026",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205026.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/chandras-spitfire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205026"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, the Firebrand",
-    "id": "chandra-the-firebrand",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-the-firebrand",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chandra-the-firebrand",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{3}{R}",
-    "text": "+1: Chandra, the Firebrand deals 1 damage to target creature or player.\n−2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\n−6: Chandra, the Firebrand deals 6 damage to each of up to six target creatures and/or players.",
-    "loyalty": 3,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Magic 2013",
-        "set_id": "M13",
-        "rarity": "mythic",
-        "artist": "D. Alexander Gregory",
-        "multiverse_id": 259205,
-        "number": "123",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=259205",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/259205.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/chandra-the-firebrand?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/259205"
-      },
-      {
-        "set": "Magic 2012",
-        "set_id": "M12",
-        "rarity": "mythic",
-        "artist": "D. Alexander Gregory",
-        "multiverse_id": 220146,
-        "number": "124",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220146",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220146.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/chandra-the-firebrand?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220146"
-      }
-    ]
-  },
-  {
-    "name": "Chandra, Torch of Defiance",
-    "id": "chandra-torch-of-defiance",
-    "url": "https://api.deckbrew.com/mtg/cards/chandra-torch-of-defiance",
-    "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandra-torch-of-defiance?partner=DECKBREW",
-    "types": [
-      "planeswalker"
-    ],
-    "subtypes": [
-      "chandra"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{2}{R}{R}",
-    "text": "+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.\n+1: Add {R}{R} to your mana pool.\n−3: Chandra, Torch of Defiance deals 4 damage to target creature.\n−7: You get an emblem with \"Whenever you cast a spell, this emblem deals 5 damage to target creature or player.\"",
-    "loyalty": 4,
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Kaladesh",
-        "set_id": "KLD",
-        "rarity": "mythic",
-        "artist": "Magali Villeneuve",
-        "multiverse_id": 417683,
-        "number": "110",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417683",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417683.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
-        "store_url": "http://store.tcgplayer.com/magic/kaladesh/chandra-torch-of-defiance?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/417683"
-      }
-    ]
-  },
-  {
-    "name": "Changeling Berserker",
-    "id": "changeling-berserker",
-    "url": "https://api.deckbrew.com/mtg/cards/changeling-berserker",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-berserker?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "shapeshifter"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{3}{R}",
-    "text": "Changeling (This card is every creature type.)\nHaste\nChampion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",
-    "power": "5",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "uncommon",
-        "artist": "Warren Mahy",
-        "multiverse_id": 145804,
-        "number": "160",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145804",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145804.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-berserker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/145804"
-      }
-    ]
-  },
-  {
-    "name": "Changeling Hero",
-    "id": "changeling-hero",
-    "url": "https://api.deckbrew.com/mtg/cards/changeling-hero",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-hero?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "shapeshifter"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 5,
-    "cost": "{4}{W}",
-    "text": "Changeling (This card is every creature type.)\nChampion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
-    "power": "4",
-    "toughness": "4",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "uncommon",
-        "artist": "Jeff Miracola",
-        "multiverse_id": 145968,
-        "number": "9",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145968",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145968.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-hero?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/145968"
-      }
-    ]
-  },
-  {
-    "name": "Changeling Sentinel",
-    "id": "changeling-sentinel",
-    "url": "https://api.deckbrew.com/mtg/cards/changeling-sentinel",
-    "store_url": "http://store.tcgplayer.com/magic/morningtide/changeling-sentinel?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "shapeshifter"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 4,
-    "cost": "{3}{W}",
-    "text": "Changeling (This card is every creature type.)\nVigilance",
-    "power": "3",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Morningtide",
-        "set_id": "MOR",
-        "rarity": "common",
-        "artist": "Chuck Lukacs",
-        "multiverse_id": 143230,
-        "flavor": "There's nothing more unsettling than locking blades with something that looks just like you.",
-        "number": "6",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=143230",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/143230.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
-        "store_url": "http://store.tcgplayer.com/magic/morningtide/changeling-sentinel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/143230"
-      }
-    ]
-  },
-  {
-    "name": "Changeling Titan",
-    "id": "changeling-titan",
-    "url": "https://api.deckbrew.com/mtg/cards/changeling-titan",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-titan?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "shapeshifter"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 5,
-    "cost": "{4}{G}",
-    "text": "Changeling (This card is every creature type.)\nChampion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",
-    "power": "7",
-    "toughness": "7",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "uncommon",
-        "artist": "Jesper Ejsing",
-        "multiverse_id": 140345,
-        "number": "200",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=140345",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/140345.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/changeling-titan?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/140345"
-      }
-    ]
-  },
-  {
-    "name": "Change of Heart",
-    "id": "change-of-heart",
-    "url": "https://api.deckbrew.com/mtg/cards/change-of-heart",
-    "store_url": "http://store.tcgplayer.com/magic/stronghold/change-of-heart?partner=DECKBREW",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 1,
-    "cost": "{W}",
-    "text": "Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget creature can't attack this turn.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Stronghold",
-        "set_id": "STH",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 5121,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5121",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5121.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/STH",
-        "store_url": "http://store.tcgplayer.com/magic/stronghold/change-of-heart?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5121"
-      }
-    ]
-  },
-  {
-    "name": "Channel",
-    "id": "channel",
-    "url": "https://api.deckbrew.com/mtg/cards/channel",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=channel",
-    "types": [
-      "sorcery"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 2,
-    "cost": "{G}{G}",
-    "text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C} to your mana pool.",
-    "formats": {
-      "commander": "banned",
-      "legacy": "banned",
-      "vintage": "restricted"
-    },
-    "editions": [
-      {
-        "set": "Vintage Masters",
-        "set_id": "VMA",
-        "rarity": "mythic",
-        "artist": "Rebecca Guay",
-        "multiverse_id": 382882,
-        "number": "200",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382882",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382882.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
-        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382882"
-      },
-      {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 2203,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2203",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2203.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2203"
-      },
-      {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "rare",
-        "artist": "Richard Thomas",
-        "multiverse_id": 202596,
-        "number": "145",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202596",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202596.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202596"
-      },
-      {
-        "set": "International Collector's Edition",
-        "set_id": "CEI",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 0,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
-        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Unlimited Edition",
-        "set_id": "2ED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 741,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=741",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/741.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
-        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/741"
-      },
-      {
-        "set": "Revised Edition",
-        "set_id": "3ED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 1237,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1237",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1237.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
-        "store_url": "http://store.tcgplayer.com/magic/revised-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1237"
-      },
-      {
-        "set": "From the Vault: Exiled",
-        "set_id": "V09",
-        "rarity": "mythic",
-        "artist": "Rebecca Guay",
-        "multiverse_id": 194967,
-        "flavor": "To some mages, the meaning of life is less important than how much is left.",
-        "number": "3",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=194967",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/194967.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V09",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/194967"
-      },
-      {
-        "set": "Limited Edition Alpha",
-        "set_id": "LEA",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 144,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=144",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/144.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
-        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/144"
-      },
-      {
-        "set": "Collector's Edition",
-        "set_id": "CED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 0,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
-        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 439,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=439",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/439.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/channel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/439"
-      }
-    ]
-  },
-  {
-    "name": "Channel Harm",
-    "id": "channel-harm",
-    "url": "https://api.deckbrew.com/mtg/cards/channel-harm",
-    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/channel-harm?partner=DECKBREW",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 6,
-    "cost": "{5}{W}",
-    "text": "Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Fate Reforged",
-        "set_id": "FRF",
-        "rarity": "uncommon",
-        "artist": "David Gaillet",
-        "multiverse_id": 391808,
-        "number": "7",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391808",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391808.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
-        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/channel-harm?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/391808"
-      }
-    ]
-  },
-  {
-    "name": "Channel the Suns",
-    "id": "channel-the-suns",
-    "url": "https://api.deckbrew.com/mtg/cards/channel-the-suns",
-    "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/channel-the-suns?partner=DECKBREW",
-    "types": [
-      "sorcery"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 4,
-    "cost": "{3}{G}",
-    "text": "Add {W}{U}{B}{R}{G} to your mana pool.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Fifth Dawn",
-        "set_id": "5DN",
-        "rarity": "uncommon",
-        "artist": "Rob Alexander",
-        "multiverse_id": 73565,
-        "flavor": "To some the birth of the fifth sun was a sign of doom. To others it was a sign of salvation. But to all it was a sign.",
-        "number": "84",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=73565",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/73565.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/channel-the-suns?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/73565"
-      }
-    ]
-  },
-  {
-    "name": "Chant of the Skifsang",
-    "id": "chant-of-the-skifsang",
-    "url": "https://api.deckbrew.com/mtg/cards/chant-of-the-skifsang",
-    "store_url": "http://store.tcgplayer.com/magic/dark-ascension/chant-of-the-skifsang?partner=DECKBREW",
-    "types": [
-      "enchantment"
-    ],
-    "subtypes": [
-      "aura"
-    ],
-    "colors": [
-      "blue"
-    ],
-    "cmc": 3,
-    "cost": "{2}{U}",
-    "text": "Enchant creature\nEnchanted creature gets -13/-0.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Dark Ascension",
-        "set_id": "DKA",
-        "rarity": "common",
-        "artist": "Nils Hamm",
-        "multiverse_id": 262829,
-        "flavor": "The skifsang, seafarers of Nephalia, craft spells like other sailors craft nets—making them strong enough to snare even the deadliest catch.",
-        "number": "31",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=262829",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/262829.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
-        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/chant-of-the-skifsang?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/262829"
-      }
-    ]
-  },
-  {
-    "name": "Chant of Vitu-Ghazi",
-    "id": "chant-of-vitu-ghazi",
-    "url": "https://api.deckbrew.com/mtg/cards/chant-of-vitu-ghazi",
-    "store_url": "http://store.tcgplayer.com/magic/ravnica/chant-of-vitu-ghazi?partner=DECKBREW",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 8,
-    "cost": "{6}{W}{W}",
-    "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPrevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Ravnica: City of Guilds",
-        "set_id": "RAV",
-        "watermark": "Selesnya",
-        "rarity": "uncommon",
-        "artist": "Stephen Tappin",
-        "multiverse_id": 87957,
-        "number": "7",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87957",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87957.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
-        "store_url": "http://store.tcgplayer.com/magic/ravnica/chant-of-vitu-ghazi?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/87957"
-      }
-    ]
-  },
-  {
-    "name": "Chaos",
-    "id": "chaos",
-    "url": "https://api.deckbrew.com/mtg/cards/chaos",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chaos",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{2}{R}",
-    "text": "Creatures can't block this turn.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Apocalypse",
-        "set_id": "APC",
-        "rarity": "uncommon",
-        "artist": "Greg \u0026 Tim Hildebrandt",
-        "multiverse_id": 27168,
-        "number": "132b",
-        "layout": "split",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=27168",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/27168.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
-        "store_url": "http://store.tcgplayer.com/magic/apocalypse/chaos?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/27168"
-      },
-      {
-        "set": "Commander 2016",
-        "set_id": "C16",
-        "rarity": "uncommon",
-        "artist": "Tim Hildebrandt",
-        "multiverse_id": 420857,
-        "number": "240b",
-        "layout": "split",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420857",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420857.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2016/chaos?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/420857"
-      },
-      {
-        "set": "Planechase",
-        "set_id": "HOP",
-        "rarity": "uncommon",
-        "artist": "Tim Hildebrandt",
-        "multiverse_id": 205384,
-        "number": "104b",
-        "layout": "split",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205384",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205384.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
-        "store_url": "http://store.tcgplayer.com/magic/planechase/chaos?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205384"
-      }
-    ]
-  },
-  {
-    "name": "Chaos Charm",
-    "id": "chaos-charm",
-    "url": "https://api.deckbrew.com/mtg/cards/chaos-charm",
-    "store_url": "http://store.tcgplayer.com/magic/mirage/chaos-charm?partner=DECKBREW",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 1,
-    "cost": "{R}",
-    "text": "Choose one —\n• Destroy target Wall.\n• Chaos Charm deals 1 damage to target creature.\n• Target creature gains haste until end of turn.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Mirage",
-        "set_id": "MIR",
-        "rarity": "common",
-        "artist": "Steve Luke",
-        "multiverse_id": 3434,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3434",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3434.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
-        "store_url": "http://store.tcgplayer.com/magic/mirage/chaos-charm?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3434"
-      }
-    ]
-  },
-  {
-    "name": "Chaos Confetti",
-    "id": "chaos-confetti",
-    "url": "https://api.deckbrew.com/mtg/cards/chaos-confetti",
-    "store_url": "http://store.tcgplayer.com/magic/unglued/chaos-confetti?partner=DECKBREW",
-    "types": [
-      "artifact"
-    ],
-    "cmc": 4,
-    "cost": "{4}",
-    "text": "{4}, {T}: Tear Chaos Confetti into pieces. Throw the pieces onto the playing area from a distance of at least five feet. Destroy each card in play that a piece touches. Remove the pieces from the game afterwards.",
-    "formats": {},
-    "editions": [
-      {
-        "set": "Unglued",
-        "set_id": "UGL",
-        "rarity": "common",
-        "artist": "Mark Tedin",
-        "multiverse_id": 5712,
-        "flavor": "And you thought that was just an urban legend.",
-        "number": "72",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5712",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5712.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/UGL",
-        "store_url": "http://store.tcgplayer.com/magic/unglued/chaos-confetti?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5712"
       }
     ]
   }

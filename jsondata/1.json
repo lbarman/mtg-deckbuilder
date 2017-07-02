@@ -20,26 +20,6 @@
     },
     "editions": [
       {
-        "set": "Vintage Masters",
-        "set_id": "VMA",
-        "rarity": "common",
-        "artist": "Ron Spears",
-        "multiverse_id": 382836,
-        "flavor": "\"I'll wring out your tiny mind like a sponge.\"\n—Urborg witch",
-        "number": "103",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382836",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382836.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
-        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/addle?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382836"
-      },
-      {
         "set": "Invasion",
         "set_id": "INV",
         "rarity": "uncommon",
@@ -58,6 +38,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/INV",
         "store_url": "http://store.tcgplayer.com/magic/invasion/addle?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/23030"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Ron Spears",
+        "multiverse_id": 382836,
+        "flavor": "\"I'll wring out your tiny mind like a sponge.\"\n—Urborg witch",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382836",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382836.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/addle?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382836"
       }
     ]
   },
@@ -308,26 +308,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition",
-        "set_id": "MED",
-        "rarity": "rare",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 159294,
-        "flavor": "\". . . And at his passing, the bodies of the world's great warriors shall rise from their graves and follow him to battle.\"\n—The Anvilonian Grimoire",
-        "number": "141",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159294",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159294.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition/adun-oakenshield?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/159294"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "rare",
@@ -346,6 +326,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/adun-oakenshield?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1642"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Jeff A. Menges",
+        "multiverse_id": 159294,
+        "flavor": "\". . . And at his passing, the bodies of the world's great warriors shall rise from their graves and follow him to battle.\"\n—The Anvilonian Grimoire",
+        "number": "141",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159294",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159294.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/adun-oakenshield?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159294"
       }
     ]
   },
@@ -475,26 +475,6 @@
     },
     "editions": [
       {
-        "set": "Tempest",
-        "set_id": "TMP",
-        "rarity": "common",
-        "artist": "Heather Hudson",
-        "multiverse_id": 4857,
-        "flavor": "\"The soldier's path is worn smooth by the tread of many feet—all in one direction, none returning.\"\n—Oracle en-Vec",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4857",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4857.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
-        "store_url": "http://store.tcgplayer.com/magic/tempest/advance-scout?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4857"
-      },
-      {
         "set": "Battle Royale Box Set",
         "set_id": "BRB",
         "rarity": "common",
@@ -513,6 +493,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
         "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/advance-scout?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/21186"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 4857,
+        "flavor": "\"The soldier's path is worn smooth by the tread of many feet—all in one direction, none returning.\"\n—Oracle en-Vec",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4857",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4857.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/advance-scout?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4857"
       }
     ]
   },
@@ -559,7 +559,7 @@
     "name": "Advent of the Wurm",
     "id": "advent-of-the-wurm",
     "url": "https://api.deckbrew.com/mtg/cards/advent-of-the-wurm",
-    "store_url": "http://store.tcgplayer.com/magic/dragons-maze/advent-of-the-wurm?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=advent-of-the-wurm",
     "types": [
       "instant"
     ],
@@ -597,6 +597,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DGM",
         "store_url": "http://store.tcgplayer.com/magic/dragons-maze/advent-of-the-wurm?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/369036"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "rare",
+        "artist": "Lucas Graciano",
+        "multiverse_id": 425972,
+        "flavor": "The consciousness of Mat'Selesnya does not always spread in peaceful ways.",
+        "number": "147",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425972",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425972.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/advent-of-the-wurm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425972"
       }
     ]
   },
@@ -840,23 +860,23 @@
     },
     "editions": [
       {
-        "set": "Magic 2015 Core Set",
-        "set_id": "M15",
+        "set": "Welcome Deck 2016",
+        "set_id": "W16",
         "rarity": "rare",
         "artist": "Aleksi Briclot",
-        "multiverse_id": 383160,
-        "number": "270",
+        "multiverse_id": 413367,
+        "number": "1",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383160",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383160.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/aegis-angel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/383160"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413367",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413367.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/W16",
+        "store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/aegis-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413367"
       },
       {
         "set": "Magic Origins",
@@ -878,25 +898,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/401452"
       },
       {
-        "set": "Welcome Deck 2016",
-        "set_id": "W16",
-        "rarity": "rare",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 413367,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413367",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413367.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/W16",
-        "store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/aegis-angel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413367"
-      },
-      {
         "set": "Magic 2012",
         "set_id": "M12",
         "rarity": "rare",
@@ -914,6 +915,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M12",
         "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/aegis-angel?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/220086"
+      },
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "rare",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 383160,
+        "number": "270",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383160",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383160.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/aegis-angel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383160"
       }
     ]
   },
@@ -934,7 +954,12 @@
     "text": "{4}{W}: Return another target creature you control to its owner's hand.",
     "power": "0",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -1478,7 +1503,12 @@
     "cmc": 5,
     "cost": "{4}{W}",
     "text": "Enchant creature or Vehicle\nAs long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.\nEnchanted creature gets +2/+2 and has flying.",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -1871,7 +1901,12 @@
     "text": "Flying\nVehicles you control have flying.",
     "power": "3",
     "toughness": "1",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -2025,24 +2060,24 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "common",
+        "set": "Anthologies",
+        "set_id": "ATH",
+        "rarity": "special",
         "artist": "Ruth Thompson",
-        "multiverse_id": 202510,
-        "flavor": "\"Sacrilege! A noble ally in life, made nothing more than a glorified kite in death!\"\n—Arna Kennerüd, skycaptain",
-        "number": "176",
+        "multiverse_id": 0,
+        "flavor": "\"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel.\"\n—Arcum Dagsson,\nSoldevi Machinist",
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202510",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202510.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/aesthir-glider?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202510"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+        "store_url": "http://store.tcgplayer.com/magic/anthologies/aesthir-glider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
         "set": "Alliances",
@@ -2085,24 +2120,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/3041"
       },
       {
-        "set": "Anthologies",
-        "set_id": "ATH",
-        "rarity": "special",
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
         "artist": "Ruth Thompson",
-        "multiverse_id": 0,
-        "flavor": "\"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel.\"\n—Arcum Dagsson,\nSoldevi Machinist",
-        "number": "",
+        "multiverse_id": 202510,
+        "flavor": "\"Sacrilege! A noble ally in life, made nothing more than a glorified kite in death!\"\n—Arna Kennerüd, skycaptain",
+        "number": "176",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ATH",
-        "store_url": "http://store.tcgplayer.com/magic/anthologies/aesthir-glider?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202510",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202510.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/aesthir-glider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202510"
       }
     ]
   },
@@ -2134,26 +2169,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Jace vs. Vraska",
-        "set_id": "DDM",
-        "rarity": "common",
-        "artist": "Eric Deschamps",
-        "multiverse_id": 380241,
-        "flavor": "\"The universe is my instrument, and the song I play upon it is one you are forbidden to hear.\"",
-        "number": "12",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380241",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380241.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/aether-adept?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/380241"
-      },
-      {
         "set": "Magic 2011",
         "set_id": "M11",
         "rarity": "common",
@@ -2172,6 +2187,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M11",
         "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/aether-adept?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/205020"
+      },
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "common",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 380241,
+        "flavor": "\"The universe is my instrument, and the song I play upon it is one you are forbidden to hear.\"",
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380241",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380241.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/aether-adept?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380241"
       },
       {
         "set": "Magic 2012",
@@ -2606,7 +2641,12 @@
     "text": "First strike\nWhen Aether Chaser enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
     "power": "2",
     "toughness": "1",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -2896,26 +2936,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/15447"
       },
       {
-        "set": "Weatherlight",
-        "set_id": "WTH",
-        "rarity": "uncommon",
-        "artist": "Ron Spencer",
-        "multiverse_id": 4534,
-        "flavor": "\"You can't get there from here. Well, you can—it just won't be fun.\"\n—Ertai, wizard adept",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4534",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4534.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
-        "store_url": "http://store.tcgplayer.com/magic/weatherlight/aether-flash?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4534"
-      },
-      {
         "set": "Seventh Edition",
         "set_id": "7ED",
         "rarity": "uncommon",
@@ -2934,6 +2954,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
         "store_url": "http://store.tcgplayer.com/magic/7th-edition/aether-flash?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/25678"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "Ron Spencer",
+        "multiverse_id": 4534,
+        "flavor": "\"You can't get there from here. Well, you can—it just won't be fun.\"\n—Ertai, wizard adept",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4534",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4534.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/aether-flash?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4534"
       }
     ]
   },
@@ -3164,7 +3204,12 @@
     "text": "Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).\nPay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.",
     "power": "3",
     "toughness": "1",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3209,7 +3254,12 @@
     "text": "When Aether Herder enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
     "power": "3",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3293,7 +3343,12 @@
     "text": "Vigilance\nWhen Aether Inspector enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
     "power": "2",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3358,26 +3413,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/366273"
       },
       {
-        "set": "Commander 2015",
-        "set_id": "C15",
-        "rarity": "uncommon",
-        "artist": "Ryan Barger",
-        "multiverse_id": 405119,
-        "flavor": "\"You can come back once you've learned some manners—and figured out how to reconstitute your physical forms.\"",
-        "number": "85",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405119",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405119.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2015/aetherize?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405119"
-      },
-      {
         "set": "Duel Decks: Elspeth vs. Kiora",
         "set_id": "DDO",
         "rarity": "uncommon",
@@ -3396,6 +3431,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDO",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/aetherize?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/394352"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "uncommon",
+        "artist": "Ryan Barger",
+        "multiverse_id": 405119,
+        "flavor": "\"You can come back once you've learned some manners—and figured out how to reconstitute your physical forms.\"",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405119",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405119.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/aetherize?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405119"
       }
     ]
   },
@@ -3617,6 +3672,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
         "store_url": "http://store.tcgplayer.com/magic/dissension/aethermages-touch?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/111192"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "rare",
+        "artist": "Randy Gallegos",
+        "multiverse_id": 425973,
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425973",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425973.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/aethermages-touch?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425973"
       },
       {
         "set": "Commander 2013 Edition",
@@ -4118,7 +4192,12 @@
     "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
     "power": "1",
     "toughness": "1",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -4420,26 +4499,6 @@
     },
     "editions": [
       {
-        "set": "Commander 2014",
-        "set_id": "C14",
-        "rarity": "rare",
-        "artist": "Kev Walker",
-        "multiverse_id": 389425,
-        "flavor": "\"May you wake to find you were only ever a dream.\"\n—Mephidross curse",
-        "number": "133",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389425",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389425.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2014/aether-snap?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/389425"
-      },
-      {
         "set": "Darksteel",
         "set_id": "DST",
         "rarity": "rare",
@@ -4458,6 +4517,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DST",
         "store_url": "http://store.tcgplayer.com/magic/darksteel/aether-snap?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/49075"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 389425,
+        "flavor": "\"May you wake to find you were only ever a dream.\"\n—Mephidross curse",
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389425",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389425.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/aether-snap?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389425"
       }
     ]
   },
@@ -4635,25 +4714,6 @@
     },
     "editions": [
       {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "common",
-        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
-        "multiverse_id": 145817,
-        "number": "50",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145817",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145817.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/aethersnipe?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/145817"
-      },
-      {
         "set": "Magic: The Gathering-Commander",
         "set_id": "CMD",
         "rarity": "common",
@@ -4671,6 +4731,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
         "store_url": "http://store.tcgplayer.com/magic/commander/aethersnipe?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/247295"
+      },
+      {
+        "set": "Duel Decks: Jace vs. Chandra",
+        "set_id": "DD2",
+        "rarity": "common",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 189211,
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189211",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189211.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/aethersnipe?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189211"
       },
       {
         "set": "Duel Decks Anthology, Jace vs. Chandra",
@@ -4711,23 +4790,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/397746"
       },
       {
-        "set": "Duel Decks: Jace vs. Chandra",
-        "set_id": "DD2",
+        "set": "Lorwyn",
+        "set_id": "LRW",
         "rarity": "common",
         "artist": "Zoltan Boros \u0026 Gabor Szikszai",
-        "multiverse_id": 189211,
-        "number": "17",
+        "multiverse_id": 145817,
+        "number": "50",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189211",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189211.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/aethersnipe?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/189211"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145817",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145817.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/aethersnipe?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/145817"
       },
       {
         "set": "Modern Masters",
@@ -4911,26 +4990,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Elspeth vs. Tezzeret",
-        "set_id": "DDF",
-        "rarity": "common",
-        "artist": "Jim Nelson",
-        "multiverse_id": 222720,
-        "flavor": "\"Release that which was never caged.\"\n—Spellbomb inscription",
-        "number": "61",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222720",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222720.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/aether-spellbomb?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/222720"
-      },
-      {
         "set": "Archenemy",
         "set_id": "ARC",
         "rarity": "common",
@@ -4951,24 +5010,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/220525"
       },
       {
-        "set": "Modern Masters",
-        "set_id": "MMA",
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
         "rarity": "common",
         "artist": "Jim Nelson",
-        "multiverse_id": 370524,
+        "multiverse_id": 222720,
         "flavor": "\"Release that which was never caged.\"\n—Spellbomb inscription",
-        "number": "196",
+        "number": "61",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370524",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370524.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters/aether-spellbomb?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370524"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222720",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222720.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/aether-spellbomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222720"
       },
       {
         "set": "Mirrodin",
@@ -4989,6 +5048,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
         "store_url": "http://store.tcgplayer.com/magic/mirrodin/aether-spellbomb?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/48113"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Jim Nelson",
+        "multiverse_id": 370524,
+        "flavor": "\"Release that which was never caged.\"\n—Spellbomb inscription",
+        "number": "196",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370524",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370524.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/aether-spellbomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370524"
       }
     ]
   },
@@ -5108,7 +5187,12 @@
     "text": "Flying\nWhen Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).\nPay {E}: Aethersphere Harvester gains lifelink until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
     "power": "3",
     "toughness": "5",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -5390,26 +5474,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/2935"
       },
       {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "uncommon",
-        "artist": "Mark Tedin",
-        "multiverse_id": 3891,
-        "flavor": "Thunder in the wind / no rain / peace mourns its passing.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3891",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3891.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/aether-storm?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3891"
-      },
-      {
         "set": "Masters Edition II",
         "set_id": "ME2",
         "rarity": "uncommon",
@@ -5428,6 +5492,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/aether-storm?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/184722"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 3891,
+        "flavor": "Thunder in the wind / no rain / peace mourns its passing.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3891",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3891.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/aether-storm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3891"
       }
     ]
   },

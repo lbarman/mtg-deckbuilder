@@ -1,5 +1,104 @@
 [
   {
+    "name": "Ambitious Aetherborn",
+    "id": "ambitious-aetherborn",
+    "url": "https://api.deckbrew.com/mtg/cards/ambitious-aetherborn",
+    "store_url": "http://store.tcgplayer.com/magic/kaladesh/ambitious-aetherborn?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "aetherborn",
+      "artificer"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{4}{B}",
+    "text": "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Kaladesh",
+        "set_id": "KLD",
+        "rarity": "common",
+        "artist": "Josu Hernaiz",
+        "multiverse_id": 417645,
+        "flavor": "Aetherborn who are unwilling to accept the decomposition of their bodies invent ways to preserve and augment themselves.",
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417645",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417645.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
+        "store_url": "http://store.tcgplayer.com/magic/kaladesh/ambitious-aetherborn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/417645"
+      }
+    ]
+  },
+  {
+    "name": "Ambuscade Shaman",
+    "id": "ambuscade-shaman",
+    "url": "https://api.deckbrew.com/mtg/cards/ambuscade-shaman",
+    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ambuscade-shaman?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "orc",
+      "shaman"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Kolaghan",
+        "rarity": "uncommon",
+        "artist": "Anthony Palumbo",
+        "multiverse_id": 394489,
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394489",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394489.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ambuscade-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394489"
+      }
+    ]
+  },
+  {
     "name": "Ambush",
     "id": "ambush",
     "url": "https://api.deckbrew.com/mtg/cards/ambush",
@@ -67,25 +166,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Elves vs. Goblins",
-        "set_id": "EVG",
-        "rarity": "rare",
-        "artist": "Lucio Parrillo",
-        "multiverse_id": 157950,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157950",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157950.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/ambush-commander?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/157950"
-      },
-      {
         "set": "Duel Decks Anthology, Elves vs. Goblins",
         "set_id": "DD3_EVG",
         "rarity": "rare",
@@ -103,6 +183,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/ambush-commander?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/393943"
+      },
+      {
+        "set": "Duel Decks: Elves vs. Goblins",
+        "set_id": "EVG",
+        "rarity": "rare",
+        "artist": "Lucio Parrillo",
+        "multiverse_id": 157950,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157950",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157950.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/ambush-commander?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/157950"
       },
       {
         "set": "Scourge",
@@ -241,26 +340,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/2989"
       },
       {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "common",
-        "artist": "Charles Gillespie",
-        "multiverse_id": 4029,
-        "flavor": "\"Fair fight? I'll take survival over chivalry any day!\"\n—Tor Wauki, Bandit King",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4029",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4029.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/ambush-party?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4029"
-      },
-      {
         "set": "Masters Edition II",
         "set_id": "ME2",
         "rarity": "common",
@@ -279,6 +358,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/ambush-party?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/184543"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Charles Gillespie",
+        "multiverse_id": 4029,
+        "flavor": "\"Fair fight? I'll take survival over chivalry any day!\"\n—Tor Wauki, Bandit King",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4029",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4029.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/ambush-party?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4029"
       }
     ]
   },
@@ -720,6 +819,26 @@
     },
     "editions": [
       {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "common",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 1601,
+        "flavor": "Quick and agile, Amrou Kithkin can usually escape from even the most fearsome opponents.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1601",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1601.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/amrou-kithkin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1601"
+      },
+      {
         "set": "Fourth Edition",
         "set_id": "4ED",
         "rarity": "common",
@@ -758,26 +877,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/amrou-kithkin?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/201265"
-      },
-      {
-        "set": "Legends",
-        "set_id": "LEG",
-        "rarity": "common",
-        "artist": "Quinton Hoover",
-        "multiverse_id": 1601,
-        "flavor": "Quick and agile, Amrou Kithkin can usually escape from even the most fearsome opponents.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1601",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1601.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/amrou-kithkin?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1601"
       }
     ]
   },
@@ -985,11 +1084,11 @@
     },
     "editions": [
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
+        "set": "Fifth Edition",
+        "set_id": "5ED",
         "rarity": "common",
         "artist": "Margaret Organ-Kean",
-        "multiverse_id": 2016,
+        "multiverse_id": 3759,
         "flavor": "Among the first allies Urza gained were the people of Kroog. As a sign of friendship, Urza gave the healers of the city potent amulets; afterwards, thousands journeyed to Kroog in hope of healing.",
         "number": "",
         "layout": "normal",
@@ -998,11 +1097,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2016",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2016.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/amulet-of-kroog?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2016"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3759",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3759.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/amulet-of-kroog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3759"
       },
       {
         "set": "Antiquities",
@@ -1025,11 +1124,11 @@
         "html_url": "https://deckbrew.com/mtg/cards/992"
       },
       {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
+        "set": "Fourth Edition",
+        "set_id": "4ED",
         "rarity": "common",
         "artist": "Margaret Organ-Kean",
-        "multiverse_id": 3759,
+        "multiverse_id": 2016,
         "flavor": "Among the first allies Urza gained were the people of Kroog. As a sign of friendship, Urza gave the healers of the city potent amulets; afterwards, thousands journeyed to Kroog in hope of healing.",
         "number": "",
         "layout": "normal",
@@ -1038,11 +1137,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3759",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3759.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/amulet-of-kroog?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3759"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2016",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2016.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/amulet-of-kroog?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2016"
       },
       {
         "set": "Masters Edition IV",
@@ -1278,6 +1377,26 @@
     },
     "editions": [
       {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 16444,
+        "flavor": "\"Not all minotaurs are tribal. Some are freelance.\"\n—Eron the Relentless",
+        "number": "164",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16444",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16444.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/anaba-bodyguard?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/16444"
+      },
+      {
         "set": "Homelands",
         "set_id": "HML",
         "rarity": "common",
@@ -1316,26 +1435,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/HML",
         "store_url": "http://store.tcgplayer.com/magic/homelands/anaba-bodyguard?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/2993"
-      },
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "common",
-        "artist": "Anson Maddocks",
-        "multiverse_id": 16444,
-        "flavor": "\"Not all minotaurs are tribal. Some are freelance.\"\n—Eron the Relentless",
-        "number": "164",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16444",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16444.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/anaba-bodyguard?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/16444"
       },
       {
         "set": "Tenth Edition",
@@ -1386,6 +1485,26 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 16441,
+        "flavor": "\"The shamans? Ha! They are craven cows not capable of true magic.\"\n—Irini Sengir",
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16441",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16441.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/anaba-shaman?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/16441"
+      },
       {
         "set": "Ninth Edition",
         "set_id": "9ED",
@@ -1445,26 +1564,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/HML",
         "store_url": "http://store.tcgplayer.com/magic/homelands/anaba-shaman?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/2995"
-      },
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "common",
-        "artist": "Anson Maddocks",
-        "multiverse_id": 16441,
-        "flavor": "\"The shamans? Ha! They are craven cows not capable of true magic.\"\n—Irini Sengir",
-        "number": "165",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16441",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16441.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/anaba-shaman?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/16441"
       },
       {
         "set": "Eighth Edition",
@@ -1631,6 +1730,26 @@
     },
     "editions": [
       {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "uncommon",
+        "artist": "Stephen Daniele",
+        "multiverse_id": 5603,
+        "flavor": "If you're smaller than the anaconda, it considers you food. If you're larger than the anaconda, it considers you a lot of food.",
+        "number": "232",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5603",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5603.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/anaconda?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5603"
+      },
+      {
         "set": "Ninth Edition",
         "set_id": "9ED",
         "rarity": "uncommon",
@@ -1649,26 +1768,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
         "store_url": "http://store.tcgplayer.com/magic/9th-edition/anaconda?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/83276"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "uncommon",
-        "artist": "John Gallagher",
-        "multiverse_id": 13106,
-        "flavor": "You'll never find an anaconda in a swamp. It will always find you first.",
-        "number": "229",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13106",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13106.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/anaconda?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/13106"
       },
       {
         "set": "Portal",
@@ -1710,24 +1809,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/4288"
       },
       {
-        "set": "Urza's Saga",
-        "set_id": "USG",
+        "set": "Seventh Edition",
+        "set_id": "7ED",
         "rarity": "uncommon",
-        "artist": "Stephen Daniele",
-        "multiverse_id": 5603,
-        "flavor": "If you're smaller than the anaconda, it considers you food. If you're larger than the anaconda, it considers you a lot of food.",
-        "number": "232",
+        "artist": "John Gallagher",
+        "multiverse_id": 13106,
+        "flavor": "You'll never find an anaconda in a swamp. It will always find you first.",
+        "number": "229",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5603",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5603.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/anaconda?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5603"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13106",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13106.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/anaconda?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/13106"
       }
     ]
   },
@@ -1810,6 +1909,26 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Ryan Yee",
+        "multiverse_id": 0,
+        "flavor": "Martyred for worshipping her ancestors, she now walks among them.",
+        "number": "158",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/anafenza-kin-tree-spirit?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Dragons of Tarkir",
         "set_id": "DTK",
         "watermark": "Dromoka",
@@ -1829,26 +1948,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
         "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/anafenza-kin-tree-spirit?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/394490"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Ryan Yee",
-        "multiverse_id": 0,
-        "flavor": "Martyred for worshipping her ancestors, she now walks among them.",
-        "number": "158",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/anafenza-kin-tree-spirit?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -1885,6 +1984,26 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "James Ryman",
+        "multiverse_id": 0,
+        "flavor": "Rarely at rest on the Amber Throne, Anafenza always leads the Abzan Houses to battle.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/anafenza-the-foremost?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Khans of Tarkir",
         "set_id": "KTK",
         "watermark": "Abzan",
@@ -1904,26 +2023,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
         "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/anafenza-the-foremost?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/386476"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "James Ryman",
-        "multiverse_id": 0,
-        "flavor": "Rarely at rest on the Amber Throne, Anafenza always leads the Abzan Houses to battle.",
-        "number": "89",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/anafenza-the-foremost?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -1975,26 +2074,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/84072"
       },
       {
-        "set": "Odyssey",
-        "set_id": "ODY",
-        "rarity": "common",
-        "artist": "Greg \u0026 Tim Hildebrandt",
-        "multiverse_id": 29758,
-        "flavor": "Those who will not follow are doomed to lead.",
-        "number": "173",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29758",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29758.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-        "store_url": "http://store.tcgplayer.com/magic/odyssey/anarchist?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/29758"
-      },
-      {
         "set": "Tempest Remastered",
         "set_id": "TPR",
         "rarity": "common",
@@ -2033,6 +2112,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
         "store_url": "http://store.tcgplayer.com/magic/exodus/anarchist?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/6110"
+      },
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "common",
+        "artist": "Greg \u0026 Tim Hildebrandt",
+        "multiverse_id": 29758,
+        "flavor": "Those who will not follow are doomed to lead.",
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29758",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29758.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/anarchist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29758"
       }
     ]
   },
@@ -2057,26 +2156,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition II",
-        "set_id": "ME2",
-        "rarity": "rare",
-        "artist": "Phil Foglio",
-        "multiverse_id": 184600,
-        "flavor": "\"The shaman waved the staff, and the land itself went mad.\"\n—Disa the Restless, journal entry",
-        "number": "116",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184600",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184600.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/anarchy?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/184600"
-      },
-      {
         "set": "Ice Age",
         "set_id": "ICE",
         "rarity": "uncommon",
@@ -2095,6 +2174,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
         "store_url": "http://store.tcgplayer.com/magic/ice-age/anarchy?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/2606"
+      },
+      {
+        "set": "Masters Edition II",
+        "set_id": "ME2",
+        "rarity": "rare",
+        "artist": "Phil Foglio",
+        "multiverse_id": 184600,
+        "flavor": "\"The shaman waved the staff, and the land itself went mad.\"\n—Disa the Restless, journal entry",
+        "number": "116",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=184600",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/184600.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/anarchy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/184600"
       }
     ]
   },
@@ -2168,25 +2267,6 @@
     },
     "editions": [
       {
-        "set": "Alara Reborn",
-        "set_id": "ARB",
-        "rarity": "uncommon",
-        "artist": "Richard Whitters",
-        "multiverse_id": 179538,
-        "number": "33",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179538",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179538.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
-        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/anathemancer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/179538"
-      },
-      {
         "set": "Friday Night Magic",
         "set_id": "pFNM",
         "rarity": "special",
@@ -2204,6 +2284,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
         "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/anathemancer?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "uncommon",
+        "artist": "Richard Whitters",
+        "multiverse_id": 179538,
+        "number": "33",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179538",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179538.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/anathemancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179538"
       }
     ]
   },
@@ -2354,26 +2453,6 @@
     },
     "editions": [
       {
-        "set": "Judgment",
-        "set_id": "JUD",
-        "rarity": "uncommon",
-        "artist": "Pete Venters",
-        "multiverse_id": 34243,
-        "flavor": "Empowered by generations of strength.",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=34243",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/34243.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
-        "store_url": "http://store.tcgplayer.com/magic/judgment/ancestors-chosen?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/34243"
-      },
-      {
         "set": "Tenth Edition",
         "set_id": "10E",
         "rarity": "uncommon",
@@ -2392,6 +2471,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/ancestors-chosen?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/130550"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 34243,
+        "flavor": "Empowered by generations of strength.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=34243",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/34243.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/ancestors-chosen?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/34243"
       }
     ]
   },
@@ -2589,6 +2688,25 @@
         "html_url": "https://deckbrew.com/mtg/cards/14550"
       },
       {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "rare",
+        "artist": "Dan Frazier",
+        "multiverse_id": 4247,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4247",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4247.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/ancestral-memories?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4247"
+      },
+      {
         "set": "Seventh Edition",
         "set_id": "7ED",
         "rarity": "rare",
@@ -2607,25 +2725,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
         "store_url": "http://store.tcgplayer.com/magic/7th-edition/ancestral-memories?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/27115"
-      },
-      {
-        "set": "Portal",
-        "set_id": "POR",
-        "rarity": "rare",
-        "artist": "Dan Frazier",
-        "multiverse_id": 4247,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4247",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4247.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
-        "store_url": "http://store.tcgplayer.com/magic/portal/ancestral-memories?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4247"
       },
       {
         "set": "Mirage",
@@ -2670,6 +2769,25 @@
     },
     "editions": [
       {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 692,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=692",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/692.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/ancestral-recall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/692"
+      },
+      {
         "set": "Vintage Masters",
         "set_id": "VMA",
         "rarity": "special",
@@ -2708,11 +2826,11 @@
         "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
-        "set": "Unlimited Edition",
-        "set_id": "2ED",
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
         "rarity": "rare",
         "artist": "Mark Poole",
-        "multiverse_id": 692,
+        "multiverse_id": 390,
         "number": "",
         "layout": "normal",
         "price": {
@@ -2720,11 +2838,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=692",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/692.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
-        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/ancestral-recall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/692"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=390",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/390.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/ancestral-recall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/390"
       },
       {
         "set": "Limited Edition Alpha",
@@ -2763,25 +2881,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/CED",
         "store_url": "http://store.tcgplayer.com/magic/collectors-edition/ancestral-recall?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "rare",
-        "artist": "Mark Poole",
-        "multiverse_id": 390,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=390",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/390.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/ancestral-recall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/390"
       }
     ]
   },
@@ -2940,25 +3039,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks Anthology, Jace vs. Chandra",
-        "set_id": "DD3_JVC",
-        "rarity": "rare",
-        "artist": "Mark Poole",
-        "multiverse_id": 393818,
-        "number": "21",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393818",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393818.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/ancestral-vision?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/393818"
-      },
-      {
         "set": "Time Spiral",
         "set_id": "TSP",
         "rarity": "rare",
@@ -2995,6 +3075,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/ancestral-vision?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/189244"
+      },
+      {
+        "set": "Duel Decks Anthology, Jace vs. Chandra",
+        "set_id": "DD3_JVC",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 393818,
+        "number": "21",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393818",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393818.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/ancestral-vision?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393818"
       }
     ]
   },
@@ -3195,7 +3294,7 @@
     "name": "Ancient Crab",
     "id": "ancient-crab",
     "url": "https://api.deckbrew.com/mtg/cards/ancient-crab",
-    "store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/ancient-crab?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ancient-crab",
     "types": [
       "creature"
     ],
@@ -3218,6 +3317,26 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "common",
+        "artist": "James Paick",
+        "multiverse_id": 426742,
+        "flavor": "The banks of the Luxa River attract all manner of predator but only the most resilient of prey.",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426742",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426742.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/ancient-crab?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426742"
+      },
       {
         "set": "Oath of the Gatewatch",
         "set_id": "OGW",
@@ -3261,6 +3380,46 @@
     },
     "editions": [
       {
+        "set": "Starter 1999",
+        "set_id": "S99",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 20360,
+        "flavor": "Knowledge demands sacrifice.",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20360",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20360.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/ancient-craving?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/20360"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "rare",
+        "artist": "Rob Alexander",
+        "multiverse_id": 6579,
+        "flavor": "\"Knowledge demands sacrifice.\"\n—Tojira, swamp queen",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6579",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6579.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ancient-craving?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6579"
+      },
+      {
         "set": "Duel Decks: Sorin vs. Tibalt",
         "set_id": "DDK",
         "rarity": "rare",
@@ -3299,46 +3458,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C15",
         "store_url": "http://store.tcgplayer.com/magic/commander-2015/ancient-craving?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/405125"
-      },
-      {
-        "set": "Portal Second Age",
-        "set_id": "PO2",
-        "rarity": "rare",
-        "artist": "Rob Alexander",
-        "multiverse_id": 6579,
-        "flavor": "\"Knowledge demands sacrifice.\"\n—Tojira, swamp queen",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6579",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6579.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
-        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/ancient-craving?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/6579"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "rare",
-        "artist": "Rob Alexander",
-        "multiverse_id": 20360,
-        "flavor": "Knowledge demands sacrifice.",
-        "number": "64",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20360",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20360.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/ancient-craving?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20360"
       }
     ]
   },
@@ -3362,26 +3481,6 @@
     },
     "editions": [
       {
-        "set": "Mirrodin",
-        "set_id": "MRD",
-        "rarity": "common",
-        "artist": "Rob Alexander",
-        "multiverse_id": 46063,
-        "flavor": "Taj-Nar, throne of Raksha Golden Cub, destined leader of the leonin prides.",
-        "number": "278",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46063",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46063.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
-        "store_url": "http://store.tcgplayer.com/magic/mirrodin/ancient-den?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/46063"
-      },
-      {
         "set": "Planechase",
         "set_id": "HOP",
         "rarity": "common",
@@ -3400,6 +3499,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
         "store_url": "http://store.tcgplayer.com/magic/planechase/ancient-den?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/205275"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "common",
+        "artist": "Rob Alexander",
+        "multiverse_id": 46063,
+        "flavor": "Taj-Nar, throne of Raksha Golden Cub, destined leader of the leonin prides.",
+        "number": "278",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=46063",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/46063.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/ancient-den?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/46063"
       }
     ]
   },
@@ -3521,6 +3640,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
         "store_url": "http://store.tcgplayer.com/magic/innistrad/ancient-grudge?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/235600"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "uncommon",
+        "artist": "Ryan Yee",
+        "multiverse_id": 425913,
+        "flavor": "If there's anything a werewolf hates, it's a collar—especially Avacyn's Collar, the symbol of her church.",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425913",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425913.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/ancient-grudge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425913"
       }
     ]
   },
@@ -3850,6 +3989,26 @@
     },
     "editions": [
       {
+        "set": "Urza's Destiny",
+        "set_id": "UDS",
+        "rarity": "rare",
+        "artist": "Paolo Parente",
+        "multiverse_id": 16424,
+        "flavor": "The Phyrexian killing machines couldn't have known the seriousness of their mistake in wounding the ape—they'd never seen it angry.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16424",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16424.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/ancient-silverback?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/16424"
+      },
+      {
         "set": "Ninth Edition",
         "set_id": "9ED",
         "rarity": "rare",
@@ -3867,25 +4026,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
         "store_url": "http://store.tcgplayer.com/magic/9th-edition/ancient-silverback?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/82950"
-      },
-      {
-        "set": "Magic 2015 Core Set",
-        "set_id": "M15",
-        "rarity": "uncommon",
-        "artist": "Scott M. Fischer",
-        "multiverse_id": 383184,
-        "number": "168",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383184",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383184.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/ancient-silverback?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/383184"
       },
       {
         "set": "Seventh Edition",
@@ -3908,24 +4048,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/25595"
       },
       {
-        "set": "Urza's Destiny",
-        "set_id": "UDS",
-        "rarity": "rare",
-        "artist": "Paolo Parente",
-        "multiverse_id": 16424,
-        "flavor": "The Phyrexian killing machines couldn't have known the seriousness of their mistake in wounding the ape—they'd never seen it angry.",
-        "number": "101",
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 383184,
+        "number": "168",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16424",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16424.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/ancient-silverback?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/16424"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383184",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383184.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/ancient-silverback?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383184"
       }
     ]
   },
@@ -4075,6 +4214,46 @@
     },
     "editions": [
       {
+        "set": "From the Vault: Realms",
+        "set_id": "V12",
+        "rarity": "mythic",
+        "artist": "Colin MacNeil",
+        "multiverse_id": 288994,
+        "flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=288994",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/288994.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V12",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/ancient-tomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/288994"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "uncommon",
+        "artist": "Colin MacNeil",
+        "multiverse_id": 4636,
+        "flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4636",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4636.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/ancient-tomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4636"
+      },
+      {
         "set": "Vintage Masters",
         "set_id": "VMA",
         "rarity": "rare",
@@ -4112,46 +4291,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
         "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/ancient-tomb?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/409567"
-      },
-      {
-        "set": "Tempest",
-        "set_id": "TMP",
-        "rarity": "uncommon",
-        "artist": "Colin MacNeil",
-        "multiverse_id": 4636,
-        "flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4636",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4636.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
-        "store_url": "http://store.tcgplayer.com/magic/tempest/ancient-tomb?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4636"
-      },
-      {
-        "set": "From the Vault: Realms",
-        "set_id": "V12",
-        "rarity": "mythic",
-        "artist": "Colin MacNeil",
-        "multiverse_id": 288994,
-        "flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=288994",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/288994.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V12",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/ancient-tomb?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/288994"
       }
     ]
   },
@@ -4480,25 +4619,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Steve Argyle",
-        "multiverse_id": 247318,
-        "number": "5",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247318",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247318.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/angelic-arbiter?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/247318"
-      },
-      {
         "set": "Magic 2011",
         "set_id": "M11",
         "rarity": "rare",
@@ -4516,6 +4636,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M11",
         "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/angelic-arbiter?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/204975"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Steve Argyle",
+        "multiverse_id": 247318,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247318",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247318.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/angelic-arbiter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247318"
       }
     ]
   },
@@ -4584,6 +4723,46 @@
     },
     "editions": [
       {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "uncommon",
+        "artist": "Michael Komarck",
+        "multiverse_id": 174826,
+        "flavor": "\"Even in single combat, I am never alone.\"\n—Rafiq of the Many",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174826",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174826.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/angelic-benediction?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174826"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "uncommon",
+        "artist": "Michael Komarck",
+        "multiverse_id": 279702,
+        "flavor": "\"Only the bravest are worthy of our blessing.\"",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=279702",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/279702.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/angelic-benediction?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/279702"
+      },
+      {
         "set": "Duel Decks Anthology, Divine vs. Demonic",
         "set_id": "DD3_DVD",
         "rarity": "uncommon",
@@ -4622,46 +4801,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/angelic-benediction?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/197013"
-      },
-      {
-        "set": "Magic 2013",
-        "set_id": "M13",
-        "rarity": "uncommon",
-        "artist": "Michael Komarck",
-        "multiverse_id": 279702,
-        "flavor": "\"Only the bravest are worthy of our blessing.\"",
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=279702",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/279702.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/angelic-benediction?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/279702"
-      },
-      {
-        "set": "Shards of Alara",
-        "set_id": "ALA",
-        "rarity": "uncommon",
-        "artist": "Michael Komarck",
-        "multiverse_id": 174826,
-        "flavor": "\"Even in single combat, I am never alone.\"\n—Rafiq of the Many",
-        "number": "3",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174826",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174826.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
-        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/angelic-benediction?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/174826"
       }
     ]
   },
@@ -4707,44 +4846,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/84583"
       },
       {
-        "set": "Tempest Remastered",
-        "set_id": "TPR",
+        "set": "Starter 1999",
+        "set_id": "S99",
         "rarity": "common",
         "artist": "Mark Zug",
-        "multiverse_id": 397647,
+        "multiverse_id": 20400,
         "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
-        "number": "1",
+        "number": "3",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397647",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397647.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
-        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/angelic-blessing?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/397647"
-      },
-      {
-        "set": "Starter 2000",
-        "set_id": "S00",
-        "rarity": "common",
-        "artist": "Mark Zug",
-        "multiverse_id": 25456,
-        "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25456",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25456.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S00",
-        "store_url": "http://store.tcgplayer.com/magic/starter-2000/angelic-blessing?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/25456"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20400",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20400.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/angelic-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/20400"
       },
       {
         "set": "Portal",
@@ -4767,6 +4886,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/4370"
       },
       {
+        "set": "Tempest Remastered",
+        "set_id": "TPR",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 397647,
+        "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397647",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397647.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+        "store_url": "http://store.tcgplayer.com/magic/tempest-remastered/angelic-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397647"
+      },
+      {
         "set": "Exodus",
         "set_id": "EXO",
         "rarity": "common",
@@ -4785,6 +4924,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/EXO",
         "store_url": "http://store.tcgplayer.com/magic/exodus/angelic-blessing?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/6040"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "common",
+        "artist": "Mark Zug",
+        "multiverse_id": 129711,
+        "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129711",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129711.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129711"
       },
       {
         "set": "Portal Second Age",
@@ -4807,44 +4966,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/6500"
       },
       {
-        "set": "Starter 1999",
-        "set_id": "S99",
+        "set": "Starter 2000",
+        "set_id": "S00",
         "rarity": "common",
         "artist": "Mark Zug",
-        "multiverse_id": 20400,
+        "multiverse_id": 25456,
         "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
-        "number": "3",
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20400",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20400.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/angelic-blessing?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20400"
-      },
-      {
-        "set": "Tenth Edition",
-        "set_id": "10E",
-        "rarity": "common",
-        "artist": "Mark Zug",
-        "multiverse_id": 129711,
-        "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
-        "number": "3",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129711",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129711.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-blessing?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/129711"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25456",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25456.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S00",
+        "store_url": "http://store.tcgplayer.com/magic/starter-2000/angelic-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25456"
       }
     ]
   },
@@ -4941,26 +5080,6 @@
     },
     "editions": [
       {
-        "set": "Tenth Edition",
-        "set_id": "10E",
-        "rarity": "rare",
-        "artist": "Jim Murray",
-        "multiverse_id": 129710,
-        "flavor": "The harmony of the glorious is a dirge to the wicked.",
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129710",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129710.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-chorus?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/129710"
-      },
-      {
         "set": "Urza's Saga",
         "set_id": "USG",
         "rarity": "rare",
@@ -4979,6 +5098,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/USG",
         "store_url": "http://store.tcgplayer.com/magic/urzas-saga/angelic-chorus?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/5714"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Jim Murray",
+        "multiverse_id": 129710,
+        "flavor": "The harmony of the glorious is a dirge to the wicked.",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129710",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129710.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-chorus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129710"
       }
     ]
   },
@@ -5329,44 +5468,44 @@
     },
     "editions": [
       {
-        "set": "Duel Decks Anthology, Divine vs. Demonic",
-        "set_id": "DD3_DVD",
+        "set": "Urza's Saga",
+        "set_id": "USG",
         "rarity": "common",
-        "artist": "Marc Fishman",
-        "multiverse_id": 394009,
-        "flavor": "If only every message were as perfect as its bearer.",
-        "number": "3",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 5781,
+        "flavor": "If only every message were as perfect as its bearers.",
+        "number": "4",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394009",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394009.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/angelic-page?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/394009"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5781",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5781.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/angelic-page?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5781"
       },
       {
-        "set": "Duel Decks: Divine vs. Demonic",
-        "set_id": "DDC",
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
         "rarity": "common",
-        "artist": "Marc Fishman",
-        "multiverse_id": 197009,
+        "artist": "Rebecca Guay",
+        "multiverse_id": 21177,
         "flavor": "If only every message were as perfect as its bearer.",
-        "number": "3",
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197009",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197009.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/angelic-page?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/197009"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21177",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21177.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/angelic-page?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21177"
       },
       {
         "set": "Seventh Edition",
@@ -5409,44 +5548,44 @@
         "html_url": "https://deckbrew.com/mtg/cards/45172"
       },
       {
-        "set": "Battle Royale Box Set",
-        "set_id": "BRB",
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
         "rarity": "common",
-        "artist": "Rebecca Guay",
-        "multiverse_id": 21177,
+        "artist": "Marc Fishman",
+        "multiverse_id": 394009,
         "flavor": "If only every message were as perfect as its bearer.",
-        "number": "",
+        "number": "3",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21177",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21177.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
-        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/angelic-page?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/21177"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394009",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394009.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/angelic-page?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394009"
       },
       {
-        "set": "Urza's Saga",
-        "set_id": "USG",
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
         "rarity": "common",
-        "artist": "Rebecca Guay",
-        "multiverse_id": 5781,
-        "flavor": "If only every message were as perfect as its bearers.",
-        "number": "4",
+        "artist": "Marc Fishman",
+        "multiverse_id": 197009,
+        "flavor": "If only every message were as perfect as its bearer.",
+        "number": "3",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5781",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5781.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/angelic-page?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5781"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=197009",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/197009.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/angelic-page?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/197009"
       }
     ]
   },
@@ -5496,6 +5635,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/397598"
       },
       {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "uncommon",
+        "artist": "DiTerlizzi",
+        "multiverse_id": 4858,
+        "flavor": "\"My family sheltered in her light, the dark was content to wait.\"\n—Crovax",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4858",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4858.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/angelic-protector?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4858"
+      },
+      {
         "set": "Duel Decks Anthology, Divine vs. Demonic",
         "set_id": "DD3_DVD",
         "rarity": "uncommon",
@@ -5534,26 +5693,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/angelic-protector?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/197035"
-      },
-      {
-        "set": "Tempest",
-        "set_id": "TMP",
-        "rarity": "uncommon",
-        "artist": "DiTerlizzi",
-        "multiverse_id": 4858,
-        "flavor": "\"My family sheltered in her light, the dark was content to wait.\"\n—Crovax",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4858",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4858.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
-        "store_url": "http://store.tcgplayer.com/magic/tempest/angelic-protector?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4858"
       }
     ]
   },
@@ -5664,26 +5803,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Venser vs. Koth",
-        "set_id": "DDI",
-        "rarity": "uncommon",
-        "artist": "Adam Rex",
-        "multiverse_id": 284487,
-        "flavor": "\"If only an angel's wings could shelter us all.\"\n—Barrin, master wizard",
-        "number": "27",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=284487",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/284487.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/angelic-shield?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/284487"
-      },
-      {
         "set": "Invasion",
         "set_id": "INV",
         "rarity": "uncommon",
@@ -5702,6 +5821,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/INV",
         "store_url": "http://store.tcgplayer.com/magic/invasion/angelic-shield?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/23177"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "uncommon",
+        "artist": "Adam Rex",
+        "multiverse_id": 284487,
+        "flavor": "\"If only an angel's wings could shelter us all.\"\n—Barrin, master wizard",
+        "number": "27",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=284487",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/284487.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/angelic-shield?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/284487"
       }
     ]
   },
@@ -5794,23 +5933,23 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "uncommon",
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "rare",
         "artist": "Julie Baroh",
-        "multiverse_id": 202477,
-        "number": "3",
+        "multiverse_id": 1602,
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202477",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202477.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/angelic-voices?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202477"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1602",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1602.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/angelic-voices?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1602"
       },
       {
         "set": "Chronicles",
@@ -5832,23 +5971,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/2854"
       },
       {
-        "set": "Legends",
-        "set_id": "LEG",
-        "rarity": "rare",
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
         "artist": "Julie Baroh",
-        "multiverse_id": 1602,
-        "number": "",
+        "multiverse_id": 202477,
+        "number": "3",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1602",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1602.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/angelic-voices?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1602"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202477",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202477.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/angelic-voices?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202477"
       }
     ]
   },
@@ -5879,24 +6018,44 @@
     },
     "editions": [
       {
-        "set": "Odyssey",
-        "set_id": "ODY",
+        "set": "Tenth Edition",
+        "set_id": "10E",
         "rarity": "common",
         "artist": "John Avon",
-        "multiverse_id": 29699,
+        "multiverse_id": 129671,
         "flavor": "\"The Ancestor protects us in ways we can't begin to comprehend.\"\n—Mystic elder",
-        "number": "3",
+        "number": "5",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29699",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29699.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-        "store_url": "http://store.tcgplayer.com/magic/odyssey/angelic-wall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/29699"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129671",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129671.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-wall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129671"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "common",
+        "artist": "Rebecca Guay",
+        "multiverse_id": 6498,
+        "flavor": "Be at peace, and observe its beauty. Be at war, and feel its justice.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6498",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6498.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/angelic-wall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6498"
       },
       {
         "set": "Magic 2014 Core Set",
@@ -5939,44 +6098,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/278065"
       },
       {
-        "set": "Portal Second Age",
-        "set_id": "PO2",
-        "rarity": "common",
-        "artist": "Rebecca Guay",
-        "multiverse_id": 6498,
-        "flavor": "Be at peace, and observe its beauty. Be at war, and feel its justice.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6498",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6498.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
-        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/angelic-wall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/6498"
-      },
-      {
-        "set": "Tenth Edition",
-        "set_id": "10E",
+        "set": "Odyssey",
+        "set_id": "ODY",
         "rarity": "common",
         "artist": "John Avon",
-        "multiverse_id": 129671,
+        "multiverse_id": 29699,
         "flavor": "\"The Ancestor protects us in ways we can't begin to comprehend.\"\n—Mystic elder",
-        "number": "5",
+        "number": "3",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129671",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129671.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/angelic-wall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/129671"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29699",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29699.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/angelic-wall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29699"
       }
     ]
   },
@@ -6056,6 +6195,26 @@
     },
     "editions": [
       {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 247275,
+        "flavor": "\"I feel in them a sense of duty and commitment, yet I can feel nothing else. It is as if their duty is to an empty void.\"\n—Razia, Boros archangel",
+        "number": "180",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247275",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247275.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/angel-of-despair?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247275"
+      },
+      {
         "set": "Guildpact",
         "set_id": "GPT",
         "watermark": "Orzhov",
@@ -6075,26 +6234,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
         "store_url": "http://store.tcgplayer.com/magic/guildpact/angel-of-despair?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/83869"
-      },
-      {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Todd Lockwood",
-        "multiverse_id": 247275,
-        "flavor": "\"I feel in them a sense of duty and commitment, yet I can feel nothing else. It is as if their duty is to an empty void.\"\n—Razia, Boros archangel",
-        "number": "180",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247275",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247275.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/angel-of-despair?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/247275"
       }
     ]
   },
@@ -6323,102 +6462,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
         "store_url": "http://store.tcgplayer.com/magic/media-inserts/angel-of-glorys-rise?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      }
-    ]
-  },
-  {
-    "name": "Angel of Invention",
-    "id": "angel-of-invention",
-    "url": "https://api.deckbrew.com/mtg/cards/angel-of-invention",
-    "store_url": "http://store.tcgplayer.com/magic/kaladesh/angel-of-invention?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "angel"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 5,
-    "cost": "{3}{W}{W}",
-    "text": "Flying, vigilance, lifelink\nFabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)\nOther creatures you control get +1/+1.",
-    "power": "2",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Kaladesh",
-        "set_id": "KLD",
-        "rarity": "mythic",
-        "artist": "Volkan Baga",
-        "multiverse_id": 417577,
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417577",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417577.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
-        "store_url": "http://store.tcgplayer.com/magic/kaladesh/angel-of-invention?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/417577"
-      }
-    ]
-  },
-  {
-    "name": "Angel of Jubilation",
-    "id": "angel-of-jubilation",
-    "url": "https://api.deckbrew.com/mtg/cards/angel-of-jubilation",
-    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/angel-of-jubilation?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "angel"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 4,
-    "cost": "{1}{W}{W}{W}",
-    "text": "Flying\nOther nonblack creatures you control get +1/+1.\nPlayers can't pay life or sacrifice creatures to cast spells or activate abilities.",
-    "power": "3",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Avacyn Restored",
-        "set_id": "AVR",
-        "rarity": "rare",
-        "artist": "Terese Nielsen",
-        "multiverse_id": 240120,
-        "flavor": "\"Though Innistrad is not cleansed of evil, we finally have cause to rejoice.\"",
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240120",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240120.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
-        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/angel-of-jubilation?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/240120"
       }
     ]
   }

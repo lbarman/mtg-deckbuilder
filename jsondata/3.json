@@ -1,5 +1,103 @@
 [
   {
+    "name": "Akroan Jailer",
+    "id": "akroan-jailer",
+    "url": "https://api.deckbrew.com/mtg/cards/akroan-jailer",
+    "store_url": "http://store.tcgplayer.com/magic/magic-origins/akroan-jailer?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "soldier"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 1,
+    "cost": "{W}",
+    "text": "{2}{W}, {T}: Tap target creature.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic Origins",
+        "set_id": "ORI",
+        "rarity": "common",
+        "artist": "Anastasia Ovchinnikova",
+        "multiverse_id": 398656,
+        "flavor": "He ensures escape attempts are just that—attempts.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398656",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398656.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+        "store_url": "http://store.tcgplayer.com/magic/magic-origins/akroan-jailer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/398656"
+      }
+    ]
+  },
+  {
+    "name": "Akroan Line Breaker",
+    "id": "akroan-line-breaker",
+    "url": "https://api.deckbrew.com/mtg/cards/akroan-line-breaker",
+    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/akroan-line-breaker?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "uncommon",
+        "artist": "Marco Nelor",
+        "multiverse_id": 380369,
+        "flavor": "The enemies' shields are the first to shatter, and their battle line is never far behind.",
+        "number": "88",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380369",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380369.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/akroan-line-breaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380369"
+      }
+    ]
+  },
+  {
     "name": "Akroan Mastiff",
     "id": "akroan-mastiff",
     "url": "https://api.deckbrew.com/mtg/cards/akroan-mastiff",
@@ -223,25 +321,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Daren Bader",
-        "multiverse_id": 247358,
-        "number": "108",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247358",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247358.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/akroma-angel-of-fury?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/247358"
-      },
-      {
         "set": "Planar Chaos",
         "set_id": "PLC",
         "rarity": "rare",
@@ -278,6 +357,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/V15",
         "store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/akroma-angel-of-fury?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/401628"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 247358,
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247358",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247358.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/akroma-angel-of-fury?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247358"
       }
     ]
   },
@@ -311,26 +409,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks Anthology, Divine vs. Demonic",
-        "set_id": "DD3_DVD",
-        "rarity": "mythic",
-        "artist": "Chippy",
-        "multiverse_id": 394005,
-        "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394005",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394005.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/394005"
-      },
-      {
         "set": "Time Spiral \"Timeshifted\"",
         "set_id": "TSB",
         "rarity": "special",
@@ -349,26 +427,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/TSB",
         "store_url": "http://store.tcgplayer.com/magic/timeshifted/akroma-angel-of-wrath?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/106645"
-      },
-      {
-        "set": "Duel Decks: Divine vs. Demonic",
-        "set_id": "DDC",
-        "rarity": "mythic",
-        "artist": "Chippy",
-        "multiverse_id": 193871,
-        "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193871",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193871.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/193871"
       },
       {
         "set": "From the Vault: Angels",
@@ -409,6 +467,46 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LGN",
         "store_url": "http://store.tcgplayer.com/magic/legions/akroma-angel-of-wrath?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/42049"
+      },
+      {
+        "set": "Duel Decks Anthology, Divine vs. Demonic",
+        "set_id": "DD3_DVD",
+        "rarity": "mythic",
+        "artist": "Chippy",
+        "multiverse_id": 394005,
+        "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394005",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394005.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394005"
+      },
+      {
+        "set": "Duel Decks: Divine vs. Demonic",
+        "set_id": "DDC",
+        "rarity": "mythic",
+        "artist": "Chippy",
+        "multiverse_id": 193871,
+        "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193871",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193871.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193871"
       }
     ]
   },
@@ -468,26 +566,6 @@
     },
     "editions": [
       {
-        "set": "Vintage Masters",
-        "set_id": "VMA",
-        "rarity": "uncommon",
-        "artist": "Adam Rex",
-        "multiverse_id": 382840,
-        "flavor": "The clerics saw her as a divine gift. She saw them only as allies in her war against Phage.",
-        "number": "11",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382840",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382840.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
-        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/akromas-blessing?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382840"
-      },
-      {
         "set": "Onslaught",
         "set_id": "ONS",
         "rarity": "uncommon",
@@ -506,6 +584,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
         "store_url": "http://store.tcgplayer.com/magic/onslaught/akromas-blessing?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/41162"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "uncommon",
+        "artist": "Adam Rex",
+        "multiverse_id": 382840,
+        "flavor": "The clerics saw her as a divine gift. She saw them only as allies in her war against Phage.",
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382840",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382840.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/akromas-blessing?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382840"
       }
     ]
   },
@@ -661,24 +759,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/247343"
       },
       {
-        "set": "From the Vault: Twenty",
-        "set_id": "V13",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 373328,
-        "flavor": "\"Many must die for the one who should not have perished.\"",
-        "number": "11",
+        "set": "Planechase",
+        "set_id": "HOP",
+        "rarity": "rare",
+        "artist": "Greg \u0026amp; Tim Hildebrandt",
+        "multiverse_id": 205366,
+        "flavor": "Ixidor had only to imagine their ruin and Akroma made it so.",
+        "number": "1",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373328",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373328.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/akromas-vengeance?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/373328"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205366",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205366.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+        "store_url": "http://store.tcgplayer.com/magic/planechase/akromas-vengeance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205366"
       },
       {
         "set": "Onslaught",
@@ -701,24 +799,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/41168"
       },
       {
-        "set": "Planechase",
-        "set_id": "HOP",
-        "rarity": "rare",
-        "artist": "Greg \u0026amp; Tim Hildebrandt",
-        "multiverse_id": 205366,
-        "flavor": "Ixidor had only to imagine their ruin and Akroma made it so.",
-        "number": "1",
+        "set": "From the Vault: Twenty",
+        "set_id": "V13",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 373328,
+        "flavor": "\"Many must die for the one who should not have perished.\"",
+        "number": "11",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205366",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205366.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
-        "store_url": "http://store.tcgplayer.com/magic/planechase/akromas-vengeance?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205366"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373328",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373328.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/akromas-vengeance?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373328"
       }
     ]
   },
@@ -749,23 +847,23 @@
     },
     "editions": [
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
+        "set": "Legends",
+        "set_id": "LEG",
         "rarity": "rare",
         "artist": "Mark Poole",
-        "multiverse_id": 201117,
-        "number": "1",
+        "multiverse_id": 1599,
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201117",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201117.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/akron-legionnaire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201117"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1599",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1599.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/akron-legionnaire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1599"
       },
       {
         "set": "Fifth Edition",
@@ -806,23 +904,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/2853"
       },
       {
-        "set": "Legends",
-        "set_id": "LEG",
+        "set": "Masters Edition III",
+        "set_id": "ME3",
         "rarity": "rare",
         "artist": "Mark Poole",
-        "multiverse_id": 1599,
-        "number": "",
+        "multiverse_id": 201117,
+        "number": "1",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1599",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1599.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/akron-legionnaire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1599"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201117",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201117.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/akron-legionnaire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201117"
       }
     ]
   },
@@ -941,26 +1039,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "rare",
-        "artist": "Kaja Foglio",
-        "multiverse_id": 228269,
-        "flavor": "Al-abara simply laughed and lifted one finger, and the carpet carried her high out of our reach.",
-        "number": "177",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228269",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228269.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/al-abaras-carpet?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/228269"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "rare",
@@ -979,6 +1057,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/al-abaras-carpet?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1398"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Kaja Foglio",
+        "multiverse_id": 228269,
+        "flavor": "Al-abara simply laughed and lifted one finger, and the carpet carried her high out of our reach.",
+        "number": "177",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228269",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228269.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/al-abaras-carpet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/228269"
       }
     ]
   },
@@ -1008,25 +1106,6 @@
     },
     "editions": [
       {
-        "set": "Weatherlight",
-        "set_id": "WTH",
-        "rarity": "rare",
-        "artist": "Bob Eggleton",
-        "multiverse_id": 4564,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4564",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4564.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
-        "store_url": "http://store.tcgplayer.com/magic/weatherlight/alabaster-dragon?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4564"
-      },
-      {
         "set": "Portal",
         "set_id": "POR",
         "rarity": "rare",
@@ -1044,6 +1123,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/POR",
         "store_url": "http://store.tcgplayer.com/magic/portal/alabaster-dragon?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/4369"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "rare",
+        "artist": "Bob Eggleton",
+        "multiverse_id": 4564,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4564",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4564.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/alabaster-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4564"
       }
     ]
   },
@@ -1212,46 +1310,6 @@
     },
     "editions": [
       {
-        "set": "Rivals Quick Start Set",
-        "set_id": "RQS",
-        "rarity": "special",
-        "artist": "Harold McNeill",
-        "multiverse_id": 0,
-        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n—D'Avenant proverb",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/RQS",
-        "store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/alabaster-potion?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "common",
-        "artist": "Harold McNeill",
-        "multiverse_id": 2316,
-        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n—D'Avenant proverb",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2316",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2316.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/alabaster-potion?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2316"
-      },
-      {
         "set": "Introductory Two-Player Set",
         "set_id": "ITP",
         "rarity": "special",
@@ -1272,24 +1330,44 @@
         "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
-        "rarity": "uncommon",
+        "set": "Rivals Quick Start Set",
+        "set_id": "RQS",
+        "rarity": "special",
         "artist": "Harold McNeill",
-        "multiverse_id": 201118,
+        "multiverse_id": 0,
         "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n—D'Avenant proverb",
-        "number": "2",
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201118",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201118.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/alabaster-potion?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201118"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RQS",
+        "store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/alabaster-potion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "common",
+        "artist": "Harold McNeill",
+        "multiverse_id": 1600,
+        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\" —D'Avenant proverb",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1600",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1600.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/alabaster-potion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1600"
       },
       {
         "set": "Fifth Edition",
@@ -1312,12 +1390,12 @@
         "html_url": "https://deckbrew.com/mtg/cards/4100"
       },
       {
-        "set": "Legends",
-        "set_id": "LEG",
+        "set": "Fourth Edition",
+        "set_id": "4ED",
         "rarity": "common",
         "artist": "Harold McNeill",
-        "multiverse_id": 1600,
-        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\" —D'Avenant proverb",
+        "multiverse_id": 2316,
+        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n—D'Avenant proverb",
         "number": "",
         "layout": "normal",
         "price": {
@@ -1325,11 +1403,31 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1600",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1600.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/alabaster-potion?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1600"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2316",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2316.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/alabaster-potion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2316"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "uncommon",
+        "artist": "Harold McNeill",
+        "multiverse_id": 201118,
+        "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n—D'Avenant proverb",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201118",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201118.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/alabaster-potion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201118"
       }
     ]
   },
@@ -1407,26 +1505,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Knights vs. Dragons",
-        "set_id": "DDG",
-        "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 243435,
-        "flavor": "\"Course he ran! I wouldn't want to stare down that barrel, either!\"\n—Alaborn soldier",
-        "number": "18",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=243435",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/243435.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/alaborn-cavalier?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/243435"
-      },
-      {
         "set": "Portal Second Age",
         "set_id": "PO2",
         "rarity": "uncommon",
@@ -1445,6 +1523,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
         "store_url": "http://store.tcgplayer.com/magic/portal-second-age/alaborn-cavalier?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/6506"
+      },
+      {
+        "set": "Duel Decks: Knights vs. Dragons",
+        "set_id": "DDG",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 243435,
+        "flavor": "\"Course he ran! I wouldn't want to stare down that barrel, either!\"\n—Alaborn soldier",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=243435",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/243435.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/alaborn-cavalier?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/243435"
       }
     ]
   },
@@ -1523,26 +1621,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "common",
-        "artist": "Heather Hudson",
-        "multiverse_id": 221493,
-        "flavor": "Muskets gave the Alaborn army an advantage it had long lacked—air defense.",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221493",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221493.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alaborn-musketeer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/221493"
-      },
-      {
         "set": "Portal Second Age",
         "set_id": "PO2",
         "rarity": "common",
@@ -1561,6 +1639,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
         "store_url": "http://store.tcgplayer.com/magic/portal-second-age/alaborn-musketeer?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/6499"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Heather Hudson",
+        "multiverse_id": 221493,
+        "flavor": "Muskets gave the Alaborn army an advantage it had long lacked—air defense.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alaborn-musketeer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221493"
       }
     ]
   },
@@ -1591,26 +1689,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "common",
-        "artist": "Lubov",
-        "multiverse_id": 221987,
-        "flavor": "\"I dedicate my body to my country\nAnd my life to my King.\"\n—Alaborn Soldier's Oath",
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221987",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221987.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alaborn-trooper?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/221987"
-      },
-      {
         "set": "Portal Second Age",
         "set_id": "PO2",
         "rarity": "common",
@@ -1629,6 +1707,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
         "store_url": "http://store.tcgplayer.com/magic/portal-second-age/alaborn-trooper?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/6493"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
+        "artist": "Lubov",
+        "multiverse_id": 221987,
+        "flavor": "\"I dedicate my body to my country\nAnd my life to my King.\"\n—Alaborn Soldier's Oath",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221987",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221987.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alaborn-trooper?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221987"
       }
     ]
   },
@@ -1753,23 +1851,23 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
+        "set": "Arabian Nights",
+        "set_id": "ARN",
         "rarity": "rare",
         "artist": "Julie Baroh",
-        "multiverse_id": 202452,
-        "number": "106",
+        "multiverse_id": 955,
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202452",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202452.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/aladdin?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202452"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=955",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/955.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/aladdin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/955"
       },
       {
         "set": "Chronicles",
@@ -1791,23 +1889,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/2840"
       },
       {
-        "set": "Arabian Nights",
-        "set_id": "ARN",
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
         "rarity": "rare",
         "artist": "Julie Baroh",
-        "multiverse_id": 955,
-        "number": "",
+        "multiverse_id": 202452,
+        "number": "106",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=955",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/955.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
-        "store_url": "http://store.tcgplayer.com/magic/arabian-nights/aladdin?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/955"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202452",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202452.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/aladdin?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202452"
       }
     ]
   },
@@ -1828,25 +1926,6 @@
       "vintage": "legal"
     },
     "editions": [
-      {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "rare",
-        "artist": "Mark Tedin",
-        "multiverse_id": 2014,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2014",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2014.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/aladdins-lamp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2014"
-      },
       {
         "set": "Revised Edition",
         "set_id": "3ED",
@@ -1884,6 +1963,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
         "store_url": "http://store.tcgplayer.com/magic/arabian-nights/aladdins-lamp?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/900"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Mark Tedin",
+        "multiverse_id": 2014,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2014",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2014.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/aladdins-lamp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2014"
       }
     ]
   },
@@ -1906,26 +2004,6 @@
     },
     "editions": [
       {
-        "set": "Ninth Edition",
-        "set_id": "9ED",
-        "rarity": "rare",
-        "artist": "Dave Dorman",
-        "multiverse_id": 82989,
-        "flavor": "\"A good lamp will light your way. A good ring will clear it.\"\n—Nervan, royal jeweler",
-        "number": "286",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=82989",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/82989.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
-        "store_url": "http://store.tcgplayer.com/magic/9th-edition/aladdins-ring?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/82989"
-      },
-      {
         "set": "Classic Sixth Edition",
         "set_id": "6ED",
         "rarity": "rare",
@@ -1946,52 +2024,12 @@
         "html_url": "https://deckbrew.com/mtg/cards/14770"
       },
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "rare",
-        "artist": "Dan Frazier",
-        "multiverse_id": 2015,
-        "flavor": "\"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'\" —The Arabian Nights, Junior Classics trans.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2015",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2015.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/aladdins-ring?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2015"
-      },
-      {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "rare",
-        "artist": "Stuart Griffin",
-        "multiverse_id": 3758,
-        "flavor": "\". . . [T]he magician drew a ring off his finger . . . , saying: 'It is a talisman against all evil, so long as you obey me.'\"\n—The Arabian Nights,\nJunior Classics trans.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3758",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3758.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/aladdins-ring?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3758"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
+        "set": "Ninth Edition",
+        "set_id": "9ED",
         "rarity": "rare",
         "artist": "Dave Dorman",
-        "multiverse_id": 11145,
-        "flavor": "Some say Aladdin's third wish was for this ring.",
+        "multiverse_id": 82989,
+        "flavor": "\"A good lamp will light your way. A good ring will clear it.\"\n—Nervan, royal jeweler",
         "number": "286",
         "layout": "normal",
         "price": {
@@ -1999,11 +2037,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11145",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11145.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/aladdins-ring?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/11145"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=82989",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/82989.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/aladdins-ring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/82989"
       },
       {
         "set": "Revised Edition",
@@ -2046,6 +2084,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/901"
       },
       {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Dave Dorman",
+        "multiverse_id": 11145,
+        "flavor": "Some say Aladdin's third wish was for this ring.",
+        "number": "286",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11145",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11145.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/aladdins-ring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/11145"
+      },
+      {
         "set": "Eighth Edition",
         "set_id": "8ED",
         "rarity": "rare",
@@ -2064,6 +2122,46 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
         "store_url": "http://store.tcgplayer.com/magic/8th-edition/aladdins-ring?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/45487"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "Stuart Griffin",
+        "multiverse_id": 3758,
+        "flavor": "\". . . [T]he magician drew a ring off his finger . . . , saying: 'It is a talisman against all evil, so long as you obey me.'\"\n—The Arabian Nights,\nJunior Classics trans.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3758",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3758.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/aladdins-ring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3758"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Dan Frazier",
+        "multiverse_id": 2015,
+        "flavor": "\"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'\" —The Arabian Nights, Junior Classics trans.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2015",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2015.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/aladdins-ring?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2015"
       }
     ]
   },
@@ -2135,25 +2233,6 @@
     },
     "editions": [
       {
-        "set": "Friday Night Magic",
-        "set_id": "pFNM",
-        "rarity": "special",
-        "artist": "Paolo Parente",
-        "multiverse_id": 0,
-        "number": "20",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
-        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/albino-troll?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
         "set": "Duel Decks Anthology, Garruk vs. Liliana",
         "set_id": "DD3_GVL",
         "rarity": "uncommon",
@@ -2173,25 +2252,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/393878"
       },
       {
-        "set": "Duel Decks: Garruk vs. Liliana",
-        "set_id": "DDD",
-        "rarity": "uncommon",
-        "artist": "Paolo Parente",
-        "multiverse_id": 201781,
-        "number": "3",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201781",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201781.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDD",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/albino-troll?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201781"
-      },
-      {
         "set": "Urza's Saga",
         "set_id": "USG",
         "rarity": "uncommon",
@@ -2209,6 +2269,44 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/USG",
         "store_url": "http://store.tcgplayer.com/magic/urzas-saga/albino-troll?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/5867"
+      },
+      {
+        "set": "Friday Night Magic",
+        "set_id": "pFNM",
+        "rarity": "special",
+        "artist": "Paolo Parente",
+        "multiverse_id": 0,
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+        "store_url": "http://store.tcgplayer.com/magic/friday-night-magic/albino-troll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Duel Decks: Garruk vs. Liliana",
+        "set_id": "DDD",
+        "rarity": "uncommon",
+        "artist": "Paolo Parente",
+        "multiverse_id": 201781,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201781",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201781.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDD",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/albino-troll?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201781"
       }
     ]
   },
@@ -2403,25 +2501,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "rare",
-        "artist": "Jesper Myrfors",
-        "multiverse_id": 228270,
-        "number": "178",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228270",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228270.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alchors-tomb?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/228270"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "rare",
@@ -2439,6 +2518,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/alchors-tomb?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1399"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Jesper Myrfors",
+        "multiverse_id": 228270,
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228270",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228270.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alchors-tomb?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/228270"
       }
     ]
   },
@@ -2612,6 +2710,26 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Anastasia Ovchinnikova",
+        "multiverse_id": 0,
+        "flavor": "\"Greet death with sword in hand.\"",
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/alesha-who-smiles-at-death?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Commander 2016",
         "set_id": "C16",
         "rarity": "rare",
@@ -2651,26 +2769,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
         "store_url": "http://store.tcgplayer.com/magic/fate-reforged/alesha-who-smiles-at-death?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/391787"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Anastasia Ovchinnikova",
-        "multiverse_id": 0,
-        "flavor": "\"Greet death with sword in hand.\"",
-        "number": "128",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/alesha-who-smiles-at-death?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -2797,26 +2895,6 @@
     },
     "editions": [
       {
-        "set": "Modern Masters 2015 Edition",
-        "set_id": "MM2",
-        "rarity": "uncommon",
-        "artist": "Michael Ryan",
-        "multiverse_id": 397854,
-        "flavor": "It lurks just under the surface, using the algae-choked tar pits of Jund as both home and hunting blind.",
-        "number": "137",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397854",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397854.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/algae-gharial?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/397854"
-      },
-      {
         "set": "Shards of Alara",
         "set_id": "ALA",
         "rarity": "uncommon",
@@ -2835,6 +2913,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
         "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/algae-gharial?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/174986"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "Michael Ryan",
+        "multiverse_id": 397854,
+        "flavor": "It lurks just under the surface, using the algae-choked tar pits of Jund as both home and hunting blind.",
+        "number": "137",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397854",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397854.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/algae-gharial?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397854"
       }
     ]
   },
@@ -2867,6 +2965,25 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Richard Wright",
+        "multiverse_id": 0,
+        "number": "199",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/alhammarret-high-arbiter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
       {
         "set": "Magic Origins",
         "set_id": "ORI",
@@ -2903,25 +3020,6 @@
         "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
         "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
         "store_url": "http://store.tcgplayer.com/magic/media-inserts/alhammarret-high-arbiter?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Richard Wright",
-        "multiverse_id": 0,
-        "number": "199",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/alhammarret-high-arbiter?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
@@ -2996,26 +3094,6 @@
     },
     "editions": [
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "uncommon",
-        "artist": "Julie Baroh",
-        "multiverse_id": 2258,
-        "flavor": "\"When he reached the entrance of the cavern, he pronounced the words, ‘Open, Sesame!'\"\n—The Arabian Nights, Junior Classics trans.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2258",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2258.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/ali-baba?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2258"
-      },
-      {
         "set": "Arabian Nights",
         "set_id": "ARN",
         "rarity": "uncommon",
@@ -3034,6 +3112,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
         "store_url": "http://store.tcgplayer.com/magic/arabian-nights/ali-baba?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/956"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Julie Baroh",
+        "multiverse_id": 2258,
+        "flavor": "\"When he reached the entrance of the cavern, he pronounced the words, ‘Open, Sesame!'\"\n—The Arabian Nights, Junior Classics trans.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2258",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2258.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/ali-baba?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2258"
       }
     ]
   },
@@ -3125,25 +3223,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "rare",
-        "artist": "Mark Poole",
-        "multiverse_id": 202619,
-        "number": "107",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202619",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202619.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/ali-from-cairo?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202619"
-      },
-      {
         "set": "Arabian Nights",
         "set_id": "ARN",
         "rarity": "rare",
@@ -3161,6 +3240,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ARN",
         "store_url": "http://store.tcgplayer.com/magic/arabian-nights/ali-from-cairo?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/957"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "rare",
+        "artist": "Mark Poole",
+        "multiverse_id": 202619,
+        "number": "107",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202619",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202619.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/ali-from-cairo?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202619"
       }
     ]
   },
@@ -3322,7 +3420,12 @@
     "cmc": 1,
     "cost": "{W}",
     "text": "Choose one —\n• Target creature you control gets +1/+2 until end of turn.\n• Return target creature you control to its owner's hand.",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3414,7 +3517,12 @@
     "text": "Menace",
     "power": "2",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3459,25 +3567,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
-        "rarity": "rare",
-        "artist": "Christopher Rush",
-        "multiverse_id": 201119,
-        "number": "57",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201119",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201119.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/all-hallows-eve?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201119"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "rare",
@@ -3495,6 +3584,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/all-hallows-eve?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1428"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "rare",
+        "artist": "Christopher Rush",
+        "multiverse_id": 201119,
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201119",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201119.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/all-hallows-eve?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201119"
       }
     ]
   },
@@ -3703,6 +3811,26 @@
     },
     "editions": [
       {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "mythic",
+        "artist": "Jason Felix",
+        "multiverse_id": 193658,
+        "flavor": "\"The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets.\"\n—Javad Nasrin, Ondu relic hunter",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193658",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193658.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/all-is-dust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193658"
+      },
+      {
         "set": "Grand Prix",
         "set_id": "pGPX",
         "rarity": "special",
@@ -3741,26 +3869,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
         "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/all-is-dust?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/397750"
-      },
-      {
-        "set": "Rise of the Eldrazi",
-        "set_id": "ROE",
-        "rarity": "mythic",
-        "artist": "Jason Felix",
-        "multiverse_id": 193658,
-        "flavor": "\"The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets.\"\n—Javad Nasrin, Ondu relic hunter",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193658",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193658.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
-        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/all-is-dust?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/193658"
       }
     ]
   },
@@ -3792,23 +3900,23 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Elves vs. Goblins",
-        "set_id": "EVG",
-        "rarity": "rare",
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
         "artist": "Daren Bader",
-        "multiverse_id": 158100,
-        "number": "2",
+        "multiverse_id": 0,
+        "number": "30",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158100",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158100.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/allosaurus-rider?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/158100"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/allosaurus-rider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
         "set": "Duel Decks Anthology, Elves vs. Goblins",
@@ -3830,6 +3938,25 @@
         "html_url": "https://deckbrew.com/mtg/cards/393942"
       },
       {
+        "set": "Duel Decks: Elves vs. Goblins",
+        "set_id": "EVG",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 158100,
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158100",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158100.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/allosaurus-rider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/158100"
+      },
+      {
         "set": "Coldsnap",
         "set_id": "CSP",
         "rarity": "rare",
@@ -3847,25 +3974,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/CSP",
         "store_url": "http://store.tcgplayer.com/magic/coldsnap/allosaurus-rider?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/121157"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Daren Bader",
-        "multiverse_id": 0,
-        "number": "30",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/allosaurus-rider?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -3939,26 +4047,6 @@
     },
     "editions": [
       {
-        "set": "Modern Masters 2015 Edition",
-        "set_id": "MM2",
-        "rarity": "common",
-        "artist": "Matt Cavotta",
-        "multiverse_id": 397796,
-        "flavor": "With or without witnesses, the suns continued their prismatic dance.",
-        "number": "201",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397796",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397796.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/alloy-myr?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/397796"
-      },
-      {
         "set": "New Phyrexia",
         "set_id": "NPH",
         "watermark": "Mirran",
@@ -3978,6 +4066,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/NPH",
         "store_url": "http://store.tcgplayer.com/magic/new-phyrexia/alloy-myr?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/214344"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "common",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 397796,
+        "flavor": "With or without witnesses, the suns continued their prismatic dance.",
+        "number": "201",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397796",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397796.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/alloy-myr?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397796"
       }
     ]
   },
@@ -4038,6 +4146,25 @@
     },
     "editions": [
       {
+        "set": "Fifth Dawn",
+        "set_id": "5DN",
+        "rarity": "rare",
+        "artist": "Glen Angus",
+        "multiverse_id": 51221,
+        "number": "81",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51221",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51221.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/all-suns-dawn?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/51221"
+      },
+      {
         "set": "Modern Masters 2015 Edition",
         "set_id": "MM2",
         "rarity": "rare",
@@ -4056,25 +4183,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
         "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/all-suns-dawn?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/397741"
-      },
-      {
-        "set": "Fifth Dawn",
-        "set_id": "5DN",
-        "rarity": "rare",
-        "artist": "Glen Angus",
-        "multiverse_id": 51221,
-        "number": "81",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51221",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51221.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/all-suns-dawn?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/51221"
       }
     ]
   },
@@ -4099,24 +4207,24 @@
     },
     "editions": [
       {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "common",
+        "set": "Starter 1999",
+        "set_id": "S99",
+        "rarity": "rare",
         "artist": "Melissa A. Benson",
-        "multiverse_id": 221494,
+        "multiverse_id": 20221,
         "flavor": "No earthly armor is protection against this sweetness.",
-        "number": "141",
+        "number": "124",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221494",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221494.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alluring-scent?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/221494"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20221",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20221.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/alluring-scent?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/20221"
       },
       {
         "set": "Portal",
@@ -4159,24 +4267,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/6639"
       },
       {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "rare",
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "common",
         "artist": "Melissa A. Benson",
-        "multiverse_id": 20221,
+        "multiverse_id": 221494,
         "flavor": "No earthly armor is protection against this sweetness.",
-        "number": "124",
+        "number": "141",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20221",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20221.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/alluring-scent?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20221"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221494",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221494.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/alluring-scent?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221494"
       }
     ]
   },
@@ -4207,26 +4315,6 @@
     },
     "editions": [
       {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "uncommon",
-        "artist": "Chippy",
-        "multiverse_id": 205073,
-        "flavor": "\"The ground polluted floats with human gore,\nAnd human carnage taints the dreadful shore\nFly swift the dangerous coast: let every ear\nBe stopp'd against the song! 'tis death to hear!\"\n—Homer, The Odyssey, trans. Pope",
-        "number": "43",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205073",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205073.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/alluring-siren?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205073"
-      },
-      {
         "set": "Magic 2010",
         "set_id": "M10",
         "rarity": "uncommon",
@@ -4245,6 +4333,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M10",
         "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/alluring-siren?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/189894"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "uncommon",
+        "artist": "Chippy",
+        "multiverse_id": 205073,
+        "flavor": "\"The ground polluted floats with human gore,\nAnd human carnage taints the dreadful shore\nFly swift the dangerous coast: let every ear\nBe stopp'd against the song! 'tis death to hear!\"\n—Homer, The Odyssey, trans. Pope",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205073",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205073.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/alluring-siren?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205073"
       },
       {
         "set": "Magic 2012",
@@ -4939,26 +5047,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering—Conspiracy",
-        "set_id": "CNS",
-        "rarity": "rare",
-        "artist": "Brom",
-        "multiverse_id": 382212,
-        "flavor": "\"It is not that you will go mad. It is that you will beg for madness.\"\n—Volrath",
-        "number": "196",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382212",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382212.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
-        "store_url": "http://store.tcgplayer.com/magic/conspiracy/altar-of-dementia?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382212"
-      },
-      {
         "set": "Tempest",
         "set_id": "TMP",
         "rarity": "rare",
@@ -4977,6 +5065,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
         "store_url": "http://store.tcgplayer.com/magic/tempest/altar-of-dementia?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/4596"
+      },
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Brom",
+        "multiverse_id": 382212,
+        "flavor": "\"It is not that you will go mad. It is that you will beg for madness.\"\n—Volrath",
+        "number": "196",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382212",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382212.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/altar-of-dementia?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382212"
       }
     ]
   },
@@ -5038,26 +5146,6 @@
     },
     "editions": [
       {
-        "set": "Khans of Tarkir",
-        "set_id": "KTK",
-        "rarity": "rare",
-        "artist": "Erica Yang",
-        "multiverse_id": 386475,
-        "flavor": "Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.",
-        "number": "216",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386475",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386475.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
-        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/altar-of-the-brood?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/386475"
-      },
-      {
         "set": "Ugin's Fate promos",
         "set_id": "FRF_UGIN",
         "rarity": "rare",
@@ -5076,6 +5164,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
         "store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/altar-of-the-brood?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/394066"
+      },
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "rare",
+        "artist": "Erica Yang",
+        "multiverse_id": 386475,
+        "flavor": "Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.",
+        "number": "216",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386475",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386475.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/altar-of-the-brood?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386475"
       }
     ]
   },
@@ -5184,24 +5292,44 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering—Conspiracy",
-        "set_id": "CNS",
+        "set": "Innistrad",
+        "set_id": "ISD",
         "rarity": "common",
         "artist": "Donato Giancola",
-        "multiverse_id": 382213,
-        "flavor": "\"Don't worry, your death will be as informative as possible.\"\n—Gorghul, augur of skulls",
-        "number": "112",
+        "multiverse_id": 226890,
+        "flavor": "\"The demons don't care if we mutter niceties and act out ceremonies. Just kill him.\"\n—Bishop Volpaig, servant of Griselbrand",
+        "number": "86",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382213",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382213.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
-        "store_url": "http://store.tcgplayer.com/magic/conspiracy/altars-reap?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382213"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226890",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226890.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/altars-reap?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226890"
+      },
+      {
+        "set": "Battle for Zendikar",
+        "set_id": "BFZ",
+        "rarity": "common",
+        "artist": "Tyler Jacobson",
+        "multiverse_id": 401809,
+        "flavor": "\"I will secure my revenge on Zendikar one soul at a time.\"—Ob Nixilis",
+        "number": "103",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401809",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401809.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/altars-reap?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401809"
       },
       {
         "set": "Magic 2014 Core Set",
@@ -5244,6 +5372,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/417460"
       },
       {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "common",
+        "artist": "Donato Giancola",
+        "multiverse_id": 382213,
+        "flavor": "\"Don't worry, your death will be as informative as possible.\"\n—Gorghul, augur of skulls",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382213",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382213.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/altars-reap?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382213"
+      },
+      {
         "set": "Commander 2015",
         "set_id": "C15",
         "rarity": "common",
@@ -5262,46 +5410,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C15",
         "store_url": "http://store.tcgplayer.com/magic/commander-2015/altars-reap?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/405122"
-      },
-      {
-        "set": "Innistrad",
-        "set_id": "ISD",
-        "rarity": "common",
-        "artist": "Donato Giancola",
-        "multiverse_id": 226890,
-        "flavor": "\"The demons don't care if we mutter niceties and act out ceremonies. Just kill him.\"\n—Bishop Volpaig, servant of Griselbrand",
-        "number": "86",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226890",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226890.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
-        "store_url": "http://store.tcgplayer.com/magic/innistrad/altars-reap?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/226890"
-      },
-      {
-        "set": "Battle for Zendikar",
-        "set_id": "BFZ",
-        "rarity": "common",
-        "artist": "Tyler Jacobson",
-        "multiverse_id": 401809,
-        "flavor": "\"I will secure my revenge on Zendikar one soul at a time.\"—Ob Nixilis",
-        "number": "103",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401809",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401809.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
-        "store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/altars-reap?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/401809"
       },
       {
         "set": "Conspiracy: Take the Crown",
@@ -5640,7 +5748,7 @@
     "name": "Ambassador Oak",
     "id": "ambassador-oak",
     "url": "https://api.deckbrew.com/mtg/cards/ambassador-oak",
-    "store_url": "http://store.tcgplayer.com/magic/morningtide/ambassador-oak?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ambassador-oak",
     "types": [
       "creature"
     ],
@@ -5663,6 +5771,26 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Duel Decks: Mind vs. Might",
+        "set_id": "DDS",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 426614,
+        "flavor": "Treefolk and elves share a common interest in the forests, but really the elves just feel at home with the view from above.",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426614",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426614.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDS",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-mind-vs-might/ambassador-oak?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426614"
+      },
       {
         "set": "Morningtide",
         "set_id": "MOR",
@@ -5801,6 +5929,26 @@
     },
     "editions": [
       {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Junko Taguchi",
+        "multiverse_id": 45313,
+        "flavor": "\"Knowledge demands sacrifice.\"",
+        "number": "118",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45313",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45313.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/ambitions-cost?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45313"
+      },
+      {
         "set": "Portal Three Kingdoms",
         "set_id": "PTK",
         "rarity": "rare",
@@ -5859,125 +6007,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C15",
         "store_url": "http://store.tcgplayer.com/magic/commander-2015/ambitions-cost?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/405123"
-      },
-      {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
-        "rarity": "uncommon",
-        "artist": "Junko Taguchi",
-        "multiverse_id": 45313,
-        "flavor": "\"Knowledge demands sacrifice.\"",
-        "number": "118",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45313",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45313.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/ambitions-cost?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45313"
-      }
-    ]
-  },
-  {
-    "name": "Ambitious Aetherborn",
-    "id": "ambitious-aetherborn",
-    "url": "https://api.deckbrew.com/mtg/cards/ambitious-aetherborn",
-    "store_url": "http://store.tcgplayer.com/magic/kaladesh/ambitious-aetherborn?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "aetherborn",
-      "artificer"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 5,
-    "cost": "{4}{B}",
-    "text": "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",
-    "power": "4",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "standard": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Kaladesh",
-        "set_id": "KLD",
-        "rarity": "common",
-        "artist": "Josu Hernaiz",
-        "multiverse_id": 417645,
-        "flavor": "Aetherborn who are unwilling to accept the decomposition of their bodies invent ways to preserve and augment themselves.",
-        "number": "72",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=417645",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/417645.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KLD",
-        "store_url": "http://store.tcgplayer.com/magic/kaladesh/ambitious-aetherborn?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/417645"
-      }
-    ]
-  },
-  {
-    "name": "Ambuscade Shaman",
-    "id": "ambuscade-shaman",
-    "url": "https://api.deckbrew.com/mtg/cards/ambuscade-shaman",
-    "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ambuscade-shaman?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "orc",
-      "shaman"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{2}{B}",
-    "text": "Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Dragons of Tarkir",
-        "set_id": "DTK",
-        "watermark": "Kolaghan",
-        "rarity": "uncommon",
-        "artist": "Anthony Palumbo",
-        "multiverse_id": 394489,
-        "number": "87",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394489",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394489.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
-        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/ambuscade-shaman?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/394489"
       }
     ]
   }

@@ -66,7 +66,12 @@
     "text": "Trample\nWhen Aetherstream Leopard enters the battlefield, you get {E} (an energy counter).\nWhenever Aetherstream Leopard attacks, you may pay {E}. If you do, it gets +2/+0 until end of turn.",
     "power": "2",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -109,7 +114,12 @@
     "text": "Flying\nWhen Aether Swooper enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
     "power": "1",
     "toughness": "2",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -284,7 +294,12 @@
     "text": "Flying\nWhen Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).\nPay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.",
     "power": "6",
     "toughness": "4",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -361,7 +376,7 @@
     "name": "Aethertow",
     "id": "aethertow",
     "url": "https://api.deckbrew.com/mtg/cards/aethertow",
-    "store_url": "http://store.tcgplayer.com/magic/shadowmoor/aethertow?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=aethertow",
     "types": [
       "instant"
     ],
@@ -397,6 +412,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
         "store_url": "http://store.tcgplayer.com/magic/shadowmoor/aethertow?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/158750"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "common",
+        "artist": "Warren Mahy",
+        "multiverse_id": 426030,
+        "number": "205",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426030",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426030.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/aethertow?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426030"
       }
     ]
   },
@@ -466,24 +500,24 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering—Conspiracy",
-        "set_id": "CNS",
+        "set": "Worldwake",
+        "set_id": "WWK",
         "rarity": "common",
         "artist": "Kieran Yanner",
-        "multiverse_id": 382208,
+        "multiverse_id": 201568,
         "flavor": "\"The wind smells of misfortune. Check your knots.\"\n—Anitan, Ondu cleric",
-        "number": "89",
+        "number": "24",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382208",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382208.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
-        "store_url": "http://store.tcgplayer.com/magic/conspiracy/aether-tradewinds?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382208"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201568",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201568.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+        "store_url": "http://store.tcgplayer.com/magic/worldwake/aether-tradewinds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201568"
       },
       {
         "set": "Kaladesh",
@@ -506,24 +540,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/417611"
       },
       {
-        "set": "Worldwake",
-        "set_id": "WWK",
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
         "rarity": "common",
         "artist": "Kieran Yanner",
-        "multiverse_id": 201568,
+        "multiverse_id": 382208,
         "flavor": "\"The wind smells of misfortune. Check your knots.\"\n—Anitan, Ondu cleric",
-        "number": "24",
+        "number": "89",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201568",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201568.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WWK",
-        "store_url": "http://store.tcgplayer.com/magic/worldwake/aether-tradewinds?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201568"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382208",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382208.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/aether-tradewinds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382208"
       }
     ]
   },
@@ -648,25 +682,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/420593"
       },
       {
-        "set": "From the Vault: Relics",
-        "set_id": "V10",
-        "rarity": "mythic",
-        "artist": "Karl Kopinski",
-        "multiverse_id": 212630,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=212630",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/212630.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/V10",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-relics/aether-vial?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/212630"
-      },
-      {
         "set": "Darksteel",
         "set_id": "DST",
         "rarity": "uncommon",
@@ -684,6 +699,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DST",
         "store_url": "http://store.tcgplayer.com/magic/darksteel/aether-vial?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/48146"
+      },
+      {
+        "set": "From the Vault: Relics",
+        "set_id": "V10",
+        "rarity": "mythic",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 212630,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=212630",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/212630.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V10",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-relics/aether-vial?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/212630"
       },
       {
         "set": "Modern Masters",
@@ -911,7 +945,12 @@
     "text": "Trample\nWhenever Aetherwind Basker enters the battlefield or attacks, you get {E} (an energy counter) for each creature you control.\nPay {E}: Aetherwind Basker gets +1/+1 until end of turn.",
     "power": "7",
     "toughness": "7",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -1005,26 +1044,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Zendikar vs. Eldrazi",
-        "set_id": "DDP",
-        "rarity": "uncommon",
-        "artist": "Ryan Pancoast",
-        "multiverse_id": 401644,
-        "flavor": "Once a welcoming hub for explorers, Affa became a place of guarded tongues and quick defenses.",
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401644",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401644.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/affa-guard-hound?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/401644"
-      },
-      {
         "set": "Rise of the Eldrazi",
         "set_id": "ROE",
         "rarity": "uncommon",
@@ -1043,6 +1062,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
         "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/affa-guard-hound?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/198305"
+      },
+      {
+        "set": "Duel Decks: Zendikar vs. Eldrazi",
+        "set_id": "DDP",
+        "rarity": "uncommon",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 401644,
+        "flavor": "Once a welcoming hub for explorers, Affa became a place of guarded tongues and quick defenses.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401644",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401644.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/affa-guard-hound?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401644"
       },
       {
         "set": "Conspiracy: Take the Crown",
@@ -1139,26 +1178,6 @@
     },
     "editions": [
       {
-        "set": "Odyssey",
-        "set_id": "ODY",
-        "rarity": "common",
-        "artist": "Roger Raupp",
-        "multiverse_id": 29740,
-        "flavor": "When one of the Patriarch's champions displeased him, he would only shake his finger. That was enough.",
-        "number": "115",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29740",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29740.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-        "store_url": "http://store.tcgplayer.com/magic/odyssey/afflict?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/29740"
-      },
-      {
         "set": "Tenth Edition",
         "set_id": "10E",
         "rarity": "common",
@@ -1177,6 +1196,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/afflict?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/135206"
+      },
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "common",
+        "artist": "Roger Raupp",
+        "multiverse_id": 29740,
+        "flavor": "When one of the Patriarch's champions displeased him, he would only shake his finger. That was enough.",
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29740",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29740.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/afflict?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29740"
       }
     ]
   },
@@ -1291,23 +1330,43 @@
     },
     "editions": [
       {
-        "set": "Commander 2014",
-        "set_id": "C14",
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
         "rarity": "uncommon",
         "artist": "Brian Snõddy",
-        "multiverse_id": 389426,
-        "number": "64",
+        "multiverse_id": 247330,
+        "number": "2",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389426",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389426.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2014/afterlife?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/389426"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247330",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247330.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/afterlife?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247330"
+      },
+      {
+        "set": "Mirage",
+        "set_id": "MIR",
+        "rarity": "uncommon",
+        "artist": "Pete Venters",
+        "multiverse_id": 3476,
+        "flavor": "Facets of life, reflections of the soul.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3476",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3476.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+        "store_url": "http://store.tcgplayer.com/magic/mirage/afterlife?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3476"
       },
       {
         "set": "Vintage Masters",
@@ -1329,25 +1388,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/382838"
       },
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "uncommon",
-        "artist": "Brian Snõddy",
-        "multiverse_id": 247330,
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247330",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247330.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/afterlife?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/247330"
-      },
-      {
         "set": "Mercadian Masques",
         "set_id": "MMQ",
         "rarity": "uncommon",
@@ -1367,24 +1407,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/19549"
       },
       {
-        "set": "Mirage",
-        "set_id": "MIR",
+        "set": "Commander 2014",
+        "set_id": "C14",
         "rarity": "uncommon",
-        "artist": "Pete Venters",
-        "multiverse_id": 3476,
-        "flavor": "Facets of life, reflections of the soul.",
-        "number": "",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 389426,
+        "number": "64",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3476",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3476.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MIR",
-        "store_url": "http://store.tcgplayer.com/magic/mirage/afterlife?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3476"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389426",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389426.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/afterlife?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389426"
       }
     ]
   },
@@ -1429,26 +1468,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/397641"
       },
       {
-        "set": "Vintage Masters",
-        "set_id": "VMA",
-        "rarity": "common",
-        "artist": "Hannibal King",
-        "multiverse_id": 382839,
-        "flavor": "\"Every act of destruction has a repercussion.\"\n—Karn, silver golem",
-        "number": "149",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382839",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382839.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
-        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/aftershock?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382839"
-      },
-      {
         "set": "Tempest",
         "set_id": "TMP",
         "rarity": "common",
@@ -1467,6 +1486,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
         "store_url": "http://store.tcgplayer.com/magic/tempest/aftershock?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/4800"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "common",
+        "artist": "Hannibal King",
+        "multiverse_id": 382839,
+        "flavor": "\"Every act of destruction has a repercussion.\"\n—Karn, silver golem",
+        "number": "149",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382839",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382839.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/aftershock?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382839"
       }
     ]
   },
@@ -1779,7 +1818,7 @@
     "name": "Agent of Masks",
     "id": "agent-of-masks",
     "url": "https://api.deckbrew.com/mtg/cards/agent-of-masks",
-    "store_url": "http://store.tcgplayer.com/magic/guildpact/agent-of-masks?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=agent-of-masks",
     "types": [
       "creature"
     ],
@@ -1803,6 +1842,26 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "uncommon",
+        "artist": "Allen Williams",
+        "multiverse_id": 425974,
+        "flavor": "\"Two-faced\" is an understatement.",
+        "number": "149",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425974",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425974.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/agent-of-masks?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425974"
+      },
       {
         "set": "Guildpact",
         "set_id": "GPT",
@@ -2038,7 +2097,7 @@
     "name": "Aggravated Assault",
     "id": "aggravated-assault",
     "url": "https://api.deckbrew.com/mtg/cards/aggravated-assault",
-    "store_url": "http://store.tcgplayer.com/magic/onslaught/aggravated-assault?partner=DECKBREW",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=aggravated-assault",
     "types": [
       "enchantment"
     ],
@@ -2072,6 +2131,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ONS",
         "store_url": "http://store.tcgplayer.com/magic/onslaught/aggravated-assault?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/40195"
+      },
+      {
+        "set": "Masterpiece Series: Amonkhet Invocations",
+        "set_id": "MPS_AKH",
+        "rarity": "special",
+        "artist": "Greg Opalinski",
+        "multiverse_id": 429884,
+        "number": "25",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=429884",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/429884.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MPS_AKH",
+        "store_url": "http://store.tcgplayer.com/magic/masterpiece-series-amonkhet-invocations/aggravated-assault?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/429884"
       }
     ]
   },
@@ -2185,26 +2263,6 @@
     },
     "editions": [
       {
-        "set": "Invasion",
-        "set_id": "INV",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 24127,
-        "flavor": "The power of the wild, concentrated in a single charge.",
-        "number": "181",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24127",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24127.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
-        "store_url": "http://store.tcgplayer.com/magic/invasion/aggressive-urge?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/24127"
-      },
-      {
         "set": "Tenth Edition",
         "set_id": "10E",
         "rarity": "common",
@@ -2223,6 +2281,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/aggressive-urge?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/130525"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "common",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 24127,
+        "flavor": "The power of the wild, concentrated in a single charge.",
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24127",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24127.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/aggressive-urge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24127"
       }
     ]
   },
@@ -2291,25 +2369,6 @@
     },
     "editions": [
       {
-        "set": "Invasion",
-        "set_id": "INV",
-        "rarity": "common",
-        "artist": "Mark Brill",
-        "multiverse_id": 23034,
-        "number": "92",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23034",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23034.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
-        "store_url": "http://store.tcgplayer.com/magic/invasion/agonizing-demise?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/23034"
-      },
-      {
         "set": "Duel Decks: Ajani vs. Nicol Bolas",
         "set_id": "DDH",
         "rarity": "common",
@@ -2327,6 +2386,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/agonizing-demise?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/259268"
+      },
+      {
+        "set": "Invasion",
+        "set_id": "INV",
+        "rarity": "common",
+        "artist": "Mark Brill",
+        "multiverse_id": 23034,
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23034",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23034.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
+        "store_url": "http://store.tcgplayer.com/magic/invasion/agonizing-demise?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/23034"
       }
     ]
   },
@@ -2372,26 +2450,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/14586"
       },
       {
-        "set": "Weatherlight",
-        "set_id": "WTH",
-        "rarity": "uncommon",
-        "artist": "Mike Dringenberg",
-        "multiverse_id": 4448,
-        "flavor": "\"An innocent man died because of my anger. That knowledge will haunt me for all eternity.\"\n—Karn, silver golem",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4448",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4448.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
-        "store_url": "http://store.tcgplayer.com/magic/weatherlight/agonizing-memories?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4448"
-      },
-      {
         "set": "Seventh Edition",
         "set_id": "7ED",
         "rarity": "uncommon",
@@ -2410,6 +2468,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
         "store_url": "http://store.tcgplayer.com/magic/7th-edition/agonizing-memories?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/12994"
+      },
+      {
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "uncommon",
+        "artist": "Mike Dringenberg",
+        "multiverse_id": 4448,
+        "flavor": "\"An innocent man died because of my anger. That knowledge will haunt me for all eternity.\"\n—Karn, silver golem",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4448",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4448.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/agonizing-memories?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4448"
       },
       {
         "set": "Tenth Edition",
@@ -2456,26 +2534,6 @@
     },
     "editions": [
       {
-        "set": "Modern Masters 2015 Edition",
-        "set_id": "MM2",
-        "rarity": "uncommon",
-        "artist": "Dave Allsop",
-        "multiverse_id": 397784,
-        "flavor": "Life's circle has become inverted in Grixis. The same energy is endlessly recycled and becomes more stagnant with each pass.",
-        "number": "170",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397784",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397784.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/agony-warp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/397784"
-      },
-      {
         "set": "Archenemy",
         "set_id": "ARC",
         "rarity": "common",
@@ -2514,6 +2572,46 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
         "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/agony-warp?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/175052"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "common",
+        "artist": "Dave Allsop",
+        "multiverse_id": 425975,
+        "flavor": "Life's circle has become inverted in Grixis. The same energy is endlessly recycled and becomes more stagnant with each pass.",
+        "number": "150",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425975",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425975.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/agony-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425975"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "Dave Allsop",
+        "multiverse_id": 397784,
+        "flavor": "Life's circle has become inverted in Grixis. The same energy is endlessly recycled and becomes more stagnant with each pass.",
+        "number": "170",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397784",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397784.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/agony-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397784"
       }
     ]
   },
@@ -2542,26 +2640,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Jace vs. Vraska",
-        "set_id": "DDM",
-        "rarity": "uncommon",
-        "artist": "Jim Murray",
-        "multiverse_id": 380253,
-        "flavor": "\"Everyone in this city is choosing sides. I choose inside.\"",
-        "number": "22",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380253",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380253.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/agoraphobia?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/380253"
-      },
-      {
         "set": "Gatecrash",
         "set_id": "GTC",
         "rarity": "uncommon",
@@ -2580,6 +2658,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/GTC",
         "store_url": "http://store.tcgplayer.com/magic/gatecrash/agoraphobia?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/366258"
+      },
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 380253,
+        "flavor": "\"Everyone in this city is choosing sides. I choose inside.\"",
+        "number": "22",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380253",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380253.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/agoraphobia?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380253"
       }
     ]
   },
@@ -2694,6 +2792,95 @@
     ]
   },
   {
+    "name": "Ahn-Crop Champion",
+    "id": "ahn-crop-champion",
+    "url": "https://api.deckbrew.com/mtg/cards/ahn-crop-champion",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/ahn-crop-champion?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{G}{W}",
+    "text": "You may exert Ahn-Crop Champion as it attacks. When you do, untap all other creatures you control. (An exerted creature won't untap during your next untap step.)",
+    "power": "4",
+    "toughness": "4",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "uncommon",
+        "artist": "Craig J Spearing",
+        "multiverse_id": 426896,
+        "flavor": "\"The Second Sun nears its destination! Let it light the way to ours!\"",
+        "number": "194",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426896",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426896.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/ahn-crop-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426896"
+      }
+    ]
+  },
+  {
+    "name": "Ahn-Crop Crasher",
+    "id": "ahn-crop-crasher",
+    "url": "https://api.deckbrew.com/mtg/cards/ahn-crop-crasher",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/ahn-crop-crasher?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Haste\nYou may exert Ahn-Crop Crasher as it attacks. When you do, target creature can't block this turn. (An exerted creature won't untap during your next untap step.)",
+    "power": "3",
+    "toughness": "2",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "uncommon",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 426819,
+        "flavor": "\"Hesitation breeds dissension. To be worthy of the next life, you must never look back.\"\n—Anep, vizier of Hazoret",
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426819",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426819.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/ahn-crop-crasher?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426819"
+      }
+    ]
+  },
+  {
     "name": "Aid from the Cowl",
     "id": "aid-from-the-cowl",
     "url": "https://api.deckbrew.com/mtg/cards/aid-from-the-cowl",
@@ -2707,7 +2894,12 @@
     "cmc": 5,
     "cost": "{3}{G}{G}",
     "text": "Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. Otherwise, you may put it on the bottom of your library.",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -2999,6 +3191,26 @@
     },
     "editions": [
       {
+        "set": "Ugin's Fate promos",
+        "set_id": "FRF_UGIN",
+        "rarity": "common",
+        "artist": "Evan Shipard",
+        "multiverse_id": 394065,
+        "flavor": "\"The ainok are wild dogs, not fit to join us around the fire.\"\n—Surrak, the Hunt Caller",
+        "number": "96",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394065",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394065.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+        "store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ainok-tracker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394065"
+      },
+      {
         "set": "Khans of Tarkir",
         "set_id": "KTK",
         "watermark": "Temur",
@@ -3018,26 +3230,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
         "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/ainok-tracker?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/386472"
-      },
-      {
-        "set": "Ugin's Fate promos",
-        "set_id": "FRF_UGIN",
-        "rarity": "common",
-        "artist": "Evan Shipard",
-        "multiverse_id": 394065,
-        "flavor": "\"The ainok are wild dogs, not fit to join us around the fire.\"\n—Surrak, the Hunt Caller",
-        "number": "96",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394065",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394065.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
-        "store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ainok-tracker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/394065"
       }
     ]
   },
@@ -3148,7 +3340,12 @@
     "text": "Flying\nRevolt — When Airdrop Aeronauts enters the battlefield, if a permanent you controlled left the battlefield this turn, you gain 5 life.",
     "power": "4",
     "toughness": "3",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -3246,24 +3443,24 @@
     },
     "editions": [
       {
-        "set": "Beatdown Box Set",
-        "set_id": "BTD",
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
         "rarity": "uncommon",
         "artist": "Doug Chaffee",
-        "multiverse_id": 26654,
+        "multiverse_id": 15371,
         "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
-        "number": "1",
+        "number": "56",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26654",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26654.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
-        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/26654"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15371"
       },
       {
         "set": "Ninth Edition",
@@ -3286,91 +3483,51 @@
         "html_url": "https://deckbrew.com/mtg/cards/82988"
       },
       {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 189884,
+        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189884",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189884.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189884"
+      },
+      {
+        "set": "Starter 1999",
+        "set_id": "S99",
         "rarity": "uncommon",
         "artist": "Doug Chaffee",
-        "multiverse_id": 15371,
+        "multiverse_id": 21041,
         "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
-        "number": "56",
+        "number": "32",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15371",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15371.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/15371"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21041",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21041.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21041"
       },
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 2142,
-        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2142",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2142.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2142"
-      },
-      {
-        "set": "Duels of the Planeswalkers",
-        "set_id": "DPA",
-        "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 0,
-        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
-        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Duel Decks Anthology, Jace vs. Chandra",
-        "set_id": "DD3_JVC",
-        "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 393817,
-        "flavor": "Pray that it doesn't seek the safety of your lungs.",
-        "number": "13",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393817",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393817.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/393817"
-      },
-      {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
+        "set": "Battle Royale Box Set",
+        "set_id": "BRB",
         "rarity": "uncommon",
         "artist": "D. Alexander Gregory",
-        "multiverse_id": 3892,
+        "multiverse_id": 21121,
         "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
         "number": "",
         "layout": "normal",
@@ -3379,111 +3536,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3892",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3892.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3892"
-      },
-      {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "uncommon",
-        "artist": "Brian Snõddy",
-        "multiverse_id": 221985,
-        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "37",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221985",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221985.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/221985"
-      },
-      {
-        "set": "International Collector's Edition",
-        "set_id": "CEI",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 0,
-        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
-        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "uncommon",
-        "artist": "Wayne England",
-        "multiverse_id": 15802,
-        "flavor": "Where psycho meets cyclone.",
-        "number": "58",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15802",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15802.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/15802"
-      },
-      {
-        "set": "Duel Decks: Jace vs. Chandra",
-        "set_id": "DD2",
-        "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 189223,
-        "flavor": "Pray that it doesn't seek the safety of your lungs.",
-        "number": "13",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189223",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189223.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/189223"
-      },
-      {
-        "set": "Unlimited Edition",
-        "set_id": "2ED",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 691,
-        "flavor": "These spirits of the air are winsome and wild, and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=691",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/691.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
-        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/691"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21121",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21121.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21121"
       },
       {
         "set": "Revised Edition",
@@ -3506,24 +3563,264 @@
         "html_url": "https://deckbrew.com/mtg/cards/1189"
       },
       {
-        "set": "Magic 2010",
-        "set_id": "M10",
+        "set": "Seventh Edition",
+        "set_id": "7ED",
         "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 189884,
-        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
-        "number": "42",
+        "artist": "Wayne England",
+        "multiverse_id": 15802,
+        "flavor": "Where psycho meets cyclone.",
+        "number": "58",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189884",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189884.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/189884"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15802",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15802.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15802"
+      },
+      {
+        "set": "Duels of the Planeswalkers",
+        "set_id": "DPA",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 0,
+        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Unlimited Edition",
+        "set_id": "2ED",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 691,
+        "flavor": "These spirits of the air are winsome and wild, and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=691",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/691.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/691"
+      },
+      {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "uncommon",
+        "artist": "Wayne England",
+        "multiverse_id": 45255,
+        "flavor": "Pray that it doesn't seek the safety of your lungs.",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45255",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45255.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45255"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 3892,
+        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3892",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3892.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3892"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 129459,
+        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129459",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129459.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129459"
+      },
+      {
+        "set": "Duel Decks: Jace vs. Chandra",
+        "set_id": "DD2",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 189223,
+        "flavor": "Pray that it doesn't seek the safety of your lungs.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=189223",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/189223.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/189223"
+      },
+      {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "uncommon",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 6536,
+        "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6536",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6536.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6536"
+      },
+      {
+        "set": "Duel Decks Anthology, Jace vs. Chandra",
+        "set_id": "DD3_JVC",
+        "rarity": "uncommon",
+        "artist": "Kev Walker",
+        "multiverse_id": 393817,
+        "flavor": "Pray that it doesn't seek the safety of your lungs.",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393817",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393817.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393817"
+      },
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "uncommon",
+        "artist": "Doug Chaffee",
+        "multiverse_id": 26654,
+        "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26654",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26654.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26654"
+      },
+      {
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 0,
+        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 2142,
+        "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2142",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2142.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2142"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 389,
+        "flavor": "These spirits of the air are winsome and wild, and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389"
       },
       {
         "set": "Limited Edition Alpha",
@@ -3566,124 +3863,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
         "rarity": "uncommon",
-        "artist": "Wayne England",
-        "multiverse_id": 45255,
-        "flavor": "Pray that it doesn't seek the safety of your lungs.",
-        "number": "59",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45255",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45255.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45255"
-      },
-      {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 389,
-        "flavor": "These spirits of the air are winsome and wild, and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/389"
-      },
-      {
-        "set": "Battle Royale Box Set",
-        "set_id": "BRB",
-        "rarity": "uncommon",
-        "artist": "D. Alexander Gregory",
-        "multiverse_id": 21121,
+        "artist": "Brian Snõddy",
+        "multiverse_id": 221985,
         "flavor": "These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.",
-        "number": "",
+        "number": "37",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21121",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21121.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
-        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/21121"
-      },
-      {
-        "set": "Portal Second Age",
-        "set_id": "PO2",
-        "rarity": "uncommon",
-        "artist": "Doug Chaffee",
-        "multiverse_id": 6536,
-        "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6536",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6536.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
-        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/6536"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "uncommon",
-        "artist": "Doug Chaffee",
-        "multiverse_id": 21041,
-        "flavor": "As insubstantial, and as powerful, as the wind that carries it.",
-        "number": "32",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21041",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21041.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/21041"
-      },
-      {
-        "set": "Tenth Edition",
-        "set_id": "10E",
-        "rarity": "uncommon",
-        "artist": "Kev Walker",
-        "multiverse_id": 129459,
-        "flavor": "\"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab.\"\n—Joseph Conrad, The Mirror of the Sea",
-        "number": "64",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129459",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129459.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/air-elemental?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/129459"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=221985",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/221985.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/air-elemental?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/221985"
       }
     ]
   },
@@ -3715,64 +3912,24 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering—Conspiracy",
-        "set_id": "CNS",
+        "set": "Welcome Deck 2016",
+        "set_id": "W16",
         "rarity": "uncommon",
         "artist": "Lars Grant-West",
-        "multiverse_id": 382210,
-        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
-        "number": "90",
+        "multiverse_id": 413370,
+        "flavor": "Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.",
+        "number": "4",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382210",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382210.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
-        "store_url": "http://store.tcgplayer.com/magic/conspiracy/air-servant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382210"
-      },
-      {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "uncommon",
-        "artist": "Lars Grant-West",
-        "multiverse_id": 370688,
-        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
-        "number": "42",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370688",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370688.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/air-servant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370688"
-      },
-      {
-        "set": "Modern Masters 2015 Edition",
-        "set_id": "MM2",
-        "rarity": "uncommon",
-        "artist": "Lars Grant-West",
-        "multiverse_id": 397847,
-        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
-        "number": "40",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397847",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397847.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/air-servant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/397847"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413370",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413370.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/W16",
+        "store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/air-servant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413370"
       },
       {
         "set": "Magic 2011",
@@ -3795,24 +3952,64 @@
         "html_url": "https://deckbrew.com/mtg/cards/205070"
       },
       {
-        "set": "Welcome Deck 2016",
-        "set_id": "W16",
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
         "rarity": "uncommon",
         "artist": "Lars Grant-West",
-        "multiverse_id": 413370,
-        "flavor": "Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.",
-        "number": "4",
+        "multiverse_id": 397847,
+        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+        "number": "40",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413370",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413370.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/W16",
-        "store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/air-servant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413370"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397847",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397847.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/air-servant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397847"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "uncommon",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 370688,
+        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370688",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370688.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/air-servant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370688"
+      },
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "uncommon",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 382210,
+        "flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382210",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382210.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/air-servant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382210"
       }
     ]
   },
@@ -3888,25 +4085,6 @@
     },
     "editions": [
       {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "mythic",
-        "artist": "D. Alexander Gregory",
-        "multiverse_id": 370680,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370680",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370680.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/ajani-caller-of-the-pride?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370680"
-      },
-      {
         "set": "Magic 2013",
         "set_id": "M13",
         "rarity": "mythic",
@@ -3924,6 +4102,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M13",
         "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/ajani-caller-of-the-pride?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/249695"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "mythic",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 370680,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370680",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370680.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/ajani-caller-of-the-pride?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370680"
       },
       {
         "set": "Media Inserts",
@@ -3972,6 +4169,44 @@
     },
     "editions": [
       {
+        "set": "Magic 2010",
+        "set_id": "M10",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 191239,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191239",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191239.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/ajani-goldmane?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/191239"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "mythic",
+        "artist": "Aleksi Briclot",
+        "multiverse_id": 205957,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205957",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205957.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajani-goldmane?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205957"
+      },
+      {
         "set": "Lorwyn",
         "set_id": "LRW",
         "rarity": "rare",
@@ -4008,44 +4243,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
         "store_url": "http://store.tcgplayer.com/magic/pro-tour/ajani-goldmane?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 205957,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205957",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205957.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajani-goldmane?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205957"
-      },
-      {
-        "set": "Magic 2010",
-        "set_id": "M10",
-        "rarity": "mythic",
-        "artist": "Aleksi Briclot",
-        "multiverse_id": 191239,
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191239",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191239.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/ajani-goldmane?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/191239"
       }
     ]
   },
@@ -4111,7 +4308,12 @@
     "cmc": 4,
     "cost": "{2}{G}{W}",
     "text": "When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle it.\nSacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -4223,7 +4425,12 @@
     "text": "Trample\nAt the beginning of combat on your turn, if you control an Ajani planeswalker, put a +1/+1 counter on Ajani's Comrade.",
     "power": "2",
     "toughness": "2",
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -4269,26 +4476,6 @@
     },
     "editions": [
       {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "common",
-        "artist": "James Paick",
-        "multiverse_id": 204987,
-        "flavor": "\"He hasn't returned to the Cloud Forest. But I can still sense his calming presence.\"\n—Zaliki of Naya",
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=204987",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/204987.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajanis-mantra?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/204987"
-      },
-      {
         "set": "Duel Decks: Ajani vs. Nicol Bolas",
         "set_id": "DDH",
         "rarity": "common",
@@ -4307,6 +4494,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/ajanis-mantra?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/249398"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "common",
+        "artist": "James Paick",
+        "multiverse_id": 204987,
+        "flavor": "\"He hasn't returned to the Cloud Forest. But I can still sense his calming presence.\"\n—Zaliki of Naya",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=204987",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/204987.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajanis-mantra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/204987"
       }
     ]
   },
@@ -4380,6 +4587,46 @@
     },
     "editions": [
       {
+        "set": "Duel Decks: Ajani vs. Nicol Bolas",
+        "set_id": "DDH",
+        "rarity": "uncommon",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 249413,
+        "flavor": "\"When one of us prospers, the pride prospers.\"\n—Jazal Goldmane",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249413",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249413.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/ajanis-pridemate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/249413"
+      },
+      {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "uncommon",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 205065,
+        "flavor": "\"When one of us prospers, the pride prospers.\"\n—Jazal Goldmane",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205065",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205065.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajanis-pridemate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205065"
+      },
+      {
         "set": "Magic 2015 Core Set",
         "set_id": "M15",
         "rarity": "uncommon",
@@ -4418,46 +4665,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C13",
         "store_url": "http://store.tcgplayer.com/magic/commander-2013/ajanis-pridemate?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/376241"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "uncommon",
-        "artist": "Svetlin Velinov",
-        "multiverse_id": 205065,
-        "flavor": "\"When one of us prospers, the pride prospers.\"\n—Jazal Goldmane",
-        "number": "3",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205065",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205065.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajanis-pridemate?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205065"
-      },
-      {
-        "set": "Duel Decks: Ajani vs. Nicol Bolas",
-        "set_id": "DDH",
-        "rarity": "uncommon",
-        "artist": "Svetlin Velinov",
-        "multiverse_id": 249413,
-        "flavor": "\"When one of us prospers, the pride prospers.\"\n—Jazal Goldmane",
-        "number": "9",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=249413",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/249413.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDH",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/ajanis-pridemate?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/249413"
       }
     ]
   },
@@ -4489,26 +4696,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering—Conspiracy",
-        "set_id": "CNS",
-        "rarity": "common",
-        "artist": "Matt Stewart",
-        "multiverse_id": 382211,
-        "flavor": "\"Ajani goes where he is needed most and in his name we keep his lands safe.\"",
-        "number": "66",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382211",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382211.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
-        "store_url": "http://store.tcgplayer.com/magic/conspiracy/ajanis-sunstriker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/382211"
-      },
-      {
         "set": "Magic 2013",
         "set_id": "M13",
         "rarity": "common",
@@ -4527,6 +4714,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M13",
         "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/ajanis-sunstriker?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/259715"
+      },
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "common",
+        "artist": "Matt Stewart",
+        "multiverse_id": 382211,
+        "flavor": "\"Ajani goes where he is needed most and in his name we keep his lands safe.\"",
+        "number": "66",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382211",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382211.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/ajanis-sunstriker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382211"
       }
     ]
   },
@@ -4614,7 +4821,12 @@
     "cost": "{4}{G}{W}",
     "text": "+2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.\n−2: Exile target creature. Its controller gains life equal to its power.\n−9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.",
     "loyalty": 4,
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -4656,7 +4868,12 @@
     "cost": "{4}{G}{W}",
     "text": "+2: Put two +1/+1 counters on up to one target creature.\n+1: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.\n−11: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.",
     "loyalty": 4,
-    "formats": {},
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
     "editions": [
       {
         "set": "Aether Revolt",
@@ -4706,25 +4923,6 @@
     },
     "editions": [
       {
-        "set": "Shards of Alara",
-        "set_id": "ALA",
-        "rarity": "mythic",
-        "artist": "Wayne Reynolds",
-        "multiverse_id": 174852,
-        "number": "154",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174852",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174852.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
-        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/ajani-vengeant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/174852"
-      },
-      {
         "set": "Duel Decks: Ajani vs. Nicol Bolas",
         "set_id": "DDH",
         "rarity": "mythic",
@@ -4744,25 +4942,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/266299"
       },
       {
-        "set": "Launch Parties",
-        "set_id": "pLPA",
-        "rarity": "special",
-        "artist": "Jason Chan",
-        "multiverse_id": 0,
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
-        "store_url": "http://store.tcgplayer.com/magic/launch-parties/ajani-vengeant?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
         "set": "Prerelease Events",
         "set_id": "pPRE",
         "rarity": "special",
@@ -4779,6 +4958,44 @@
         "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
         "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
         "store_url": "http://store.tcgplayer.com/magic/prerelease-events/ajani-vengeant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Shards of Alara",
+        "set_id": "ALA",
+        "rarity": "mythic",
+        "artist": "Wayne Reynolds",
+        "multiverse_id": 174852,
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=174852",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/174852.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+        "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/ajani-vengeant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/174852"
+      },
+      {
+        "set": "Launch Parties",
+        "set_id": "pLPA",
+        "rarity": "special",
+        "artist": "Jason Chan",
+        "multiverse_id": 0,
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+        "store_url": "http://store.tcgplayer.com/magic/launch-parties/ajani-vengeant?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
@@ -4958,6 +5175,26 @@
     },
     "editions": [
       {
+        "set": "Duel Decks Anthology, Elves vs. Goblins",
+        "set_id": "DD3_EVG",
+        "rarity": "uncommon",
+        "artist": "Nottsuo",
+        "multiverse_id": 393941,
+        "flavor": "No matter where you find them, goblins love rocks.",
+        "number": "33",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393941",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393941.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/akki-coalflinger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393941"
+      },
+      {
         "set": "Duel Decks: Elves vs. Goblins",
         "set_id": "EVG",
         "rarity": "uncommon",
@@ -4996,26 +5233,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/CHK",
         "store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/akki-coalflinger?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/50338"
-      },
-      {
-        "set": "Duel Decks Anthology, Elves vs. Goblins",
-        "set_id": "DD3_EVG",
-        "rarity": "uncommon",
-        "artist": "Nottsuo",
-        "multiverse_id": 393941,
-        "flavor": "No matter where you find them, goblins love rocks.",
-        "number": "33",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393941",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393941.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/akki-coalflinger?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/393941"
       }
     ]
   },
@@ -5326,28 +5543,9 @@
     ],
     "cmc": 0,
     "cost": "",
-    "text": "Players may cast enchantment spells as though they had flash.\nWhenever you roll {CHAOS}, destroy target creature that isn't enchanted.",
+    "text": "Players may cast enchantment spells as though they had flash.\nWhenever you roll CHAOS, destroy target creature that isn't enchanted.",
     "formats": {},
     "editions": [
-      {
-        "set": "Planechase Anthology",
-        "set_id": "PCA",
-        "rarity": "common",
-        "artist": "Rob Alexander",
-        "multiverse_id": 423593,
-        "number": "12",
-        "layout": "plane",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423593",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423593.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
-        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/akoum?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/423593"
-      },
       {
         "set": "Planechase 2012 Edition",
         "set_id": "PC2",
@@ -5366,6 +5564,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
         "store_url": "http://store.tcgplayer.com/magic/planechase-2012/akoum?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/226512"
+      },
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Rob Alexander",
+        "multiverse_id": 423593,
+        "number": "12",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423593",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423593.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/akoum?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423593"
       }
     ]
   },
@@ -5690,25 +5907,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/247543"
       },
       {
-        "set": "Duel Decks: Sorin vs. Tibalt",
-        "set_id": "DDK",
-        "rarity": "uncommon",
-        "artist": "Fred Fields",
-        "multiverse_id": 368523,
-        "number": "73",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368523",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368523.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/akoum-refuge?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/368523"
-      },
-      {
         "set": "Duel Decks: Zendikar vs. Eldrazi",
         "set_id": "DDP",
         "rarity": "uncommon",
@@ -5745,6 +5943,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C13",
         "store_url": "http://store.tcgplayer.com/magic/commander-2013/akoum-refuge?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/376242"
+      },
+      {
+        "set": "Duel Decks: Sorin vs. Tibalt",
+        "set_id": "DDK",
+        "rarity": "uncommon",
+        "artist": "Fred Fields",
+        "multiverse_id": 368523,
+        "number": "73",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368523",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368523.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/akoum-refuge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368523"
       },
       {
         "set": "Zendikar",
@@ -6058,25 +6275,6 @@
     },
     "editions": [
       {
-        "set": "Commander 2016",
-        "set_id": "C16",
-        "rarity": "rare",
-        "artist": "Seb McKinnon",
-        "multiverse_id": 420858,
-        "number": "241",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420858",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420858.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2016/akroan-horse?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/420858"
-      },
-      {
         "set": "Theros",
         "set_id": "THS",
         "rarity": "rare",
@@ -6094,104 +6292,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/THS",
         "store_url": "http://store.tcgplayer.com/magic/theros/akroan-horse?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/373550"
-      }
-    ]
-  },
-  {
-    "name": "Akroan Jailer",
-    "id": "akroan-jailer",
-    "url": "https://api.deckbrew.com/mtg/cards/akroan-jailer",
-    "store_url": "http://store.tcgplayer.com/magic/magic-origins/akroan-jailer?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "soldier"
-    ],
-    "colors": [
-      "white"
-    ],
-    "cmc": 1,
-    "cost": "{W}",
-    "text": "{2}{W}, {T}: Tap target creature.",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
+      },
       {
-        "set": "Magic Origins",
-        "set_id": "ORI",
-        "rarity": "common",
-        "artist": "Anastasia Ovchinnikova",
-        "multiverse_id": 398656,
-        "flavor": "He ensures escape attempts are just that—attempts.",
-        "number": "1",
+        "set": "Commander 2016",
+        "set_id": "C16",
+        "rarity": "rare",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 420858,
+        "number": "241",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=398656",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/398656.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-        "store_url": "http://store.tcgplayer.com/magic/magic-origins/akroan-jailer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/398656"
-      }
-    ]
-  },
-  {
-    "name": "Akroan Line Breaker",
-    "id": "akroan-line-breaker",
-    "url": "https://api.deckbrew.com/mtg/cards/akroan-line-breaker",
-    "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/akroan-line-breaker?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "warrior"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{2}{R}",
-    "text": "Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
-    "power": "2",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Journey into Nyx",
-        "set_id": "JOU",
-        "rarity": "uncommon",
-        "artist": "Marco Nelor",
-        "multiverse_id": 380369,
-        "flavor": "The enemies' shields are the first to shatter, and their battle line is never far behind.",
-        "number": "88",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380369",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380369.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
-        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/akroan-line-breaker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/380369"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=420858",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/420858.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C16",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2016/akroan-horse?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/420858"
       }
     ]
   }

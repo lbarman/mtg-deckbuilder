@@ -1,5 +1,471 @@
 [
   {
+    "name": "Arashin Cleric",
+    "id": "arashin-cleric",
+    "url": "https://api.deckbrew.com/mtg/cards/arashin-cleric",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/arashin-cleric?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{1}{W}",
+    "text": "When Arashin Cleric enters the battlefield, you gain 3 life.",
+    "power": "1",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Abzan",
+        "rarity": "common",
+        "artist": "Chris Rahn",
+        "multiverse_id": 391791,
+        "flavor": "\"We'll have time to put out the fires when those trapped within the ruins are safe.\"",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391791",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391791.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/arashin-cleric?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391791"
+      }
+    ]
+  },
+  {
+    "name": "Arashin Foremost",
+    "id": "arashin-foremost",
+    "url": "https://api.deckbrew.com/mtg/cards/arashin-foremost",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arashin-foremost",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{1}{W}{W}",
+    "text": "Double strike\nWhenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "David Palumbo",
+        "multiverse_id": 0,
+        "flavor": "\"I would gladly give my life if it would inspire my clan to victory.\"",
+        "number": "159",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/arashin-foremost?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Dromoka",
+        "rarity": "rare",
+        "artist": "David Palumbo",
+        "multiverse_id": 394494,
+        "flavor": "\"I would gladly give my life if it would inspire my clan to victory.\"",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394494",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394494.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/arashin-foremost?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394494"
+      }
+    ]
+  },
+  {
+    "name": "Arashin Sovereign",
+    "id": "arashin-sovereign",
+    "url": "https://api.deckbrew.com/mtg/cards/arashin-sovereign",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arashin-sovereign",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{5}{G}{W}",
+    "text": "Flying\nWhen Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Dan Scott",
+        "multiverse_id": 0,
+        "flavor": "Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.",
+        "number": "160",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/arashin-sovereign?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Dragons of Tarkir",
+        "set_id": "DTK",
+        "watermark": "Dromoka",
+        "rarity": "rare",
+        "artist": "Dan Scott",
+        "multiverse_id": 394495,
+        "flavor": "Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.",
+        "number": "212",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394495",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394495.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+        "store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/arashin-sovereign?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394495"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "David Palumbo",
+        "multiverse_id": 0,
+        "flavor": "Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion.",
+        "number": "112",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/arashin-sovereign?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Arashin War Beast",
+    "id": "arashin-war-beast",
+    "url": "https://api.deckbrew.com/mtg/cards/arashin-war-beast",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arashin-war-beast",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "beast"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 7,
+    "cost": "{5}{G}{G}",
+    "text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ugin's Fate promos",
+        "set_id": "FRF_UGIN",
+        "watermark": "Temur",
+        "rarity": "uncommon",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 394067,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=394067",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/394067.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+        "store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/arashin-war-beast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/394067"
+      },
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Abzan",
+        "rarity": "uncommon",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 391792,
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391792",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391792.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/arashin-war-beast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391792"
+      }
+    ]
+  },
+  {
+    "name": "Arashi, the Sky Asunder",
+    "id": "arashi-the-sky-asunder",
+    "url": "https://api.deckbrew.com/mtg/cards/arashi-the-sky-asunder",
+    "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/arashi-the-sky-asunder?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "spirit"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{G}",
+    "text": "{X}{G}, {T}: Arashi, the Sky Asunder deals X damage to target creature with flying.\nChannel — {X}{G}{G}, Discard Arashi: Arashi deals X damage to each creature with flying.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Saviors of Kamigawa",
+        "set_id": "SOK",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 87333,
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87333",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87333.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+        "store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/arashi-the-sky-asunder?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87333"
+      }
+    ]
+  },
+  {
+    "name": "Arbalest Elite",
+    "id": "arbalest-elite",
+    "url": "https://api.deckbrew.com/mtg/cards/arbalest-elite",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/arbalest-elite?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "archer",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{2}{W}{W}",
+    "text": "{2}{W}, {T}: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "uncommon",
+        "artist": "Chris Rahn",
+        "multiverse_id": 220078,
+        "flavor": "There are few things as satisfying as a good, healthy thunk.",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220078",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220078.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/arbalest-elite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220078"
+      }
+    ]
+  },
+  {
+    "name": "Arbiter of Knollridge",
+    "id": "arbiter-of-knollridge",
+    "url": "https://api.deckbrew.com/mtg/cards/arbiter-of-knollridge",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arbiter-of-knollridge",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant",
+      "wizard"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 7,
+    "cost": "{6}{W}",
+    "text": "Vigilance\nWhen Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.",
+    "power": "5",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Brandon Dorman",
+        "multiverse_id": 247296,
+        "flavor": "Though giants are mortal, they live so long and on such a grand scale that many small folk don't believe they ever truly die.",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247296",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247296.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/arbiter-of-knollridge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247296"
+      },
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Brandon Dorman",
+        "multiverse_id": 140189,
+        "flavor": "Though giants are mortal, they live so long and on such a grand scale that many small folk don't believe they ever truly die.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=140189",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/140189.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/arbiter-of-knollridge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/140189"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "rare",
+        "artist": "Brandon Dorman",
+        "multiverse_id": 405129,
+        "flavor": "Though giants are mortal, they live so long and on such a grand scale that many small folk don't believe they ever truly die.",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405129",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405129.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/arbiter-of-knollridge?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405129"
+      }
+    ]
+  },
+  {
     "name": "Arbiter of the Ideal",
     "id": "arbiter-of-the-ideal",
     "url": "https://api.deckbrew.com/mtg/cards/arbiter-of-the-ideal",
@@ -26,25 +492,6 @@
     },
     "editions": [
       {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Johann Bodin",
-        "multiverse_id": 0,
-        "number": "74",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/arbiter-of-the-ideal?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
         "set": "Born of the Gods",
         "set_id": "BNG",
         "rarity": "rare",
@@ -62,6 +509,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
         "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/arbiter-of-the-ideal?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/378403"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Johann Bodin",
+        "multiverse_id": 0,
+        "number": "74",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/arbiter-of-the-ideal?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -273,25 +739,6 @@
     },
     "editions": [
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
-        "rarity": "rare",
-        "artist": "Daniel Gelon",
-        "multiverse_id": 201176,
-        "number": "113",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201176",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201176.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arboria?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201176"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "uncommon",
@@ -309,6 +756,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/arboria?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1514"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "rare",
+        "artist": "Daniel Gelon",
+        "multiverse_id": 201176,
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201176",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201176.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arboria?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201176"
       }
     ]
   },
@@ -344,23 +810,23 @@
     },
     "editions": [
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
+        "set": "Legends",
+        "set_id": "LEG",
         "rarity": "rare",
         "artist": "Edward P. Beard, Jr.",
-        "multiverse_id": 201177,
-        "number": "142",
+        "multiverse_id": 1644,
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201177",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201177.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arcades-sabboth?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201177"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1644",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1644.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/arcades-sabboth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1644"
       },
       {
         "set": "Chronicles",
@@ -382,23 +848,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/2866"
       },
       {
-        "set": "Legends",
-        "set_id": "LEG",
+        "set": "Masters Edition III",
+        "set_id": "ME3",
         "rarity": "rare",
         "artist": "Edward P. Beard, Jr.",
-        "multiverse_id": 1644,
-        "number": "",
+        "multiverse_id": 201177,
+        "number": "142",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1644",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1644.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/arcades-sabboth?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1644"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201177",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201177.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arcades-sabboth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201177"
       }
     ]
   },
@@ -422,6 +888,44 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "common",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 3097,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3097",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3097.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/arcane-denial?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3097"
+      },
+      {
+        "set": "Alliances",
+        "set_id": "ALL",
+        "rarity": "common",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 3098,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3098",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3098.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+        "store_url": "http://store.tcgplayer.com/magic/alliances/arcane-denial?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3098"
+      },
       {
         "set": "Commander 2016",
         "set_id": "C16",
@@ -478,44 +982,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C13",
         "store_url": "http://store.tcgplayer.com/magic/commander-2013/arcane-denial?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/376245"
-      },
-      {
-        "set": "Alliances",
-        "set_id": "ALL",
-        "rarity": "common",
-        "artist": "Richard Kane Ferguson",
-        "multiverse_id": 3097,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3097",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3097.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
-        "store_url": "http://store.tcgplayer.com/magic/alliances/arcane-denial?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3097"
-      },
-      {
-        "set": "Alliances",
-        "set_id": "ALL",
-        "rarity": "common",
-        "artist": "Richard Kane Ferguson",
-        "multiverse_id": 3098,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3098",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3098.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ALL",
-        "store_url": "http://store.tcgplayer.com/magic/alliances/arcane-denial?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3098"
       }
     ]
   },
@@ -540,26 +1006,6 @@
     },
     "editions": [
       {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "uncommon",
-        "artist": "Brian Snõddy",
-        "multiverse_id": 25562,
-        "flavor": "Too many wizards spoil the spell, but too many spells spoil the wizard.\n—Sign on entry to arcane lab",
-        "number": "60",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25562",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25562.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/arcane-laboratory?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/25562"
-      },
-      {
         "set": "Urza's Saga",
         "set_id": "USG",
         "rarity": "uncommon",
@@ -578,6 +1024,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/USG",
         "store_url": "http://store.tcgplayer.com/magic/urzas-saga/arcane-laboratory?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/5764"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "uncommon",
+        "artist": "Brian Snõddy",
+        "multiverse_id": 25562,
+        "flavor": "Too many wizards spoil the spell, but too many spells spoil the wizard.\n—Sign on entry to arcane lab",
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25562",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25562.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/arcane-laboratory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/25562"
       }
     ]
   },
@@ -641,26 +1107,6 @@
     },
     "editions": [
       {
-        "set": "Avacyn Restored",
-        "set_id": "AVR",
-        "rarity": "rare",
-        "artist": "Jaime Jones",
-        "multiverse_id": 270993,
-        "flavor": "Debates between wizards are never purely academic.",
-        "number": "44",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270993",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270993.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
-        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/arcane-melee?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/270993"
-      },
-      {
         "set": "Commander 2013 Edition",
         "set_id": "C13",
         "rarity": "rare",
@@ -679,6 +1125,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/C13",
         "store_url": "http://store.tcgplayer.com/magic/commander-2013/arcane-melee?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/376246"
+      },
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 270993,
+        "flavor": "Debates between wizards are never purely academic.",
+        "number": "44",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270993",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270993.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/arcane-melee?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270993"
       }
     ]
   },
@@ -721,26 +1187,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/420898"
       },
       {
-        "set": "Commander 2013 Edition",
-        "set_id": "C13",
-        "rarity": "uncommon",
-        "artist": "Anthony Francisco",
-        "multiverse_id": 376247,
-        "flavor": "\"We must rely on our own knowledge, not on the dogma of the seekers or the mutterings of the sphinxes.\"\n—Tullus of Palandius",
-        "number": "273",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376247",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376247.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2013/arcane-sanctum?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/376247"
-      },
-      {
         "set": "Shards of Alara",
         "set_id": "ALA",
         "rarity": "uncommon",
@@ -759,6 +1205,46 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ALA",
         "store_url": "http://store.tcgplayer.com/magic/shards-of-alara/arcane-sanctum?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/175128"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "uncommon",
+        "artist": "Anthony Francisco",
+        "multiverse_id": 426053,
+        "flavor": "\"We must rely on our own knowledge, not on the dogma of the seekers or the mutterings of the sphinxes.\"\n—Tullus of Palandius",
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426053",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426053.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/arcane-sanctum?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426053"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Anthony Francisco",
+        "multiverse_id": 376247,
+        "flavor": "\"We must rely on our own knowledge, not on the dogma of the seekers or the mutterings of the sphinxes.\"\n—Tullus of Palandius",
+        "number": "273",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376247",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376247.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/arcane-sanctum?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376247"
       }
     ]
   },
@@ -874,26 +1360,6 @@
     },
     "editions": [
       {
-        "set": "Judgment",
-        "set_id": "JUD",
-        "rarity": "common",
-        "artist": "Mark Brill",
-        "multiverse_id": 36430,
-        "flavor": "Dwarves may teach at the speed of stone, but their results are solid.",
-        "number": "78",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=36430",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/36430.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
-        "store_url": "http://store.tcgplayer.com/magic/judgment/arcane-teachings?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/36430"
-      },
-      {
         "set": "Tenth Edition",
         "set_id": "10E",
         "rarity": "uncommon",
@@ -912,6 +1378,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/arcane-teachings?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/130530"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "common",
+        "artist": "Mark Brill",
+        "multiverse_id": 36430,
+        "flavor": "Dwarves may teach at the speed of stone, but their results are solid.",
+        "number": "78",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=36430",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/36430.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/arcane-teachings?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/36430"
       }
     ]
   },
@@ -944,6 +1430,26 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Justin Sweet",
+        "multiverse_id": 106426,
+        "flavor": "\"Do not concern yourself with my origin, my race, or my ancestry. Seek my record in the pits, and then make your wager.\"",
+        "number": "66",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106426",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106426.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/arcanis-the-omnipotent?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106426"
+      },
       {
         "set": "Eternal Masters",
         "set_id": "EMA",
@@ -1003,26 +1509,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DDN",
         "store_url": "http://store.tcgplayer.com/magic/duel-decks-speed-vs-cunning/arcanis-the-omnipotent?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/386302"
-      },
-      {
-        "set": "Tenth Edition",
-        "set_id": "10E",
-        "rarity": "rare",
-        "artist": "Justin Sweet",
-        "multiverse_id": 106426,
-        "flavor": "\"Do not concern yourself with my origin, my race, or my ancestry. Seek my record in the pits, and then make your wager.\"",
-        "number": "66",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106426",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106426.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/arcanis-the-omnipotent?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/106426"
       }
     ]
   },
@@ -1171,26 +1657,6 @@
     },
     "editions": [
       {
-        "set": "Fate Reforged",
-        "set_id": "FRF",
-        "rarity": "rare",
-        "artist": "Slawomir Maniak",
-        "multiverse_id": 391793,
-        "flavor": "\"If you must die today, make your death worthy of legend.\"\n—Alesha, Who Smiles at Death",
-        "number": "91",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391793",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391793.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
-        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/arcbond?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/391793"
-      },
-      {
         "set": "Prerelease Events",
         "set_id": "pPRE",
         "rarity": "special",
@@ -1209,6 +1675,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
         "store_url": "http://store.tcgplayer.com/magic/prerelease-events/arcbond?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "rarity": "rare",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 391793,
+        "flavor": "\"If you must die today, make your death worthy of legend.\"\n—Alesha, Who Smiles at Death",
+        "number": "91",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391793",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391793.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/arcbond?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391793"
       }
     ]
   },
@@ -1819,25 +2305,6 @@
     },
     "editions": [
       {
-        "set": "Modern Masters",
-        "set_id": "MMA",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 370523,
-        "number": "200",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370523",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370523.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
-        "store_url": "http://store.tcgplayer.com/magic/modern-masters/arcbound-wanderer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370523"
-      },
-      {
         "set": "Fifth Dawn",
         "set_id": "5DN",
         "rarity": "uncommon",
@@ -1855,6 +2322,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/5DN",
         "store_url": "http://store.tcgplayer.com/magic/fifth-dawn/arcbound-wanderer?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/72720"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "rarity": "common",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 370523,
+        "number": "200",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370523",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370523.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/arcbound-wanderer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370523"
       }
     ]
   },
@@ -1883,26 +2369,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Elspeth vs. Tezzeret",
-        "set_id": "DDF",
-        "rarity": "common",
-        "artist": "Darrell Riche",
-        "multiverse_id": 222733,
-        "flavor": "The parts are as strong as the whole.",
-        "number": "40",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222733",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222733.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/arcbound-worker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/222733"
-      },
-      {
         "set": "Darksteel",
         "set_id": "DST",
         "rarity": "common",
@@ -1921,6 +2387,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/DST",
         "store_url": "http://store.tcgplayer.com/magic/darksteel/arcbound-worker?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/48604"
+      },
+      {
+        "set": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_id": "DDF",
+        "rarity": "common",
+        "artist": "Darrell Riche",
+        "multiverse_id": 222733,
+        "flavor": "The parts are as strong as the whole.",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222733",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222733.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/arcbound-worker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/222733"
       },
       {
         "set": "Modern Masters",
@@ -2030,26 +2516,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/380252"
       },
       {
-        "set": "Magic 2014 Core Set",
-        "set_id": "M14",
-        "rarity": "common",
-        "artist": "Zoltan Boros",
-        "multiverse_id": 370753,
-        "flavor": "\"Words of power never disappear. They sleep, awaiting those with the will to rouse them.\"",
-        "number": "43",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370753",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370753.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/archaeomancer?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/370753"
-      },
-      {
         "set": "Magic 2013",
         "set_id": "M13",
         "rarity": "common",
@@ -2068,6 +2534,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M13",
         "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/archaeomancer?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/265722"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "common",
+        "artist": "Zoltan Boros",
+        "multiverse_id": 370753,
+        "flavor": "\"Words of power never disappear. They sleep, awaiting those with the will to rouse them.\"",
+        "number": "43",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370753",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370753.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/archaeomancer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370753"
       }
     ]
   },
@@ -2118,24 +2604,42 @@
         "html_url": "https://deckbrew.com/mtg/cards/14493"
       },
       {
-        "set": "Avacyn Restored",
-        "set_id": "AVR",
-        "rarity": "uncommon",
-        "artist": "Cynthia Sheppard",
-        "multiverse_id": 240205,
-        "flavor": "The sky rang with the cries of armored seraphs, and the darkness made a tactical retreat.",
-        "number": "5",
+        "set": "Starter 1999",
+        "set_id": "S99",
+        "rarity": "rare",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 12825,
+        "number": "4",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240205",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240205.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
-        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/archangel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/240205"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12825",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12825.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12825"
+      },
+      {
+        "set": "Portal",
+        "set_id": "POR",
+        "rarity": "rare",
+        "artist": "Quinton Hoover",
+        "multiverse_id": 4371,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4371",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4371.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
+        "store_url": "http://store.tcgplayer.com/magic/portal/archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4371"
       },
       {
         "set": "Visions",
@@ -2158,6 +2662,25 @@
         "html_url": "https://deckbrew.com/mtg/cards/3708"
       },
       {
+        "set": "Portal Second Age",
+        "set_id": "PO2",
+        "rarity": "rare",
+        "artist": "rk post",
+        "multiverse_id": 6514,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6514",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6514.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/6514"
+      },
+      {
         "set": "Commander 2013 Edition",
         "set_id": "C13",
         "rarity": "uncommon",
@@ -2178,61 +2701,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/376248"
       },
       {
-        "set": "Portal",
-        "set_id": "POR",
-        "rarity": "rare",
-        "artist": "Quinton Hoover",
-        "multiverse_id": 4371,
-        "number": "",
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 240205,
+        "flavor": "The sky rang with the cries of armored seraphs, and the darkness made a tactical retreat.",
+        "number": "5",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4371",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4371.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
-        "store_url": "http://store.tcgplayer.com/magic/portal/archangel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4371"
-      },
-      {
-        "set": "Portal Second Age",
-        "set_id": "PO2",
-        "rarity": "rare",
-        "artist": "rk post",
-        "multiverse_id": 6514,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=6514",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/6514.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PO2",
-        "store_url": "http://store.tcgplayer.com/magic/portal-second-age/archangel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/6514"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "rare",
-        "artist": "Quinton Hoover",
-        "multiverse_id": 12825,
-        "number": "4",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12825",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12825.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/archangel?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/12825"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240205",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240205.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/archangel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240205"
       }
     ]
   },
@@ -2313,25 +2799,6 @@
     },
     "editions": [
       {
-        "set": "Magic: The Gathering-Commander",
-        "set_id": "CMD",
-        "rarity": "rare",
-        "artist": "Greg Staples",
-        "multiverse_id": 228246,
-        "number": "7",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228246",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228246.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-        "store_url": "http://store.tcgplayer.com/magic/commander/archangel-of-strife?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/228246"
-      },
-      {
         "set": "From the Vault: Angels",
         "set_id": "V15",
         "rarity": "mythic",
@@ -2349,6 +2816,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/V15",
         "store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/archangel-of-strife?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/401630"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 228246,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228246",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228246.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/archangel-of-strife?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/228246"
       }
     ]
   },
@@ -2517,26 +3003,6 @@
     },
     "editions": [
       {
-        "set": "Dark Ascension",
-        "set_id": "DKA",
-        "rarity": "rare",
-        "artist": "Igor Kieryluk",
-        "multiverse_id": 227405,
-        "flavor": "\"The price is paid. The power is mine!\"",
-        "number": "71b",
-        "layout": "double-faced",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=227405",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/227405.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
-        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/archdemon-of-greed?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/227405"
-      },
-      {
         "set": "Prerelease Events",
         "set_id": "pPRE",
         "rarity": "special",
@@ -2555,6 +3021,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
         "store_url": "http://store.tcgplayer.com/magic/prerelease-events/archdemon-of-greed?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Dark Ascension",
+        "set_id": "DKA",
+        "rarity": "rare",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 227405,
+        "flavor": "\"The price is paid. The power is mine!\"",
+        "number": "71b",
+        "layout": "double-faced",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=227405",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/227405.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+        "store_url": "http://store.tcgplayer.com/magic/dark-ascension/archdemon-of-greed?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/227405"
       }
     ]
   },
@@ -3070,6 +3556,26 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Daarken",
+        "multiverse_id": 0,
+        "flavor": "\"Why would I kill you all? Who then would be left to worship me?\"",
+        "number": "130",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/archfiend-of-depravity?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Fate Reforged",
         "set_id": "FRF",
         "watermark": "Sultai",
@@ -3109,26 +3615,48 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
         "store_url": "http://store.tcgplayer.com/magic/media-inserts/archfiend-of-depravity?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Archfiend of Ifnir",
+    "id": "archfiend-of-ifnir",
+    "url": "https://api.deckbrew.com/mtg/cards/archfiend-of-ifnir",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/archfiend-of-ifnir?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Flying\nWhenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+    "power": "5",
+    "toughness": "4",
+    "formats": {},
+    "editions": [
       {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Daarken",
-        "multiverse_id": 0,
-        "flavor": "\"Why would I kill you all? Who then would be left to worship me?\"",
-        "number": "130",
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "rare",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 426780,
+        "number": "78",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/archfiend-of-depravity?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426780",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426780.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/archfiend-of-ifnir?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426780"
       }
     ]
   },
@@ -3213,26 +3741,6 @@
     },
     "editions": [
       {
-        "set": "Alara Reborn",
-        "set_id": "ARB",
-        "rarity": "common",
-        "artist": "Matt Stewart",
-        "multiverse_id": 179597,
-        "flavor": "This secret society of mages manipulates the beliefs and opinions of others.",
-        "number": "17",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179597",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179597.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
-        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/architects-of-will?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/179597"
-      },
-      {
         "set": "Archenemy",
         "set_id": "ARC",
         "rarity": "common",
@@ -3251,6 +3759,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
         "store_url": "http://store.tcgplayer.com/magic/archenemy/architects-of-will?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/220517"
+      },
+      {
+        "set": "Alara Reborn",
+        "set_id": "ARB",
+        "rarity": "common",
+        "artist": "Matt Stewart",
+        "multiverse_id": 179597,
+        "flavor": "This secret society of mages manipulates the beliefs and opinions of others.",
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=179597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/179597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+        "store_url": "http://store.tcgplayer.com/magic/alara-reborn/architects-of-will?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/179597"
       }
     ]
   },
@@ -3327,26 +3855,6 @@
     },
     "editions": [
       {
-        "set": "Urza's Legacy",
-        "set_id": "ULG",
-        "rarity": "rare",
-        "artist": "Pete Venters",
-        "multiverse_id": 12390,
-        "flavor": "Some do. Some teach. The rest look it up.",
-        "number": "26",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12390",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12390.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ULG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/archivist?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/12390"
-      },
-      {
         "set": "Ninth Edition",
         "set_id": "9ED",
         "rarity": "rare",
@@ -3385,6 +3893,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
         "store_url": "http://store.tcgplayer.com/magic/7th-edition/archivist?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/13157"
+      },
+      {
+        "set": "Urza's Legacy",
+        "set_id": "ULG",
+        "rarity": "rare",
+        "artist": "Pete Venters",
+        "multiverse_id": 12390,
+        "flavor": "Some do. Some teach. The rest look it up.",
+        "number": "26",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12390",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12390.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-legacy/archivist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12390"
       },
       {
         "set": "Eighth Edition",
@@ -3477,26 +4005,6 @@
     },
     "editions": [
       {
-        "set": "Eventide",
-        "set_id": "EVE",
-        "rarity": "rare",
-        "artist": "Jason Chan",
-        "multiverse_id": 146006,
-        "flavor": "In dark times, Truth bears a blade.",
-        "number": "1",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146006",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146006.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
-        "store_url": "http://store.tcgplayer.com/magic/eventide/archon-of-justice?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/146006"
-      },
-      {
         "set": "Magic 2012",
         "set_id": "M12",
         "rarity": "rare",
@@ -3515,6 +4023,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M12",
         "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/archon-of-justice?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/244828"
+      },
+      {
+        "set": "Eventide",
+        "set_id": "EVE",
+        "rarity": "rare",
+        "artist": "Jason Chan",
+        "multiverse_id": 146006,
+        "flavor": "In dark times, Truth bears a blade.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146006",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146006.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+        "store_url": "http://store.tcgplayer.com/magic/eventide/archon-of-justice?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/146006"
       }
     ]
   },
@@ -3594,6 +4122,25 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 0,
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/archon-of-the-triumvirate?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Return to Ravnica",
         "set_id": "RTR",
         "watermark": "Azorius",
@@ -3612,25 +4159,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
         "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/archon-of-the-triumvirate?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/253603"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Svetlin Velinov",
-        "multiverse_id": 0,
-        "number": "55",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/archon-of-the-triumvirate?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -3752,26 +4280,6 @@
     },
     "editions": [
       {
-        "set": "Khans of Tarkir",
-        "set_id": "KTK",
-        "rarity": "uncommon",
-        "artist": "Seb McKinnon",
-        "multiverse_id": 386478,
-        "flavor": "Lightning burns its own path.",
-        "number": "97",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386478",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386478.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
-        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/arc-lightning?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/386478"
-      },
-      {
         "set": "Arena League",
         "set_id": "pARL",
         "rarity": "special",
@@ -3790,6 +4298,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pARL",
         "store_url": "http://store.tcgplayer.com/magic/arena-league/arc-lightning?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Urza's Saga",
+        "set_id": "USG",
+        "rarity": "common",
+        "artist": "Andrew Goldhawk",
+        "multiverse_id": 5733,
+        "flavor": "Rainclouds don't last long in Shiv, but that doesn't stop the lightning.",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5733",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5733.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
+        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/arc-lightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/5733"
       },
       {
         "set": "Ugin's Fate promos",
@@ -3832,6 +4360,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/21102"
       },
       {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "rarity": "uncommon",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 386478,
+        "flavor": "Lightning burns its own path.",
+        "number": "97",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386478",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386478.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/arc-lightning?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386478"
+      },
+      {
         "set": "Planechase",
         "set_id": "HOP",
         "rarity": "common",
@@ -3850,26 +4398,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
         "store_url": "http://store.tcgplayer.com/magic/planechase/arc-lightning?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/205386"
-      },
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "common",
-        "artist": "Andrew Goldhawk",
-        "multiverse_id": 5733,
-        "flavor": "Rainclouds don't last long in Shiv, but that doesn't stop the lightning.",
-        "number": "174",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5733",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5733.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/arc-lightning?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5733"
       }
     ]
   },
@@ -4318,6 +4846,26 @@
     },
     "editions": [
       {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "uncommon",
+        "artist": "Marc Simonetti",
+        "multiverse_id": 275254,
+        "flavor": "\"Don't try to hit your enemies. Concentrate on the space between them, and fill the air with doom.\"\n—Spear-Tribe teaching",
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=275254",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/275254.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/arc-trail?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/275254"
+      },
+      {
         "set": "Planechase Anthology",
         "set_id": "PCA",
         "rarity": "uncommon",
@@ -4357,26 +4905,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
         "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/arc-trail?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/206343"
-      },
-      {
-        "set": "Planechase 2012 Edition",
-        "set_id": "PC2",
-        "rarity": "uncommon",
-        "artist": "Marc Simonetti",
-        "multiverse_id": 275254,
-        "flavor": "\"Don't try to hit your enemies. Concentrate on the space between them, and fill the air with doom.\"\n—Spear-Tribe teaching",
-        "number": "39",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=275254",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/275254.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
-        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/arc-trail?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/275254"
       },
       {
         "set": "Duel Decks: Speed vs. Cunning",
@@ -4509,25 +5037,6 @@
     },
     "editions": [
       {
-        "set": "Coldsnap Theme Decks",
-        "set_id": "CST",
-        "rarity": "special",
-        "artist": "Tom Wänerstrand",
-        "multiverse_id": 0,
-        "number": "310",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CST",
-        "store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/arcums-weathervane?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
         "set": "Ice Age",
         "set_id": "ICE",
         "rarity": "uncommon",
@@ -4545,6 +5054,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
         "store_url": "http://store.tcgplayer.com/magic/ice-age/arcums-weathervane?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/2396"
+      },
+      {
+        "set": "Coldsnap Theme Decks",
+        "set_id": "CST",
+        "rarity": "special",
+        "artist": "Tom Wänerstrand",
+        "multiverse_id": 0,
+        "number": "310",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CST",
+        "store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/arcums-weathervane?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -4634,44 +5162,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/14489"
       },
       {
-        "set": "Weatherlight",
-        "set_id": "WTH",
-        "rarity": "common",
-        "artist": "Zina Saunders",
-        "multiverse_id": 4567,
-        "flavor": "\"While the rest of us got paid to serve the Benalish army, the militia didn't. I used to say they stood for freedom—free and dumb.\"\n—Gerrard of the Weatherlight",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4567",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4567.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
-        "store_url": "http://store.tcgplayer.com/magic/weatherlight/ardent-militia?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4567"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
+        "set": "Starter 1999",
+        "set_id": "S99",
         "rarity": "uncommon",
-        "artist": "Paolo Parente",
-        "multiverse_id": 13016,
-        "flavor": "Knights fight for honor and mercenaries fight for gold. The militia fights for hearth and home.",
-        "number": "2",
+        "artist": "Zina Saunders",
+        "multiverse_id": 21062,
+        "flavor": "Some fight for honor and some for gold, but the militia fight for hearth and home.",
+        "number": "5",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13016",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13016.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/ardent-militia?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/13016"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21062",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21062.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
+        "store_url": "http://store.tcgplayer.com/magic/starter-1999/ardent-militia?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/21062"
       },
       {
         "set": "Portal",
@@ -4694,6 +5202,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/4372"
       },
       {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "uncommon",
+        "artist": "Paolo Parente",
+        "multiverse_id": 13016,
+        "flavor": "Knights fight for honor and mercenaries fight for gold. The militia fights for hearth and home.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=13016",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/13016.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/ardent-militia?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/13016"
+      },
+      {
         "set": "Eighth Edition",
         "set_id": "8ED",
         "rarity": "uncommon",
@@ -4714,24 +5242,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/45194"
       },
       {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "uncommon",
+        "set": "Weatherlight",
+        "set_id": "WTH",
+        "rarity": "common",
         "artist": "Zina Saunders",
-        "multiverse_id": 21062,
-        "flavor": "Some fight for honor and some for gold, but the militia fight for hearth and home.",
-        "number": "5",
+        "multiverse_id": 4567,
+        "flavor": "\"While the rest of us got paid to serve the Benalish army, the militia didn't. I used to say they stood for freedom—free and dumb.\"\n—Gerrard of the Weatherlight",
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21062",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21062.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/ardent-militia?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/21062"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4567",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4567.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+        "store_url": "http://store.tcgplayer.com/magic/weatherlight/ardent-militia?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4567"
       }
     ]
   },
@@ -4999,23 +5527,23 @@
     },
     "editions": [
       {
-        "set": "Masters Edition III",
-        "set_id": "ME3",
+        "set": "Legends",
+        "set_id": "LEG",
         "rarity": "rare",
         "artist": "Tom Wänerstrand",
-        "multiverse_id": 201209,
-        "number": "188",
+        "multiverse_id": 1400,
+        "number": "",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201209",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201209.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arena-of-the-ancients?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/201209"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1400",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1400.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/arena-of-the-ancients?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1400"
       },
       {
         "set": "Chronicles",
@@ -5037,23 +5565,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/2775"
       },
       {
-        "set": "Legends",
-        "set_id": "LEG",
+        "set": "Masters Edition III",
+        "set_id": "ME3",
         "rarity": "rare",
         "artist": "Tom Wänerstrand",
-        "multiverse_id": 1400,
-        "number": "",
+        "multiverse_id": 201209,
+        "number": "188",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1400",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1400.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/arena-of-the-ancients?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1400"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201209",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201209.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/arena-of-the-ancients?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201209"
       }
     ]
   },
@@ -5078,26 +5606,6 @@
     },
     "editions": [
       {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "uncommon",
-        "artist": "D. Alexander Gregory",
-        "multiverse_id": 4103,
-        "flavor": "\"Cloak me in mystery, hide my names from my enemies, and let me draw from the well of power.\"\n—Halvor Arenson, Kjeldoran priest",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4103",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4103.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/arensons-aura?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4103"
-      },
-      {
         "set": "Ice Age",
         "set_id": "ICE",
         "rarity": "common",
@@ -5116,6 +5624,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ICE",
         "store_url": "http://store.tcgplayer.com/magic/ice-age/arensons-aura?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/2663"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "uncommon",
+        "artist": "D. Alexander Gregory",
+        "multiverse_id": 4103,
+        "flavor": "\"Cloak me in mystery, hide my names from my enemies, and let me draw from the well of power.\"\n—Halvor Arenson, Kjeldoran priest",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4103",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4103.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/arensons-aura?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4103"
       }
     ]
   },
@@ -5132,28 +5660,9 @@
     ],
     "cmc": 0,
     "cost": "",
-    "text": "When you planeswalk to Aretopolis or at the beginning of your upkeep, put a scroll counter on Aretopolis, then you gain life equal to the number of scroll counters on it.\nWhen Aretopolis has ten or more scroll counters on it, planeswalk.\nWhenever you roll {CHAOS}, put a scroll counter on Aretopolis, then draw cards equal to the number of scroll counters on it.",
+    "text": "When you planeswalk to Aretopolis or at the beginning of your upkeep, put a scroll counter on Aretopolis, then you gain life equal to the number of scroll counters on it.\nWhen Aretopolis has ten or more scroll counters on it, planeswalk.\nWhenever you roll CHAOS, put a scroll counter on Aretopolis, then draw cards equal to the number of scroll counters on it.",
     "formats": {},
     "editions": [
-      {
-        "set": "Planechase Anthology",
-        "set_id": "PCA",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 423594,
-        "number": "13",
-        "layout": "plane",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423594",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423594.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
-        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/aretopolis?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/423594"
-      },
       {
         "set": "Planechase 2012 Edition",
         "set_id": "PC2",
@@ -5172,6 +5681,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
         "store_url": "http://store.tcgplayer.com/magic/planechase-2012/aretopolis?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/226517"
+      },
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 423594,
+        "number": "13",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423594",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423594.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/aretopolis?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423594"
       }
     ]
   },
@@ -5310,26 +5838,6 @@
     },
     "editions": [
       {
-        "set": "Commander 2014",
-        "set_id": "C14",
-        "rarity": "rare",
-        "artist": "Matt Cavotta",
-        "multiverse_id": 389431,
-        "flavor": "Mirrodin's creator still lives, still shapes metal, and still commands world-shaking power.",
-        "number": "228",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389431",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389431.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2014/argentum-armor?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/389431"
-      },
-      {
         "set": "Scars of Mirrodin",
         "set_id": "SOM",
         "watermark": "Mirran",
@@ -5349,6 +5857,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
         "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/argentum-armor?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/217967"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 389431,
+        "flavor": "Mirrodin's creator still lives, still shapes metal, and still commands world-shaking power.",
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389431",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389431.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/argentum-armor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389431"
       }
     ]
   },
@@ -5379,26 +5907,6 @@
     },
     "editions": [
       {
-        "set": "Antiquities",
-        "set_id": "ATQ",
-        "rarity": "rare",
-        "artist": "Amy Weber",
-        "multiverse_id": 1064,
-        "flavor": "Fascinated by the lore of ancient struggles, the Archaeologist searches incessantly for remnants of an earlier, more powerful era.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1064",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1064.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
-        "store_url": "http://store.tcgplayer.com/magic/antiquities/argivian-archaeologist?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1064"
-      },
-      {
         "set": "Masters Edition",
         "set_id": "MED",
         "rarity": "rare",
@@ -5417,6 +5925,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MED",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition/argivian-archaeologist?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/159743"
+      },
+      {
+        "set": "Antiquities",
+        "set_id": "ATQ",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 1064,
+        "flavor": "Fascinated by the lore of ancient struggles, the Archaeologist searches incessantly for remnants of an earlier, more powerful era.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1064",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1064.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+        "store_url": "http://store.tcgplayer.com/magic/antiquities/argivian-archaeologist?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1064"
       }
     ]
   },
@@ -5527,524 +6055,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
         "store_url": "http://store.tcgplayer.com/magic/weatherlight/argivian-find?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/4568"
-      }
-    ]
-  },
-  {
-    "name": "Argivian Restoration",
-    "id": "argivian-restoration",
-    "url": "https://api.deckbrew.com/mtg/cards/argivian-restoration",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=argivian-restoration",
-    "types": [
-      "sorcery"
-    ],
-    "colors": [
-      "blue"
-    ],
-    "cmc": 4,
-    "cost": "{2}{U}{U}",
-    "text": "Return target artifact card from your graveyard to the battlefield.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Duel Decks: Elspeth vs. Tezzeret",
-        "set_id": "DDF",
-        "rarity": "uncommon",
-        "artist": "Roger Raupp",
-        "multiverse_id": 222857,
-        "flavor": "\"The Argivian University taught me two things: always look to the past, and never dismiss what appears useless.\"\n—Hanna, Weatherlight navigator",
-        "number": "69",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=222857",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/222857.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDF",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/argivian-restoration?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/222857"
-      },
-      {
-        "set": "Weatherlight",
-        "set_id": "WTH",
-        "rarity": "uncommon",
-        "artist": "Roger Raupp",
-        "multiverse_id": 4480,
-        "flavor": "\"The Argivian University taught me two things: always look to the past, and never dismiss what appears useless.\"\n—Hanna, Weatherlight navigator",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4480",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4480.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/WTH",
-        "store_url": "http://store.tcgplayer.com/magic/weatherlight/argivian-restoration?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4480"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Elder",
-    "id": "argothian-elder",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-elder",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=argothian-elder",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "druid",
-      "elf"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 4,
-    "cost": "{3}{G}",
-    "text": "{T}: Untap two target lands.",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Battle Royale Box Set",
-        "set_id": "BRB",
-        "rarity": "uncommon",
-        "artist": "DiTerlizzi",
-        "multiverse_id": 21182,
-        "flavor": "Sharpen your ears\n—Elvish expression meaning\n\"grow wiser\"",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=21182",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/21182.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BRB",
-        "store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/argothian-elder?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/21182"
-      },
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "uncommon",
-        "artist": "DiTerlizzi",
-        "multiverse_id": 5736,
-        "flavor": "Sharpen your ears\n—Elvish expression meaning \"grow wiser\"",
-        "number": "233",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5736",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5736.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-elder?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5736"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Enchantress",
-    "id": "argothian-enchantress",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-enchantress",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=argothian-enchantress",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "druid",
-      "human"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 2,
-    "cost": "{1}{G}",
-    "text": "Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card.",
-    "power": "0",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Eternal Masters",
-        "set_id": "EMA",
-        "rarity": "mythic",
-        "artist": "Daren Bader",
-        "multiverse_id": 413700,
-        "number": "158",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413700",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413700.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
-        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/argothian-enchantress?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413700"
-      },
-      {
-        "set": "Judge Gift Program",
-        "set_id": "pJGP",
-        "rarity": "special",
-        "artist": "Daren Bader",
-        "multiverse_id": 0,
-        "number": "12",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
-        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/argothian-enchantress?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "rare",
-        "artist": "Daren Bader",
-        "multiverse_id": 5686,
-        "number": "234",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5686",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5686.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-enchantress?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5686"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Pixies",
-    "id": "argothian-pixies",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-pixies",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=argothian-pixies",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "faerie"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 2,
-    "cost": "{1}{G}",
-    "text": "Argothian Pixies can't be blocked by artifact creatures.\nPrevent all damage that would be dealt to Argothian Pixies by artifact creatures.",
-    "power": "2",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Antiquities",
-        "set_id": "ATQ",
-        "rarity": "common",
-        "artist": "Amy Weber",
-        "multiverse_id": 1050,
-        "flavor": "After the rape of Argoth Forest during the rule of the artificers, the Pixies of Argoth bent their magic to more practical ends.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1050",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1050.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
-        "store_url": "http://store.tcgplayer.com/magic/antiquities/argothian-pixies?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1050"
-      },
-      {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "common",
-        "artist": "Amy Weber",
-        "multiverse_id": 202589,
-        "number": "142",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202589",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202589.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/argothian-pixies?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202589"
-      },
-      {
-        "set": "Chronicles",
-        "set_id": "CHR",
-        "rarity": "common",
-        "artist": "Amy Weber",
-        "multiverse_id": 2824,
-        "flavor": "After the rape of Argoth Forest during the rule of the artificers, the Pixies of Argoth bent their magic to more practical ends.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2824",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2824.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CHR",
-        "store_url": "http://store.tcgplayer.com/magic/chronicles/argothian-pixies?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2824"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Swine",
-    "id": "argothian-swine",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-swine",
-    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-swine?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "boar"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 4,
-    "cost": "{3}{G}",
-    "text": "Trample",
-    "power": "3",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "common",
-        "artist": "Randy Elliott",
-        "multiverse_id": 5862,
-        "flavor": "In Argoth, the shortest path between two points is the one the swine make.",
-        "number": "235",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5862",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5862.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-swine?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5862"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Treefolk",
-    "id": "argothian-treefolk",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-treefolk",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=argothian-treefolk",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "treefolk"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 5,
-    "cost": "{3}{G}{G}",
-    "text": "Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.",
-    "power": "3",
-    "toughness": "5",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Antiquities",
-        "set_id": "ATQ",
-        "rarity": "common",
-        "artist": "Amy Weber",
-        "multiverse_id": 1051,
-        "flavor": "Haunting cries we hear in our dreams\nAs the forest dies, a death from\nmachines.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1051",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1051.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
-        "store_url": "http://store.tcgplayer.com/magic/antiquities/argothian-treefolk?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1051"
-      },
-      {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "uncommon",
-        "artist": "Amy Weber",
-        "multiverse_id": 202428,
-        "number": "143",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202428",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202428.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/argothian-treefolk?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202428"
-      }
-    ]
-  },
-  {
-    "name": "Argothian Wurm",
-    "id": "argothian-wurm",
-    "url": "https://api.deckbrew.com/mtg/cards/argothian-wurm",
-    "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-wurm?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "wurm"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 4,
-    "cost": "{3}{G}",
-    "text": "Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.",
-    "power": "6",
-    "toughness": "6",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "rare",
-        "artist": "Kev Walker",
-        "multiverse_id": 5769,
-        "number": "236",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5769",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5769.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/argothian-wurm?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5769"
-      }
-    ]
-  },
-  {
-    "name": "Arid Mesa",
-    "id": "arid-mesa",
-    "url": "https://api.deckbrew.com/mtg/cards/arid-mesa",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arid-mesa",
-    "types": [
-      "land"
-    ],
-    "cmc": 0,
-    "cost": "",
-    "text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Zendikar Expeditions",
-        "set_id": "EXP",
-        "rarity": "mythic",
-        "artist": "Ryan Yee",
-        "multiverse_id": 405092,
-        "number": "24",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405092",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405092.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
-        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/arid-mesa?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405092"
-      },
-      {
-        "set": "Zendikar",
-        "set_id": "ZEN",
-        "rarity": "rare",
-        "artist": "Raymond Swanland",
-        "multiverse_id": 177584,
-        "number": "211",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=177584",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/177584.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
-        "store_url": "http://store.tcgplayer.com/magic/zendikar/arid-mesa?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/177584"
       }
     ]
   }

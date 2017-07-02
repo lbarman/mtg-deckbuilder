@@ -1,5 +1,966 @@
 [
   {
+    "name": "Bloodfire Colossus",
+    "id": "bloodfire-colossus",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-colossus",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodfire-colossus",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 8,
+    "cost": "{6}{R}{R}",
+    "text": "{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.",
+    "power": "6",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ninth Edition",
+        "set_id": "9ED",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 84456,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "177",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=84456",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/84456.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+        "store_url": "http://store.tcgplayer.com/magic/9th-edition/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/84456"
+      },
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 28807,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "55",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=28807",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/28807.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/28807"
+      },
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 129709,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "191",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/129709"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "rare",
+        "artist": "Greg Staples",
+        "multiverse_id": 270805,
+        "flavor": "It took all its strength to contain the fire within.",
+        "number": "62",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270805",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270805.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/bloodfire-colossus?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270805"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Dwarf",
+    "id": "bloodfire-dwarf",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-dwarf",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-dwarf?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dwarf"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Ron Spencer",
+        "multiverse_id": 26806,
+        "flavor": "For them, the only honorable death is one that leaves a crater.",
+        "number": "56",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26806",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26806.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-dwarf?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26806"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Enforcers",
+    "id": "bloodfire-enforcers",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-enforcers",
+    "store_url": "http://store.tcgplayer.com/magic/fate-reforged/bloodfire-enforcers?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "monk"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.",
+    "power": "5",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fate Reforged",
+        "set_id": "FRF",
+        "watermark": "Jeskai",
+        "rarity": "uncommon",
+        "artist": "Yefim Kligerman",
+        "multiverse_id": 391803,
+        "flavor": "Bloodfire practitioners train to focus their rage, building it deep inside themselves until they are ready to release it as a devastating attack.",
+        "number": "93",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=391803",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/391803.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+        "store_url": "http://store.tcgplayer.com/magic/fate-reforged/bloodfire-enforcers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/391803"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Expert",
+    "id": "bloodfire-expert",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-expert",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-expert?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "efreet",
+      "monk"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+    "power": "3",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Jeskai",
+        "rarity": "common",
+        "artist": "Raymond Swanland",
+        "multiverse_id": 386492,
+        "flavor": "Some efreet abandon their homes in the volcanic Fire Rim to embrace the Jeskai Way and discipline their innate flames.",
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386492",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386492.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-expert?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386492"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Infusion",
+    "id": "bloodfire-infusion",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-infusion",
+    "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-infusion?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "subtypes": [
+      "aura"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Enchant creature you control\n{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "common",
+        "artist": "Anthony S. Waters",
+        "multiverse_id": 29303,
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29303",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29303.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-infusion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29303"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Kavu",
+    "id": "bloodfire-kavu",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-kavu",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodfire-kavu",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "kavu"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Apocalypse",
+        "set_id": "APC",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 28806,
+        "flavor": "Heart of fire, blood of lava, teeth of stone.",
+        "number": "58",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=28806",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/28806.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
+        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bloodfire-kavu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/28806"
+      },
+      {
+        "set": "Duel Decks: Venser vs. Koth",
+        "set_id": "DDI",
+        "rarity": "uncommon",
+        "artist": "Greg Staples",
+        "multiverse_id": 270812,
+        "flavor": "Heart of fire, blood of lava, teeth of stone.",
+        "number": "54",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270812",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270812.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDI",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-venser-vs-koth/bloodfire-kavu?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270812"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfire Mentor",
+    "id": "bloodfire-mentor",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfire-mentor",
+    "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-mentor?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "efreet",
+      "shaman"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "{2}{U}, {T}: Draw a card, then discard a card.",
+    "power": "0",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Jeskai",
+        "rarity": "common",
+        "artist": "Chase Stone",
+        "multiverse_id": 386493,
+        "flavor": "The adept underwent months of preparation to withstand pain, until he was finally ready to receive the efreet master's teachings.",
+        "number": "102",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodfire-mentor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386493"
+      }
+    ]
+  },
+  {
+    "name": "Bloodflow Connoisseur",
+    "id": "bloodflow-connoisseur",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodflow-connoisseur",
+    "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/bloodflow-connoisseur?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{2}{B}",
+    "text": "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Avacyn Restored",
+        "set_id": "AVR",
+        "rarity": "common",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 240196,
+        "flavor": "\"Death not for survival but for vanity and pleasure? This is the decadence I sought to curb.\"\n—Sorin Markov",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=240196",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/240196.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+        "store_url": "http://store.tcgplayer.com/magic/avacyn-restored/bloodflow-connoisseur?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/240196"
+      }
+    ]
+  },
+  {
+    "name": "Bloodfray Giant",
+    "id": "bloodfray-giant",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodfray-giant",
+    "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/bloodfray-giant?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "giant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Trample\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+    "power": "4",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Return to Ravnica",
+        "set_id": "RTR",
+        "watermark": "Rakdos",
+        "rarity": "uncommon",
+        "artist": "Steve Argyle",
+        "multiverse_id": 270785,
+        "flavor": "The star performer of the Juri Revue, his shows have fans and blood spilling into the street.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270785",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270785.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+        "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/bloodfray-giant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270785"
+      }
+    ]
+  },
+  {
+    "name": "Blood Frenzy",
+    "id": "blood-frenzy",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-frenzy",
+    "store_url": "http://store.tcgplayer.com/magic/tempest/blood-frenzy?partner=DECKBREW",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "Cast Blood Frenzy only before the combat damage step.\nTarget attacking or blocking creature gets +4/+0 until end of turn. Destroy that creature at the beginning of the next end step.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Paolo Parente",
+        "multiverse_id": 4804,
+        "flavor": "\"When Torahn bellows, none survive—not even the warrior whose horns he rides.\"\n—Talruum adage",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4804",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4804.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/blood-frenzy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4804"
+      }
+    ]
+  },
+  {
+    "name": "Blood Funnel",
+    "id": "blood-funnel",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-funnel",
+    "store_url": "http://store.tcgplayer.com/magic/ravnica/blood-funnel?partner=DECKBREW",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{1}{B}",
+    "text": "Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 89102,
+        "number": "77",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=89102",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/89102.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/blood-funnel?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/89102"
+      }
+    ]
+  },
+  {
+    "name": "Bloodghast",
+    "id": "bloodghast",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodghast",
+    "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodghast?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spirit",
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 2,
+    "cost": "{B}{B}",
+    "text": "Bloodghast can't block.\nBloodghast has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.",
+    "power": "2",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Zendikar",
+        "set_id": "ZEN",
+        "rarity": "rare",
+        "artist": "Daarken",
+        "multiverse_id": 192230,
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=192230",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/192230.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar/bloodghast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/192230"
+      }
+    ]
+  },
+  {
+    "name": "Bloodgift Demon",
+    "id": "bloodgift-demon",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodgift-demon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodgift-demon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "Flying\nAt the beginning of your upkeep, target player draws a card and loses 1 life.",
+    "power": "5",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Innistrad",
+        "set_id": "ISD",
+        "rarity": "rare",
+        "artist": "Peter Mohrbacher",
+        "multiverse_id": 226885,
+        "flavor": "He relishes the devotion of his Skirsdag puppets and their belief that it will earn them immortality.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226885",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226885.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+        "store_url": "http://store.tcgplayer.com/magic/innistrad/bloodgift-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226885"
+      },
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Peter Mohrbacher",
+        "multiverse_id": 389444,
+        "flavor": "He relishes the devotion of his Skirsdag puppets and their belief that it will earn them immortality.",
+        "number": "137",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389444",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389444.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/bloodgift-demon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389444"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhall Ooze",
+    "id": "bloodhall-ooze",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhall-ooze",
+    "store_url": "http://store.tcgplayer.com/magic/conflux/bloodhall-ooze?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "ooze"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.\nAt the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Conflux",
+        "set_id": "CON",
+        "rarity": "rare",
+        "artist": "Jaime Jones",
+        "multiverse_id": 159610,
+        "flavor": "A drop of blood spilled from the first dragon.",
+        "number": "59",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159610",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159610.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CON",
+        "store_url": "http://store.tcgplayer.com/magic/conflux/bloodhall-ooze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159610"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhall Priest",
+    "id": "bloodhall-priest",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhall-priest",
+    "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodhall-priest?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "cleric",
+      "vampire"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{R}",
+    "text": "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to target creature or player.\nMadness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "standard": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eldritch Moon",
+        "set_id": "EMN",
+        "rarity": "rare",
+        "artist": "Mark Winters",
+        "multiverse_id": 414486,
+        "number": "181",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=414486",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/414486.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMN",
+        "store_url": "http://store.tcgplayer.com/magic/eldritch-moon/bloodhall-priest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/414486"
+      }
+    ]
+  },
+  {
+    "name": "Bloodhill Bastion",
+    "id": "bloodhill-bastion",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodhill-bastion",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodhill-bastion",
+    "types": [
+      "plane"
+    ],
+    "subtypes": [
+      "equilor"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Whenever a creature enters the battlefield, it gains double strike and haste until end of turn.\nWhenever you roll CHAOS, exile target nontoken creature you control, then return it to the battlefield under your control.",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "common",
+        "artist": "Mark Hyzer",
+        "multiverse_id": 226539,
+        "number": "12",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=226539",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/226539.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/bloodhill-bastion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/226539"
+      },
+      {
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
+        "rarity": "common",
+        "artist": "Mark Hyzer",
+        "multiverse_id": 423597,
+        "number": "16",
+        "layout": "plane",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423597",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423597.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/bloodhill-bastion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423597"
+      }
+    ]
+  },
+  {
+    "name": "Blood Host",
+    "id": "blood-host",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-host",
+    "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/blood-host?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "vampire"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 5,
+    "cost": "{3}{B}{B}",
+    "text": "{1}{B}, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2015 Core Set",
+        "set_id": "M15",
+        "rarity": "uncommon",
+        "artist": "Cynthia Sheppard",
+        "multiverse_id": 383193,
+        "flavor": "It would be ill-mannered to decline his invitation. It would be ill-advised to accept it.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383193",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383193.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M15",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/blood-host?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383193"
+      }
+    ]
+  },
+  {
+    "name": "Blood Hound",
+    "id": "blood-hound",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-hound",
+    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blood-hound?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hound"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Whenever you're dealt damage, you may put that many +1/+1 counters on Blood Hound.\nAt the beginning of your end step, remove all +1/+1 counters from Blood Hound.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mercadian Masques",
+        "set_id": "MMQ",
+        "rarity": "rare",
+        "artist": "Bradley Williams",
+        "multiverse_id": 19714,
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19714",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19714.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/blood-hound?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/19714"
+      }
+    ]
+  },
+  {
     "name": "Bloodhunter Bat",
     "id": "bloodhunter-bat",
     "url": "https://api.deckbrew.com/mtg/cards/bloodhunter-bat",
@@ -172,6 +1133,25 @@
     },
     "editions": [
       {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 0,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/blood-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Planar Chaos",
         "set_id": "PLC",
         "rarity": "uncommon",
@@ -190,25 +1170,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
         "store_url": "http://store.tcgplayer.com/magic/planar-chaos/blood-knight?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/130715"
-      },
-      {
-        "set": "Champs and States",
-        "set_id": "pCMP",
-        "rarity": "special",
-        "artist": "Matt Cavotta",
-        "multiverse_id": 0,
-        "number": "7",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
-        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/blood-knight?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -419,25 +1380,6 @@
     },
     "editions": [
       {
-        "set": "Magic 2012",
-        "set_id": "M12",
-        "rarity": "mythic",
-        "artist": "Greg Staples",
-        "multiverse_id": 220306,
-        "number": "82",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220306",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220306.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/bloodlord-of-vaasgoth?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220306"
-      },
-      {
         "set": "Prerelease Events",
         "set_id": "pPRE",
         "rarity": "special",
@@ -455,6 +1397,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
         "store_url": "http://store.tcgplayer.com/magic/prerelease-events/bloodlord-of-vaasgoth?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "mythic",
+        "artist": "Greg Staples",
+        "multiverse_id": 220306,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220306",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220306.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/bloodlord-of-vaasgoth?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220306"
       }
     ]
   },
@@ -478,6 +1439,44 @@
       "vintage": "legal"
     },
     "editions": [
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 1561,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1561",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1561.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/blood-lust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1561"
+      },
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "common",
+        "artist": "Anson Maddocks",
+        "multiverse_id": 4033,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4033",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4033.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/blood-lust?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4033"
+      },
       {
         "set": "Fourth Edition",
         "set_id": "4ED",
@@ -515,44 +1514,50 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
         "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/blood-lust?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/201272"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Bloodlust Inciter",
+    "id": "bloodlust-inciter",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodlust-inciter",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/bloodlust-inciter?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 1,
+    "cost": "{R}",
+    "text": "{T}: Target creature gains haste until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {},
+    "editions": [
       {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
+        "set": "Amonkhet",
+        "set_id": "AKH",
         "rarity": "common",
-        "artist": "Anson Maddocks",
-        "multiverse_id": 4033,
-        "number": "",
+        "artist": "Anthony Palumbo",
+        "multiverse_id": 426822,
+        "flavor": "\"To victory! To glory! To eternity!\"",
+        "number": "120",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4033",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4033.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/blood-lust?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4033"
-      },
-      {
-        "set": "Legends",
-        "set_id": "LEG",
-        "rarity": "uncommon",
-        "artist": "Anson Maddocks",
-        "multiverse_id": 1561,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1561",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1561.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
-        "store_url": "http://store.tcgplayer.com/magic/legends/blood-lust?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1561"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426822",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426822.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/bloodlust-inciter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426822"
       }
     ]
   },
@@ -633,26 +1638,6 @@
     },
     "editions": [
       {
-        "set": "Duels of the Planeswalkers",
-        "set_id": "DPA",
-        "rarity": "uncommon",
-        "artist": "Dave Allsop",
-        "multiverse_id": 0,
-        "flavor": "Boggarts divide the world into two categories: things you can eat, and things you have to chase down and pummel before you can eat.",
-        "number": "40",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
-        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/bloodmark-mentor?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
         "set": "Shadowmoor",
         "set_id": "SHM",
         "rarity": "uncommon",
@@ -671,6 +1656,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
         "store_url": "http://store.tcgplayer.com/magic/shadowmoor/bloodmark-mentor?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/142062"
+      },
+      {
+        "set": "Duels of the Planeswalkers",
+        "set_id": "DPA",
+        "rarity": "uncommon",
+        "artist": "Dave Allsop",
+        "multiverse_id": 0,
+        "flavor": "Boggarts divide the world into two categories: things you can eat, and things you have to chase down and pummel before you can eat.",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/bloodmark-mentor?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
         "set": "Duel Decks: Knights vs. Dragons",
@@ -800,6 +1805,46 @@
         "html_url": "https://deckbrew.com/mtg/cards/1784"
       },
       {
+        "set": "Eighth Edition",
+        "set_id": "8ED",
+        "rarity": "rare",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 45386,
+        "flavor": "Heavy light flooded across the landscape, cloaking everything in deep crimson.",
+        "number": "178",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45386",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45386.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+        "store_url": "http://store.tcgplayer.com/magic/8th-edition/blood-moon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/45386"
+      },
+      {
+        "set": "Modern Masters 2017 Edition",
+        "set_id": "MM3",
+        "rarity": "rare",
+        "artist": "Franz Vohwinkel",
+        "multiverse_id": 425915,
+        "flavor": "Heavy light flooded across the landscape, cloaking everything in deep crimson.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=425915",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/425915.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM3",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2017-edition/blood-moon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/425915"
+      },
+      {
         "set": "Chronicles",
         "set_id": "CHR",
         "rarity": "rare",
@@ -838,26 +1883,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
         "store_url": "http://store.tcgplayer.com/magic/modern-masters/blood-moon?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/370419"
-      },
-      {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
-        "rarity": "rare",
-        "artist": "Franz Vohwinkel",
-        "multiverse_id": 45386,
-        "flavor": "Heavy light flooded across the landscape, cloaking everything in deep crimson.",
-        "number": "178",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45386",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45386.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/blood-moon?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45386"
       }
     ]
   },
@@ -1011,6 +2036,25 @@
         "html_url": "https://deckbrew.com/mtg/cards/373383"
       },
       {
+        "set": "Magic 2012",
+        "set_id": "M12",
+        "rarity": "common",
+        "artist": "Christopher Moeller",
+        "multiverse_id": 220227,
+        "number": "122",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220227",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220227.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/blood-ogre?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220227"
+      },
+      {
         "set": "Modern Masters 2015 Edition",
         "set_id": "MM2",
         "rarity": "common",
@@ -1029,25 +2073,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
         "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/blood-ogre?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/397759"
-      },
-      {
-        "set": "Magic 2012",
-        "set_id": "M12",
-        "rarity": "common",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 220227,
-        "number": "122",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220227",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220227.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M12",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/blood-ogre?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220227"
       }
     ]
   },
@@ -1097,26 +2122,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/15400"
       },
       {
-        "set": "Tempest",
-        "set_id": "TMP",
-        "rarity": "common",
-        "artist": "Brom",
-        "multiverse_id": 12342,
-        "flavor": "\"You are wrong,\" Volrath said. \"I do not hate the living. They often prove quite useful to me.\" And then he laughed.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12342",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12342.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
-        "store_url": "http://store.tcgplayer.com/magic/tempest/blood-pet?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/12342"
-      },
-      {
         "set": "Seventh Edition",
         "set_id": "7ED",
         "rarity": "common",
@@ -1135,6 +2140,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
         "store_url": "http://store.tcgplayer.com/magic/7th-edition/blood-pet?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/25625"
+      },
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "common",
+        "artist": "Brom",
+        "multiverse_id": 12342,
+        "flavor": "\"You are wrong,\" Volrath said. \"I do not hate the living. They often prove quite useful to me.\" And then he laughed.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=12342",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/12342.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/blood-pet?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/12342"
       }
     ]
   },
@@ -1187,6 +2212,50 @@
     ]
   },
   {
+    "name": "Bloodrage Brawler",
+    "id": "bloodrage-brawler",
+    "url": "https://api.deckbrew.com/mtg/cards/bloodrage-brawler",
+    "store_url": "http://store.tcgplayer.com/magic/amonkhet/bloodrage-brawler?partner=DECKBREW",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "minotaur",
+      "warrior"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{1}{R}",
+    "text": "When Bloodrage Brawler enters the battlefield, discard a card.",
+    "power": "4",
+    "toughness": "3",
+    "formats": {},
+    "editions": [
+      {
+        "set": "Amonkhet",
+        "set_id": "AKH",
+        "rarity": "uncommon",
+        "artist": "Lars Grant-West",
+        "multiverse_id": 426823,
+        "flavor": "To Hazoret, those who fight for her are her beloved children.",
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=426823",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/426823.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/AKH",
+        "store_url": "http://store.tcgplayer.com/magic/amonkhet/bloodrage-brawler?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/426823"
+      }
+    ]
+  },
+  {
     "name": "Bloodrage Vampire",
     "id": "bloodrage-vampire",
     "url": "https://api.deckbrew.com/mtg/cards/bloodrage-vampire",
@@ -1213,26 +2282,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Sorin vs. Tibalt",
-        "set_id": "DDK",
-        "rarity": "common",
-        "artist": "Steve Prescott",
-        "multiverse_id": 368543,
-        "flavor": "The most genteel facades hide the most abominable desires.",
-        "number": "10",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368543",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368543.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/bloodrage-vampire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/368543"
-      },
-      {
         "set": "Magic 2012",
         "set_id": "M12",
         "rarity": "common",
@@ -1251,6 +2300,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/M12",
         "store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/bloodrage-vampire?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/220125"
+      },
+      {
+        "set": "Duel Decks: Sorin vs. Tibalt",
+        "set_id": "DDK",
+        "rarity": "common",
+        "artist": "Steve Prescott",
+        "multiverse_id": 368543,
+        "flavor": "The most genteel facades hide the most abominable desires.",
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=368543",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/368543.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/bloodrage-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/368543"
       }
     ]
   },
@@ -1325,26 +2394,6 @@
     },
     "editions": [
       {
-        "set": "Duel Decks: Zendikar vs. Eldrazi",
-        "set_id": "DDP",
-        "rarity": "common",
-        "artist": "Svetlin Velinov",
-        "multiverse_id": 401687,
-        "flavor": "\"The brood lineages unfolded across the world, each patterned after one of three progenitors, each a study in mindless consumption.\"\n—The Invokers' Tales",
-        "number": "45",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401687",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401687.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/bloodrite-invoker?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/401687"
-      },
-      {
         "set": "Rise of the Eldrazi",
         "set_id": "ROE",
         "rarity": "common",
@@ -1363,6 +2412,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
         "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/bloodrite-invoker?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/193538"
+      },
+      {
+        "set": "Duel Decks: Zendikar vs. Eldrazi",
+        "set_id": "DDP",
+        "rarity": "common",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 401687,
+        "flavor": "\"The brood lineages unfolded across the world, each patterned after one of three progenitors, each a study in mindless consumption.\"\n—The Invokers' Tales",
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=401687",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/401687.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/bloodrite-invoker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/401687"
       }
     ]
   },
@@ -1456,26 +2525,6 @@
     },
     "editions": [
       {
-        "set": "Beatdown Box Set",
-        "set_id": "BTD",
-        "rarity": "common",
-        "artist": "Tom Wänerstrand",
-        "multiverse_id": 26626,
-        "flavor": "\"He's big an' dumb an' ready to fight. A lot like ol' Hornhead here.\"\n—Squee, goblin cabin hand,\nscouting report",
-        "number": "36",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26626",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26626.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
-        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/bloodrock-cyclops?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/26626"
-      },
-      {
         "set": "Weatherlight",
         "set_id": "WTH",
         "rarity": "common",
@@ -1514,6 +2563,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/10E",
         "store_url": "http://store.tcgplayer.com/magic/10th-edition/bloodrock-cyclops?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/130384"
+      },
+      {
+        "set": "Beatdown Box Set",
+        "set_id": "BTD",
+        "rarity": "common",
+        "artist": "Tom Wänerstrand",
+        "multiverse_id": 26626,
+        "flavor": "\"He's big an' dumb an' ready to fight. A lot like ol' Hornhead here.\"\n—Squee, goblin cabin hand,\nscouting report",
+        "number": "36",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=26626",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/26626.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+        "store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/bloodrock-cyclops?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/26626"
       }
     ]
   },
@@ -1802,26 +2871,6 @@
     },
     "editions": [
       {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "rare",
-        "artist": "Daren Bader",
-        "multiverse_id": 15792,
-        "flavor": "After their first encounter, the goblins named him Chuck.",
-        "number": "176",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15792",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15792.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/bloodshot-cyclops?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/15792"
-      },
-      {
         "set": "Urza's Destiny",
         "set_id": "UDS",
         "rarity": "rare",
@@ -1840,6 +2889,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/UDS",
         "store_url": "http://store.tcgplayer.com/magic/urzas-destiny/bloodshot-cyclops?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/15214"
+      },
+      {
+        "set": "Seventh Edition",
+        "set_id": "7ED",
+        "rarity": "rare",
+        "artist": "Daren Bader",
+        "multiverse_id": 15792,
+        "flavor": "After their first encounter, the goblins named him Chuck.",
+        "number": "176",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15792",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15792.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+        "store_url": "http://store.tcgplayer.com/magic/7th-edition/bloodshot-cyclops?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15792"
       },
       {
         "set": "Eighth Edition",
@@ -1891,6 +2960,26 @@
     },
     "editions": [
       {
+        "set": "Future Sight",
+        "set_id": "FUT",
+        "rarity": "uncommon",
+        "artist": "Lucio Parrillo",
+        "multiverse_id": 130686,
+        "flavor": "\"Hrrngh! Someday I'm going to hurl this . . . er . . . roll this . . . hrrngh . . . nudge this boulder right down a cliff.\"",
+        "number": "110",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130686",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130686.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+        "store_url": "http://store.tcgplayer.com/magic/future-sight/bloodshot-trainee?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130686"
+      },
+      {
         "set": "Scars of Mirrodin",
         "set_id": "SOM",
         "watermark": "Mirran",
@@ -1910,26 +2999,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
         "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/bloodshot-trainee?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/194255"
-      },
-      {
-        "set": "Future Sight",
-        "set_id": "FUT",
-        "rarity": "uncommon",
-        "artist": "Lucio Parrillo",
-        "multiverse_id": 130686,
-        "flavor": "\"Hrrngh! Someday I'm going to hurl this . . . er . . . roll this . . . hrrngh . . . nudge this boulder right down a cliff.\"",
-        "number": "110",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130686",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130686.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/FUT",
-        "store_url": "http://store.tcgplayer.com/magic/future-sight/bloodshot-trainee?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/130686"
       },
       {
         "set": "Modern Masters 2015 Edition",
@@ -1981,6 +3050,26 @@
     },
     "editions": [
       {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Aaron Miller",
+        "multiverse_id": 0,
+        "flavor": "\"Death is merely another foe the Mardu will overcome.\"",
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/bloodsoaked-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
         "set": "Khans of Tarkir",
         "set_id": "KTK",
         "watermark": "Mardu",
@@ -2000,26 +3089,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
         "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodsoaked-champion?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/386494"
-      },
-      {
-        "set": "Prerelease Events",
-        "set_id": "pPRE",
-        "rarity": "special",
-        "artist": "Aaron Miller",
-        "multiverse_id": 0,
-        "flavor": "\"Death is merely another foe the Mardu will overcome.\"",
-        "number": "92",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
-        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/bloodsoaked-champion?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
       }
     ]
   },
@@ -2136,23 +3205,23 @@
     },
     "editions": [
       {
-        "set": "Zendikar Expeditions",
-        "set_id": "EXP",
-        "rarity": "mythic",
-        "artist": "Véronique Meignaud",
-        "multiverse_id": 405094,
-        "number": "18",
+        "set": "Judge Gift Program",
+        "set_id": "pJGP",
+        "rarity": "special",
+        "artist": "Rob Alexander",
+        "multiverse_id": 0,
+        "number": "43",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405094",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405094.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
-        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/bloodstained-mire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405094"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/bloodstained-mire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
         "set": "Khans of Tarkir",
@@ -2194,23 +3263,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/39505"
       },
       {
-        "set": "Judge Gift Program",
-        "set_id": "pJGP",
-        "rarity": "special",
-        "artist": "Rob Alexander",
-        "multiverse_id": 0,
-        "number": "43",
+        "set": "Zendikar Expeditions",
+        "set_id": "EXP",
+        "rarity": "mythic",
+        "artist": "Véronique Meignaud",
+        "multiverse_id": 405094,
+        "number": "18",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
-        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/bloodstained-mire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405094",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405094.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+        "store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/bloodstained-mire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405094"
       }
     ]
   },
@@ -2424,6 +3493,66 @@
     },
     "editions": [
       {
+        "set": "Magic 2011",
+        "set_id": "M11",
+        "rarity": "common",
+        "artist": "Steve Argyle",
+        "multiverse_id": 205238,
+        "flavor": "\"The underclass often forget that they are not tenants, or servants, but property.\"",
+        "number": "85",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205238",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205238.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/bloodthrone-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/205238"
+      },
+      {
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
+        "rarity": "common",
+        "artist": "Steve Argyle",
+        "multiverse_id": 198308,
+        "flavor": "Some humans willingly offered up their blood, hoping it would grant the vampire families the strength to stave off the Eldrazi.",
+        "number": "98",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198308",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198308.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/bloodthrone-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/198308"
+      },
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "common",
+        "artist": "Steve Argyle",
+        "multiverse_id": 280298,
+        "flavor": "\"What I need is your blood. What I don't need is your permission.\"",
+        "number": "83",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=280298",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/280298.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/bloodthrone-vampire?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/280298"
+      },
+      {
         "set": "Modern Masters 2015 Edition",
         "set_id": "MM2",
         "rarity": "common",
@@ -2464,46 +3593,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/401688"
       },
       {
-        "set": "Magic 2013",
-        "set_id": "M13",
-        "rarity": "common",
-        "artist": "Steve Argyle",
-        "multiverse_id": 280298,
-        "flavor": "\"What I need is your blood. What I don't need is your permission.\"",
-        "number": "83",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=280298",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/280298.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/bloodthrone-vampire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/280298"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "common",
-        "artist": "Steve Argyle",
-        "multiverse_id": 205238,
-        "flavor": "\"The underclass often forget that they are not tenants, or servants, but property.\"",
-        "number": "85",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=205238",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/205238.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/bloodthrone-vampire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/205238"
-      },
-      {
         "set": "Media Inserts",
         "set_id": "pMEI",
         "rarity": "special",
@@ -2522,26 +3611,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
         "store_url": "http://store.tcgplayer.com/magic/media-inserts/bloodthrone-vampire?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Rise of the Eldrazi",
-        "set_id": "ROE",
-        "rarity": "common",
-        "artist": "Steve Argyle",
-        "multiverse_id": 198308,
-        "flavor": "Some humans willingly offered up their blood, hoping it would grant the vampire families the strength to stave off the Eldrazi.",
-        "number": "98",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=198308",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/198308.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
-        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/bloodthrone-vampire?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/198308"
       }
     ]
   },
@@ -2966,25 +4035,6 @@
     },
     "editions": [
       {
-        "set": "Eternal Masters",
-        "set_id": "EMA",
-        "rarity": "common",
-        "artist": "Sam Burley",
-        "multiverse_id": 413779,
-        "number": "237",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413779",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413779.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
-        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/blossoming-sands?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/413779"
-      },
-      {
         "set": "Khans of Tarkir",
         "set_id": "KTK",
         "rarity": "common",
@@ -3002,6 +4052,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
         "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/blossoming-sands?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/386496"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "common",
+        "artist": "Sam Burley",
+        "multiverse_id": 413779,
+        "number": "237",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413779",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413779.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/blossoming-sands?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413779"
       },
       {
         "set": "Fate Reforged",
@@ -3173,11 +4242,11 @@
     },
     "editions": [
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
+        "set": "Revised Edition",
+        "set_id": "3ED",
         "rarity": "common",
         "artist": "Richard Thomas",
-        "multiverse_id": 2146,
+        "multiverse_id": 1191,
         "number": "",
         "layout": "normal",
         "price": {
@@ -3185,49 +4254,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2146",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2146.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-elemental-blast?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2146"
-      },
-      {
-        "set": "Masters Edition IV",
-        "set_id": "ME4",
-        "rarity": "uncommon",
-        "artist": "Richard Thomas",
-        "multiverse_id": 202520,
-        "number": "39",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202520",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202520.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/blue-elemental-blast?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/202520"
-      },
-      {
-        "set": "International Collector's Edition",
-        "set_id": "CEI",
-        "rarity": "common",
-        "artist": "Richard Thomas",
-        "multiverse_id": 0,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
-        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/blue-elemental-blast?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1191",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1191.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/blue-elemental-blast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1191"
       },
       {
         "set": "Unlimited Edition",
@@ -3249,11 +4280,11 @@
         "html_url": "https://deckbrew.com/mtg/cards/694"
       },
       {
-        "set": "Revised Edition",
-        "set_id": "3ED",
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
         "rarity": "common",
         "artist": "Richard Thomas",
-        "multiverse_id": 1191,
+        "multiverse_id": 0,
         "number": "",
         "layout": "normal",
         "price": {
@@ -3261,11 +4292,49 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1191",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1191.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
-        "store_url": "http://store.tcgplayer.com/magic/revised-edition/blue-elemental-blast?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1191"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/blue-elemental-blast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "common",
+        "artist": "Richard Thomas",
+        "multiverse_id": 2146,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2146",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2146.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-elemental-blast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2146"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "common",
+        "artist": "Richard Thomas",
+        "multiverse_id": 392,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=392",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/392.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/blue-elemental-blast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/392"
       },
       {
         "set": "Limited Edition Alpha",
@@ -3306,25 +4375,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/0"
       },
       {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "common",
-        "artist": "Richard Thomas",
-        "multiverse_id": 392,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=392",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/392.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/blue-elemental-blast?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/392"
-      },
-      {
         "set": "Media Inserts",
         "set_id": "pMEI",
         "rarity": "special",
@@ -3342,6 +4392,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
         "store_url": "http://store.tcgplayer.com/magic/media-inserts/blue-elemental-blast?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Masters Edition IV",
+        "set_id": "ME4",
+        "rarity": "uncommon",
+        "artist": "Richard Thomas",
+        "multiverse_id": 202520,
+        "number": "39",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=202520",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/202520.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/blue-elemental-blast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/202520"
       }
     ]
   },
@@ -3363,25 +4432,6 @@
     },
     "editions": [
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "rare",
-        "artist": "Amy Weber",
-        "multiverse_id": 2023,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2023",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2023.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-mana-battery?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2023"
-      },
-      {
         "set": "Legends",
         "set_id": "LEG",
         "rarity": "uncommon",
@@ -3399,6 +4449,25 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
         "store_url": "http://store.tcgplayer.com/magic/legends/blue-mana-battery?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/1402"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Amy Weber",
+        "multiverse_id": 2023,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2023",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2023.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-mana-battery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2023"
       }
     ]
   },
@@ -3554,11 +4623,11 @@
     },
     "editions": [
       {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
+        "set": "Revised Edition",
+        "set_id": "3ED",
         "rarity": "uncommon",
         "artist": "Dan Frazier",
-        "multiverse_id": 2325,
+        "multiverse_id": 1333,
         "number": "",
         "layout": "normal",
         "price": {
@@ -3566,30 +4635,11 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2325",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2325.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-ward?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2325"
-      },
-      {
-        "set": "International Collector's Edition",
-        "set_id": "CEI",
-        "rarity": "uncommon",
-        "artist": "Dan Frazier",
-        "multiverse_id": 0,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
-        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/blue-ward?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1333",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1333.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+        "store_url": "http://store.tcgplayer.com/magic/revised-edition/blue-ward?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1333"
       },
       {
         "set": "Unlimited Edition",
@@ -3611,11 +4661,11 @@
         "html_url": "https://deckbrew.com/mtg/cards/836"
       },
       {
-        "set": "Revised Edition",
-        "set_id": "3ED",
+        "set": "International Collector's Edition",
+        "set_id": "CEI",
         "rarity": "uncommon",
         "artist": "Dan Frazier",
-        "multiverse_id": 1333,
+        "multiverse_id": 0,
         "number": "",
         "layout": "normal",
         "price": {
@@ -3623,11 +4673,49 @@
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1333",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1333.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
-        "store_url": "http://store.tcgplayer.com/magic/revised-edition/blue-ward?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1333"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/blue-ward?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 2325,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2325",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2325.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/blue-ward?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2325"
+      },
+      {
+        "set": "Limited Edition Beta",
+        "set_id": "LEB",
+        "rarity": "uncommon",
+        "artist": "Dan Frazier",
+        "multiverse_id": 534,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=534",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/534.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+        "store_url": "http://store.tcgplayer.com/magic/beta-edition/blue-ward?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/534"
       },
       {
         "set": "Limited Edition Alpha",
@@ -3666,25 +4754,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/CED",
         "store_url": "http://store.tcgplayer.com/magic/collectors-edition/blue-ward?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "uncommon",
-        "artist": "Dan Frazier",
-        "multiverse_id": 534,
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=534",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/534.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/blue-ward?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/534"
       }
     ]
   },
@@ -3849,26 +4918,6 @@
     },
     "editions": [
       {
-        "set": "Commander 2015",
-        "set_id": "C15",
-        "rarity": "uncommon",
-        "artist": "Willian Murai",
-        "multiverse_id": 405151,
-        "flavor": "Weather is more predictable than the Izzet.",
-        "number": "89",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405151",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405151.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2015/blustersquall?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/405151"
-      },
-      {
         "set": "Return to Ravnica",
         "set_id": "RTR",
         "watermark": "Izzet",
@@ -3888,6 +4937,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/RTR",
         "store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/blustersquall?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/253582"
+      },
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "uncommon",
+        "artist": "Willian Murai",
+        "multiverse_id": 405151,
+        "flavor": "Weather is more predictable than the Izzet.",
+        "number": "89",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405151",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405151.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/blustersquall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405151"
       }
     ]
   },
@@ -4013,24 +5082,24 @@
     },
     "editions": [
       {
-        "set": "Planechase Anthology",
-        "set_id": "PCA",
+        "set": "Rise of the Eldrazi",
+        "set_id": "ROE",
         "rarity": "uncommon",
         "artist": "Christopher Moeller",
-        "multiverse_id": 423483,
+        "multiverse_id": 193509,
         "flavor": "\"From in here, everything looks like dinner.\"",
-        "number": "58",
+        "number": "179",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423483",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423483.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
-        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/boar-umbra?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/423483"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193509",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193509.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/boar-umbra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/193509"
       },
       {
         "set": "Planechase 2012 Edition",
@@ -4053,24 +5122,24 @@
         "html_url": "https://deckbrew.com/mtg/cards/271148"
       },
       {
-        "set": "Rise of the Eldrazi",
-        "set_id": "ROE",
+        "set": "Planechase Anthology",
+        "set_id": "PCA",
         "rarity": "uncommon",
         "artist": "Christopher Moeller",
-        "multiverse_id": 193509,
+        "multiverse_id": 423483,
         "flavor": "\"From in here, everything looks like dinner.\"",
-        "number": "179",
+        "number": "58",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=193509",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/193509.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ROE",
-        "store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/boar-umbra?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/193509"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=423483",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/423483.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCA",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-anthology/boar-umbra?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/423483"
       }
     ]
   },
@@ -4351,23 +5420,23 @@
     },
     "editions": [
       {
-        "set": "Commander 2014",
-        "set_id": "C14",
+        "set": "Magic 2010",
+        "set_id": "M10",
         "rarity": "mythic",
         "artist": "Scott M. Fischer",
-        "multiverse_id": 389445,
-        "number": "173",
+        "multiverse_id": 191340,
+        "number": "127",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389445",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389445.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
-        "store_url": "http://store.tcgplayer.com/magic/commander-2014/bogardan-hellkite?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/389445"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191340",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191340.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/bogardan-hellkite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/191340"
       },
       {
         "set": "Time Spiral",
@@ -4389,6 +5458,26 @@
         "html_url": "https://deckbrew.com/mtg/cards/111041"
       },
       {
+        "set": "From the Vault: Dragons",
+        "set_id": "DRB",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 178017,
+        "flavor": "Cleansing the world, one breath at a time.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=178017",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/178017.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/bogardan-hellkite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/178017"
+      },
+      {
         "set": "Duel Decks: Knights vs. Dragons",
         "set_id": "DDG",
         "rarity": "mythic",
@@ -4408,43 +5497,23 @@
         "html_url": "https://deckbrew.com/mtg/cards/243464"
       },
       {
-        "set": "Magic 2010",
-        "set_id": "M10",
+        "set": "Commander 2014",
+        "set_id": "C14",
         "rarity": "mythic",
         "artist": "Scott M. Fischer",
-        "multiverse_id": 191340,
-        "number": "127",
+        "multiverse_id": 389445,
+        "number": "173",
         "layout": "normal",
         "price": {
           "low": 0,
           "median": 0,
           "high": 0
         },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=191340",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/191340.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/bogardan-hellkite?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/191340"
-      },
-      {
-        "set": "From the Vault: Dragons",
-        "set_id": "DRB",
-        "rarity": "rare",
-        "artist": "Scott M. Fischer",
-        "multiverse_id": 178017,
-        "flavor": "Cleansing the world, one breath at a time.",
-        "number": "2",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=178017",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/178017.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DRB",
-        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/bogardan-hellkite?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/178017"
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389445",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389445.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/bogardan-hellkite?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389445"
       }
     ]
   },
@@ -4589,26 +5658,6 @@
         "html_url": "https://deckbrew.com/mtg/cards/108901"
       },
       {
-        "set": "Duel Decks: Knights vs. Dragons",
-        "set_id": "DDG",
-        "rarity": "common",
-        "artist": "Clint Langley",
-        "multiverse_id": 243475,
-        "flavor": "In the erupting heart of Bogardan, it's hard to tell hurtling volcanic rocks from pouncing volcanic beasts.",
-        "number": "57",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=243475",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/243475.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DDG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/bogardan-rager?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/243475"
-      },
-      {
         "set": "Planechase",
         "set_id": "HOP",
         "rarity": "common",
@@ -4627,6 +5676,26 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/HOP",
         "store_url": "http://store.tcgplayer.com/magic/planechase/bogardan-rager?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/205407"
+      },
+      {
+        "set": "Duel Decks: Knights vs. Dragons",
+        "set_id": "DDG",
+        "rarity": "common",
+        "artist": "Clint Langley",
+        "multiverse_id": 243475,
+        "flavor": "In the erupting heart of Bogardan, it's hard to tell hurtling volcanic rocks from pouncing volcanic beasts.",
+        "number": "57",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=243475",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/243475.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/bogardan-rager?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/243475"
       }
     ]
   },
@@ -5006,1792 +6075,6 @@
         "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
         "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-harbinger?partner=DECKBREW",
         "html_url": "https://deckbrew.com/mtg/cards/139441"
-      }
-    ]
-  },
-  {
-    "name": "Boggart Loggers",
-    "id": "boggart-loggers",
-    "url": "https://api.deckbrew.com/mtg/cards/boggart-loggers",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-loggers?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "goblin",
-      "rogue"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{2}{B}",
-    "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\n{2}{B}, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.",
-    "power": "2",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "common",
-        "artist": "Jesper Ejsing",
-        "multiverse_id": 139709,
-        "flavor": "Auntie Flint lent axes to Nibb and Gyik, thinking they'd share their experiences with her. She's still waiting for them to come back.",
-        "number": "103",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139709",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139709.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-loggers?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/139709"
-      }
-    ]
-  },
-  {
-    "name": "Boggart Mob",
-    "id": "boggart-mob",
-    "url": "https://api.deckbrew.com/mtg/cards/boggart-mob",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-mob?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "goblin",
-      "warrior"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 4,
-    "cost": "{3}{B}",
-    "text": "Champion a Goblin (When this enters the battlefield, sacrifice it unless you exile another Goblin you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever a Goblin you control deals combat damage to a player, you may create a 1/1 black Goblin Rogue creature token.",
-    "power": "5",
-    "toughness": "5",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "rare",
-        "artist": "Thomas Denmark",
-        "multiverse_id": 140230,
-        "number": "104",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=140230",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/140230.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-mob?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/140230"
-      }
-    ]
-  },
-  {
-    "name": "Boggart Ram-Gang",
-    "id": "boggart-ram-gang",
-    "url": "https://api.deckbrew.com/mtg/cards/boggart-ram-gang",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boggart-ram-gang",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "goblin",
-      "warrior"
-    ],
-    "colors": [
-      "green",
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{R/G}{R/G}{R/G}",
-    "text": "Haste\nWither (This deals damage to creatures in the form of -1/-1 counters.)",
-    "power": "3",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Gateway",
-        "set_id": "pGTW",
-        "rarity": "special",
-        "artist": "Lucio Parrillo",
-        "multiverse_id": 0,
-        "flavor": "\"We’re going to need a bigger gate.\" —Bowen, Barrenton guardcaptain",
-        "number": "17",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
-        "store_url": "http://store.tcgplayer.com/magic/gateway/boggart-ram-gang?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Premium Deck Series: Fire and Lightning",
-        "set_id": "PD2",
-        "rarity": "uncommon",
-        "artist": "Dave Allsop",
-        "multiverse_id": 234723,
-        "flavor": "\"We're going to need a bigger gate.\"\n—Bowen, Barrenton guardcaptain",
-        "number": "13",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=234723",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/234723.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PD2",
-        "store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/boggart-ram-gang?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/234723"
-      },
-      {
-        "set": "Shadowmoor",
-        "set_id": "SHM",
-        "rarity": "uncommon",
-        "artist": "Dave Allsop",
-        "multiverse_id": 153970,
-        "flavor": "\"We're going to need a bigger gate.\"\n—Bowen, Barrenton guardcaptain",
-        "number": "203",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153970",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153970.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/SHM",
-        "store_url": "http://store.tcgplayer.com/magic/shadowmoor/boggart-ram-gang?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/153970"
-      }
-    ]
-  },
-  {
-    "name": "Boggart Shenanigans",
-    "id": "boggart-shenanigans",
-    "url": "https://api.deckbrew.com/mtg/cards/boggart-shenanigans",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boggart-shenanigans",
-    "types": [
-      "enchantment",
-      "tribal"
-    ],
-    "subtypes": [
-      "goblin"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 3,
-    "cost": "{2}{R}",
-    "text": "Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "uncommon",
-        "artist": "Warren Mahy",
-        "multiverse_id": 139445,
-        "flavor": "Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",
-        "number": "155",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139445",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139445.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-shenanigans?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/139445"
-      },
-      {
-        "set": "Duel Decks: Elves vs. Goblins",
-        "set_id": "EVG",
-        "rarity": "uncommon",
-        "artist": "Warren Mahy",
-        "multiverse_id": 157915,
-        "flavor": "Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",
-        "number": "54",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=157915",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/157915.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/boggart-shenanigans?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/157915"
-      },
-      {
-        "set": "Duel Decks Anthology, Elves vs. Goblins",
-        "set_id": "DD3_EVG",
-        "rarity": "uncommon",
-        "artist": "Warren Mahy",
-        "multiverse_id": 393944,
-        "flavor": "Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",
-        "number": "54",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393944",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393944.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
-        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/boggart-shenanigans?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/393944"
-      }
-    ]
-  },
-  {
-    "name": "Boggart Sprite-Chaser",
-    "id": "boggart-sprite-chaser",
-    "url": "https://api.deckbrew.com/mtg/cards/boggart-sprite-chaser",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-sprite-chaser?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "goblin",
-      "warrior"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 2,
-    "cost": "{1}{R}",
-    "text": "As long as you control a Faerie, Boggart Sprite-Chaser gets +1/+1 and has flying.",
-    "power": "1",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "common",
-        "artist": "Mark Poole",
-        "multiverse_id": 146446,
-        "flavor": "\"Auntie pointed out to the faerie how much mischief a flying boggart could wreak, and a beautiful new friendship was born.\"\n—A tale of Auntie Grub",
-        "number": "156",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=146446",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/146446.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/boggart-sprite-chaser?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/146446"
-      }
-    ]
-  },
-  {
-    "name": "Bog Glider",
-    "id": "bog-glider",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-glider",
-    "store_url": "http://store.tcgplayer.com/magic/prophecy/bog-glider?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "mercenary"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{2}{B}",
-    "text": "Flying\n{T}, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Prophecy",
-        "set_id": "PCY",
-        "rarity": "common",
-        "artist": "Brian Snõddy",
-        "multiverse_id": 24600,
-        "number": "58",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24600",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24600.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
-        "store_url": "http://store.tcgplayer.com/magic/prophecy/bog-glider?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/24600"
-      }
-    ]
-  },
-  {
-    "name": "Bog Gnarr",
-    "id": "bog-gnarr",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-gnarr",
-    "store_url": "http://store.tcgplayer.com/magic/apocalypse/bog-gnarr?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "beast"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 5,
-    "cost": "{4}{G}",
-    "text": "Whenever a player casts a black spell, Bog Gnarr gets +2/+2 until end of turn.",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Apocalypse",
-        "set_id": "APC",
-        "rarity": "common",
-        "artist": "Daren Bader",
-        "multiverse_id": 27153,
-        "flavor": "Not all of Dominaria's defenders were nourished by the light.",
-        "number": "76",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=27153",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/27153.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/APC",
-        "store_url": "http://store.tcgplayer.com/magic/apocalypse/bog-gnarr?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/27153"
-      }
-    ]
-  },
-  {
-    "name": "Bog Hoodlums",
-    "id": "bog-hoodlums",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-hoodlums",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/bog-hoodlums?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "goblin",
-      "warrior"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 6,
-    "cost": "{5}{B}",
-    "text": "Bog Hoodlums can't block.\nWhen Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
-    "power": "4",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "common",
-        "artist": "Brandon Dorman",
-        "multiverse_id": 145966,
-        "number": "100",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=145966",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/145966.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/bog-hoodlums?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/145966"
-      }
-    ]
-  },
-  {
-    "name": "Bog Imp",
-    "id": "bog-imp",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-imp",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bog-imp",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "imp"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 2,
-    "cost": "{1}{B}",
-    "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Rivals Quick Start Set",
-        "set_id": "RQS",
-        "rarity": "special",
-        "artist": "Ron Spencer",
-        "multiverse_id": 0,
-        "flavor": "On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/RQS",
-        "store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Ninth Edition",
-        "set_id": "9ED",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 83010,
-        "flavor": "Think of it as a butcher knife with wings.",
-        "number": "116",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83010",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83010.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
-        "store_url": "http://store.tcgplayer.com/magic/9th-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/83010"
-      },
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "common",
-        "artist": "Christopher Rush",
-        "multiverse_id": 16626,
-        "flavor": "Don't be fooled by their looks. Think of them as little knives with wings.",
-        "number": "116",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=16626",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/16626.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/16626"
-      },
-      {
-        "set": "The Dark",
-        "set_id": "DRK",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 1730,
-        "flavor": "On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1730",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1730.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DRK",
-        "store_url": "http://store.tcgplayer.com/magic/the-dark/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1730"
-      },
-      {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 2090,
-        "flavor": "On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2090",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2090.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2090"
-      },
-      {
-        "set": "Introductory Two-Player Set",
-        "set_id": "ITP",
-        "rarity": "special",
-        "artist": "Ron Spencer",
-        "multiverse_id": 0,
-        "flavor": "On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ITP",
-        "store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Starter 2000",
-        "set_id": "S00",
-        "rarity": "common",
-        "artist": "Christopher Rush",
-        "multiverse_id": 25492,
-        "flavor": "Don't be fooled by their looks. Think of them as little knives with wings.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25492",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25492.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S00",
-        "store_url": "http://store.tcgplayer.com/magic/starter-2000/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/25492"
-      },
-      {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 3828,
-        "flavor": "On guard for larger dangers, we underestimated the power and speed of the imp's muck-crusted claws.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3828",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3828.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3828"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 11179,
-        "flavor": "Think of it as a butcher knife with wings.",
-        "number": "122",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11179",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11179.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/11179"
-      },
-      {
-        "set": "Portal",
-        "set_id": "POR",
-        "rarity": "common",
-        "artist": "Christopher Rush",
-        "multiverse_id": 4209,
-        "flavor": "Don't be fooled by their looks. Think of them as little knives with wings.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4209",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4209.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
-        "store_url": "http://store.tcgplayer.com/magic/portal/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4209"
-      },
-      {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 45284,
-        "flavor": "Think of it as a butcher knife with wings.",
-        "number": "119",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45284",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45284.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45284"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "common",
-        "artist": "Christopher Rush",
-        "multiverse_id": 20376,
-        "flavor": "Don't be fooled by their looks. Think of them as little knives with wings.",
-        "number": "65",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20376",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20376.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/bog-imp?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20376"
-      }
-    ]
-  },
-  {
-    "name": "Bog Initiate",
-    "id": "bog-initiate",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-initiate",
-    "store_url": "http://store.tcgplayer.com/magic/invasion/bog-initiate?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "wizard"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 2,
-    "cost": "{1}{B}",
-    "text": "{1}: Add {B} to your mana pool.",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Invasion",
-        "set_id": "INV",
-        "rarity": "common",
-        "artist": "rk post",
-        "multiverse_id": 23024,
-        "flavor": "\"Urborg's magic is strong. Did Urza send you to protect us or to protect against us?\"\n—Urborg witch, to Barrin",
-        "number": "95",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=23024",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/23024.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/INV",
-        "store_url": "http://store.tcgplayer.com/magic/invasion/bog-initiate?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/23024"
-      }
-    ]
-  },
-  {
-    "name": "Bog Raiders",
-    "id": "bog-raiders",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-raiders",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bog-raiders",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "zombie"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{2}{B}",
-    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Portal",
-        "set_id": "POR",
-        "rarity": "common",
-        "artist": "Steve Luke",
-        "multiverse_id": 4210,
-        "flavor": "Those who live amid decay must expect scavengers.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4210",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4210.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
-        "store_url": "http://store.tcgplayer.com/magic/portal/bog-raiders?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4210"
-      },
-      {
-        "set": "Magic 2011",
-        "set_id": "M11",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 207105,
-        "flavor": "Zombies are the perfect marshland fighters—they don't need to breathe and they don't care what they step in.",
-        "number": "86",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=207105",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/207105.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M11",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/bog-raiders?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/207105"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 20384,
-        "flavor": "Those who live amid decay must expect scavengers.",
-        "number": "66",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20384",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20384.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/bog-raiders?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20384"
-      },
-      {
-        "set": "Urza's Saga",
-        "set_id": "USG",
-        "rarity": "common",
-        "artist": "Carl Critchlow",
-        "multiverse_id": 5597,
-        "flavor": "\"Let weak feed on weak, that we may divine the nature of strength.\"\n—Phyrexian Scriptures",
-        "number": "119",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=5597",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/5597.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/USG",
-        "store_url": "http://store.tcgplayer.com/magic/urzas-saga/bog-raiders?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/5597"
-      }
-    ]
-  },
-  {
-    "name": "Bog Rats",
-    "id": "bog-rats",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-rats",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bog-rats",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "rat"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 1,
-    "cost": "{B}",
-    "text": "Bog Rats can't be blocked by Walls.",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 11180,
-        "flavor": "Their stench was vile and strong enough, but not nearly as powerful as their hunger.",
-        "number": "117",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11180",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11180.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/bog-rats?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/11180"
-      },
-      {
-        "set": "The Dark",
-        "set_id": "DRK",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 1731,
-        "flavor": "Their stench was vile and strong enough, but not nearly as powerful as their hunger.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1731",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1731.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/DRK",
-        "store_url": "http://store.tcgplayer.com/magic/the-dark/bog-rats?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1731"
-      },
-      {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 3829,
-        "flavor": "Their stench was vile and strong enough, but not nearly as powerful as their hunger.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3829",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3829.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/bog-rats?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3829"
-      },
-      {
-        "set": "Chronicles",
-        "set_id": "CHR",
-        "rarity": "common",
-        "artist": "Ron Spencer",
-        "multiverse_id": 2798,
-        "flavor": "Their stench was vile and strong enough, but not nearly as powerful as their hunger.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2798",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2798.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CHR",
-        "store_url": "http://store.tcgplayer.com/magic/chronicles/bog-rats?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2798"
-      }
-    ]
-  },
-  {
-    "name": "Bog Serpent",
-    "id": "bog-serpent",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-serpent",
-    "store_url": "http://store.tcgplayer.com/magic/planar-chaos/bog-serpent?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "serpent"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 6,
-    "cost": "{5}{B}",
-    "text": "Bog Serpent can't attack unless defending player controls a Swamp.\nWhen you control no Swamps, sacrifice Bog Serpent.",
-    "power": "5",
-    "toughness": "5",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Planar Chaos",
-        "set_id": "PLC",
-        "rarity": "common",
-        "artist": "Thomas M. Baxa",
-        "multiverse_id": 122321,
-        "flavor": "\"We thought it was a fallen tree trunk. Then it ate Snod.\"\n—Sneed, goblin barkwright",
-        "number": "84",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122321",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122321.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
-        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/bog-serpent?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/122321"
-      }
-    ]
-  },
-  {
-    "name": "Bog Smugglers",
-    "id": "bog-smugglers",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-smugglers",
-    "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/bog-smugglers?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "mercenary"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{1}{B}{B}",
-    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
-    "power": "2",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Mercadian Masques",
-        "set_id": "MMQ",
-        "rarity": "common",
-        "artist": "Mike Ploog",
-        "multiverse_id": 19598,
-        "flavor": "They slide over the bog like oil across glass.",
-        "number": "117",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19598",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19598.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
-        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/bog-smugglers?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/19598"
-      }
-    ]
-  },
-  {
-    "name": "Bog-Strider Ash",
-    "id": "bog-strider-ash",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-strider-ash",
-    "store_url": "http://store.tcgplayer.com/magic/lorwyn/bog-strider-ash?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "shaman",
-      "treefolk"
-    ],
-    "colors": [
-      "green"
-    ],
-    "cmc": 4,
-    "cost": "{3}{G}",
-    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever a player casts a Goblin spell, you may pay {G}. If you do, you gain 2 life.",
-    "power": "2",
-    "toughness": "4",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Lorwyn",
-        "set_id": "LRW",
-        "rarity": "common",
-        "artist": "Steven Belledin",
-        "multiverse_id": 139410,
-        "flavor": "\"If you want to test wisdom, offer it to fools and watch how they tear it up.\"",
-        "number": "198",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139410",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139410.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
-        "store_url": "http://store.tcgplayer.com/magic/lorwyn/bog-strider-ash?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/139410"
-      }
-    ]
-  },
-  {
-    "name": "Bog Tatters",
-    "id": "bog-tatters",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-tatters",
-    "store_url": "http://store.tcgplayer.com/magic/zendikar/bog-tatters?partner=DECKBREW",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "wraith"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 5,
-    "cost": "{4}{B}",
-    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
-    "power": "4",
-    "toughness": "2",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Zendikar",
-        "set_id": "ZEN",
-        "rarity": "common",
-        "artist": "Daarken",
-        "multiverse_id": 177500,
-        "flavor": "A wraith is a tale of brutal slaying told anew whenever it finds a victim.",
-        "number": "84",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=177500",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/177500.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
-        "store_url": "http://store.tcgplayer.com/magic/zendikar/bog-tatters?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/177500"
-      }
-    ]
-  },
-  {
-    "name": "Bog Witch",
-    "id": "bog-witch",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-witch",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bog-witch",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "human",
-      "spellshaper"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 3,
-    "cost": "{2}{B}",
-    "text": "{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.",
-    "power": "1",
-    "toughness": "1",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Mercadian Masques",
-        "set_id": "MMQ",
-        "rarity": "common",
-        "artist": "Gao Yan",
-        "multiverse_id": 19578,
-        "flavor": "The world is the body. The mana is the blood. The witch is the surgeon.",
-        "number": "118",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=19578",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/19578.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
-        "store_url": "http://store.tcgplayer.com/magic/mercadian-masques/bog-witch?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/19578"
-      },
-      {
-        "set": "Archenemy",
-        "set_id": "ARC",
-        "rarity": "common",
-        "artist": "Gao Yan",
-        "multiverse_id": 220556,
-        "flavor": "The world is the body. The mana is the blood. The witch is the surgeon.",
-        "number": "11",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220556",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220556.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
-        "store_url": "http://store.tcgplayer.com/magic/archenemy/bog-witch?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/220556"
-      }
-    ]
-  },
-  {
-    "name": "Bog Wraith",
-    "id": "bog-wraith",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-wraith",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bog-wraith",
-    "types": [
-      "creature"
-    ],
-    "subtypes": [
-      "wraith"
-    ],
-    "colors": [
-      "black"
-    ],
-    "cmc": 4,
-    "cost": "{3}{B}",
-    "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
-    "power": "3",
-    "toughness": "3",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Rivals Quick Start Set",
-        "set_id": "RQS",
-        "rarity": "special",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 0,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/RQS",
-        "store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Ninth Edition",
-        "set_id": "9ED",
-        "rarity": "uncommon",
-        "artist": "Ted Naifeh",
-        "multiverse_id": 83011,
-        "flavor": "The bodies of its victims are the only tracks it leaves.",
-        "number": "117",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=83011",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/83011.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/9ED",
-        "store_url": "http://store.tcgplayer.com/magic/9th-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/83011"
-      },
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 14589,
-        "flavor": "It moved through the troops leaving no footprints, save on their souls.",
-        "number": "118",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14589",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14589.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/14589"
-      },
-      {
-        "set": "Fourth Edition",
-        "set_id": "4ED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 2091,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2091",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2091.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
-        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/2091"
-      },
-      {
-        "set": "Introductory Two-Player Set",
-        "set_id": "ITP",
-        "rarity": "special",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 0,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ITP",
-        "store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Fifth Edition",
-        "set_id": "5ED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 3830,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave;\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3830",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3830.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
-        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/3830"
-      },
-      {
-        "set": "International Collector's Edition",
-        "set_id": "CEI",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 0,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CEI",
-        "store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "uncommon",
-        "artist": "Dave Dorman",
-        "multiverse_id": 11181,
-        "flavor": "The bodies of its victims are the only tracks it leaves.",
-        "number": "123",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=11181",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/11181.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/11181"
-      },
-      {
-        "set": "Portal",
-        "set_id": "POR",
-        "rarity": "uncommon",
-        "artist": "Ted Naifeh",
-        "multiverse_id": 4211,
-        "flavor": "It moved through the troops leaving no footprints, save on their souls.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4211",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4211.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/POR",
-        "store_url": "http://store.tcgplayer.com/magic/portal/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4211"
-      },
-      {
-        "set": "Unlimited Edition",
-        "set_id": "2ED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 648,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=648",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/648.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/2ED",
-        "store_url": "http://store.tcgplayer.com/magic/unlimited-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/648"
-      },
-      {
-        "set": "Revised Edition",
-        "set_id": "3ED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 1146,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1146",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1146.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/3ED",
-        "store_url": "http://store.tcgplayer.com/magic/revised-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/1146"
-      },
-      {
-        "set": "Magic 2010",
-        "set_id": "M10",
-        "rarity": "uncommon",
-        "artist": "Daarken",
-        "multiverse_id": 190165,
-        "flavor": "She died in this swamp, and so will you.",
-        "number": "86",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=190165",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/190165.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/M10",
-        "store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/190165"
-      },
-      {
-        "set": "Limited Edition Alpha",
-        "set_id": "LEA",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 51,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=51",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/51.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEA",
-        "store_url": "http://store.tcgplayer.com/magic/alpha-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/51"
-      },
-      {
-        "set": "Collector's Edition",
-        "set_id": "CED",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 0,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/CED",
-        "store_url": "http://store.tcgplayer.com/magic/collectors-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/0"
-      },
-      {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
-        "rarity": "uncommon",
-        "artist": "Dave Dorman",
-        "multiverse_id": 45308,
-        "flavor": "The bodies of its victims are the only tracks it leaves.",
-        "number": "120",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45308",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45308.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45308"
-      },
-      {
-        "set": "Limited Edition Beta",
-        "set_id": "LEB",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 346,
-        "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=346",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/346.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-        "store_url": "http://store.tcgplayer.com/magic/beta-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/346"
-      },
-      {
-        "set": "Starter 1999",
-        "set_id": "S99",
-        "rarity": "uncommon",
-        "artist": "Jeff A. Menges",
-        "multiverse_id": 20374,
-        "flavor": "It moved through the troops leaving no footprints, save on their souls.",
-        "number": "67",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=20374",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/20374.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/S99",
-        "store_url": "http://store.tcgplayer.com/magic/starter-1999/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/20374"
-      },
-      {
-        "set": "Tenth Edition",
-        "set_id": "10E",
-        "rarity": "uncommon",
-        "artist": "Daarken",
-        "multiverse_id": 129491,
-        "flavor": "Knowing Takenuma Swamp to be dangerous, Hisata set wards to warn him of predators. He never imagined that his murderer would pass through them unhindered.",
-        "number": "130",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=129491",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/129491.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
-        "store_url": "http://store.tcgplayer.com/magic/10th-edition/bog-wraith?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/129491"
-      }
-    ]
-  },
-  {
-    "name": "Bog Wreckage",
-    "id": "bog-wreckage",
-    "url": "https://api.deckbrew.com/mtg/cards/bog-wreckage",
-    "store_url": "http://store.tcgplayer.com/magic/odyssey/bog-wreckage?partner=DECKBREW",
-    "types": [
-      "land"
-    ],
-    "cmc": 0,
-    "cost": "",
-    "text": "Bog Wreckage enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Odyssey",
-        "set_id": "ODY",
-        "rarity": "common",
-        "artist": "Brian Snõddy",
-        "multiverse_id": 31763,
-        "number": "314",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=31763",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/31763.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-        "store_url": "http://store.tcgplayer.com/magic/odyssey/bog-wreckage?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/31763"
-      }
-    ]
-  },
-  {
-    "name": "Boil",
-    "id": "boil",
-    "url": "https://api.deckbrew.com/mtg/cards/boil",
-    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boil",
-    "types": [
-      "instant"
-    ],
-    "colors": [
-      "red"
-    ],
-    "cmc": 4,
-    "cost": "{3}{R}",
-    "text": "Destroy all Islands.",
-    "formats": {
-      "commander": "legal",
-      "legacy": "legal",
-      "modern": "legal",
-      "vintage": "legal"
-    },
-    "editions": [
-      {
-        "set": "Classic Sixth Edition",
-        "set_id": "6ED",
-        "rarity": "uncommon",
-        "artist": "Jason Alexander Behnke",
-        "multiverse_id": 14630,
-        "flavor": "\"The fishers will throw out their nets and draw them back filled with dust.\"\n—Oracle en-Vec",
-        "number": "169",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=14630",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/14630.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
-        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/boil?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/14630"
-      },
-      {
-        "set": "Tempest",
-        "set_id": "TMP",
-        "rarity": "uncommon",
-        "artist": "Jason Alexander Behnke",
-        "multiverse_id": 4805,
-        "flavor": "\"The fishers will throw out their nets and draw them back filled with dust.\"\n—Oracle en-Vec",
-        "number": "",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4805",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4805.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
-        "store_url": "http://store.tcgplayer.com/magic/tempest/boil?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/4805"
-      },
-      {
-        "set": "Seventh Edition",
-        "set_id": "7ED",
-        "rarity": "uncommon",
-        "artist": "Christopher Moeller",
-        "multiverse_id": 25675,
-        "flavor": "\"It is a slaughter, the death of a sea. Never speak of it again.\"\n—The Lord of Atlantis",
-        "number": "177",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=25675",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/25675.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/7ED",
-        "store_url": "http://store.tcgplayer.com/magic/7th-edition/boil?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/25675"
-      },
-      {
-        "set": "Eighth Edition",
-        "set_id": "8ED",
-        "rarity": "uncommon",
-        "artist": "Jason Alexander Behnke",
-        "multiverse_id": 45373,
-        "flavor": "\"When every reef is bared and every wave is dust—only then shall I rest.\"",
-        "number": "180",
-        "layout": "normal",
-        "price": {
-          "low": 0,
-          "median": 0,
-          "high": 0
-        },
-        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=45373",
-        "image_url": "https://image.deckbrew.com/mtg/multiverseid/45373.jpg",
-        "set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-        "store_url": "http://store.tcgplayer.com/magic/8th-edition/boil?partner=DECKBREW",
-        "html_url": "https://deckbrew.com/mtg/cards/45373"
       }
     ]
   }
